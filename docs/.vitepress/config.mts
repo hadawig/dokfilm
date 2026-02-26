@@ -9,7 +9,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Konzept', link: '/konzept' },
       { text: 'Cast', link: '/cast' },
-      { text: 'Hintergrund', link: '/recherche/schredder-affaere' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
     sidebar: [
@@ -25,6 +24,8 @@ export default defineConfig({
         text: 'Recherche-Hintergrundwissen',
         items: [
           { text: 'Die Schredder-Affäre', link: '/recherche/schredder-affaere' },
+          { text: 'Eurofighter-Affäre', link: '/recherche/eurofighter' },
+          { text: 'Das Ibiza-Video', link: '/recherche/ibiza-video' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
       },
