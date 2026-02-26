@@ -9,6 +9,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Konzept', link: '/konzept' },
       { text: 'Cast', link: '/cast' },
+      { text: 'Hintergrund', link: '/recherche/schredder-affaere' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
     sidebar: [
@@ -21,8 +22,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Recherche-Fokus',
+        text: 'Recherche-Hintergrundwissen',
         items: [
+          { text: 'Die Schredder-Affäre', link: '/recherche/schredder-affaere' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
       },
