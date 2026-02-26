@@ -3,7 +3,7 @@
 Für unsere Mockumentary konnten wir zwei der intensivsten Schauspieler des deutschsprachigen Kinos (fiktiv) gewinnen. Ihre Aufgabe: Die moralischen Grauzonen der Geschichte mit Leben zu füllen.
 
 ## August Diehl als *Helmut Horten*
-August Diehl verkörpert den jungen Helmut Horten mit einer beunruhigenden Präzision. 
+August Diehl verkörpert den jungen Helmut Horten mit einer beunruhigenden Präzision.
 
 - **Die Rolle:** Ein Mann, der keine Gefühle zeigt, außer wenn er Bilanzen liest. Er sieht die Arisierung nicht als Verbrechen, sondern als logistische Herausforderung.
 - **Zitat vom Set:** *"Horten ist kein Bösewicht im klassischen Sinne. Er ist ein Vakuum, das alles Geld der Welt ansaugt."*
