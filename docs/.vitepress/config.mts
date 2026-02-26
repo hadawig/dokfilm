@@ -7,19 +7,36 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Konzept', link: '/konzept' },
+      { text: 'Cast', link: '/cast' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
     sidebar: [
       {
-        text: 'Projekt-Phasen',
+        text: 'Das Projekt',
         items: [
           { text: 'Idee & Konzept', link: '/konzept' },
-          { text: 'Logbuch', link: '/logbuch/' },
+          { text: 'Die Besetzung (Cast)', link: '/cast' },
+          { text: 'Geheime Medien', link: '/medien' },
+        ]
+      },
+      {
+        text: 'Recherche-Fokus',
+        items: [
+          { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
+        ]
+      },
+      {
+        text: 'Logbuch',
+        items: [
+          { text: 'Alle Einträge', link: '/logbuch/' },
+          { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
+          { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
         ]
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dein-nutzername/dokfilm' }
+      { icon: 'github', link: 'https://github.com/hadawig/dokfilm' }
     ]
   }
 })
