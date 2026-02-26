@@ -18,3 +18,4 @@ Nach heldenhaftem Kampf mit Tokens und Workflow-Berechtigungen haben wir den Sie
 
 Hürde 1: Check. Kamera 1: Steht noch im Schrank. Kaffee: Leer.
 - [27. Februar 2026: Drehbuch-Update - Szene 22: Die Emoji-Lektion](/logbuch/szene-emoji-lektion)
+- [27. Februar 2026: Drehbuch-Update - Szene 31: Die Kunst der Gefälligkeit](/logbuch/szene-mazenatentum)

@@ -37,6 +37,8 @@ export default defineConfig({
           { text: 'Alle Einträge', link: '/logbuch/' },
           { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
           { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
+          { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
+          { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
         ]
       }
     ],
