@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/dokfilm/',
   title: "Dokfilm Projekt",
   description: "Dokumentation der Entstehung meiner Mockumentary",
   themeConfig: {
