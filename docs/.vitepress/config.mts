@@ -26,6 +26,8 @@ export default defineConfig({
           { text: 'Die Schredder-Affäre', link: '/recherche/schredder-affaere' },
           { text: 'Eurofighter-Affäre', link: '/recherche/eurofighter' },
           { text: 'Das Ibiza-Video', link: '/recherche/ibiza-video' },
+          { text: 'Die Inseraten-Affäre', link: '/recherche/inseraten-affaere' },
+          { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
       },
