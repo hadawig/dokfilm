@@ -1,1 +1,23 @@
-# Projekt-Update: Das Horten-Mysterium\n\nHeute haben wir einen großen Schritt in der Stoffentwicklung gemacht. Das Thema unserer Mockumentary steht fest: **"Das Horten-Mysterium: Eine fabelhafte Fiktion von Macht, Geld und Perlen"**.\n\n## Die Vision\nWir beleuchten die schillernde und zugleich düstere Biografie von Heidi Goëss-Horten und den geschäftlichen Aufstieg von Helmut Horten. Dabei bewegen wir uns auf dem schmalen Grat zwischen historischer Anlehnung und satirischer Überzeichnung.\n\n## Traumbesetzung\nFür die Schlüsselszene der 'Marktbereinigung' (Teil 2) haben wir eine absolute Traumbesetzung im Kopf:\n- **August Diehl** als Helmut Horten (mit dieser kühlen, präzisen Intensität).\n- **Oliver Masucci** als Bankier Schreck (laut, hessisch, gierig).\n\n## Szenen-Einblick\nIn einer ersten Dialog-Skizze trifft Hortens rheinische Kälte auf Schrecks hessische Hemmungslosigkeit. Es geht um 'Marktbereinigung' – ein Begriff, der in diesem Kontext eine schaurige Doppeldeutigkeit bekommt.\n\n> *"Es geht nicht darum, was sie bekommen. Das ist sentimental. Es geht um die Zukunft des deutschen Einzelhandels."* – fiktiver Helmut Horten\n\nDie Arbeit am Drehbuch geht weiter. Bleibt dran!
+# Projekt-Update: Das Horten-Mysterium
+
+Heute haben wir einen großen Schritt in der Stoffentwicklung gemacht. Das Thema unserer Mockumentary steht fest: **"Das Horten-Mysterium: Eine fabelhafte Fiktion von Macht, Geld und Perlen"**.
+
+## Die Vision
+Wir beleuchten die schillernde und zugleich düstere Biografie von Heidi Goëss-Horten und den geschäftlichen Aufstieg von Helmut Horten. Dabei bewegen wir uns auf dem schmalen Grat zwischen historischer Anlehnung und satirischer Überzeichnung.
+
+## Traumbesetzung
+Für die Schlüsselszene der 'Marktbereinigung' (Teil 2) haben wir eine absolute Traumbesetzung im Kopf:
+- **August Diehl** als Helmut Horten (mit dieser kühlen, präzisen Intensität).
+- **Oliver Masucci** als Bankier Schreck (laut, hessisch, gierig).
+
+## Szenen-Einblick
+In einer ersten Dialog-Skizze trifft Hortens rheinische Kälte auf Schrecks hessische Hemmungslosigkeit. Es geht um 'Marktbereinigung' – ein Begriff, der in diesem Kontext eine schaurige Doppeldeutigkeit bekommt.
+
+> *"Es geht nicht darum, was sie bekommen. Das ist sentimental. Es geht um die Zukunft des deutschen Einzelhandels."* – fiktiver Helmut Horten
+
+Die Arbeit am Drehbuch geht weiter. Bleibt dran!
+
+---
+
+- [26. Februar 2026: Der Tag des Git-Push-Monsters](/logbuch/index)
+- [26. Februar 2026: Exklusiv-Interview mit Dr. von Zitzewitz](/logbuch/interview-zitzewitz)
