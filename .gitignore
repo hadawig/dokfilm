@@ -1,0 +1,7 @@
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+.temp/
+.DS_Store
+.env
+\nGemini-CLI-Push-token.txt
