@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
           { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
           { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
+          { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
         ]
       }
     ],
