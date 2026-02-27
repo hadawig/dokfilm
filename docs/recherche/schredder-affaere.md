@@ -11,7 +11,7 @@ Für die Mockumentary ziehen wir Parallelen zwischen der 'Marktbereinigung' Helm
 ### Fakten-Check & Links:
 - **Der Ablauf:** Eine konspirative Aktion, die laut ÖVP nur dem "Schutz sensibler Daten" diente, von Kritikern jedoch als Vernichtung von Beweismitteln zur Ibiza-Affäre gewertet wurde.
 - **Wikipedia-Artikel:** [Chronik der Schredder-Affäre](https://de.wikipedia.org/wiki/Schredder-Aff%C3%A4re)
-- **Hintergrundbericht (Kontrast.at):** [Festplatten-Vernichtung im Detail](https://kontrast.at/schredder-affaere-oevp-festplatten-reisswolf/)
+- **Hintergrundbericht (Kontrast.at):** [Festplatten-Vernichtung im Detail](https://kontrast.at/schredder-affaere-oevp-festplatten/)
 
 ### Video-Material:
 In der Mockumentary planen wir, die Szenen der Festplatten-Vernichtung satirisch nachzustellen. Hier ist das Original-Thema in den Medien:
