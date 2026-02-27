@@ -4,6 +4,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
 
+- [Update: Differenzanalyse – Gutachten Hoeres vs. Projekt-Recherche](./2026-02-27-differenzanalyse-gutachten)
 - [Neuer Recherche-Eintrag: Korruption von FPÖ und ÖVP](./2026-02-27-korruption-recherche-added)
 - [Pressemitteilung: Das Horten-Mysterium geht live!](./pressemitteilung)
 - [Drehbuch-Update: Szene 42 - Die Ästhetik der Kleinigkeit](./szene-aesthetik-der-kleinigkeit)
