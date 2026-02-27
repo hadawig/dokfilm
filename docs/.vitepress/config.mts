@@ -54,8 +54,8 @@ export default defineConfig({
           {
             text: 'Logbuch Einträge',
             items: [
-              { text: '27. Februar 2026: Korruption Recherche hinzugefügt', link: '/logbuch/2026-02-27-korruption-recherche-added' },
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '27. Februar 2026: Korruption Recherche hinzugefügt', link: '/logbuch/2026-02-27-korruption-recherche-added' },
               { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
               { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
               { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
