@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Konzept', link: '/konzept' },
+      { text: 'Plakat', link: '/poster' },
       { text: 'Über mich', link: '/ueber-mich' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
