@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Konzept', link: '/konzept' },
+      { text: 'Plakat', link: '/plakat' },
       { text: 'Cast', link: '/cast' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
@@ -20,6 +21,7 @@ export default defineConfig({
         text: 'Das Projekt',
         items: [
           { text: 'Idee & Konzept', link: '/konzept' },
+          { text: 'Vorschau-Plakat', link: '/plakat' },
           { text: 'Die Besetzung (Cast)', link: '/cast' },
           { text: 'Geheime Medien', link: '/medien' },
         ]
