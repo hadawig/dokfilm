@@ -51,20 +51,14 @@ export default defineConfig({
       {
         text: 'Logbuch',
         items: [
-          {
-            text: 'Logbuch Einträge',
-            items: [
-              { text: 'Alle Einträge', link: '/logbuch/' },
-              { text: '27. Februar 2026: Korruption Recherche hinzugefügt', link: '/logbuch/2026-02-27-korruption-recherche-added' },
-              { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
-              { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
-              { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
-              { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
-              { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
-              { text: 'Szene 42: Ästhetik der Kleinigkeit', link: '/logbuch/szene-aesthetik-der-kleinigkeit' },
-              { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
-            ]
-          }
+          { text: 'Alle Einträge', link: '/logbuch/' },
+          { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
+          { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
+          { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
+          { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
+          { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
+          { text: 'Szene 42: Ästhetik der Kleinigkeit', link: '/logbuch/szene-aesthetik-der-kleinigkeit' },
+          { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
         ]
       }
     ],
