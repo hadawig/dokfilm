@@ -14,9 +14,9 @@ Genau wie der französische Maler Georges Seurat in der Kunst des **Pointillismu
 - **Die Methode:** Anstatt eine Festplatte einfach zu löschen, wird sie in tausende winzige physische Partikel geschreddert. Die Information ist nicht mehr als Ganzes vorhanden, nur noch als unlesbares „Rauschen“.
 - **Die satirische Parallele:** Die Zerstörung von Daten folgt demselben Prinzip wie die Stückelung von Spenden: Was in seine Einzelteile zerlegt ist, verliert seine Beweiskraft und seine Geschichte.
 
-### 3. Die Arisierung (Historie)
-- **Die Methode (in unserer fiktiven Darstellung):** Helmut Horten übernimmt nicht „ein Imperium“, sondern führt unzählige „individuelle Geschäftsverhandlungen“ durch. Jede einzelne Transaktion wird als nüchterner, bürokratischer Akt dargestellt, der die moralische Gesamtdimension verschleiert.
-- **Die satirische Darstellung:** August Diehl als Horten argumentiert, er würde nur „wirtschaftliche Lücken füllen“ und „marktgerechte Preise“ für Einzelobjekte zahlen. Das Gesamtbild – die systematische Enteignung – wird ausgeblendet.
+### 3. Die Arisierung & Rüstung (Historie)
+- **Die Methode:** Helmut Horten übernimmt nicht nur Warenhäuser ("Arisierung"), sondern investiert gleichzeitig in die Rüstungsindustrie (Flugzeugwerk Johannisthal). Jede einzelne Beteiligung wird als isolierter Geschäftsschritt präsentiert.
+- **Die satirische Darstellung:** In der Mockumentary argumentiert Horten, er habe durch die Rüstungsproduktion nur „die Mobilität der Zukunft mitgestaltet“ – während die systematische Ausbeutung von Zwangsarbeitern als notwendiges „Detail im Getriebe“ untergeht.
 
 ## Fazit
 Der "Pointillismus des Kapitals" ist die Kunst, durch **Zerteilung** und **Wiederholung** die Spuren großer Taten zu verwischen. Er ist die Ästhetik der Verschleierung – ein Leitmotiv, das die historische Gier mit der modernen politischen Vertuschung auf zynische, aber elegante Weise verbindet.

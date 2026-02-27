@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
           { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },
           { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
+          { text: 'Horten: Rüstung & Zwangsarbeit', link: '/recherche/helmut-horten-ruestung-zwangsarbeit' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
       },
@@ -52,6 +53,7 @@ export default defineConfig({
         text: 'Logbuch',
         items: [
           { text: 'Alle Einträge', link: '/logbuch/' },
+          { text: 'Log: Johannisthal-Update', link: '/logbuch/2026-02-27-johannisthal-update' },
           { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
           { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
           { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
