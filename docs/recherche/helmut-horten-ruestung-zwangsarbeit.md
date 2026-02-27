@@ -1,5 +1,5 @@
 ---
-title: Helmut Horten – Rüstungsprofite und Zwangsarbeit (Johannisthal)
+title: "Helmut Horten – Rüstungsprofite und Zwangsarbeit (Johannisthal)"
 description: Eine Untersuchung der Beteiligung Helmut Hortens an der Rüstungsindustrie im Dritten Reich und der Einsatz von Zwangsarbeitern in der Flugzeugwerk Johannisthal GmbH.
 ---
 
