@@ -20,3 +20,4 @@ Heute markiert den offiziellen Startschuss für die Dokumentation unserer Mockum
 Nach heldenhaftem Kampf mit Tokens und Workflow-Berechtigungen haben wir den Sieg davongetragen: Die Website ist online! 
 
 Hürde 1: Check. Kamera 1: Steht noch im Schrank. Kaffee: Leer.
+- [27. Februar 2026: OFFIZIELLE PRESSEMITTEILUNG: Das Horten-Mysterium geht live!](./pressemitteilung)
