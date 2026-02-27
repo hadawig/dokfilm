@@ -19,5 +19,5 @@ Die Arbeit am Drehbuch geht weiter. Bleibt dran!
 
 ---
 
-- [26. Februar 2026: Der Tag des Git-Push-Monsters](/logbuch/index)
-- [26. Februar 2026: Exklusiv-Interview mit Dr. von Zitzewitz](/logbuch/interview-zitzewitz)
+- [Zurück zum Logbuch-Index](./index)
+- [Exklusiv-Interview mit Dr. von Zitzewitz](./interview-zitzewitz)
