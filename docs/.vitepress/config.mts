@@ -47,6 +47,7 @@ export default defineConfig({
           { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
           { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
           { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
+          { text: 'Szene 42: Ästhetik der Kleinigkeit', link: '/logbuch/szene-aesthetik-der-kleinigkeit' },
           { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
         ]
       }
