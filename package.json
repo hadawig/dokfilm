@@ -1,17 +1,17 @@
 {
   "name": "dokfilm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Dokumentation der Entstehung meiner Mockumentary",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs --outDir ../dist",
+    "docs:build": "vitepress build docs --outDir dist",
     "docs:preview": "vitepress preview docs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.0.0"
   }
 }
