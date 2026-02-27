@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Das Ibiza-Video', link: '/recherche/ibiza-video' },
           { text: 'Die Inseraten-Affäre', link: '/recherche/inseraten-affaere' },
           { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
+          { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },
           { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
