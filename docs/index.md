@@ -14,7 +14,7 @@ hero:
       link: /konzept
     - theme: alt
       text: Der Entwurf des Drehbuches
-      link: /drehbuch/teil-1-die-schillernde-witwe
+      link: /drehbuch/
 
 features:
   - title: Authentisch
