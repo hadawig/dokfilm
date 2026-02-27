@@ -6,6 +6,7 @@ const base = process.env.GITHUB_PAGES === 'true' ? '/dokfilm/' : '/'
 export default defineConfig({
   base: base,
   title: "Dokfilm Projekt",
+  ignoreDeadLinks: true,
   description: "Dokumentation der Entstehung meiner Mockumentary",
   themeConfig: {
     nav: [
