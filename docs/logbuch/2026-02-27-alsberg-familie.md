@@ -1,5 +1,5 @@
 ---
-title: Rechercheeintrag: Das tragische Schicksal der Familie Alsberg – Die menschlichen Kosten der "Arisierung" und die Rolle Helmut Hortens
+title: "Rechercheeintrag: Das tragische Schicksal der Familie Alsberg – Die menschlichen Kosten der \"Arisierung\" und die Rolle Helmut Hortens"
 description: Eine tiefgehende Recherche über die jüdische Unternehmerfamilie Alsberg, ihre Kaufhäuser, die brutale "Arisierung" durch die Nationalsozialisten und das individuelle Leid ihrer Mitglieder.
 date: 2026-02-27
 ---
