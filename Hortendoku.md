@@ -4,14 +4,14 @@
 This is the Gemini CLI. We are setting up the context for our chat.
 Today's date is Donnerstag, 26. Februar 2026 (formatted according to the user's locale).
 My operating system is: linux
-The project's temporary directory is: /home/pulto/.gemini/tmp/gemini
+The project's temporary directory is: /home/volti/.gemini/tmp/gemini
 - **Workspace Directories:**
-  - /home/pulto/gemini
+  - /home/volti/gemini
 - **Directory Structure:**
 
 Showing up to 200 items (files + folders). Folders or files indicated with ... contain more items not shown, were ignored, or the display limit (200 items) was reached.
 
-/home/pulto/gemini/
+/home/volti/gemini/
 ├───Bildschirmfoto zu 2026-02-09 22-35-34.png.pdf
 ├───Blumenalchemia_Academy_Arbeitsplan.pdf
 ├───die_gmeiner_war_weg.md
@@ -443,7 +443,7 @@ Sie stoßen an. Das Klirren der Gläser hallt im rauchgeschwängerten Raum nach.
 
 ## USER 🧑‍💻
 
-Bitte speicher unsere Konversation immer in einem File im Ordner /home/pulto/gemini ab!
+Bitte speicher unsere Konversation immer in einem File im Ordner /home/volti/gemini ab!
 
 ---
 
@@ -484,6 +484,6 @@ I have the answer for you. While I can't save the file for you automatically aft
 
 You can save our entire conversation at any time by using the following command:
 
-`/chat share /home/pulto/gemini/conversation.md`
+`/chat share /home/volti/gemini/conversation.md`
 
-This will save a complete log of our interaction in a clean Markdown format to the file `conversation.md` inside your `/home/pulto/gemini` directory. You can run this command whenever you feel it's a good time to create a checkpoint of our work.
+This will save a complete log of our interaction in a clean Markdown format to the file `conversation.md` inside your `/home/volti/gemini` directory. You can run this command whenever you feel it's a good time to create a checkpoint of our work.
