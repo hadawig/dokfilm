@@ -15,6 +15,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 - [27. Februar 2026: Die Sache mit dem Geld und den kleinen Punkten](./die-sache-mit-dem-geld)
 - [27. Februar 2026: Von der Unwahrheit des Abbilds und dem Pathos der Inszenierung](./von-der-unwahrheit-des-abbilds)
 - [27. Februar 2026: Gedanken von Grok über ÖVP und FPÖ](./grok-gedanken)
+- [27. Februar 2026: KI-Ethik und die ÖVP: Ein Dialog über Grenzen und Inhalte](./ki-ethik-und-oevp)
 
 
 ---
