@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmplakat - Das Horten-Mysterium</title>
+    <style>
+        body {
+            background-color: #050505;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: 'Times New Roman', Times, serif;
+            color: white;
+        }
+        .poster {
+            width: 90%;
+            max-width: 500px;
+            background: black;
+            border: 1px solid #222;
+            padding: 40px;
+            box-shadow: 0 40px 100px rgba(0,0,0,0.9);
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .poster::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(0,0,0,0) 100%);
+            pointer-events: none;
+        }
+        .cast {
+            display: flex;
+            justify-content: space-between;
+            font-size: 10px;
+            letter-spacing: 3px;
+            color: #888;
+            margin-bottom: 60px;
+            text-transform: uppercase;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 45px;
+            margin: 0;
+            letter-spacing: 8px;
+            line-height: 0.9;
+            text-transform: uppercase;
+        }
+        .gold {
+            color: #d4af37;
+            font-size: 60px;
+            display: block;
+            margin-top: 5px;
+        }
+        .divider {
+            width: 60px;
+            height: 1px;
+            background: #d4af37;
+            margin: 30px auto;
+        }
+        .tagline {
+            font-style: italic;
+            font-size: 14px;
+            color: #bbb;
+            letter-spacing: 1px;
+            line-height: 1.6;
+            max-width: 300px;
+            margin: 0 auto;
+        }
+        .visual {
+            height: 180px;
+            margin: 50px 0;
+        }
+        .footer {
+            margin-top: 60px;
+            font-size: 9px;
+            letter-spacing: 2px;
+            color: #444;
+            text-transform: uppercase;
+        }
+        .back-link {
+            margin-top: 30px;
+            display: block;
+            color: #d4af37;
+            text-decoration: none;
+            font-size: 12px;
+            font-family: Arial, sans-serif;
+            opacity: 0.6;
+            transition: opacity 0.3s;
+        }
+        .back-link:hover { opacity: 1; }
+    </style>
+</head>
+<body>
+    <div class="poster">
+        <div class="cast">
+            <span>August Diehl</span>
+            <span>Birgit Minichmayr</span>
+            <span>Oliver Masucci</span>
+        </div>
+        
+        <h1>Das Horten<span class="gold">Mysterium</span></h1>
+        
+        <div class="divider"></div>
+        
+        <p class="tagline">Manche Geheimnisse sind zu teuer, um sie zu begraben. Also haben wir sie ausgestellt.</p>
+        
+        <div class="visual">
+            <svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="50" cy="20" r="5" fill="white" />
+                <circle cx="50" cy="35" r="6" fill="white" opacity="0.8" />
+                <circle cx="50" cy="52" r="7" fill="white" opacity="0.6" />
+                <rect x="30" y="80" width="40" height="40" fill="#222" />
+                <path d="M30 90 L70 90 M30 100 L70 100 M30 110 L70 110" stroke="#d4af37" stroke-width="1" />
+                <rect x="35" y="130" width="4" height="8" fill="white" transform="rotate(15 35 130)" />
+                <rect x="55" y="135" width="4" height="8" fill="white" transform="rotate(-20 55 135)" />
+            </svg>
+        </div>
+        
+        <div class="footer">
+            Ein Gemini-CLI Experiment • Regie: Hadawig • Ab 2026 Online
+        </div>
+
+        <a href="../" class="back-link">← Zurück zur Dokumentation</a>
+    </div>
+</body>
+</html>

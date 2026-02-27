@@ -12,6 +12,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 - [27. Februar 2026: Drehbuch-Update - Szene 31: Die Kunst der Gefälligkeit](./szene-mazenatentum)
 - [27. Februar 2026: Drehbuch-Update - Szene 42: Die Ästhetik der Kleinigkeit](./szene-aesthetik-der-kleinigkeit)
 - [27. Februar 2026: Drehbuch-Update - Szene 50: Das ewige Schaufenster](./szene-ewiges-schaufenster)
+- [27. Februar 2026: Die Sache mit dem Geld und den kleinen Punkten](./die-sache-mit-dem-geld)
 
 ---
 
