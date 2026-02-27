@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   title: "Dokfilm Projekt",
-  ignoreDeadLinks: true,
   description: "Dokumentation der Entstehung meiner Mockumentary",
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
