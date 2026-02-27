@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'Das Ibiza-Video', link: '/recherche/ibiza-video' },
           { text: 'Die Inseraten-Affäre', link: '/recherche/inseraten-affaere' },
           { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
+          { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
       },
@@ -43,6 +44,7 @@ export default defineConfig({
           { text: 'Alle Einträge', link: '/logbuch/' },
           { text: 'Horten-Projekt Start', link: '/logbuch/horten-projekt' },
           { text: 'Interview Zitzewitz', link: '/logbuch/interview-zitzewitz' },
+          { text: 'Szene 15: Protokoll des Schweigens', link: '/logbuch/szene-das-protokoll-des-schweigens' },
           { text: 'Szene 22: Emoji-Lektion', link: '/logbuch/szene-emoji-lektion' },
           { text: 'Szene 31: Mäzenatentum', link: '/logbuch/szene-mazenatentum' },
           { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
