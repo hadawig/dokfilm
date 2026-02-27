@@ -8,7 +8,7 @@ August Diehl verkörpert den jungen Helmut Horten mit einer beunruhigenden Präz
 - **Die Rolle:** Ein Mann, der keine Gefühle zeigt, außer wenn er Bilanzen liest. Er sieht die Arisierung nicht als Verbrechen, sondern als logistische Herausforderung.
 - **Zitat vom Set:** *"Horten ist kein Bösewicht im klassischen Sinne. Er ist ein Vakuum, das alles Geld der Welt ansaugt."*
 
-## [Birgit Minichmayr](https://www.imdb.com/name/nm0591331/) als *Heidi Horten*
+## [Birgit Minichmayr](https://www.imdb.com/de/name/nm0591352/) als *Heidi Horten*
 Mit ihrer unverwechselbaren Stimme und ihrer enormen Bühnenpräsenz ist Minichmayr die perfekte Wahl für die schillernde Heidi.
 
 - **Die Rolle:** Die Frau, die das Schweigen ihres Mannes in einen glanzvollen Pointillismus aus Kunst und Spenden verwandelt hat. Sie spielt Heidi als eine Frau, die genau weiß, wie viel der Staat kostet.
