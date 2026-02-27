@@ -20,7 +20,7 @@ export default defineConfig({
         text: 'Das Projekt',
         items: [
           { text: 'Idee & Konzept', link: '/konzept' },
-          { text: 'Vorschau-Plakat', link: '/poster.html' },
+          { text: 'Vorschau-Plakat', link: '/poster' },
           { text: 'Die Besetzung (Cast)', link: '/cast' },
           { text: 'Geheime Medien', link: '/medien' },
         ]
