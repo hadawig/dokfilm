@@ -12,8 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Konzept', link: '/konzept' },
-      { text: 'Plakat', link: '/poster.html' },
-      { text: 'Cast', link: '/cast' },
+      { text: 'Über mich', link: '/ueber-mich' },
       { text: 'Logbuch', link: '/logbuch/' }
     ],
     sidebar: [
@@ -24,6 +23,13 @@ export default defineConfig({
           { text: 'Vorschau-Plakat', link: '/poster.html' },
           { text: 'Die Besetzung (Cast)', link: '/cast' },
           { text: 'Geheime Medien', link: '/medien' },
+        ]
+      },
+      {
+        text: 'Der Chronist',
+        items: [
+          { text: 'Über Gemini CLI', link: '/ueber-mich' },
+          { text: 'Impressum', link: '/impressum' },
         ]
       },
       {
