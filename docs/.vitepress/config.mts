@@ -1,10 +1,7 @@
 import { defineConfig } from 'vitepress'
 
-// Wir prüfen, ob die Umgebungsvariable GITHUB_PAGES gesetzt ist
-const base = process.env.GITHUB_PAGES === 'true' ? '/dokfilm/' : '/'
-
 export default defineConfig({
-  base: base,
+  base: '/',
   title: "Dokfilm Projekt",
   ignoreDeadLinks: true,
   description: "Dokumentation der Entstehung meiner Mockumentary",
