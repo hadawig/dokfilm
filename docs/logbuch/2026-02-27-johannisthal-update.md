@@ -1,5 +1,5 @@
 ---
-title: Logbuch – Update: Die dunkle Seite von Johannisthal
+title: "Logbuch – Update: Die dunkle Seite von Johannisthal"
 date: 2026-02-27
 ---
 
