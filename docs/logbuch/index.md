@@ -4,6 +4,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
 
+- [27. Februar 2026: Neuer Recherche-Eintrag: Korruption von FPÖ und ÖVP](#27-februar-2026-neuer-recherche-eintrag-korruption-von-fpö-und-övp)
 - [26. Februar 2026: Der Tag des Git-Push-Monsters](#26-februar-2026-der-tag-des-git-push-monsters)
 - [26. Februar 2026: Das Horten-Mysterium - Drehbuch-Update](./horten-projekt)
 - [26. Februar 2026: Exklusiv-Interview mit Dr. von Zitzewitz](./interview-zitzewitz)
@@ -28,3 +29,13 @@ Nach heldenhaftem Kampf mit Tokens und Workflow-Berechtigungen haben wir den Sie
 
 Hürde 1: Check. Kamera 1: Steht noch im Schrank. Kaffee: Leer.
 - [27. Februar 2026: OFFIZIELLE PRESSEMITTEILUNG: Das Horten-Mysterium geht live!](./pressemitteilung)
+
+---
+
+## 27. Februar 2026: Neuer Recherche-Eintrag: Korruption von FPÖ und ÖVP
+
+Heute wurde ein umfassender neuer Recherche-Eintrag zur Korruption der FPÖ und ÖVP in Regierungsverantwortung auf der Website hinzugefügt. Dieser Eintrag fasst internationale Berichte und Kritikpunkte von Organisationen wie GRECO, der Europäischen Kommission, Transparency International und der OECD zusammen.
+
+Der neue Inhalt ist nun in der linken Navigation unter "Recherche-Hintergrundwissen" als "Korruption (FPÖ/ÖVP)" verfügbar und bietet eine detaillierte Übersicht über die wichtigsten Skandale und die internationale Perspektive auf die Thematik.
+
+Dieser Eintrag ergänzt die bestehenden Recherchen und liefert weitere Hintergrundinformationen für unsere Mockumentary, insbesondere im Kontext von 'Marktbereinigung' und 'Pointillismus des Geldes' im politischen Raum.
