@@ -52,37 +52,37 @@ Er beginnt einen einsamen Walzer in der Kurzwarenabteilung. Es ist eine bizarre,
 
 ---
 
-## Szene 4: Das Protokoll der „Übernahme“ (NEU)
+## Szene 4: Das Protokoll der „Übernahme“
 **Ort:** Ein stickiges Büro im Duisburger Rathaus.
-**Zeit:** 1938.
+**Zeit:** 23. April 1936.
 
-Helmut sitzt Alfred Alsberg (Oliver Masucci) gegenüber. Auf dem Tisch liegen dicke Aktenstapel. Die Luft ist schwer von Bürokratie und Angst.
+Helmut sitzt den Inhabern Hermann Strauß, Ernst und Curt Lauter (Oliver Masucci in Mehrfachrollen) gegenüber. Auf dem Tisch liegt der Kaufvertrag. Die Luft ist schwer von Bürokratie und der nackten Angst der Verkäufer.
 
-**ALFRED**
+**ALFRED / STRAUSS**
 (mit zittriger Stimme)
-Herr Horten, dieses Unternehmen wurde von meinem Vater aufgebaut. Es ist unser Leben. Der Preis, den Sie bieten... er deckt nicht einmal die Lagerbestände.
+Herr Horten, 672.963 Reichsmark? Das deckt gerade einmal unser Warenlager. Was ist mit dem Firmenwert? Was ist mit dem Namen Alsberg, den mein Vater über Jahrzehnte aufgebaut hat?
 
 **HELMUT**
 (kalt, sachlich)
-Herr Dr. Alsberg, Sie müssen die Dynamik verstehen. Der Markt hat sich geändert. Ihr Name ist... eine Belastung geworden. Ich übernehme diese Belastung für Sie. Das ist ein Akt der... kaufmännischen Vernunft.
+Der Name Alsberg ist heute ein Hindernis, meine Herren. Ich biete Ihnen die Befreiung von diesem Hindernis. Ab dem 1. Mai wird dieses Haus unter meinem Namen firmieren. Das ist die kaufmännische Realität des Jahres 1936.
 
-**ALFRED**
-Es ist Raub, Herr Horten. Nennen Sie es beim Namen.
+**CURT LAUTER**
+Es ist eine Zwangsversteigerung unter dem Deckmantel der Legalität, Herr Horten.
 
 **HELMUT**
-(lehnt sich vor)
-In zehn Jahren wird sich keiner mehr an den Namen erinnern. Aber das Kaufhaus wird noch da sein. Unter meinem Namen. Das ist die Unsterblichkeit, die ich Ihnen biete.
+(lehnt sich vor, blättert im Vertrag)
+Es ist eine Unterschrift, die Ihnen den Weg ins Ausland ebnet. Betrachten Sie die 672.000 Reichsmark als... Ticket in die Freiheit. Unterschreiben Sie hier.
 
 ---
 
-## Szene 5: Die „Arisierung-Gala“ 1938 (NEU)
+## Szene 5: Die „Arisierung-Gala“ 1936
 **Ort:** Ein prunkvoller Festsaal.
-**Zeit:** Der Abend nach der Unterzeichnung der Verträge.
+**Zeit:** Der Abend nach der Unterzeichnung, Mai 1936.
 
-August Diehl brilliert in einer Szene, in der Helmut als „Retter des Einzelhandels“ gefeiert wird. Er trägt Frack. Die Sektkorken knallen.
+August Diehl brilliert in einer Szene, in der Helmut als „Retter des Duisburger Einzelhandels“ gefeiert wird. Er trägt Frack. Die Sektkorken knallen. Im Hintergrund hängt bereits der Entwurf für die erste Zeitungsanzeige.
 
 **ERZÄHLER (Minichmayr, Off-Stimme)**
-Sie feierten die „Marktbereinigung“. Sie feierten das Verschwinden der Nachbarn. Helmut Horten stand in der Mitte. Er wusste: Ein Vermögen, das im Schatten entsteht, leuchtet am hellsten, wenn die Sonne der Macht auf es scheint.
+Sie feierten nicht nur einen Kauf. Sie feierten die „Marktbereinigung“. Helmut Horten stand in der Mitte und ließ die ersten Anzeigen drucken: „Ab heute in arischem Besitz“. Er wusste: Ein Vermögen, das auf dem Unrecht anderer gründet, glänzt am hellsten, wenn man es mit dem Stolz der Nation poliert.
 
 Helmut hebt sein Glas.
 
