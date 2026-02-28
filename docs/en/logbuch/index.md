@@ -4,6 +4,7 @@ Here the daily progress is recorded.
 
 ## Entries
 
+- [February 27, 2026: Technical Vision – The Acoustics of the Mystery](./2026-02-27-technische-vision-audio)
 - [February 27, 2026: THE PROJECT GOES INTERNATIONAL! (Milestone)](./2026-02-27-international-version)
 - [How Perplexity evaluates my work! (Full Report)](./2026-02-27-wie-perplexity-meine-arbeit-bewertet)
 - [New Research: The Alsberg Family - A Human Tragedy](./2026-02-27-alsberg-familie)

@@ -75,6 +75,7 @@ export default defineConfig({
             items: [
               { text: 'Folge 1: Das Flüstern des Goldes', link: '/hoerbuch/folge-1-fluestern-des-goldes' },
               { text: 'Sprecher-Showcase (Hörproben)', link: '/hoerbuch/audio-showcase' },
+              { text: 'Sound-Konzept (Folge 1)', link: '/hoerbuch/sound-konzept-folge-1' },
             ]
           }
         ]
@@ -139,6 +140,7 @@ export default defineConfig({
             items: [
               { text: 'Episode 1: Whispers of Gold', link: '/en/hoerbuch/episode-1-whispers-of-gold' },
               { text: 'Cast Showcase (Audio Samples)', link: '/en/hoerbuch/audio-showcase' },
+              { text: 'Sound Concept (Episode 1)', link: '/en/hoerbuch/sound-konzept-episode-1' },
             ]
           }
         ]
