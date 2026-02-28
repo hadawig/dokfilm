@@ -28,19 +28,26 @@ Der Kaufpreis betrug laut späteren Rückerstattungsakten insgesamt **672.963,65
 ## Historische Einordnung: „Arisierung“ oder „faires Geschäft“?
 
 ### Das Hoeres-Gutachten (2022)
-Ein im Auftrag der Horten-Stiftung erstelltes Gutachten des Historikers **Peter Hoeres** kam zu dem Schluss, dass Horten zwar „kein NS-Ideologe“ gewesen sei, aber zweifellos ein **„Nutznießer der ersten Stunde“**. Hoeres argumentiert, dass die Verkaufsabsichten der Alsbergs bereits feststanden, bevor Horten auftrat. Doch Horten nutzte die Gunst der Stunde (und die rassistische Gesetzgebung), um sich als „arischer“ Nachfolger zu positionieren.
+Ein im Auftrag der Horten-Stiftung erstelltes, umfassendes wissenschaftliches Gutachten des Historikers **Prof. Dr. Peter Hoeres** (Lehrstuhl für Neueste Geschichte, Universität Würzburg) kam im Jahr 2022 zu dem Schluss, dass Horten zwar „kein NS-Ideologe“ gewesen sei, aber zweifellos ein **„opportunistischer Nutznießer“** des Unrechtssystems.
+
+### Offizielle Dokumente & Quellen (PDF-Downloads)
+Für die historische Absicherung unseres Projekts stützen wir uns auf die offiziellen Veröffentlichungen der Helmut Horten Stiftung:
+
+*   📄 **[Vollständiges Gutachten (PDF)](https://www.helmut-horten-stiftung.org/fileadmin/user_upload/Gutachten_Horten_Hoeres_Kutzner.pdf)** – *„Über den Vermögens- und Geschäftsaufbau von Helmut Horten“* (Prof. Dr. Peter Hoeres & Dr. Maximilian Kutzner).
+*   📄 **[Zusammenfassung des Gutachtens (PDF)](https://www.helmut-horten-stiftung.org/fileadmin/user_upload/Zusammenfassung_Gutachten_Horten_Hoeres_Kutzner.pdf)** – Die wichtigsten Thesen auf einen Blick.
+*   🌐 **[Offizielle Website der Helmut Horten Stiftung](https://www.helmut-horten-stiftung.org/)** – Historische Aufarbeitung des Erbes.
 
 ### Die „Arier-Werbung“
-Unmittelbar nach der Übernahme am 1. Mai 1936 schaltete Horten Anzeigen in der Lokalpresse, in denen er betonte, dass das Haus nun in **„arischem Besitz“** sei. Er nutzte die antisemitische Stimmung gezielt aus, um Kunden zu gewinnen, die zuvor jüdische Geschäfte boykottiert hatten.
+Das Gutachten belegt unter anderem, dass Horten unmittelbar nach der Übernahme am 1. Mai 1936 Anzeigen in der Lokalpresse (Duisburger General-Anzeiger) schaltete, in denen er offensiv mit dem **„arischen Besitz“** warb. Er nutzte die durch den NS-Staat geschaffenen Bedingungen der Ausgrenzung gezielt für seinen geschäftlichen Vorteil.
 
 ---
 
 ## Der Verbleib des Originalvertrags
-Historische Dokumente zu diesen Übernahmen sind oft lückenhaft, da viele Akten in den Wirren des Krieges oder gezielt während der Entnazifizierungsphase vernichtet wurden. Die Details des Duisburger Kaufs sind jedoch durch Rückerstattungsverfahren der Nachkriegszeit gut dokumentiert. In diesen Verfahren mussten die Kaufsummen und Bedingungen offengelegt werden.
+Während viele Originaldokumente der 1930er Jahre im Krieg oder bei der Entnazifizierung verloren gingen, sind die Kerndaten des Duisburger Kaufs (Preis: 672.963,65 RM) durch die detaillierte Rekonstruktion im Hoeres-Gutachten sowie durch Rückerstattungsverfahren der Nachkriegszeit historisch beglaubigt.
 
 ### Bedeutung für das Drehbuch (Teil 2 & 3)
-In unserer Mockumentary nutzen wir diesen Vertrag als Symbol für die **„Bürokratie des Unrechts“**. Wir inszenieren die Vertragsunterzeichnung nicht als brutalen Akt, sondern als einen unterkühlten, fast höflichen Geschäftstermin – was das Grauen der Situation (den erzwungenen Verlust der Heimat und Existenz) nur noch deutlicher macht.
+Die im Gutachten beschriebene **„Kühle des Geschäfts“** ist der emotionale Anker unserer Mockumentary. Wir zeigen nicht den brutalen Schläger, sondern den effizienten Buchhalter des Unrechts – eine Darstellung, die durch die wissenschaftliche Forschung von Prof. Hoeres gestützt wird.
 
 ---
 
-*Quelle: Forschungen zum Hoeres-Gutachten, Archivdaten der Helmut-Horten-Stiftung und historische Analysen zur Wirtschaft im Nationalsozialismus.*
+*Quelle: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten (2022), Helmut Horten Stiftung.*
