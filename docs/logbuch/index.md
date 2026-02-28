@@ -4,6 +4,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
 
+- [27. Februar 2026: Neuer Akteur – Walter Rosenkranz übernimmt den Vorsitz](./2026-02-27-rosenkranz-integration)
 - [27. Februar 2026: Neuzugang im Archiv – Die Causa Pilnacek](./2026-02-27-pilnacek-integration)
 - [27. Februar 2026: René Benko und der Fluch der Warenhäuser](./2026-02-27-benko-verbindung)
 - [27. Februar 2026: Erweiterung des Casts – Kurz, Blümel, Brunner & Sobotka](./2026-02-27-moderne-macht-erweiterung)

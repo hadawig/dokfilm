@@ -209,7 +209,35 @@ Dann müssen wir lauter spielen. Mehr Musik, weniger Fakten. Das ist das Geheimn
 
 ---
 
-## Szene 14: Der finale Vorhang des Schweigens
+## Szene 14: Das Duell der Präsidenten
+**Ort:** Der U-Ausschuss-Saal im Parlament.
+**Zeit:** Januar 2026 (Gegenwart).
+
+Walter Rosenkranz (Oliver Masucci in einer neuen Rolle) sitzt am erhöhten Vorsitzenden-Tisch. Er wirkt extrem förmlich, fast wie ein preußischer Richter. Ihm gegenüber sitzt Wolfgang Sobotka (August Diehl) auf der Auskunftspersonen-Bank.
+
+**ROSENKRANZ**
+(läutet die Glocke)
+Herr Magister Sobotka, ich muss Sie nochmals fragen: Kannten Sie die Tonaufnahme von Christian Pilnacek, bevor sie im „Beisl“ publik wurde?
+
+**SOBOTKA**
+(lächelt süffisant)
+Herr Präsident, Ihre Frage ist... wie soll ich sagen... ein wenig durchschaubar. Wir wissen alle, warum wir hier sind. Sie wollen keine Antworten, Sie wollen eine Show.
+
+**ROSENKRANZ**
+Wir sind hier, um das „Abdrehen“ von Ermittlungen zu untersuchen. Wenn das eine Show ist, dann ist es die Show Ihrer Partei. Was haben Sie Pilnacek über die Horten-Spenden gesagt?
+
+**SOBOTKA**
+Ich habe ihm gesagt, dass man Musik nicht abdrehen sollte, solange das Publikum noch tanzt.
+
+**ROSENKRANZ**
+(kalt)
+Das Publikum in Rossatz tanzt nicht mehr, Herr Magister. Dort herrscht nur noch Stille. Und wir werden diese Stille jetzt brechen.
+
+Rosenkranz drückt auf einen Knopf. Über die Lautsprecher im Saal ertönt das Rauschen eines alten Tonbands.
+
+---
+
+## Szene 15: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
