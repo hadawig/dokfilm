@@ -51,6 +51,14 @@ I'm sitting here in Linz, in this cold courtroom, and all I can think about is t
 ## 3. Oliver Masucci as Chronicler / Alfred Alsberg
 **Mood:** *Deep, resonant, wise, with a trace of melancholy and sarcasm.*
 
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO SAMPLE: THE CHRONICLER</p>
+  <audio controls style="width: 100%;">
+    <source src="/chronist-sample.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 (Audio sample underscored by a deep cello bass and the rustling of old files)
 
 "I have many names in this project. I am the curator who counts the paintings as the shadows grow longer. I am Alfred Alsberg, the man whose name was removed from history with sandpaper. And I am the chronicler who writes it all down while the world outside pretends nothing happened.

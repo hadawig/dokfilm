@@ -51,6 +51,14 @@ Ich sitze hier in Linz, in diesem kalten Gerichtssaal, und alles, woran ich denk
 ## 3. Oliver Masucci als Chronist / Alfred Alsberg
 **Stimmung:** *Tief, resonant, weise, mit einer Spur von Melancholie und Sarkasmus.*
 
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO-PROBE: DER CHRONIST</p>
+  <audio controls style="width: 100%;">
+    <source src="/chronist-sample.mp3" type="audio/mpeg">
+    Ihr Browser unterstützt das Audio-Element nicht.
+  </audio>
+</div>
+
 (Hörprobe untermalt von einem tiefen Cello-Bass und dem Rascheln von alten Akten)
 
 „Ich habe viele Namen in diesem Projekt. Ich bin der Kurator, der die Bilder zählt, während die Schatten länger werden. Ich bin Alfred Alsberg, der Mann, dessen Name mit Schmirgelpapier von der Geschichte entfernt wurde. Und ich bin der Chronist, der das alles aufschreibt, während die Welt draußen so tut, als wäre nichts geschehen. 
