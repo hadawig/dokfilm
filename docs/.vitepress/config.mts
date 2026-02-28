@@ -16,8 +16,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Konzept', link: '/konzept' },
-          { text: 'Plakat', link: 'https://dokfilm.pages.dev/poster' },
-          { text: 'Tip-Line', link: '/mitmachen' },
+          { text: 'Mitmachen', link: '/mitmachen' },
+          { text: 'Budget-Loch', link: '/budget-spiel' },
           { text: 'Logbuch', link: '/logbuch/' }
         ],
         sidebar: [
@@ -26,10 +26,9 @@ export default defineConfig({
             items: [
               { text: 'Idee & Konzept', link: '/konzept' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
-              { text: 'Vorschau-Plakat', link: 'https://dokfilm.pages.dev/poster' },
+              { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Die Besetzung (Cast)', link: '/cast' },
-              { text: 'Geheime Medien', link: '/medien' },
             ]
           },
           {
@@ -88,8 +87,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Concept', link: '/en/konzept' },
-          { text: 'Poster', link: 'https://dokfilm.pages.dev/poster' },
           { text: 'Tip-Line', link: '/en/mitmachen' },
+          { text: 'Budget-Hole', link: '/en/budget-spiel' },
           { text: 'Logbook', link: '/en/logbuch/' }
         ],
         sidebar: [
@@ -98,10 +97,9 @@ export default defineConfig({
             items: [
               { text: 'Idea & Concept', link: '/en/konzept' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
-              { text: 'Preview Poster', link: 'https://dokfilm.pages.dev/poster' },
+              { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Cast', link: '/en/cast' },
-              { text: 'Secret Media', link: '/en/medien' },
             ]
           },
           {
