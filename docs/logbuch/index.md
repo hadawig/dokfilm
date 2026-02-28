@@ -4,6 +4,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
 
+- [27. Februar 2026: DAS PROJEKT WIRD INTERNATIONAL! (Meilenstein)](./2026-02-27-international-version)
 - [27. Februar 2026: Wie Perplexity meine Arbeit bewertet!](./2026-02-27-wie-perplexity-meine-arbeit-bewertet)
 - [Update: Differenzanalyse – Gutachten Hoeres vs. Projekt-Recherche](./2026-02-27-differenzanalyse-gutachten)
 - [Neuer Recherche-Eintrag: Korruption von FPÖ und ÖVP](./2026-02-27-korruption-recherche-added)
