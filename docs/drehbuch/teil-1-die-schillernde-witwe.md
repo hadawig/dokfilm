@@ -1,67 +1,140 @@
-# TEIL 1 – DIE SCHILLERNDE WITWE
+# Teil 1: Die schillernde Witwe
 
-**EXT. WIENER BELVEDERE – TAG (ARCHIVMATERIAL/DROHNENAUFNAHMEN)**
+**Arbeitstitel:** *Vom Glanz der Stille*
 
-Elegante Drohnenaufnahmen schweben über das barocke Belvedere, schwenken auf die modernen Anbauten der Heidi Horten Collection. Ein Schnitt auf historische Schwarz-Weiß-Aufnahmen von Wiener Kaufhäusern der 1930er Jahre.
+**Besetzung:** Birgit Minichmayr (Heidi Horten), August Diehl (Der junge Helmut - in Rückblenden), Oliver Masucci (Der Kurator/Chronist).
 
-**NARRATOR (V.O., leicht zynisch, nachdenklich)**
-Wien. Eine Stadt, gebaut auf Geschichte. Und Geschichten. Manche schillernd, manche dunkel. Und manchmal, da verschwimmen die Farben, bis man nicht mehr weiß, was echt ist und was nur… gut aussehen soll.
+---
 
-**INT. HEIDI HORTEN COLLECTION – TAG (MODERN, LICHTDURCHFLUTET)**
+## Szene 1: Das Archiv des Lächelns
+**Ort:** Ein hochmodernes, klimatisiertes Depot in der Nähe von Klagenfurt. 
+**Zeit:** Gegenwart.
 
-Kamera gleitet über exquisite Kunstwerke: Picassos, Basquiats, Warhols. Perfekt ausgeleuchtet. Besucher, elegant gekleidet, flanieren bewundernd. Fokus auf einer älteren, makellosen Frau in Chanel – HEIDI HORTEN (80er), wie sie lächelnd ein Mikrofon entgegennimmt.
+Überall stehen weiße Handschuhe auf polierten Tischen. Die Kamera gleitet über endlose Reihen von Schmuckschatullen. Heidi (Birgit Minichmayr) tritt ins Bild. Sie trägt ein schlichtes, aber unbezahlbares Seidenkleid. Sie öffnet eine Schatulle nach der anderen.
 
-**HEIDI HORTEN**
-(leise, charmant, Wiener Akzent)
-Kunst war immer meine Leidenschaft. Sie bereichert das Leben. Und sie… verbindet.
+**HEIDI**
+(leise, fast zärtlich)
+Das ist nicht nur Schmuck. Das sind konservierte Momente. Helmut sagte immer: „Heidi, Gold weint nicht.“ Er hatte recht. Es glänzt einfach weiter, egal was draußen passiert.
 
-**NARRATOR (V.O.)**
-Verbindet. Ein schönes Wort. Besonders, wenn man bedenkt, wie die Fundamente dieses Reichtums einst verbunden wurden. Mit dem, was man heute… nennen würde: Marktbereinigung.
+Sie nimmt ein Collier heraus, die Perlen schimmern im künstlichen Licht.
 
-**INT. STUDIO – INTERVIEW – TAG (MODERN, MINIMALISTISCH)**
+**HEIDI (Forts.)**
+Sehen Sie diese Perle? Sie ist ein Punkt. Ein kleiner, weißer Punkt in einer unendlichen Bilanz. Wenn man genug davon hat, sieht man das Bild nicht mehr. Man sieht nur noch das Licht. Das ist mein Pointillismus.
 
-DR. ANNA BREUER (50er, Historikerin, scharfzüngig), sitzt vor einem neutralen Hintergrund.
+---
 
-**DR. BREUER**
-Helmut Horten, der Ehemann der Witwe, war ein Pionier. Nicht nur im Einzelhandel. Auch in der Kunst der Aneignung. Das System der Arisierung bot ihm… einzigartige Möglichkeiten.
+## Szene 2: Der Perlen-Inventur-Tango (NEU)
+**Ort:** Der große Spiegelsaal im Palais.
+**Zeit:** Eine schlaflose Nacht.
 
-**ARCHIVMATERIAL (SCHWARZ-WEISS)**
+Heidi breitet tausende Perlen auf einem riesigen schwarzen Samttuch aus. Sie beginnt, sie mit einer silbernen Pinzette zu sortieren. Der Rhythmus ihrer Bewegungen wird fast tänzerisch. Im Hintergrund läuft leise eine verzerrte Version eines Walzers.
 
-Schnelle Schnitte: Historische Zeitungsartikel über Arisierung. Bilder von jüdischen Geschäften, die "übernommen" werden. Ein junger HELMUT HORTEN (20er/30er), selbstbewusst, in einem Anzug, in den 1930er Jahren. Er lächelt.
+**HEIDI**
+(zu einer imaginären Person)
+Eins für die Stiftung. Eins für die Kunst. Drei für das Schweigen. Und eins... für die Ewigkeit. 
 
-**NARRATOR (V.O.)**
-Ein junger Mann, der zur richtigen Zeit am richtigen Ort war. Oder am falschen Ort – je nachdem, auf welcher Seite des Ladentisches man stand. Er kaufte. Was andere verloren. Und legte damit den Grundstein für ein Imperium. Und für eine Sammlung, die heute… unbezahlbar ist.
+Der Kurator (Oliver Masucci) beobachtet sie aus dem Schatten.
 
-**INT. HEIDI HORTEN COLLECTION – GANG – TAG**
+**KURATOR**
+Madame, die Liste der Spendenanfragen ist gewachsen. Die Politik klopft an. Sie wollen wieder... Regen.
 
-Heidi Horten geht an einer Wand mit Fotografien vorbei, die ihren Mann zeigen. Sie bleibt vor einem Bild von HELMUT HORTEN (älter, imposant) stehen. Sie lächelt wehmütig.
+**HEIDI**
+(ohne aufzusehen)
+Dann geben wir ihnen Regen, Kurator. Aber nur in Tropfen. Stück für Stück. Wie diese Perlen. Wenn man alles auf einmal gibt, ertrinken sie. Wenn man es stückelt, wächst die Dankbarkeit.
 
-**HEIDI HORTEN**
-(V.O., leiser)
-Er war ein Visionär. Ein Mann, der wusste, was er wollte. Und wie man es bekommt.
+---
 
-**INT. STUDIO – INTERVIEW**
+## Szene 3: Das Schweigen der Jachten (NEU)
+**Ort:** Deck der *Carinthia VII*, vor der Küste von Nizza.
+**Zeit:** Sonnenuntergang.
 
-DR. BREUER schüttelt leicht den Kopf.
+Die Kamera zeigt die gewaltigen Ausmaße der Jacht. Es ist so still, dass man nur das sanfte Summen der Generatoren hört. Heidi sitzt am Heck und starrt auf das Kielwasser.
 
-**DR. BREUER**
-Man bekommt es, indem man die Augen schließt. Oder sie ganz weit aufmacht für die Gelegenheiten, die der historische Moment bietet. Horten hatte ein Gespür dafür. Ein… feines Gespür.
+**HEIDI**
+Helmut liebte das Meer. Er sagte, Wasser hat kein Gedächtnis. Man kann eine Spur ziehen, und Sekunden später ist sie weg. Das ist die Freiheit des Geldes. Es löscht die Spuren seiner eigenen Entstehung.
 
-**NARRATOR (V.O.)**
-Fein. So wie die Punkte eines Pointillisten. Einzeln kaum wahrnehmbar. Doch zusammen… formen sie ein ganzes Bild. Ein Bild von Geld. Und Macht. Und der sehr österreichischen Kunst, die Herkunft mancher Dinge… elegant zu übermalen.
+Ein Steward serviert Champagner in Kristallgläsern, die so dünn sind, dass sie beim bloßen Hinsehen zu brechen scheinen.
 
-**SCENE 3: INT. CAFÉ CENTRAL – TAG (ARCHIVMATERIAL/REKONSTRUKTION)**
+**HEIDI (Forts.)**
+Wissen Sie, was das Problem mit der Geschichte ist? Sie ist zu laut. Sie staubt. Reichtum hingegen ist klinisch rein. Er riecht nach nichts. Außer nach dem Morgen.
 
-Historische Aufnahmen vom Café Central. Später eine rekonstruierte Szene: Zwei HERREN (50er, Anwälte oder Geschäftsmänner) unterhalten sich gedämpft. Einer schiebt dem anderen diskret einen Umschlag zu.
+---
 
-**NARRATOR (V.O.)**
-Der Pointillismus des Geldes. Eine Kunstform, die in den Salons und Hinterzimmern dieser Stadt perfektioniert wurde. Kleine Beträge. Unauffällige Zahlungen. Freundschaftsdienste. Alles getarnt als Teil des normalen Geschäfts. Aber wenn man genau hinsieht…
+## Szene 4: Die Heidi-Gala – Die Inszenierung des Nichts (NEU)
+**Ort:** Ein festlich geschmückter Saal, voller Blumen, die so gezüchtet wurden, dass sie genau drei Stunden halten.
+**Zeit:** Ein Abend der „höheren Gesellschaft“.
 
-**INT. HEIDI HORTEN COLLECTION – NACHT**
+Birgit Minichmayr brilliert in einer Szene, in der sie hunderte Gäste begrüßt, ohne ein einziges echtes Wort zu sagen. Es ist eine Choreografie des Kopfnickens und der angedeuteten Umarmungen.
 
-Das Museum ist leer. Die Kunstwerke leuchten im Licht. Kamera fokussiert auf ein abstraktes Gemälde. Ein Spot erhellt es dramatisch.
+**ERZÄHLER (Masucci, Off-Stimme)**
+Sie nannte es Wohltätigkeit. Die Presse nannte es Großzügigkeit. Wir nennen es die perfekte Ablenkung. Jedes gespendete Bild, jede geförderte Schule war ein Pinselstrich mehr in einem Porträt, das die Vergangenheit übermalte.
 
-**NARRATOR (V.O.)**
-…dann sieht man die Punkte. Die Flecken. Die Schatten. Und man fragt sich: Wie viel Wahrheit verträgt so viel Schönheit? Und was kostet es wirklich, wenn die Vergangenheit… einfach so verblasst?
+Heidi steht am Mikrofon. Der Saal wird still.
+
+**HEIDI**
+Wir sind hier, um das Schöne zu feiern. Denn das Schöne braucht keine Erklärung. Es ist einfach da. Wie das Erbe, das wir verwalten. Wir stellen nicht die Frage: „Woher?“ Wir stellen die Frage: „Wohin?“ Und die Antwort ist immer: In die Zukunft.
+
+---
+
+## Szene 5: Das Archiv der Leere
+**Ort:** Ein kleiner, dunkler Raum hinter der Galerie.
+**Zeit:** Spät in der Nacht.
+
+Heidi betrachtet ein altes Schwarz-Weiß-Foto von Helmut vor seinem ersten Kaufhaus. Ihr Gesichtsausdruck wechselt von Nostalgie zu einer kalten, fast maskenhaften Entschlossenheit.
+
+**HEIDI**
+(flüsternd zum Foto)
+Ich habe es sauber gehalten, Helmut. Keiner sieht mehr den Staub. Nur noch den Glanz.
+
+Sie löscht das Licht. Nur das Collier in ihrer Hand leuchtet noch einen Moment lang nach, bevor alles schwarz wird.
+
+---
+
+## Szene 6: Der Pointillismus der Macht (NEU)
+**Ort:** Ein vertrauliches Gespräch im Wintergarten.
+**Zeit:** Ein kalter Januarmorgen.
+
+Heidi trifft sich mit einem hohen Vertreter der „Freunde der Kunst“ (ein Codewort für politische Strippenzieher).
+
+**REPRÄSENTANT**
+Die Wahlen stehen an, Madame. Das Volk ist... unruhig. Sie stellen Fragen über die Herkunft der großen Vermögen.
+
+**HEIDI**
+Dann müssen wir die Punkte kleiner machen. Wenn man nah dran ist, sieht man nur das Chaos. Wenn man weit weg geht, sieht man ein Meisterwerk. Wir müssen dafür sorgen, dass alle weit genug weg stehen.
+
+Sie schüttet einen Beutel winziger Diamanten auf den Tisch. Sie funkeln wie Sterne.
+
+**HEIDI (Forts.)**
+Hier. Das ist mein Beitrag zur politischen Stabilität. Verteilen Sie sie gut. Aber nennen Sie es niemals „Geld“. Nennen Sie es „Vision“.
+
+---
+
+## Szene 7: Die Schatten der *Carinthia* (NEU)
+**Ort:** Im Bauch der Jacht, bei den Maschinenräumen.
+**Zeit:** Nacht.
+
+Ein krasser Kontrast zum Deck oben. Hier ist es laut, heiß und ölig. Der Chronist (Masucci) führt uns durch die „Eingeweide“ des Luxus.
+
+**CHRONIST**
+Hier unten wird die Energie erzeugt, die oben das Eis kühlt. Es ist wie mit dem Vermögen der Hortens. Oben wird gelächelt, unten wird gearbeitet. Und ganz tief im Fundament... da liegt der Schrott der Geschichte. Die Reste der Kaufhäuser, die Helmut nicht „gekauft“, sondern „übernommen“ hat.
+
+Er deutet auf eine alte, verrostete Nähmaschine, die in einer Ecke vergessen wurde. Sie trägt das Logo der *Gebrüder Alsberg*.
+
+---
+
+## Szene 8: Der letzte Schliff (NEU)
+**Ort:** Heidis Schlafzimmer.
+**Zeit:** Kurz vor Sonnenaufgang.
+
+Heidi bereitet sich auf den Tag vor. Sie schminkt sich selbst. Jeder Pinselstrich ist präzise.
+
+**HEIDI**
+(zum Spiegel)
+Ein bisschen Weiß unter die Augen, um die Müdigkeit der Ahnen zu verbergen. Ein bisschen Rot auf die Lippen, um die Kälte der Verträge zu überdecken. Und Gold... Gold überall, um die Fragen zu blenden.
+
+Sie tritt ans Fenster und blickt über den Wörthersee. Der See ist glatt wie ein Spiegel.
+
+**HEIDI (Forts.)**
+Heute wird ein guter Tag. Keiner wird fragen. Alle werden danken.
 
 **FADE OUT.**
