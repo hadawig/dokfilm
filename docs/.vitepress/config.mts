@@ -17,7 +17,7 @@ export default defineConfig({
           { text: 'Home', link: '/' },
           { text: 'Konzept', link: '/konzept' },
           { text: 'Orakel', link: '/orakel' },
-          { text: 'Tip-Line', link: '/mitmachen' },
+          { text: 'Merch', link: '/merch' },
           { text: 'Unterstützen', link: '/unterstuetzen' },
           { text: 'Logbuch', link: '/logbuch/' }
         ],
@@ -27,10 +27,11 @@ export default defineConfig({
             items: [
               { text: 'Idee & Konzept', link: '/konzept' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
+              { text: 'Merch (T-Shirts)', link: '/merch' },
               { text: 'Unterstützen & Dossier', link: '/unterstuetzen' },
-              { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Das Pointillismus-Orakel', link: '/orakel' },
               { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
+              { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Die Besetzung (Cast)', link: '/cast' },
               { text: 'Geheime Medien', link: '/medien' },
             ]
@@ -68,6 +69,7 @@ export default defineConfig({
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
               { text: '27. Feb: Meilenstein International', link: '/logbuch/2026-02-27-international-version' },
+              { text: 'Produktionsstart Audio', link: '/logbuch/2026-02-27-produktionsstart-audio' },
               { text: 'René Benko & Signa', link: '/logbuch/2026-02-27-benko-verbindung' },
               { text: 'Cast-Erweiterung', link: '/logbuch/2026-02-27-moderne-macht-erweiterung' },
               { text: 'Technische Vision Audio', link: '/logbuch/2026-02-27-technische-vision-audio' },
@@ -94,7 +96,7 @@ export default defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'Concept', link: '/en/konzept' },
           { text: 'Oracle', link: '/en/orakel' },
-          { text: 'Tip-Line', link: '/en/mitmachen' },
+          { text: 'Merch', link: '/en/merch' },
           { text: 'Support', link: '/en/unterstuetzen' },
           { text: 'Logbook', link: '/en/logbuch/' }
         ],
@@ -104,10 +106,11 @@ export default defineConfig({
             items: [
               { text: 'Idea & Concept', link: '/en/konzept' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
+              { text: 'Merch (T-Shirts)', link: '/en/merch' },
               { text: 'Support & Dossier', link: '/en/unterstuetzen' },
-              { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Pointillism Oracle', link: '/en/orakel' },
               { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
+              { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Cast', link: '/en/cast' },
               { text: 'Secret Media', link: '/en/medien' },
             ]
