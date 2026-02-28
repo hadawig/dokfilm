@@ -29,6 +29,10 @@ features:
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/perplexity-bewertung.png" alt="Perplexity Bewertung" style="max-width: 100%; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
   <p style="font-style: italic; margin-top: 1rem; font-size: 1.1rem; color: #555;">„Die inhaltliche und technische Umsetzung wird von Perplexity mit 7/10 Punkten bewertet – ein starkes Fundament für unser Projekt.“</p>
+  <div style="margin-top: 1.5rem;">
+    <a href="/Perplexity_KI_Bewertung.pdf" download class="VPButton brand large" style="text-decoration: none; padding: 12px 24px; border-radius: 20px; font-weight: 600;">📄 Download: KI-Analyse Report (PDF)</a>
+    <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #666;">Lesen Sie den vollständigen Dialog mit Perplexity über die Qualität und politische Einordnung unseres Projekts.</p>
+  </div>
 </div>
 
 # DAS HORTEN-MYSTERIUM
