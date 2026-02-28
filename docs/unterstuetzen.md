@@ -14,7 +14,7 @@ Holen Sie sich das volle Paket für Ihr privates Archiv. Unser **„Master-Dossi
 - Alle **Recherche-Ergebnisse** inklusive exklusiver Quellenlinks.
 - Die hochauflösenden **„Geleakt“-Grafiken** für Ihr eigenes Storyboard.
 
-👉 **[Jetzt für 9,99 € bei Gumroad sichern (Platzhalter)]**
+👉 **[Master-Dossier Vorschau (MD)](/Premium_Dossier_Master.md)** | **[Vollständiges Dossier kaufen via Gumroad (Platzhalter)]**
 
 ---
 
