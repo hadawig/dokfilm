@@ -26,6 +26,11 @@ features:
 
 ---
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/perplexity-bewertung.png" alt="Perplexity Bewertung" style="max-width: 100%; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+  <p style="font-style: italic; margin-top: 1rem; font-size: 1.1rem; color: #555;">„Die inhaltliche und technische Umsetzung wird von Perplexity mit 7/10 Punkten bewertet – ein starkes Fundament für unser Projekt.“</p>
+</div>
+
 # DAS HORTEN-MYSTERIUM
 
 **Eine fabelhafte Fiktion von Macht, Geld und Perlen – Wo die Wahrheit ein Gerücht ist und die Gerüchte die Wahrheit werden!**
