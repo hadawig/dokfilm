@@ -1,5 +1,5 @@
 ---
-title: Milestone: The Horten Mystery goes international!
+title: "Milestone: The Horten Mystery goes international!"
 description: A historic moment for the project – the website is now available in two languages (German/English).
 date: 2026-02-27
 ---

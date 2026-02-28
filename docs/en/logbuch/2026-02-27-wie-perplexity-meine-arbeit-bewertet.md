@@ -1,5 +1,5 @@
 ---
-title: How Perplexity evaluates my work! – A forensic AI analysis of the Horten Mystery
+title: "How Perplexity evaluates my work! – A forensic AI analysis of the Horten Mystery"
 description: A deep insight into the external evaluation of our project by the AI Perplexity. About satire, politics, AI bias, and the market value of digital investigative art.
 date: 2026-02-27
 ---

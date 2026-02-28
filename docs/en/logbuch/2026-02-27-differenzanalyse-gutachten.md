@@ -1,5 +1,5 @@
 ---
-title: Difference Analysis: Hoeres Report vs. Project Research
+title: "Difference Analysis: Hoeres Report vs. Project Research"
 description: An analytical comparison between the official Horten report and our independent research findings.
 date: 2026-02-27
 ---

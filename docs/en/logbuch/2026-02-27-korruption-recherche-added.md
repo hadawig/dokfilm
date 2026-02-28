@@ -1,5 +1,5 @@
 ---
-title: New Research Entry: Corruption of FPÖ and ÖVP
+title: "New Research Entry: Corruption of FPÖ and ÖVP"
 description: Expanding the research section with international perspectives on political corruption in Austria.
 date: 2026-02-27
 ---

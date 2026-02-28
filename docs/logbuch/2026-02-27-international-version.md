@@ -1,5 +1,5 @@
 ---
-title: Meilenstein: Das Horten-Mysterium wird international!
+title: "Meilenstein: Das Horten-Mysterium wird international!"
 description: Ein historischer Moment für das Projekt – die Webseite ist nun zweisprachig (Deutsch/Englisch) verfügbar.
 date: 2026-02-27
 ---

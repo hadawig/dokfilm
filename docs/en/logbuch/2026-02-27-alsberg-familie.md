@@ -1,5 +1,5 @@
 ---
-title: New Research: The Alsberg Family - A Human Tragedy
+title: "New Research: The Alsberg Family - A Human Tragedy"
 description: Documentation of the research results on the Jewish entrepreneurial family Alsberg and their role in the Horten narrative.
 date: 2026-02-27
 ---

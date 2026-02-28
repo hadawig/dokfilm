@@ -1,5 +1,5 @@
 ---
-title: Update: Johannisthal - The Roots of the Empire
+title: "Update: Johannisthal - The Roots of the Empire"
 description: Research update on the early days of Helmut Horten in Berlin-Johannisthal and the expansion of the narrative.
 date: 2026-02-27
 ---
