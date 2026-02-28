@@ -1,0 +1,34 @@
+:root {
+  /* VitePress CSS Variable for page background */
+  --vp-home-hero-image-background-image: none; /* No gradient over our texture */
+}
+
+body {
+  background-image: url('/bg-texture.png');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: 200px; /* Adjust scale for a subtle look */
+}
+
+/* Ensure the background texture is visible through VitePress' components */
+:root {
+  --vp-c-bg: rgba(255, 255, 255, 0.9); /* Slight transparency on main background */
+  --vp-c-bg-soft: rgba(246, 246, 247, 0.8);
+  --vp-c-bg-mute: rgba(246, 246, 247, 0.6);
+  --vp-home-hero-image-background-image: none;
+}
+
+/* Dark mode overrides to maintain readability */
+.dark {
+  --vp-c-bg: rgba(27, 27, 31, 0.9);
+  --vp-c-bg-soft: rgba(37, 37, 41, 0.8);
+  --vp-c-bg-mute: rgba(37, 37, 41, 0.6);
+}
+
+.VPContent, .VPHome, .VPNav, .VPSidebar {
+  background-color: transparent !important;
+}
+
+/* Add a very subtle turquoise tint to the whole page if needed, 
+   but since the user provided a turquoise image, we'll let it speak for itself. */
+
