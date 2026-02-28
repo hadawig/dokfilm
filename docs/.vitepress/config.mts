@@ -16,8 +16,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Konzept', link: '/konzept' },
-          { text: 'Plakat', link: 'https://dokfilm.pages.dev/poster' },
           { text: 'Orakel', link: '/orakel' },
+          { text: 'Tip-Line', link: '/mitmachen' },
           { text: 'Unterstützen', link: '/unterstuetzen' },
           { text: 'Logbuch', link: '/logbuch/' }
         ],
@@ -28,9 +28,9 @@ export default defineConfig({
               { text: 'Idee & Konzept', link: '/konzept' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
               { text: 'Unterstützen & Dossier', link: '/unterstuetzen' },
+              { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Das Pointillismus-Orakel', link: '/orakel' },
               { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
-              { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Die Besetzung (Cast)', link: '/cast' },
               { text: 'Geheime Medien', link: '/medien' },
             ]
@@ -94,6 +94,7 @@ export default defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'Concept', link: '/en/konzept' },
           { text: 'Oracle', link: '/en/orakel' },
+          { text: 'Tip-Line', link: '/en/mitmachen' },
           { text: 'Support', link: '/en/unterstuetzen' },
           { text: 'Logbook', link: '/en/logbuch/' }
         ],
@@ -104,9 +105,9 @@ export default defineConfig({
               { text: 'Idea & Concept', link: '/en/konzept' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
               { text: 'Support & Dossier', link: '/en/unterstuetzen' },
+              { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Pointillism Oracle', link: '/en/orakel' },
               { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
-              { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Cast', link: '/en/cast' },
               { text: 'Secret Media', link: '/en/medien' },
             ]
