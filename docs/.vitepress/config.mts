@@ -18,6 +18,7 @@ export default defineConfig({
           { text: 'Konzept', link: '/konzept' },
           { text: 'Mitmachen', link: '/mitmachen' },
           { text: 'Budget-Loch', link: '/budget-spiel' },
+          { text: 'Orakel', link: '/orakel' },
           { text: 'Logbuch', link: '/logbuch/' }
         ],
         sidebar: [
@@ -26,9 +27,11 @@ export default defineConfig({
             items: [
               { text: 'Idee & Konzept', link: '/konzept' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
+              { text: 'Das Pointillismus-Orakel', link: '/orakel' },
               { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
               { text: 'Die Besetzung (Cast)', link: '/cast' },
+              { text: 'Geheime Medien', link: '/medien' },
             ]
           },
           {
@@ -89,6 +92,7 @@ export default defineConfig({
           { text: 'Concept', link: '/en/konzept' },
           { text: 'Tip-Line', link: '/en/mitmachen' },
           { text: 'Budget-Hole', link: '/en/budget-spiel' },
+          { text: 'Oracle', link: '/en/orakel' },
           { text: 'Logbook', link: '/en/logbuch/' }
         ],
         sidebar: [
@@ -97,9 +101,11 @@ export default defineConfig({
             items: [
               { text: 'Idea & Concept', link: '/en/konzept' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
+              { text: 'The Pointillism Oracle', link: '/en/orakel' },
               { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
               { text: 'The Cast', link: '/en/cast' },
+              { text: 'Secret Media', link: '/en/medien' },
             ]
           },
           {

@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import TipLine from './components/TipLine.vue'
 import BudgetGame from './components/BudgetGame.vue'
+import PointillismOracle from './components/PointillismOracle.vue'
 
 export default {
   extends: DefaultTheme,
@@ -8,5 +9,6 @@ export default {
     // Registriere die Komponenten global
     app.component('TipLine', TipLine)
     app.component('BudgetGame', BudgetGame)
+    app.component('PointillismOracle', PointillismOracle)
   }
 }
