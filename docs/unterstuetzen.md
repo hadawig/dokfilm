@@ -21,7 +21,12 @@ Holen Sie sich das volle Paket für Ihr privates Archiv. Unser **„Master-Dossi
 ## ☕ Die investigative Tip-Box
 Sie möchten kein Dossier, aber unsere Nachtschichten im Archiv mit einem Kaffee unterstützen? Jede kleine Geste hilft, die Maschine am Laufen zu halten.
 
-👉 **[Einen Kaffee spendieren via Ko-fi (Platzhalter)]**
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://ko-fi.com/voltisodala" target="_blank" style="background: #29abe0; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2rem; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(41,171,224,0.4);">
+    <img src="https://ko-fi.com/img/cup-border.png" style="height: 25px;"> Spendier uns einen Kaffee
+  </a>
+  <p style="margin-top: 10px; font-size: 0.9rem; color: #666;">Sicherer Check-out via Ko-fi</p>
+</div>
 
 ---
 

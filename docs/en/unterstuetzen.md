@@ -21,7 +21,12 @@ Get the full package for your private archive. Our **"Master Dossier: The Horten
 ## ☕ The Investigative Tip Box
 You don't want a dossier but want to support our late shifts in the archive with a coffee? Every small gesture helps keep the machine running.
 
-👉 **[Buy us a coffee via Ko-fi (Placeholder)]**
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://ko-fi.com/voltisodala" target="_blank" style="background: #29abe0; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2rem; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(41,171,224,0.4);">
+    <img src="https://ko-fi.com/img/cup-border.png" style="height: 25px;"> Buy us a coffee
+  </a>
+  <p style="margin-top: 10px; font-size: 0.9rem; color: #666;">Secure check-out via Ko-fi</p>
+</div>
 
 ---
 
