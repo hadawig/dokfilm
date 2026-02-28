@@ -19,3 +19,11 @@ Eine erste Skizze für die Schlüsselszene in Teil 2.
 
 ## 📜 Archiv-Fund: Der "Kaufvertrag"
 Ein Dokumententwurf für die Übernahme der Alsberg-Häuser aus dem Jahr 1933. Der Preis wurde mehrfach mit Rotstift korrigiert, bis er fast bei Null lag. Ein handschriftlicher Vermerk am Rand lautet: *"Marktüblich. Effizient. Erledigt."*
+
+## 🎙️ Ton-Protokoll: „Das Beisl-Testament“
+Ein Transkript der heimlich aufgenommenen Tonbänder von Christian Pilnacek aus einem Wiener Lokal (November 2023).
+
+::: warning VERTRAULICHKEITSSTUFE: ROT
+- **Pilnacek:** „Die ÖVP war jeden Tag da. Sie wollten wissen, warum ich die Verfahren nicht stoppe. Sobotka hat mich gefragt: 'Warum drehst du es nicht ab?'“
+- **Kontext:** Dieses Gespräch bildet die akustische Basis für Szene 13 in unserer Mockumentary. Es markiert den Zusammenbruch der „unabhängigen“ Justiz-Fassade.
+:::

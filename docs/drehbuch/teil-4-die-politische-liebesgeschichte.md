@@ -183,7 +183,33 @@ Glas bricht, René. Und Stahl rostet. Nur die Perle... nur die Perle überdauert
 
 ---
 
-## Szene 13: Der finale Vorhang des Schweigens
+## Szene 13: Der Dirigent der Verfahren
+**Ort:** Ein dunkles, holzgetäfeltes Hinterzimmer in einem Wiener Beisl.
+**Zeit:** Spätabends (Rückblende).
+
+Christian Pilnacek (Oliver Masucci in einer Doppelrolle) sitzt an einem kleinen runden Tisch. Er wirkt müde, vor ihm steht ein Glas Wein. Wolfgang Sobotka (August Diehl) lehnt sich über den Tisch.
+
+**SOBOTKA**
+Christian, wir haben ein Problem. Diese WKStA... sie sind wie Terrier. Sie graben in Dingen herum, die sie nichts angehen. Die Horten-Spenden, die Signa-Bewertungen... es stört die Harmonie.
+
+**PILNACEK**
+(mit schwerer Stimme)
+Es sind Verfahren, Wolfgang. Offizielle Ermittlungen. Ich kann nicht einfach...
+
+**SOBOTKA**
+(unterbricht ihn)
+Warum drehst du es nicht einfach ab? Ganz diskret. Ein bisschen Sand im Getriebe der Bürokratie. Ein verloren gegangener Akt hier, ein suspendierter Ermittler da. Pointillismus, Christian! Wenn man genug kleine Sandkörner streut, bleibt die Maschine stehen.
+
+**PILNACEK**
+Sie nehmen alles auf, Wolfgang. Jedes Wort. Die Mauern haben Ohren bekommen.
+
+**SOBOTKA**
+(lächelt kalt)
+Dann müssen wir lauter spielen. Mehr Musik, weniger Fakten. Das ist das Geheimnis des Mysteriums.
+
+---
+
+## Szene 14: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
