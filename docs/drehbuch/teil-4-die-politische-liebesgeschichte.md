@@ -158,16 +158,32 @@ Wolfgang, es sind 4,7 Prozent. Das ist kein Loch mehr, das ist ein Krater. Die E
 (ohne vom Klavier aufzusehen)
 Magnus, du denkst zu linear. Denke pointillistisch! 4,7 Prozent sind nur viele kleine Kommastellen. Wenn man die Grafik richtig beleuchtet, sieht es aus wie... Kunst. Ein abstraktes Werk über die Vergänglichkeit des Steuergeldes.
 
-**BRUNNER**
-Aber die Inflation! Die Leute können sich die Semmeln nicht mehr leisten, während wir hier...
+---
 
-**SOBOTKA**
-(haut fest in die Tasten)
-Ruhe im Saal! Wer von Inflation spricht, hat die Ästhetik des Mangels nicht verstanden. Heidi hat uns gezeigt, wie man mit 49.000 Euro Geschichte schreibt. Wir schreiben Geschichte mit 15 Milliarden. Das ist die Evolution des Systems. 
+## Szene 12: Der Erbe der Steine
+**Ort:** Ein leerstehendes, ehemaliges Horten-Kaufhaus. Überall Staub und Gerüste.
+**Zeit:** Gegenwart.
+
+René Benko (Oliver Masucci in einer weiteren Rolle) steht in der Mitte der leeren Halle. Er starrt auf eine alte Gedenktafel für Helmut Horten, die halb abgerissen an der Wand hängt.
+
+**BENKO**
+(flüsternd)
+Helmut, du hattest es einfach. Du hattest die Zeitgeschichte auf deiner Seite. Du hast die Häuser genommen, als sie nichts wert waren. Ich habe sie genommen, als sie alles wert waren – zumindest in meinen Büchern. 
+
+Der Geist von Helmut Horten (August Diehl) tritt aus dem Schatten einer Rolltreppe.
+
+**HELMUT (GEIST)**
+Du hast den Fehler aller Goldgräber gemacht, René. Du hast geglaubt, die Steine seien wichtiger als das Schweigen. Ich habe ein Imperium gebaut, das mich überlebt hat. Du hast ein Imperium gebaut, das dich auffrisst.
+
+**BENKO**
+Ich wollte den Pointillismus vollenden! Milliarden aus dem Nichts! Ein Mosaik aus Glas und Stahl!
+
+**HELMUT (GEIST)**
+Glas bricht, René. Und Stahl rostet. Nur die Perle... nur die Perle überdauert. Aber du wolltest ja unbedingt Wolkenkratzer bauen. 
 
 ---
 
-## Szene 12: Der finale Vorhang des Schweigens
+## Szene 13: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 

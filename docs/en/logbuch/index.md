@@ -4,6 +4,7 @@ Here the daily progress is recorded.
 
 ## Entries
 
+- [February 27, 2026: René Benko and the Curse of Department Stores](./2026-02-27-benko-verbindung)
 - [February 27, 2026: Expanding the Cast – Kurz, Blümel, Brunner & Sobotka](./2026-02-27-moderne-macht-erweiterung)
 - [February 27, 2026: Technical Vision – The Acoustics of the Mystery](./2026-02-27-technische-vision-audio)
 - [February 27, 2026: THE PROJECT GOES INTERNATIONAL! (Milestone)](./2026-02-27-international-version)
