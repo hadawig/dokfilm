@@ -7,6 +7,14 @@ Dieses Dokument enthält die erweiterten Texte für die individuellen Hörproben
 ## 1. Birgit Minichmayr als Heidi Horten
 **Stimmung:** *Schillernd, arrogant-charmant, zwischen Luxus-Rausch und kühler Berechnung.*
 
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO-PROBE: HEIDI HORTEN</p>
+  <audio controls style="width: 100%;">
+    <source src="/heidi-sample.mp3" type="audio/mpeg">
+    Ihr Browser unterstützt das Audio-Element nicht.
+  </audio>
+</div>
+
 (Hörprobe startet mit dem sanften Plätschern des Wörthersees und dem Klicken von Absätzen auf Marmor)
 
 „Wissen Sie, was das Kostbarste an einer Perle ist? Es ist nicht ihr Glanz. Es ist die Schicht um Schicht gewachsene Isolation. Eine Perle ist ein Schmerz, der so lange mit Schönheit überzogen wurde, bis man den Kern vergessen hat. Genau so sehe ich mein Leben. Und genau so sehe ich dieses... Vermögen. 
@@ -21,6 +29,14 @@ Sie verstehen den Pointillismus nicht. Sie schauen mit der Lupe auf den einzelne
 
 ## 2. August Diehl als Helmut Horten (1936) / August W. (2026)
 **Stimmung:** *1936: Unterkühlt, präzise, emotionslos. 2026: Hektisch, gehetzt, am Rande des Nervenzusammenbruchs.*
+
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO-PROBE: HELMUT HORTEN</p>
+  <audio controls style="width: 100%;">
+    <source src="/helmut-sample.mp3" type="audio/mpeg">
+    Ihr Browser unterstützt das Audio-Element nicht.
+  </audio>
+</div>
 
 (Hörprobe wechselt zwischen dem harten Klacken einer Schreibmaschine von 1936 und dem Vibrieren eines Smartphones von 2026)
 

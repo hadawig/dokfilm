@@ -7,6 +7,14 @@ This document contains the extended texts for the individual audio samples of ou
 ## 1. Birgit Minichmayr as Heidi Horten
 **Mood:** *Dazzling, arrogantly charming, between a luxury high and cool calculation.*
 
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO SAMPLE: HEIDI HORTEN</p>
+  <audio controls style="width: 100%;">
+    <source src="/heidi-sample.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 (Audio sample starts with the gentle splashing of Lake Wörthersee and the clicking of heels on marble)
 
 "Do you know what the most precious thing about a pearl is? It's not its luster. It's the isolation grown layer by layer. A pearl is a pain that has been coated with beauty for so long that the core has been forgotten. That is exactly how I see my life. And that is exactly how I see this... fortune.
@@ -21,6 +29,14 @@ They don't understand pointillism. They look through a magnifying glass at an in
 
 ## 2. August Diehl as Helmut Horten (1936) / August W. (2026)
 **Mood:** *1936: Undercooled, precise, emotionless. 2026: Hectic, rushed, on the verge of a nervous breakdown.*
+
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin-bottom: 20px;">
+  <p style="font-size: 0.8rem; color: #d4af37; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO SAMPLE: HELMUT HORTEN</p>
+  <audio controls style="width: 100%;">
+    <source src="/helmut-sample.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
 (Audio sample alternates between the hard clicking of a 1936 typewriter and the vibration of a 2026 smartphone)
 
