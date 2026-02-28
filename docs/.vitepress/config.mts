@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
           { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },
           { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
+          { text: 'Horten-Alsberg Kaufvertrag', link: '/recherche/der-kaufvertrag-horten-alsberg' },
           { text: 'Horten: Rüstung & Zwangsarbeit', link: '/recherche/helmut-horten-ruestung-zwangsarbeit' },
           { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
         ]
