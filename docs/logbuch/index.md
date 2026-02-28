@@ -4,6 +4,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
 
+- [27. Februar 2026: Erweiterung des Casts – Kurz, Blümel, Brunner & Sobotka](./2026-02-27-moderne-macht-erweiterung)
 - [27. Februar 2026: Technische Vision – Die Akustik des Mysteriums](./2026-02-27-technische-vision-audio)
 - [27. Februar 2026: DAS PROJEKT WIRD INTERNATIONAL! (Meilenstein)](./2026-02-27-international-version)
 - [27. Februar 2026: Wie Perplexity meine Arbeit bewertet!](./2026-02-27-wie-perplexity-meine-arbeit-bewertet)

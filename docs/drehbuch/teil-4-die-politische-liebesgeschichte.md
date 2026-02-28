@@ -145,7 +145,29 @@ Dann sing mit, August. Aber sing in 49.000er-Takten. Dann versteht keiner den Te
 
 ---
 
-## Szene 10: Der letzte Pinselstrich (NEU)
+## Szene 11: Das Budgetloch-Ballett
+**Ort:** Ein prunkvoller Saal im Parlament. Im Hintergrund steht die „Sobotka-Orgel“.
+**Zeit:** Januar 2025 (Rückblende).
+
+Magnus Brunner (August Diehl) steht vor einer riesigen Leinwand mit Grafiken, die alle steil nach unten zeigen. Wolfgang Sobotka (Oliver Masucci) sitzt am Klavier und spielt eine disharmonische Melodie.
+
+**BRUNNER**
+Wolfgang, es sind 4,7 Prozent. Das ist kein Loch mehr, das ist ein Krater. Die EU schickt uns bereits Liebesbriefe aus Brüssel.
+
+**SOBOTKA**
+(ohne vom Klavier aufzusehen)
+Magnus, du denkst zu linear. Denke pointillistisch! 4,7 Prozent sind nur viele kleine Kommastellen. Wenn man die Grafik richtig beleuchtet, sieht es aus wie... Kunst. Ein abstraktes Werk über die Vergänglichkeit des Steuergeldes.
+
+**BRUNNER**
+Aber die Inflation! Die Leute können sich die Semmeln nicht mehr leisten, während wir hier...
+
+**SOBOTKA**
+(haut fest in die Tasten)
+Ruhe im Saal! Wer von Inflation spricht, hat die Ästhetik des Mangels nicht verstanden. Heidi hat uns gezeigt, wie man mit 49.000 Euro Geschichte schreibt. Wir schreiben Geschichte mit 15 Milliarden. Das ist die Evolution des Systems. 
+
+---
+
+## Szene 12: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
