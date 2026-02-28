@@ -16,9 +16,9 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Konzept', link: '/konzept' },
-          { text: 'Mitmachen', link: '/mitmachen' },
-          { text: 'Budget-Loch', link: '/budget-spiel' },
+          { text: 'Plakat', link: 'https://dokfilm.pages.dev/poster' },
           { text: 'Orakel', link: '/orakel' },
+          { text: 'Unterstützen', link: '/unterstuetzen' },
           { text: 'Logbuch', link: '/logbuch/' }
         ],
         sidebar: [
@@ -27,6 +27,7 @@ export default defineConfig({
             items: [
               { text: 'Idee & Konzept', link: '/konzept' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
+              { text: 'Unterstützen & Dossier', link: '/unterstuetzen' },
               { text: 'Das Pointillismus-Orakel', link: '/orakel' },
               { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
@@ -51,10 +52,11 @@ export default defineConfig({
               { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
               { text: 'August Wöginger (Postenschacher)', link: '/recherche/postenschacher-woeginger' },
               { text: 'Moderne ÖVP-Machtzirkel', link: '/recherche/moderne-machtzirkel' },
-                        { text: 'Die Benko-Verbindung', link: '/recherche/die-benko-verbindung' },
-                                  { text: 'Der Fall Pilnacek', link: '/recherche/der-fall-pilnacek' },
-                                  { text: 'Walter Rosenkranz (Vorsitz)', link: '/recherche/walter-rosenkranz' },
-                                  { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },              { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
+              { text: 'Die Benko-Verbindung', link: '/recherche/die-benko-verbindung' },
+              { text: 'Der Fall Pilnacek', link: '/recherche/der-fall-pilnacek' },
+              { text: 'Walter Rosenkranz (Vorsitz)', link: '/recherche/walter-rosenkranz' },
+              { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },
+              { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
               { text: 'Horten-Alsberg Kaufvertrag', link: '/recherche/der-kaufvertrag-horten-alsberg' },
               { text: 'Horten: Rüstung & Zwangsarbeit', link: '/recherche/helmut-horten-ruestung-zwangsarbeit' },
               { text: 'Teil 4: ÖVP & Spenden', link: '/oevp-spenden' },
@@ -91,9 +93,8 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Concept', link: '/en/konzept' },
-          { text: 'Tip-Line', link: '/en/mitmachen' },
-          { text: 'Budget-Hole', link: '/en/budget-spiel' },
           { text: 'Oracle', link: '/en/orakel' },
+          { text: 'Support', link: '/en/unterstuetzen' },
           { text: 'Logbook', link: '/en/logbuch/' }
         ],
         sidebar: [
@@ -102,6 +103,7 @@ export default defineConfig({
             items: [
               { text: 'Idea & Concept', link: '/en/konzept' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
+              { text: 'Support & Dossier', link: '/en/unterstuetzen' },
               { text: 'The Pointillism Oracle', link: '/en/orakel' },
               { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
@@ -127,6 +129,8 @@ export default defineConfig({
               { text: 'August Wöginger Case', link: '/en/recherche/postenschacher-woeginger' },
               { text: 'Modern Power Circles', link: '/en/recherche/moderne-machtzirkel' },
               { text: 'The Benko Connection', link: '/en/recherche/die-benko-verbindung' },
+              { text: 'The Pilnacek Case', link: '/en/recherche/der-fall-pilnacek' },
+              { text: 'Walter Rosenkranz (Chair)', link: '/en/recherche/walter-rosenkranz' },
               { text: 'Corruption (FPÖ/ÖVP)', link: '/en/recherche/korruption-oevp-fpoe' },
               { text: 'Alsberg Brothers (Aryanization)', link: '/en/recherche/alsberg-brueder' },
               { text: 'Horten-Alsberg Contract', link: '/en/recherche/der-kaufvertrag-horten-alsberg' },

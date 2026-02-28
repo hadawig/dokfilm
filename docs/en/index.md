@@ -44,6 +44,12 @@ features:
   </div>
 </div>
 
+<div style="background: linear-gradient(135deg, #d4af37 0%, #b8860b 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; color: black; text-align: center; box-shadow: 0 10px 30px rgba(212,175,55,0.3);">
+  <h3 style="margin-top: 0; font-weight: bold;">💎 SUPPORT THE FORENSICS</h3>
+  <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Help us solve the Horten mystery without ÖVP donations. Get the 40-page premium dossier.</p>
+  <a href="/en/unterstuetzen" class="VPButton brand large" style="background: black; color: white !important;">Become a Supporter</a>
+</div>
+
 # THE HORTEN MYSTERY
 
 **A fabulous fiction of power, money, and pearls – where the truth is a rumor and the rumors become the truth!**
