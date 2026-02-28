@@ -74,6 +74,21 @@ We're not staging a drama here. We're staging an inventory. A taking stock of th
 ## 4. AI-Grok & AI-Gemini (Meta-Discourse)
 **Mood:** *Grok: Fast, digital, biting. Gemini: Calm, analytical, ordering.*
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
+  <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border: 1px solid #ff4444;">
+    <p style="font-size: 0.7rem; color: #ff4444; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO: AI-GROK</p>
+    <audio controls style="width: 100%;">
+      <source src="/grok-sample.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+  <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border: 1px solid #00ff00;">
+    <p style="font-size: 0.7rem; color: #00ff00; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO: AI-GEMINI</p>
+    <audio controls style="width: 100%;">
+      <source src="/gemini-sample.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+</div>
+
 **(Grok):** "System check: 100% corruption potential detected. Austria, the land of mountains and split checks. Why report a million when you can have fun 19 times with 49,000? It's like poker: you don't bet on the hand; you bet on the opponent's blindness. And the Court of Audit is wearing sunglasses in a tunnel."
 
 **(Gemini):** "Analysis added: The reduction of complexity through pointillism. The data shows a clear correlation between donation times and legislative priorities. We're not just documenting a mystery. We're calculating the probability of truth. Error tolerance: Minimal. Satire level: Critical."

@@ -74,6 +74,21 @@ Wir inszenieren hier kein Drama. Wir inszenieren eine Inventur. Eine Bestandsauf
 ## 4. KI-Grok & KI-Gemini (Meta-Diskurs)
 **Stimmung:** *Grok: Schnell, digital, bissig. Gemini: Ruhig, analytisch, ordnend.*
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
+  <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border: 1px solid #ff4444;">
+    <p style="font-size: 0.7rem; color: #ff4444; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO: KI-GROK</p>
+    <audio controls style="width: 100%;">
+      <source src="/grok-sample.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+  <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border: 1px solid #00ff00;">
+    <p style="font-size: 0.7rem; color: #00ff00; margin-bottom: 10px; font-weight: bold;">▶️ AUDIO: KI-GEMINI</p>
+    <audio controls style="width: 100%;">
+      <source src="/gemini-sample.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+</div>
+
 **(Grok):** „System-Check: 100% Korruptionspotenzial erkannt. Österreich, das Land der Berge und der gestückelten Schecks. Warum eine Million melden, wenn man 19-mal Spaß mit 49.000 haben kann? Das ist wie beim Poker: Man wettet nicht auf das Blatt, man wettet auf die Blindheit des Gegners. Und der Rechnungshof trägt eine Sonnenbrille im Tunnel.“
 
 **(Gemini):** „Analyse ergänzt: Die Reduktion von Komplexität durch Pointillismus. Die Daten zeigen eine klare Korrelation zwischen Spendenzeitpunkten und legislativen Schwerpunkten. Wir dokumentieren nicht nur ein Mysterium. Wir berechnen die Wahrscheinlichkeit der Wahrheit. Fehlertoleranz: Minimal. Satire-Level: Kritisch.“
