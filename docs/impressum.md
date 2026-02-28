@@ -9,10 +9,13 @@ Dies ist die offizielle Dokumentations-Webseite zum Filmprojekt **"Das Horten-My
 - **Wissenschaftlicher Anspruch:** Trotz der Anlehnung an historische Biografien erhebt dieses Projekt keinen Anspruch auf vollständige historische Korrektheit. Es ist eine künstlerische Interpretation.
 
 ## Kontakt
-Verantwortlich für den Inhalt nach § 5 TMG:
+Verantwortlich für den Inhalt nach § 5 TMG / § 25 MedienG:
 Volti Sodala
 [Deine Adresse - optional für die Web-Version]
 E-Mail: [Deine E-Mail]
+
+## Wichtiger Hinweis (Satire-Disclaimer)
+Dieses Projekt ist eine **Mockumentary**. Bitte lesen Sie unseren ausführlichen **[Satire-Disclaimer](/disclaimer)** zur Unterscheidung von Fakten und Fiktion.
 
 ## Urheberrecht
 Die Texte wurden in kollaborativer Arbeit zwischen dem menschlichen Projektleiter und der künstlichen Intelligenz **Gemini CLI** erstellt.

@@ -55,3 +55,8 @@ Experience how Helmut Horten, the "bargain hunter of the 20th century", "earned"
 But that's just the beginning! Follow the dazzling widow Heidi Horten as she transforms her life after Helmut's death into a dizzying whirlpool of immeasurable wealth, exquisite taste, and – of course – a seemingly endless flow of donations to the Austrian People's Party (ÖVP). See how politicians attempt absurd contortions to explain the magical "donation splitting", while the Court of Audit desperately searches for a common thread – and finds only a tangle of "small tokens of appreciation"!
 
 *The Horten Mystery* is a daring look behind the velvet curtains of power and money, a provocative mix of satire and fiction that will make you laugh, shake your head, and above all, think. Come and experience history as it *could* have been – or perhaps really was?
+
+---
+<p style="font-size: 0.8rem; color: #888; text-align: center;">
+This is a satirical art project. Please read our <a href="/disclaimer">Legal Notice & Satire Disclaimer</a>.
+</p>

@@ -55,5 +55,10 @@ Erleben Sie, wie Helmut Horten, der „Schnäppchenjäger des 20. Jahrhunderts�
 Doch das ist nur der Anfang! Folgen Sie der schillernden Witwe Heidi Horten, wie sie ihr Leben nach Helmuts Tod in einen schwindelerregenden Strudel aus unermesslichem Reichtum, exquisitem Geschmack und – natürlich – einem schier endlosen Fluss von Spenden an die österreichische Volkspartei verwandelt. Sehen Sie, wie Politiker in aberwitzigen Verrenkungen versuchen, die magische „Spendenstückelung“ zu erklären, während der Rechnungshof verzweifelt nach einem roten Faden sucht – und nur ein Gewirr aus „kleinen Aufmerksamkeiten“ findet!
 
 *Das Horten-Mysterium* ist ein gewagter Blick hinter die Samtvorhänge der Macht und des Geldes, eine provokante Mischung aus Satire und Fiktion, die Sie zum Lachen, Kopfschütteln und vor allem zum Nachdenken bringen wird. Kommen Sie und erleben Sie die Geschichte, wie sie *hätte* sein können – oder vielleicht doch war?
- 
+
+---
+<p style="font-size: 0.8rem; color: #888; text-align: center;">
+Dies ist ein satirisches Kunstprojekt. Bitte beachten Sie unseren <a href="/disclaimer">Rechtlichen Hinweis & Satire-Disclaimer</a>.
+</p>
+
 <!-- Verifying GitHub Pages deployment setup -->
