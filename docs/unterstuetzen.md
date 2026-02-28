@@ -14,7 +14,7 @@ Holen Sie sich das volle Paket für Ihr privates Archiv. Unser **„Master-Dossi
 - Alle **Recherche-Ergebnisse** inklusive exklusiver Quellenlinks.
 - Die hochauflösenden **„Geleakt“-Grafiken** für Ihr eigenes Storyboard.
 
-👉 **[Master-Dossier Vorschau (MD)](/Premium_Dossier_Master.md)** | **[Vollständiges Dossier kaufen via Gumroad (Platzhalter)]**
+👉 **[Master-Dossier Vorschau (HTML)](/Premium_Dossier_Master)** | **[Vollständiges Dossier kaufen via Gumroad (Platzhalter)]**
 
 ---
 
