@@ -107,7 +107,45 @@ Sie drückt auf einen Knopf. Das Bild von Helmut verwandelt sich in das Logo ein
 
 ---
 
-## Szene 8: Der letzte Pinselstrich (NEU)
+## Szene 8: Das Begräbnis des Schweigens (und die Angst in Linz)
+**Ort:** Eine exklusive Trauerfeier am Wörthersee. Weißer Marmor, schwarze Schleifen, Champagner-Kühler.
+**Zeit:** Juni 2022 (Rückblende) / Schnitt zu Februar 2026 (Gegenwart).
+
+Ein fiktiver ÖVP-Klubobmann „August W.“ (August Diehl) steht am Buffet. Er wirkt nervös, telefoniert ständig. Im Hintergrund sehen wir das prunkvolle Foto der verstorbenen Heidi.
+
+**AUGUST W.**
+(ins Telefon, flüsternd)
+Ja, ich weiß, dass der Termin in Linz im März ist! Aber ich kann jetzt nicht über das Finanzamt Braunau reden. Wir beerdigen hier gerade die Mutter aller Spendenlisten! Wenn dieses Erbe nicht... „strukturiert“ wird, dann ist Braunau unser kleinstes Problem.
+
+**PRÜFER / BERATER (Masucci)**
+(tritt hinzu)
+August, entspann dich. Heidi hat uns 931.000 Gründe hinterlassen, warum wir unbesiegbar sind. Auch wenn sie jetzt weg ist... die Punkte wirken nach.
+
+**AUGUST W.**
+(bitter)
+Die Punkte! In Linz nennen sie es „Amtsmissbrauch“. Ich nenne es „regionale Personalplanung“. Heidi hat uns gezeigt, wie man Millionen unsichtbar macht, und ich schaffe es nicht einmal, einen Bürgermeister in Braunau unterzubringen, ohne dass die WKStA mitschreibt? Das ist das Ende der Ästhetik, sag ich dir!
+
+---
+
+## Szene 9: Die Geisterstunde der Bilanzen (NEU)
+**Ort:** Heidis leeres Schlafzimmer.
+**Zeit:** Nacht.
+
+August W. schleicht durch den Raum. Er sucht nicht nach Schmuck, sondern nach weiteren Scheckheften. Plötzlich erscheint der Geist von Heidi (Birgit Minichmayr) im Spiegel.
+
+**HEIDI (GEIST)**
+August... du bist so... kleinteilig. Du sorgst dich um einen Posten in Oberösterreich? Ich habe ganze Sektionen neu gestrichen. Mit Gold.
+
+**AUGUST W.**
+(zitternd)
+Madame, die Zeiten haben sich geändert! Der Rechnungshof hat jetzt Augen! Und Thomas Schmid singt lauter als die Wiener Sängerknaben!
+
+**HEIDI (GEIST)**
+Dann sing mit, August. Aber sing in 49.000er-Takten. Dann versteht keiner den Text, aber alle lieben die Melodie. 
+
+---
+
+## Szene 10: Der letzte Pinselstrich (NEU)
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
