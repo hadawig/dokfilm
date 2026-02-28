@@ -1,10 +1,11 @@
 # MASTER-DOSSIER: DAS HORTEN-MYSTERIUM
 ## Eine investigative Mockumentary von Volti Sodala
+**Stand:** 27. Februar 2026
 ---
 ### INHALTSVERZEICHNIS
 1. Das Konzept
 2. Das Drehbuch (Teil 1-4)
-3. Das Recherche-Archiv
+3. Das Recherche-Archiv (Inkl. Pilnacek, Benko, Wöginger)
 4. Geheime Medien & Dokumente
 ---
 # Das Konzept: Das Horten-Mysterium
@@ -786,44 +787,6 @@ Ihre Namen sind zudem in den Datenbanken der Holocaust-Gedenkstätten, wie der *
 
 Die Geschichte der Familie Alsberg ist eine eindringliche Erinnerung daran, dass der Reichtum, der durch "Arisierung" erworben wurde, auf Zwang, Leid und Mord gründet. Sie mahnt uns, die Mechanismen solcher Verbrechen zu verstehen, die Rolle der Profiteure kritisch zu hinterfragen und uns aktiv gegen Antisemitismus, Rassismus und jede Form von Diskriminierung zu stellen. Die fortgesetzte Auseinandersetzung mit der Geschichte der Alsbergs ist ein wichtiger Beitrag zur Erinnerungskultur und zur Gestaltung einer verantwortungsvollen Zukunft.
 \n---\n
-# Recherche: Der Fall Christian Pilnacek
-
-**Die geheimen Tonaufnahmen und das „Abdrehen“ von Ermittlungen.**
-
-Christian Pilnacek war über ein Jahrzehnt der mächtigste Beamte im österreichischen Justizministerium. Sein Fall und der dazugehörige Untersuchungsausschuss (2025–2026) bilden die dunkle Schnittstelle zwischen Politik und Justiz in unserer Mockumentary.
-
----
-
-## Die Schlüsselelemente
-
-### 1. Die geheimen Tonaufnahmen (November 2023)
-Kurz nach seinem Tod im Oktober 2023 wurden Tonmitschnitte publik, die Pilnacek heimlich bei einem Treffen in einem Wiener Lokal aufgenommen hatten. Darin erhebt er schwere Vorwürfe gegen die ÖVP:
-*   **Die Sobotka-Intervention:** Pilnacek behauptet, Wolfgang Sobotka habe ihn gefragt, warum er Ermittlungen nicht „abdrehe“.
-*   **Politischer Druck:** Er beschreibt, wie die Volkspartei über Jahre versucht habe, Verfahren gegen ihre Exponenten zu beeinflussen.
-
-### 2. Der Untersuchungsausschuss (2025–2026)
-Seit November 2025 befasst sich ein eigener U-Ausschuss mit den Vorwürfen des Machtmissbrauchs.
-*   **Zentrale Themen:** Politische Einflussnahme auf Ermittlungen, die Auswertung von Pilnaceks Smartwatch-Daten und die Umstände seines Todes.
-*   **Befund der Kreutner-Kommission:** Eine begleitende Kommission unter Martin Kreutner stellte 2024 eine „hochproblematische Zwei-Klassen-Justiz“ in Österreich fest.
-
----
-
-## Bedeutung für das „Horten-Mysterium“
-
-Der Fall Pilnacek ist für unser Projekt die moderne Entsprechung des „Archivs des Schweigens“.
-
-*   **Das Motiv des „Abdrehens“:** Während wir in der Horten-Ära zeigen, wie Namen von Gebäuden gelöscht wurden, zeigen wir in der Ära Pilnacek, wie versucht wurde, ganze Ermittlungsstränge aus den Akten zu tilgen.
-*   **Juristischer Pointillismus:** Ein System, in dem nicht ein großes Gesetz gebrochen wird, sondern viele kleine Interventionen, Telefonate und informelle Treffen (wie in der Tonaufnahme) das Gesamtbild der Rechtsstaatlichkeit verzerren.
-
----
-
-## Medien-Link: „Das politische Testament“
-In unserer Sektion [Geheime Medien](/medien) finden Sie die (nachgestellten) Transkripte der Pilnacek-Aufnahmen, die als atmosphärischer Leitfaden für Teil 4 unseres Drehbuchs dienen.
-
----
-
-*Quellen: Protokolle des Pilnacek-Untersuchungsausschusses (2026), Bericht der Kreutner-Kommission (2024), Berichterstattung von Standard, ORF und Profil.*
-\n---\n
 # Recherche: Der Kaufvertrag Horten-Alsberg (Duisburg 1936)
 
 **Das Fundament eines Imperiums auf den Trümmern einer Existenz.**
@@ -877,150 +840,6 @@ Die im Gutachten beschriebene **„Kühle des Geschäfts“** ist der emotionale
 ---
 
 *Quelle: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten (2022), Helmut Horten Stiftung.*
-\n---\n
-# Recherche: Die Benko-Verbindung (Hortens Erbe bei Signa)
-
-**Vom Kaufhauskönig zum Immobilienspekulanten: Der Kreis schließt sich.**
-
-In unserer Mockumentary ist René Benko der legitime, wenn auch tragische Nachfahre des „Systems Horten“. Während Helmut Horten das physische Fundament des deutschen Einzelhandels durch „Arisierung“ und Expansion legte, nutzte Benko die Überreste dieses Imperiums für die größte Immobilienspekulation der Nachkriegsgeschichte.
-
----
-
-## Die historische Linie
-
-### 1. Von Horten zu Galeria
-Helmut Horten baute die **Horten AG** auf dem Unrecht der 1930er Jahre auf. Nach seinem Rückzug wurde die Kette 1994 von **Kaufhof** übernommen. Die Marke Horten verschwand, doch die Standorte (oft in den besten Innenstadtlagen) blieben erhalten.
-
-### 2. Benkos Übernahme
-René Benko und seine **Signa-Gruppe** kauften Karstadt (2014) und Galeria Kaufhof (2018/2019) und fusionierten sie zu **Galeria Karstadt Kaufhof (GKK)**. Damit kontrollierte Benko fast das gesamte Erbe der großen deutschen Warenhaus-Ära – einschließlich vieler ehemaliger Horten-Standorte.
-
----
-
-## Das System Signa: Moderner Pointillismus?
-
-Benko perfektionierte eine Methode, die wir als „Immobilien-Pointillismus“ bezeichnen könnten:
-- **Die Methode:** Er trennte den Handel (die Warenhäuser) von den Steinen (den Immobilien). 
-- **Der Effekt:** Die Warenhäuser mussten an Signa Prime extrem hohe Mieten zahlen. Dies saugte die Liquidität aus dem Handel ab, während der Wert der Immobilien in den Büchern von Signa künstlich aufgebläht wurde, um neue Kredite zu generieren.
-- **Das Ergebnis:** Ein Kartenhaus aus Milliarden, das erst durch viele kleine, perfekt platzierte Bewertungen und Kredite stabil schien – bis die Zinsen stiegen.
-
----
-
-## Die Pleite (2023–2025)
-
-Ende 2023 kollabierte das Signa-Imperium. Es ist die größte Firmenpleite der österreichischen Geschichte. 
-- **Status 2026:** René Benko wurde wegen Gläubigerschädigung verurteilt und befindet sich in juristischen Auseinandersetzungen über die Reste seines Privatvermögens.
-- **Parallele zu Horten:** Während Heidi Horten ihr Vermögen durch Spenden und Kunst diskret absicherte, scheiterte Benko am Versuch, die Macht durch reine Größe und Schulden zu zementieren.
-
----
-
-## Bedeutung für das „Horten-Mysterium“
-
-Benko fungiert in unserem Film als der „Zauberlehrling“, der die Techniken von Horten (Einflussnahme, Ausnutzung von Systemschwächen) übernommen hat, aber die Kontrolle über die Geister (die Schulden) verlor. 
-
-*   **Satirisches Motiv:** Benko als jemand, der versucht, die „Blutperlen“ der Hortens in „Betongold“ zu verwandeln, dabei aber übersieht, dass das Fundament morsch ist.
-
----
-
-*Quellen: Analysen zur Signa-Insolvenz (Handelsblatt, Standard), historische Daten zur Horten AG, Gerichtsberichte 2025.*
-\n---\n
-# Recherche: Die Eurofighter-Affäre (Das teuerste Spielzeug)
-
-In unserer Mockumentary dient der Eurofighter-Skandal als ultimatives Beispiel für "Gegengeschäfte" und das, was Dr. von Zitzewitz als "kreative Rüstungs-Diplomatie" bezeichnet.
-
-## Der Kern des Skandals
-Seit 2002 beschäftigt dieser Rüstungskauf die österreichische Justiz. Es geht um 15 bis 18 Kampfflugzeuge, hunderte Millionen an Schmiergeldverdacht und ein Geflecht aus Briefkastenfirmen, das selbst Profis schwindelig macht.
-
-## Warum das für uns wichtig ist
-Während Helmut Horten in den 30ern Kaufhäuser "bereinigte", zeigt die Eurofighter-Affäre, wie man im 21. Jahrhundert hunderte Millionen Euro in "Lobbying-Netzwerken" verschwinden lässt, ohne dass am Ende jemand genau weiß, wohin das Geld geflogen ist.
-
-### Fakten & Quellen:
-- **Status:** Unendliche Geschichte. Mehrere U-Ausschüsse, jahrelange Ermittlungen der WKStA.
-- **Wikipedia:** [Details zum Eurofighter-Skandal](https://de.wikipedia.org/wiki/Eurofighter-Aff%C3%A4re)
-- **Die Kosten:** Milliarden an Steuergeldern für Jets, deren Wartung und politische Nachbehandlung.
-
----
-
-*In Teil 3 unserer Mockumentary vergleichen wir die 'Gegengeschäfte' der Eurofighter mit den 'Kaufverträgen' der Alsberg-Häuser.*
-\n---\n
----
-title: Das tragische Schicksal der Familie Alsberg – Die menschlichen Kosten der "Arisierung" und die Rolle Helmut Hortens
-description: Eine tiefgehende Recherche über die jüdische Unternehmerfamilie Alsberg, ihre Kaufhäuser, die brutale "Arisierung" durch die Nationalsozialisten und das individuelle Leid ihrer Mitglieder.
----
-
-# Das tragische Schicksal der Familie Alsberg – Die menschlichen Kosten der "Arisierung" und die Rolle Helmut Hortens
-
-Die Geschichte der Familie Alsberg und ihres einst blühenden Warenhausimperiums ist ein erschütterndes Zeugnis der Verbrechen des Nationalsozialismus und der systematischen Zerstörung jüdischen Lebens und Unternehmertums in Deutschland. Sie illustriert beispielhaft, auf welchem Fundament aus Unrecht und menschlichem Leid der Reichtum mancher Profiteure der NS-Zeit, wie Helmut Horten, aufgebaut wurde. Dieser Artikel beleuchtet die individuellen Schicksale, die wirtschaftliche Enteignung und die tiefgreifenden Auswirkungen, die die nationalsozialistische Ideologie auf das Leben dieser deutschen Bürger hatte.
-
-## Die Wurzeln eines Warenhausriesen: Familie Alsberg und die "Gebrüder Alsberg AG"
-
-Die Familiengeschichte der Alsbergs, die untrennbar mit dem Aufstieg des modernen Warenhauses in Deutschland verbunden ist, beginnt mit **Salomon Alsberg**, einem Kaufmann, der Vater von elf Kindern war. Eines seiner Kinder, **Siegfried Alsberg (1850–1935)**, sollte zum visionären Begründer und Motor eines der bedeutendsten Warenhauskonzerne im Deutschen Reich aufsteigen: der "Gebrüder Alsberg AG" mit Hauptsitz in Köln.
-
-Unter Siegfried Alsbergs Führung und der Beteiligung seiner Ehefrau **Emma Alsberg (geb. Hess, 1857–1942)** sowie weiterer Familienmitglieder entwickelte sich das Unternehmen zu einem florierenden Imperium. Die Alsberg-Warenhäuser waren bekannt für ihre Qualität, ihr breites Sortiment und ihre innovative Geschäftspraxis. Sie prägten die Innenstädte zahlreicher deutscher Metropolen und Mittelstädte, darunter:
-
-*   **Bochum:** Mit dem imposanten "Kortumhaus" an der Hochstraße (heute Kortumstraße), erbaut zwischen 1913 und 1921, das erste große Warenhaus der Stadt.
-*   **Duisburg:** Ein Flaggschiff an der Ecke Beekstraße / Universitätsstraße.
-*   **Neuss:** Ein zentraler Anlaufpunkt für Textilien und Mode an der Oberstraße 91.
-*   **Gelsenkirchen:** An der Bahnhofstraße 53 (heute WEKA-Karree) und Gelsenkirchen-Buer.
-*   **Dresden:** An der Wilsdruffer Straße, König-Albert-Passage und Schloßstraße.
-*   **Weitere Standorte:** Osnabrück, Recklinghausen, Witten, Bielefeld, Detmold, Hagen, Hamm, Hildesheim, Iserlohn, Kassel, Koblenz, Lüdenscheid, Mülheim an der Ruhr, Oberhausen, Oldenburg, Remscheid, Solingen, Wanne-Eickel, Wattenscheid und Wuppertal-Elberfeld.
-
-Diese Präsenz machte die "Gebrüder Alsberg AG" zu einem Eckpfeiler des deutschen Einzelhandels und die Familie Alsberg zu einer angesehenen Größe des Wirtschaftsbürgertums.
-
-## Die "Arisierung": Systematische Enteignung und Zerstörung jüdischen Lebens
-
-Mit der Machtergreifung der Nationalsozialisten im Januar 1933 begann ein beispielloser Prozess der Verfolgung, Diskriminierung und systematischen Enteignung jüdischer Bürger, der euphemistisch als "Arisierung" bezeichnet wurde. Jüdische Geschäftsleute wurden gezielt unter Druck gesetzt, ihre Unternehmen weit unter Wert zu verkaufen oder zwangsweise aufzugeben. Dies war nicht nur ein wirtschaftlicher Akt, sondern ein brutaler Angriff auf die Existenzgrundlagen und die Würde jüdischer Familien.
-
-### Das Fallbeispiel Duisburg und die Rolle Helmut Hortens
-
-Ein besonders prägnantes und historisch bedeutsames Beispiel der "Arisierung" betrifft das Alsberg-Warenhaus in **Duisburg**. Am **1. Mai 1938** übernahm der damals erst 27-jährige **Helmut Horten** dieses bedeutende Geschäft der Alsberg-Kette. Diese Transaktion war keine gewöhnliche Geschäftsübernahme unter fairen Marktbedingungen. Sie fand im Kontext massiven staatlichen Drucks, Boykottmaßnahmen und der existenzbedrohenden Lage der jüdischen Eigentümer statt. Horten, der von dieser Politik profitierte, legte mit diesem und ähnlichen "Arisierungen" den Grundstein für sein späteres Warenhausimperium. Sein Reichtum ist somit untrennbar mit dem Unrecht und dem Leid verbunden, das der Familie Alsberg und unzähligen anderen jüdischen Unternehmern im Zuge der "Arisierung" widerfuhr.
-
-## Individuelle Schicksale: Die menschliche Tragödie der Familie Alsberg
-
-Das persönliche Leid der Familie Alsberg ging weit über den Verlust ihres Lebenswerks hinaus. Es ist eine Geschichte von Vertreibung, Entwürdigung, Deportation und Ermordung, die das ganze Ausmaß der nationalsozialistischen Verbrechen offenbart.
-
-### Siegfried und Emma Alsberg: Die Gründergeneration
-
-**Siegfried Alsberg** verstarb 1935, noch vor den brutalsten Phasen der Verfolgung. Seine Witwe, **Emma Alsberg (geb. Hess)**, geboren am 29. November 1857 in Kempen, erlebte die Eskalation des Terrors. Ihr letzter frei gewählter Wohnsitz war am Stadtwaldgürtel 43 in Köln. Von dort wurde sie am 15. Juni 1942 in das Ghetto Theresienstadt deportiert. Die Bedingungen in Theresienstadt, das als "Vorzeigeghetto" der NS-Propaganda diente, in Wahrheit aber ein Durchgangslager und Sterbelager war, waren unmenschlich. Emma Alsberg verstarb dort am 1. Dezember 1942 im Alter von 85 Jahren an Entkräftung und den Folgen der Haft.
-
-### Dr. Alfred Alsberg und Martha Alsberg: Das Ende einer Familie
-
-Ihr Sohn, der promovierte Jurist und Weltkriegsoffizier **Dr. Alfred Alsberg (geb. 1883)**, war nicht nur Miteigentümer, sondern auch Direktor der Gebrüder Alsberg AG und leitete unter anderem das Geschäft in Bochum (Kortumhaus). Selbst nach der Machtübernahme der Nazis wurde er zunächst noch als Geschäftsführer toleriert, da seine Expertise für den Betrieb unerlässlich war. Doch der Druck wuchs unaufhörlich. Das Kortumhaus wurde 1933/1935 zwangsweise in "Kaufhaus Kortum" umbenannt, um den jüdischen Namen zu tilgen.
-
-Alfred Alsberg und seine Ehefrau **Martha Alsberg (geb. Eichengrün, 1895–1944)** lebten zuletzt am Morsdorfer Hof 35 in Köln. Im Oktober 1941 wurden sie von dort aus in das Ghetto Litzmannstadt (Łódź) deportiert. In diesem Ghetto herrschten katastrophale Bedingungen. **Alfred Alsberg** verhungerte dort am 14. November 1943. **Martha Alsberg** wurde nach ihrer Deportation aus Litzmannstadt im Jahr 1944 in das Vernichtungslager Kulmhof (Chełmno) gebracht und dort ermordet. Ihr Tod im Vernichtungslager ist ein weiterer Beleg für den systematischen Völkermord der Nationalsozialisten.
-
-### Die überlebenden Kinder Alfreds und Marthas: Eine Flucht ins Ungewisse
-
-Mitten in diesem unermesslichen Leid gab es auch Geschichten des Überlebens, oft durch heroische Anstrengungen oder glückliche Umstände. Drei Kinder von Alfred und Martha Alsberg konnten dem Holocaust entkommen:
-
-*   **Eva Alsberg (geb. 1924)** gelang die Flucht mit einem Kindertransport nach England. Sie heiratete später den Diplomaten Herbert Samuel Walker. Ihr Schicksal ist auch durch einen Stolperstein vor ihrer ehemaligen Schule, der Königin-Luise-Schule in Köln, verewigt.
-*   Ihre Brüder **Fritz Alsberg (1920–2009)** und **Heinz Alsberg (1921–2008)** konnten ebenfalls rechtzeitig ins Ausland fliehen und so dem sicheren Tod entgehen.
-
-### Die Josephs-Familie in Neuss: Eine ausgelöschte Generation
-
-Die Tragödie der Alsbergs beschränkte sich nicht nur auf die direkte Gründerfamilie. Eng mit dem Unternehmen verbunden war die **Familie Josephs** in Neuss. Der Geschäftsführer des Kaufhauses Alsberg in Neuss, **Gustav Josephs (geb. 1881)**, war eine prägende Figur des lokalen Wirtschaftslebens. Nach der "Arisierung" des Geschäfts im Jahr 1939 floh er mit seiner Familie in die Niederlande. Doch auch dort waren sie nicht sicher vor der deutschen Besatzung. Die Familie wurde im Durchgangslager Westerbork interniert und von dort aus nach Auschwitz deportiert.
-
-*   **Gustav Josephs** wurde am 17. September 1942 in Auschwitz ermordet.
-*   Seine Ehefrau **Käthe Josephs (geb. Felsenthal, 1890)** teilte sein Schicksal und wurde ebenfalls am 17. September 1942 in Auschwitz ermordet.
-*   Ihre drei Töchter wurden ebenfalls in Auschwitz ermordet:
-    *   **Ruth Josephs (geb. 1921)** am 17. September 1942.
-    *   **Lotte Josephs (geb. 1917)** am 30. September 1942.
-    *   **Ilse Josephs (geb. 1919)** am 30. September 1942.
-
-Die gesamte Kernfamilie Josephs wurde durch den Holocaust ausgelöscht – ein erschütterndes Beispiel für die Vernichtungsabsicht des Regimes. Ihre Geschichte wird in Neuss durch fünf Stolpersteine vor ihrem letzten frei gewählten Wohnhaus an der Loerickstraße 6 bewahrt, deren Patenschaft von Schülerinnen des Gymnasiums Marienberg übernommen wurde.
-
-### Weitere Opfer aus dem erweiterten Kreis
-
-Auch andere Verwandte der Alsbergs fielen dem Rassenwahn zum Opfer. **Laura Johanna Alsberg (geb. Oppenheim, 1861–1943)**, die Ehefrau von Rudolf Alsberg (einem Verwandten Siegfrieds), lebte zuletzt am Lindenthalgürtel 43 in Köln. Auch sie wurde in das Ghetto Theresienstadt deportiert und dort ermordet. Ihr Schicksal wird ebenfalls durch einen Stolperstein in Köln gewürdigt.
-
-Zwei weitere Stolpersteine in Neuss erinnern an **Albert Joseph (geb. 1862)** und **Julie Joseph (geb. 1866)** an der Drususallee 81. Auch sie wurden am 22. Juli 1942 nach Theresienstadt deportiert. Albert Joseph verstarb dort am 27. September 1942, Julie Joseph am 9. Januar 1943. Obwohl die direkte Verbindung dieser Josephs zu Gustav Josephs nicht explizit ist, zeugen ihre Schicksale vom breit angelegten Terror gegen die jüdische Bevölkerung.
-
-## Erinnerung, Mahnung und die Aufarbeitung der Geschichte
-
-Das Gedenken an die Opfer der Familie Alsberg und all jener, die unter der nationalsozialistischen Gewaltherrschaft leiden mussten, ist von immenser Bedeutung. **Stolpersteine**, kleine Messingtafeln im Pflaster vor den letzten frei gewählten Wohnhäusern der Opfer, erinnern heute in Köln (z.B. für Emma Alsberg am Stadtwaldgürtel 43, für Eva Alsberg an der Königin-Luise-Schule, für Laura Johanna Alsberg am Lindenthalgürtel 43, und geplante Steine für Alfred, Martha, Fritz und Heinz Alsberg am Morsdorfer Hof 35 im Juni 2025), in Gelsenkirchen (für Alfred, Emma und Martha Alsberg an der Bahnhofstraße 55–65) und in Neuss (für die Familie Josephs an der Loerickstraße 6 und Drususallee 81) an das Leben und die Ermordung dieser Menschen.
-
-Ihre Namen sind zudem in den Datenbanken der Holocaust-Gedenkstätten, wie der **Yad Vashem**-Datenbank der Namen der Shoah-Opfer, verewigt. Lokale Initiativen, wie die Forschungen von Schülern der Königin-Luise-Schule in Köln, tragen aktiv dazu bei, diese Geschichten vor dem Vergessen zu bewahren.
-
-Die Geschichte der Familie Alsberg ist eine eindringliche Erinnerung daran, dass der Reichtum, der durch "Arisierung" erworben wurde, auf Zwang, Leid und Mord gründet. Sie mahnt uns, die Mechanismen solcher Verbrechen zu verstehen, die Rolle der Profiteure kritisch zu hinterfragen und uns aktiv gegen Antisemitismus, Rassismus und jede Form von Diskriminierung zu stellen. Die fortgesetzte Auseinandersetzung mit der Geschichte der Alsbergs ist ein wichtiger Beitrag zur Erinnerungskultur und zur Gestaltung einer verantwortungsvollen Zukunft.
 \n---\n
 ---
 title: "Helmut Horten – Rüstungsprofite und Zwangsarbeit (Johannisthal)"
@@ -1083,6 +902,51 @@ Das Ibiza-Video öffnete die "Büchse der Pandora". Ohne die Ermittlungen nach I
 
 *In unserer Mockumentary nutzen wir die 'Ibiza-Logik' als Metapher für die Hinterzimmer-Gespräche der 30er Jahre.*
 \n---\n
+# Recherche: Die Schredder-Affäre (Reißwolf-Gate)
+
+Im Kontext unserer Mockumentary beleuchten wir nicht nur die historischen Machenschaften der Ära Horten, sondern auch die moderne Ethik politischer Transparenz. Ein Musterbeispiel für den Umgang mit 'unangenehmen Daten' ist die österreichische Schredder-Affäre von 2019.
+
+## Der Vorfall
+Kurz nach dem Bekanntwerden des Ibiza-Videos brachte ein enger Vertrauter des damaligen Kanzlers Sebastian Kurz unter dem Pseudonym "Walter Maisinger" fünf Festplatten zur Firma *Reisswolf*. Er ließ sie dreifach schreddern, nahm die Überreste wieder mit und vergaß, die Rechnung zu bezahlen – was die gesamte Aktion auffliegen ließ.
+
+## Ethische Einordnung für unser Projekt
+Für die Mockumentary ziehen wir Parallelen zwischen der 'Marktbereinigung' Helmut Hortens und der 'Datenbereinigung' der modernen Politik. Beides folgt dem Prinzip: *Was nicht mehr existiert, hat nie stattgefunden.*
+
+### Fakten-Check & Links:
+- **Der Ablauf:** Eine konspirative Aktion, die laut ÖVP nur dem "Schutz sensibler Daten" diente, von Kritikern jedoch als Vernichtung von Beweismitteln zur Ibiza-Affäre gewertet wurde.
+- **Wikipedia-Artikel:** [Chronik der Schredder-Affäre](https://de.wikipedia.org/wiki/Schredder-Aff%C3%A4re)
+- **Hintergrundbericht (Kontrast.at):** [Festplatten-Vernichtung im Detail](https://kontrast.at/schredder-affaere-kurz-oevp-reisswolf/)
+
+### Video-Material:
+In der Mockumentary planen wir, die Szenen der Festplatten-Vernichtung satirisch nachzustellen. Hier ist das Original-Thema in den Medien:
+- [YouTube-Suche: ÖVP Schredder Video](https://www.youtube.com/results?search_query=%C3%B6vp+schredder+video)
+
+### Parallele zum Horten-Projekt:
+Genau wie die Horten-Spenden in winzige Stücke zerlegt wurden, um sie unsichtbar zu machen (Pointillismus des Kapitals), wurden hier Festplatten in winzige Stücke zerlegt. Es ist eine Ästhetik der Zerstörung, die wir in Teil 4 filmisch aufgreifen.
+
+---
+
+*Quelle der Recherche: Investigative Berichte von Standard, Falter und internationalen Medien.*
+\n---\n
+# Recherche: Die Eurofighter-Affäre (Das teuerste Spielzeug)
+
+In unserer Mockumentary dient der Eurofighter-Skandal als ultimatives Beispiel für "Gegengeschäfte" und das, was Dr. von Zitzewitz als "kreative Rüstungs-Diplomatie" bezeichnet.
+
+## Der Kern des Skandals
+Seit 2002 beschäftigt dieser Rüstungskauf die österreichische Justiz. Es geht um 15 bis 18 Kampfflugzeuge, hunderte Millionen an Schmiergeldverdacht und ein Geflecht aus Briefkastenfirmen, das selbst Profis schwindelig macht.
+
+## Warum das für uns wichtig ist
+Während Helmut Horten in den 30ern Kaufhäuser "bereinigte", zeigt die Eurofighter-Affäre, wie man im 21. Jahrhundert hunderte Millionen Euro in "Lobbying-Netzwerken" verschwinden lässt, ohne dass am Ende jemand genau weiß, wohin das Geld geflogen ist.
+
+### Fakten & Quellen:
+- **Status:** Unendliche Geschichte. Mehrere U-Ausschüsse, jahrelange Ermittlungen der WKStA.
+- **Wikipedia:** [Details zum Eurofighter-Skandal](https://de.wikipedia.org/wiki/Eurofighter-Aff%C3%A4re)
+- **Die Kosten:** Milliarden an Steuergeldern für Jets, deren Wartung und politische Nachbehandlung.
+
+---
+
+*In Teil 3 unserer Mockumentary vergleichen wir die 'Gegengeschäfte' der Eurofighter mit den 'Kaufverträgen' der Alsberg-Häuser.*
+\n---\n
 # Recherche: Die Inseraten-Affäre (Gekaufte Meinung)
 
 In unserer Mockumentary untersuchen wir, wie man sich die Gunst der Presse nicht nur verdient, sondern schlichtweg kauft. Die Inseraten-Affäre der Ära Kurz ist hierfür das Lehrstück des 21. Jahrhunderts.
@@ -1095,129 +959,6 @@ Helmut Horten wusste schon früh: Wer die Schaufenster kontrolliert, kontrollier
 
 ---
 *Wissenschaftlicher Fokus: Die Instrumentalisierung des Boulevards als politisches Werkzeug.*
-\n---\n
-# Recherche: Korruption von FPÖ und ÖVP in Regierungsverantwortung (Internationale Perspektiven)
-
-Die politische Landschaft Österreichs wurde in den letzten Jahren von einer Reihe von Korruptionsvorwürfen und Skandalen erschüttert, die auch international Beachtung fanden. Insbesondere die Regierungszeiten, in denen FPÖ und ÖVP maßgeblich beteiligt waren, zogen die Kritik internationaler Organisationen und Medien auf sich.
-
-## Hauptkritikpunkte internationaler Beobachter
-
-### 1. GRECO (Europarat – Staatengruppe gegen Korruption)
-Die GRECO-Berichte kritisieren Österreich seit Jahren für die schleppende Umsetzung von Antikorruptions-Empfehlungen.
-*   **Mangelnde Transparenz:** Es gibt Defizite bei der Offenlegung von Nebentätigkeiten von Abgeordneten und mangelnde Regeln für Lobbying.
-*   **Keine unabhängige Staatsanwaltschaft:** Die Weisungsgebundenheit der Staatsanwaltschaft wird als Einfallstor für politischen Einfluss gesehen.
-*   **Strategische Risikoanalyse fehlt:** Insbesondere für Personen in obersten Exekutivfunktionen (Minister, Staatssekretäre) fehlt ein systematischer Ansatz zur Korruptionsrisikoanalyse.
-
-### 2. Europäische Kommission (Rechtsstaatlichkeitsberichte)
-Die EU-Kommission thematisiert in ihren jährlichen Berichten wiederkehrend "besorgniserregende Entwicklungen":
-*   **Politischer Druck auf die Justiz:** Speziell die Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) war wiederholt Ziel politischer Angriffe und des Versuchs der Einflussnahme.
-*   **Fehlende unabhängige Bundesstaatsanwaltschaft:** Die Forderung nach einer von politischem Einfluss unabhängigen Bundesstaatsanwaltschaft ist ein zentraler Punkt.
-*   **Inseratenkorruption:** Mangelnde Transparenz und hohe Staatsausgaben für Regierungsinserate werden als Mittel zur Medienbeeinflussung kritisiert.
-
-### 3. Transparency International (Corruption Perceptions Index - CPI)
-Österreichs Position im weltweiten Korruptionswahrnehmungsindex hat sich unter den genannten Regierungen deutlich verschlechtert.
-*   **Absturz im Ranking:** Von Platz 15 im Jahr 2018 fiel Österreich auf einen historischen Tiefstand (z.B. Platz 25 im Jahr 2024), was auf die zahlreichen Skandale und die mangelnde Reformbereitschaft zurückgeführt wird.
-*   **Gründe:** Günstlingswirtschaft, persönliche Bereicherung und Versuche der politischen Einflussnahme auf unabhängige Medien sind wiederkehrende Stichworte.
-
-### 4. OECD (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung)
-Die OECD fordert insbesondere eine Stärkung der Unabhängigkeit der Staatsanwaltschaft und eine präzisere Handhabung von Rechtshilfeersuchen, um die Verfolgung von Korruptionsdelikten nicht zu behindern.
-
-### 5. Internationale Medien und der Ibiza-Skandal
-Der **Ibiza-Skandal (Mai 2019)**, aufgedeckt durch den Spiegel und die Süddeutsche Zeitung, zeigte den damaligen Vizekanzler Heinz-Christian Strache (FPÖ), wie er einer vermeintlichen russischen Oligarchin Staatsaufträge in Aussicht stellte. Dies führte international zu großer Empörung und dem Zusammenbruch der Regierung. Der Skandal wurde weltweit von renommierten Medien wie The Guardian, The New York Times und Le Monde aufgegriffen und als schwerwiegender Angriff auf die demokratischen Institutionen Österreichs bewertet.
-
-### Zusammenfassende Vorwürfe (Auswahl):
-*   **Ibiza-Affäre:** Geplante Umgehung von Parteienfinanzierungsregeln und Verkauf von Staatsanteilen.
-*   **Postenschacher:** Systematische Besetzung von Schlüsselpositionen in staatsnahen Betrieben und Institutionen nach Parteibuch.
-*   **Inseraten-Affäre/Beinschab-Österreich-Skandal:** Vorwürfe der Manipulation von Umfragen und Beeinflussung von Medien durch Steuergeld.
-
----
-
-*Quellen für diese Recherche: Berichte von GRECO (Europarat), Europäischer Kommission, Transparency International, OECD sowie internationale Medienberichte zu den jeweiligen Skandalen.*
-\n---\n
-# Recherche: Die modernen Machtzirkel der ÖVP
-
-**Vom „Neuen Stil“ zum Milliarden-Defizit: Die Fortsetzung des Pointillismus.**
-
-In der modernen Phase des „Horten-Mysteriums“ begegnen uns Akteure, die das Erbe der diskreten Einflussnahme in das digitale Zeitalter übersetzt haben. Während Helmut Horten Kaufhäuser sammelte, sammelten diese Akteure Daten, Posten und – am Ende – ein gewaltiges Budgetloch.
-
----
-
-## Die Schlüsselfiguren
-
-### 1. Sebastian Kurz & Gernot Blümel: Die Architekten des „Systems“
-*   **Der Aufstieg:** Mit dem „Projekt Ballhausplatz“ wurde die Machtübernahme in der ÖVP akribisch geplant.
-*   **Die Methoden:** Umfragen-Manipulation (Beinschab-Tool) und massive Inseratenkäufe in Boulevardmedien.
-*   **Gernot Blümel:** Als engster Vertrauter und Finanzminister geriet er durch die „Laptop-Affäre“ (Spaziergang mit dem Kinderwagen) und seine Gedächtnislücken im U-Ausschuss in die Schlagzeilen.
-
-### 2. Magnus Brunner: Der Verwalter des Defizits
-*   **Das „Budgetloch“:** Unter Brunner explodierte das Staatsdefizit 2024 auf **4,7 % des BIP** – weit über der EU-Maastricht-Grenze von 3 %.
-*   **Die Inflation:** Österreich verzeichnete unter Brunner eine der höchsten Inflationsraten der Eurozone (2,9 % in 2024, Anstieg auf 3,6 % in 2025 nach Auslaufen der Strompreisbremse).
-*   **Der Abgang:** Ende 2024 wechselte Brunner als EU-Kommissar nach Brüssel, während in Österreich über die „geschönten“ Budgetprognosen debattiert wurde.
-
-### 3. Wolfgang Sobotka: Der Wächter des Parlaments
-*   **Rolle:** Als Nationalratspräsident leitete er die U-Ausschüsse, in denen die Korruptionsvorwürfe gegen seine eigene Partei behandelt wurden – ein permanenter Interessenkonflikt nach Ansicht der Opposition.
-*   **Symbolik:** Die „Sobotka-Orgel“ (ein teures Miet-Klavier im Parlament) wurde zum Symbol für eine abgehobene Machtelite, die sich den Luxus auf Steuerzahlerkosten gönnt, während die Inflation das Volk trifft.
-
----
-
-## Parallelen zum Horten-Erbe
-
-In unserer Mockumentary ziehen wir folgende Linien:
-- **Verschleierung:** Was früher die Spendenstückelung bei Heidi Horten war, ist heute die Diskrepanz zwischen Budgetprognosen und Realität bei Magnus Brunner.
-- **Machtanspruch:** Die „Marktbereinigung“ Helmut Hortens findet ihre moderne Entsprechung im „Postenschacher“ (August Wöginger) und der Kontrolle der Medienlandschaft.
-- **Aesthetic of Silence:** Sobotka verkörpert den parlamentarischen Widerstand gegen die vollständige Aufklärung – das „Archiv des Schweigens“ in seiner modernsten Form.
-
----
-
-*Quellen: Berichte der Statistik Austria (2024/2025), WKStA-Ermittlungsakten, Analysen zum EU-Defizitverfahren gegen Österreich.*
-\n---\n
-# Recherche: Die ÖVP-Spendenliste (Heidi Goëss-Horten)
-
-**„Pointillismus des Kapitals“ – Wie 931.000 Euro für den Rechnungshof unsichtbar wurden.**
-
-Eines der zentralen Motive in Teil 4 unserer Mockumentary ist der „Regen aus Gold“ – die massiven Parteispenden von Heidi Goëss-Horten an die ÖVP in den Jahren 2018 und 2019. Was oberflächlich wie bürgerliches Engagement aussieht, entpuppt sich bei näherer Betrachtung als ein Meisterwerk der bürokratischen Verschleierung, auch bekannt als „Spendenstückelung“.
-
----
-
-## Die nackten Zahlen
-
-Heidi Horten war in den Jahren vor der Verschärfung des Parteiengesetzes die mit Abstand größte Einzelspenderin der ÖVP-Bundespartei.
-
-### 1. Gesamtvolumen (2018–2019)
-Insgesamt flossen **931.000 Euro** von Heidi Horten an die ÖVP.
-
-*   **Jahr 2018:** 588.000 Euro
-*   **Jahr 2019 (bis Juni):** 343.000 Euro
-
-### 2. Die Methode: Stückelung auf 49.000 Euro
-Das Besondere an diesen Spenden war nicht nur die Höhe, sondern die Art der Überweisung. Die Summen wurden konsequent in Tranchen von jeweils **49.000 Euro** aufgeteilt.
-
-*   **Der Grund:** Nach der damals geltenden Rechtslage mussten Spenden erst ab einem Einzelbetrag von **50.000 Euro** sofort dem Rechnungshof gemeldet und von diesem veröffentlicht werden.
-*   **Der Effekt:** Durch die Wahl von 49.000 Euro blieben die Spenden bis zur jährlichen Rechenschaftslegung (die erst mit großer Verzögerung erfolgt) der Öffentlichkeit verborgen. Die ÖVP musste diese Spenden erst im August 2019 – unter dem massiven Druck der Ibiza-Affäre – vorzeitig offenlegen.
-
----
-
-## Politische und rechtliche Konsequenzen
-
-Die „Causa Horten“ war der Hauptauslöser für eine historische Reform des österreichischen Parteiengesetzes im Juli 2019 (das sogenannte „Anti-Korruptions-Paket“).
-
-### Die wichtigsten Änderungen:
-*   **Sofortige Meldepflicht:** Spenden müssen nun bereits ab einem Betrag von **2.500 Euro** sofort gemeldet werden.
-*   **Spenden-Obergrenze:** Ein einzelner Spender darf pro Jahr insgesamt nur noch maximal **7.500 Euro** an eine Partei spenden. Ein Betrag von 931.000 Euro wäre heute also völlig illegal.
-*   **Prüfkompetenz:** Der Rechnungshof erhielt wesentlich stärkere Durchgriffsrechte, um die Finanzen der Parteien direkt zu prüfen.
-
----
-
-## Bedeutung für das „Horten-Mysterium“
-
-In unserem Film dient die Spendenliste als Brücke zwischen der historischen „Marktbereinigung“ Helmut Hortens und der modernen „Politikgestaltung“ seiner Witwe. 
-
-*   **Satirisches Motiv:** Wir zeigen die 49.000-Euro-Überweisungen als „künstlerische Punkte“ (Pointillismus), die erst aus der Entfernung das wahre Bild der politischen Einflussnahme ergeben. 
-*   **Die Moral:** Während Helmut Horten in den 1930ern mit dem Segen des Staates Vermögen anhäufte, sorgte Heidi Horten mit ihrem Vermögen dafür, dass der Segen des Staates (in Form von politischem Wohlwollen) erhalten blieb.
-
----
-
-*Quellen: Berichte des Rechnungshofs (2019), Analysen von kurier.at, kontrast.at und profil.at zur Parteienfinanzierung.*
 \n---\n
 # Recherche: Postenschacher & Die Thomas-Schmid-Chats
 
@@ -1275,31 +1016,125 @@ In unserer Mockumentary ziehen wir Parallelen zwischen der historischen Begünst
 
 *Quellen: Aktuelle Berichterstattung (Trend, Krone, Kurier, OE24) vom 27. Februar 2026, Akten der WKStA.*
 \n---\n
-# Recherche: Die Schredder-Affäre (Reißwolf-Gate)
+# Recherche: Die modernen Machtzirkel der ÖVP
 
-Im Kontext unserer Mockumentary beleuchten wir nicht nur die historischen Machenschaften der Ära Horten, sondern auch die moderne Ethik politischer Transparenz. Ein Musterbeispiel für den Umgang mit 'unangenehmen Daten' ist die österreichische Schredder-Affäre von 2019.
+**Vom „Neuen Stil“ zum Milliarden-Defizit: Die Fortsetzung des Pointillismus.**
 
-## Der Vorfall
-Kurz nach dem Bekanntwerden des Ibiza-Videos brachte ein enger Vertrauter des damaligen Kanzlers Sebastian Kurz unter dem Pseudonym "Walter Maisinger" fünf Festplatten zur Firma *Reisswolf*. Er ließ sie dreifach schreddern, nahm die Überreste wieder mit und vergaß, die Rechnung zu bezahlen – was die gesamte Aktion auffliegen ließ.
-
-## Ethische Einordnung für unser Projekt
-Für die Mockumentary ziehen wir Parallelen zwischen der 'Marktbereinigung' Helmut Hortens und der 'Datenbereinigung' der modernen Politik. Beides folgt dem Prinzip: *Was nicht mehr existiert, hat nie stattgefunden.*
-
-### Fakten-Check & Links:
-- **Der Ablauf:** Eine konspirative Aktion, die laut ÖVP nur dem "Schutz sensibler Daten" diente, von Kritikern jedoch als Vernichtung von Beweismitteln zur Ibiza-Affäre gewertet wurde.
-- **Wikipedia-Artikel:** [Chronik der Schredder-Affäre](https://de.wikipedia.org/wiki/Schredder-Aff%C3%A4re)
-- **Hintergrundbericht (Kontrast.at):** [Festplatten-Vernichtung im Detail](https://kontrast.at/schredder-affaere-kurz-oevp-reisswolf/)
-
-### Video-Material:
-In der Mockumentary planen wir, die Szenen der Festplatten-Vernichtung satirisch nachzustellen. Hier ist das Original-Thema in den Medien:
-- [YouTube-Suche: ÖVP Schredder Video](https://www.youtube.com/results?search_query=%C3%B6vp+schredder+video)
-
-### Parallele zum Horten-Projekt:
-Genau wie die Horten-Spenden in winzige Stücke zerlegt wurden, um sie unsichtbar zu machen (Pointillismus des Kapitals), wurden hier Festplatten in winzige Stücke zerlegt. Es ist eine Ästhetik der Zerstörung, die wir in Teil 4 filmisch aufgreifen.
+In der modernen Phase des „Horten-Mysteriums“ begegnen uns Akteure, die das Erbe der diskreten Einflussnahme in das digitale Zeitalter übersetzt haben. Während Helmut Horten Kaufhäuser sammelte, sammelten diese Akteure Daten, Posten und – am Ende – ein gewaltiges Budgetloch.
 
 ---
 
-*Quelle der Recherche: Investigative Berichte von Standard, Falter und internationalen Medien.*
+## Die Schlüsselfiguren
+
+### 1. Sebastian Kurz & Gernot Blümel: Die Architekten des „Systems“
+*   **Der Aufstieg:** Mit dem „Projekt Ballhausplatz“ wurde die Machtübernahme in der ÖVP akribisch geplant.
+*   **Die Methoden:** Umfragen-Manipulation (Beinschab-Tool) und massive Inseratenkäufe in Boulevardmedien.
+*   **Gernot Blümel:** Als engster Vertrauter und Finanzminister geriet er durch die „Laptop-Affäre“ (Spaziergang mit dem Kinderwagen) und seine Gedächtnislücken im U-Ausschuss in die Schlagzeilen.
+
+### 2. Magnus Brunner: Der Verwalter des Defizits
+*   **Das „Budgetloch“:** Unter Brunner explodierte das Staatsdefizit 2024 auf **4,7 % des BIP** – weit über der EU-Maastricht-Grenze von 3 %.
+*   **Die Inflation:** Österreich verzeichnete unter Brunner eine der höchsten Inflationsraten der Eurozone (2,9 % in 2024, Anstieg auf 3,6 % in 2025 nach Auslaufen der Strompreisbremse).
+*   **Der Abgang:** Ende 2024 wechselte Brunner als EU-Kommissar nach Brüssel, während in Österreich über die „geschönten“ Budgetprognosen debattiert wurde.
+
+### 3. Wolfgang Sobotka: Der Wächter des Parlaments
+*   **Rolle:** Als Nationalratspräsident leitete er die U-Ausschüsse, in denen die Korruptionsvorwürfe gegen seine eigene Partei behandelt wurden – ein permanenter Interessenkonflikt nach Ansicht der Opposition.
+*   **Symbolik:** Die „Sobotka-Orgel“ (ein teures Miet-Klavier im Parlament) wurde zum Symbol für eine abgehobene Machtelite, die sich den Luxus auf Steuerzahlerkosten gönnt, während die Inflation das Volk trifft.
+
+---
+
+## Parallelen zum Horten-Erbe
+
+In unserer Mockumentary ziehen wir folgende Linien:
+- **Verschleierung:** Was früher die Spendenstückelung bei Heidi Horten war, ist heute die Diskrepanz zwischen Budgetprognosen und Realität bei Magnus Brunner.
+- **Machtanspruch:** Die „Marktbereinigung“ Helmut Hortens findet ihre moderne Entsprechung im „Postenschacher“ (August Wöginger) und der Kontrolle der Medienlandschaft.
+- **Aesthetic of Silence:** Sobotka verkörpert den parlamentarischen Widerstand gegen die vollständige Aufklärung – das „Archiv des Schweigens“ in seiner modernsten Form.
+
+---
+
+*Quellen: Berichte der Statistik Austria (2024/2025), WKStA-Ermittlungsakten, Analysen zum EU-Defizitverfahren gegen Österreich.*
+\n---\n
+# Recherche: Die Benko-Verbindung (Hortens Erbe bei Signa)
+
+**Vom Kaufhauskönig zum Immobilienspekulanten: Der Kreis schließt sich.**
+
+In unserer Mockumentary ist René Benko der legitime, wenn auch tragische Nachfahre des „Systems Horten“. Während Helmut Horten das physische Fundament des deutschen Einzelhandels durch „Arisierung“ und Expansion legte, nutzte Benko die Überreste dieses Imperiums für die größte Immobilienspekulation der Nachkriegsgeschichte.
+
+---
+
+## Die historische Linie
+
+### 1. Von Horten zu Galeria
+Helmut Horten baute die **Horten AG** auf dem Unrecht der 1930er Jahre auf. Nach seinem Rückzug wurde die Kette 1994 von **Kaufhof** übernommen. Die Marke Horten verschwand, doch die Standorte (oft in den besten Innenstadtlagen) blieben erhalten.
+
+### 2. Benkos Übernahme
+René Benko und seine **Signa-Gruppe** kauften Karstadt (2014) und Galeria Kaufhof (2018/2019) und fusionierten sie zu **Galeria Karstadt Kaufhof (GKK)**. Damit kontrollierte Benko fast das gesamte Erbe der großen deutschen Warenhaus-Ära – einschließlich vieler ehemaliger Horten-Standorte.
+
+---
+
+## Das System Signa: Moderner Pointillismus?
+
+Benko perfektionierte eine Methode, die wir als „Immobilien-Pointillismus“ bezeichnen könnten:
+- **Die Methode:** Er trennte den Handel (die Warenhäuser) von den Steinen (den Immobilien). 
+- **Der Effekt:** Die Warenhäuser mussten an Signa Prime extrem hohe Mieten zahlen. Dies saugte die Liquidität aus dem Handel ab, während der Wert der Immobilien in den Büchern von Signa künstlich aufgebläht wurde, um neue Kredite zu generieren.
+- **Das Ergebnis:** Ein Kartenhaus aus Milliarden, das erst durch viele kleine, perfekt platzierte Bewertungen und Kredite stabil schien – bis die Zinsen stiegen.
+
+---
+
+## Die Pleite (2023–2025)
+
+Ende 2023 kollabierte das Signa-Imperium. Es ist die größte Firmenpleite der österreichischen Geschichte. 
+- **Status 2026:** René Benko wurde wegen Gläubigerschädigung verurteilt und befindet sich in juristischen Auseinandersetzungen über die Reste seines Privatvermögens.
+- **Parallele zu Horten:** Während Heidi Horten ihr Vermögen durch Spenden und Kunst diskret absicherte, scheiterte Benko am Versuch, die Macht durch reine Größe und Schulden zu zementieren.
+
+---
+
+## Bedeutung für das „Horten-Mysterium“
+
+Benko fungiert in unserem Film als der „Zauberlehrling“, der die Techniken von Horten (Einflussnahme, Ausnutzung von Systemschwächen) übernommen hat, aber die Kontrolle über die Geister (die Schulden) verlor. 
+
+*   **Satirisches Motiv:** Benko als jemand, der versucht, die „Blutperlen“ der Hortens in „Betongold“ zu verwandeln, dabei aber übersieht, dass das Fundament morsch ist.
+
+---
+
+*Quellen: Analysen zur Signa-Insolvenz (Handelsblatt, Standard), historische Daten zur Horten AG, Gerichtsberichte 2025.*
+\n---\n
+# Recherche: Der Fall Christian Pilnacek
+
+**Die geheimen Tonaufnahmen und das „Abdrehen“ von Ermittlungen.**
+
+Christian Pilnacek war über ein Jahrzehnt der mächtigste Beamte im österreichischen Justizministerium. Sein Fall und der dazugehörige Untersuchungsausschuss (2025–2026) bilden die dunkle Schnittstelle zwischen Politik und Justiz in unserer Mockumentary.
+
+---
+
+## Die Schlüsselelemente
+
+### 1. Die geheimen Tonaufnahmen (November 2023)
+Kurz nach seinem Tod im Oktober 2023 wurden Tonmitschnitte publik, die Pilnacek heimlich bei einem Treffen in einem Wiener Lokal aufgenommen hatten. Darin erhebt er schwere Vorwürfe gegen die ÖVP:
+*   **Die Sobotka-Intervention:** Pilnacek behauptet, Wolfgang Sobotka habe ihn gefragt, warum er Ermittlungen nicht „abdrehe“.
+*   **Politischer Druck:** Er beschreibt, wie die Volkspartei über Jahre versucht habe, Verfahren gegen ihre Exponenten zu beeinflussen.
+
+### 2. Der Untersuchungsausschuss (2025–2026)
+Seit November 2025 befasst sich ein eigener U-Ausschuss mit den Vorwürfen des Machtmissbrauchs.
+*   **Zentrale Themen:** Politische Einflussnahme auf Ermittlungen, die Auswertung von Pilnaceks Smartwatch-Daten und die Umstände seines Todes.
+*   **Befund der Kreutner-Kommission:** Eine begleitende Kommission unter Martin Kreutner stellte 2024 eine „hochproblematische Zwei-Klassen-Justiz“ in Österreich fest.
+
+---
+
+## Bedeutung für das „Horten-Mysterium“
+
+Der Fall Pilnacek ist für unser Projekt die moderne Entsprechung des „Archivs des Schweigens“.
+
+*   **Das Motiv des „Abdrehens“:** Während wir in der Horten-Ära zeigen, wie Namen von Gebäuden gelöscht wurden, zeigen wir in der Ära Pilnacek, wie versucht wurde, ganze Ermittlungsstränge aus den Akten zu tilgen.
+*   **Juristischer Pointillismus:** Ein System, in dem nicht ein großes Gesetz gebrochen wird, sondern viele kleine Interventionen, Telefonate und informelle Treffen (wie in der Tonaufnahme) das Gesamtbild der Rechtsstaatlichkeit verzerren.
+
+---
+
+## Medien-Link: „Das politische Testament“
+In unserer Sektion [Geheime Medien](/medien) finden Sie die (nachgestellten) Transkripte der Pilnacek-Aufnahmen, die als atmosphärischer Leitfaden für Teil 4 unseres Drehbuchs dienen.
+
+---
+
+*Quellen: Protokolle des Pilnacek-Untersuchungsausschusses (2026), Bericht der Kreutner-Kommission (2024), Berichterstattung von Standard, ORF und Profil.*
 \n---\n
 # Recherche: Walter Rosenkranz (Vorsitz im Pilnacek-Ausschuss)
 
@@ -1329,6 +1164,44 @@ Rosenkranz fungiert in unserer Mockumentary als der „unbequeme Zeremonienmeist
 ---
 
 *Quellen: Protokolle des Nationalrats (2026), Berichterstattung zu den U-Ausschuss-Befragungen (OE24, ORF, heute.at).*
+\n---\n
+# Recherche: Korruption von FPÖ und ÖVP in Regierungsverantwortung (Internationale Perspektiven)
+
+Die politische Landschaft Österreichs wurde in den letzten Jahren von einer Reihe von Korruptionsvorwürfen und Skandalen erschüttert, die auch international Beachtung fanden. Insbesondere die Regierungszeiten, in denen FPÖ und ÖVP maßgeblich beteiligt waren, zogen die Kritik internationaler Organisationen und Medien auf sich.
+
+## Hauptkritikpunkte internationaler Beobachter
+
+### 1. GRECO (Europarat – Staatengruppe gegen Korruption)
+Die GRECO-Berichte kritisieren Österreich seit Jahren für die schleppende Umsetzung von Antikorruptions-Empfehlungen.
+*   **Mangelnde Transparenz:** Es gibt Defizite bei der Offenlegung von Nebentätigkeiten von Abgeordneten und mangelnde Regeln für Lobbying.
+*   **Keine unabhängige Staatsanwaltschaft:** Die Weisungsgebundenheit der Staatsanwaltschaft wird als Einfallstor für politischen Einfluss gesehen.
+*   **Strategische Risikoanalyse fehlt:** Insbesondere für Personen in obersten Exekutivfunktionen (Minister, Staatssekretäre) fehlt ein systematischer Ansatz zur Korruptionsrisikoanalyse.
+
+### 2. Europäische Kommission (Rechtsstaatlichkeitsberichte)
+Die EU-Kommission thematisiert in ihren jährlichen Berichten wiederkehrend "besorgniserregende Entwicklungen":
+*   **Politischer Druck auf die Justiz:** Speziell die Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) war wiederholt Ziel politischer Angriffe und des Versuchs der Einflussnahme.
+*   **Fehlende unabhängige Bundesstaatsanwaltschaft:** Die Forderung nach einer von politischem Einfluss unabhängigen Bundesstaatsanwaltschaft ist ein zentraler Punkt.
+*   **Inseratenkorruption:** Mangelnde Transparenz und hohe Staatsausgaben für Regierungsinserate werden als Mittel zur Medienbeeinflussung kritisiert.
+
+### 3. Transparency International (Corruption Perceptions Index - CPI)
+Österreichs Position im weltweiten Korruptionswahrnehmungsindex hat sich unter den genannten Regierungen deutlich verschlechtert.
+*   **Absturz im Ranking:** Von Platz 15 im Jahr 2018 fiel Österreich auf einen historischen Tiefstand (z.B. Platz 25 im Jahr 2024), was auf die zahlreichen Skandale und die mangelnde Reformbereitschaft zurückgeführt wird.
+*   **Gründe:** Günstlingswirtschaft, persönliche Bereicherung und Versuche der politischen Einflussnahme auf unabhängige Medien sind wiederkehrende Stichworte.
+
+### 4. OECD (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung)
+Die OECD fordert insbesondere eine Stärkung der Unabhängigkeit der Staatsanwaltschaft und eine präzisere Handhabung von Rechtshilfeersuchen, um die Verfolgung von Korruptionsdelikten nicht zu behindern.
+
+### 5. Internationale Medien und der Ibiza-Skandal
+Der **Ibiza-Skandal (Mai 2019)**, aufgedeckt durch den Spiegel und die Süddeutsche Zeitung, zeigte den damaligen Vizekanzler Heinz-Christian Strache (FPÖ), wie er einer vermeintlichen russischen Oligarchin Staatsaufträge in Aussicht stellte. Dies führte international zu großer Empörung und dem Zusammenbruch der Regierung. Der Skandal wurde weltweit von renommierten Medien wie The Guardian, The New York Times und Le Monde aufgegriffen und als schwerwiegender Angriff auf die demokratischen Institutionen Österreichs bewertet.
+
+### Zusammenfassende Vorwürfe (Auswahl):
+*   **Ibiza-Affäre:** Geplante Umgehung von Parteienfinanzierungsregeln und Verkauf von Staatsanteilen.
+*   **Postenschacher:** Systematische Besetzung von Schlüsselpositionen in staatsnahen Betrieben und Institutionen nach Parteibuch.
+*   **Inseraten-Affäre/Beinschab-Österreich-Skandal:** Vorwürfe der Manipulation von Umfragen und Beeinflussung von Medien durch Steuergeld.
+
+---
+
+*Quellen für diese Recherche: Berichte von GRECO (Europarat), Europäischer Kommission, Transparency International, OECD sowie internationale Medienberichte zu den jeweiligen Skandalen.*
 \n---\n# GEHEIME MEDIEN & DOKUMENTE\n
 # Geheime Medien & Dokumente
 

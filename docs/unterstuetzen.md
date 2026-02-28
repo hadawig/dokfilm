@@ -9,12 +9,11 @@ Um die laufenden Kosten für Recherche, Server und die Weiterentwicklung der KI-
 ---
 
 ## 📂 Das Premium-Dossier (Digitaler Download)
-Holen Sie sich das volle Paket für Ihr privates Archiv. Unser **„Master-Dossier: Das System Horten-Benko“** enthält:
-- Das komplette **40-seitige Drehbuch** (Teile 1-4) als PDF.
-- Alle **Recherche-Ergebnisse** inklusive exklusiver Quellenlinks.
-- Die hochauflösenden **„Geleakt“-Grafiken** für Ihr eigenes Storyboard.
+Holen Sie sich das volle Paket für Ihr privates Archiv. Unser **„Master-Dossier: Das System Horten-Benko“** enthält das komplette Drehbuch, alle Recherchen und exklusive Medien.
 
-👉 **[Master-Dossier Vorschau (HTML)](/Premium_Dossier_Master)** | **[Vollständiges Dossier kaufen via Gumroad (Platzhalter)]**
+👉 **[Master-Dossier Vorschau (DE)](/Premium_Dossier_Master)** | **[Master Dossier Preview (EN)](/en/Premium_Dossier_Master_EN)**
+
+👉 **[Vollständiges Dossier kaufen via Gumroad (Platzhalter)]**
 
 ---
 

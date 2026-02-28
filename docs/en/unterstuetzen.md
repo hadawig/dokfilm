@@ -9,10 +9,9 @@ To cover the ongoing costs for research, servers, and the further development of
 ---
 
 ## 📂 The Premium Dossier (Digital Download)
-Get the full package for your private archive. Our **"Master Dossier: The Horten-Benko System"** includes:
-- The complete **40-page screenplay** (Parts 1-4) as a PDF.
-- All **research findings** including exclusive source links.
-- High-resolution **"Leaked" graphics** for your own storyboard.
+Get the full package for your private archive. Our **"Master Dossier: The Horten-Benko System"** includes the complete screenplay, all research, and exclusive media.
+
+👉 **[Master Dossier Preview (EN)](/en/Premium_Dossier_Master_EN)** | **[Master-Dossier Vorschau (DE)](/Premium_Dossier_Master)**
 
 👉 **[Get it now for €9.99 on Gumroad (Placeholder)]**
 
