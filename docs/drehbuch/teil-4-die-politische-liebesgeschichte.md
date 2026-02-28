@@ -25,16 +25,16 @@ Ich liebe Stabilität. Helmut pflegte zu sagen: „Geld ist der Kleber, der die 
 **Ort:** Ein Büro voller Schredder und Taschenrechner.
 **Zeit:** Spätnachts.
 
-Drei Berater in maßgeschneiderten Anzügen (Masucci, Diehl, Minichmayr in Mehrfachrollen) sitzen um einen Berg von 50.000-Euro-Scheinen. Sie haben eine Schablone vor sich.
+Drei Berater in maßgeschneiderten Anzügen (Masucci, Diehl, Minichmayr in Mehrfachrollen) sitzen um einen Berg von 500-Euro-Scheinen. Sie haben eine Schablone vor sich.
 
 **BERATER 1 (Masucci)**
-Hier haben wir 1.000.000 Euro. Zu groß! Der Rechnungshof bekommt Schnappatmung, wenn wir das am Stück melden.
+Hier haben wir insgesamt 931.000 Euro von Madame. Fast eine Million! Ein prächtiger Brocken. Aber am Stück... am Stück ist er unverdaulich für den Rechnungshof.
 
 **BERATER 2 (Diehl)**
-Wir schneiden es in mundgerechte Häppchen. 49.000 Euro hier. 48.500 Euro da. Ein bisschen für den Verein „Heimatliebe“, ein bisschen für „Zukunft Kunst“. Alles unter der Meldegrenze!
+Wir brauchen das Skalpell. Wir schneiden es in exakt 49.000-Euro-Häppchen. Nicht 50.000! Bei 50.000 gehen die Sirenen an. Bei 49.000... da herrscht heilige Stille.
 
 **BERATER 3 (Minichmayr)**
-Es ist wie Pointillismus! Viele kleine Punkte. Wenn man davor steht, sieht man nur lauter nette, kleine Einzelspenden. Erst wenn man weit weg geht, sieht man... das Imperium.
+Es ist wie Pointillismus! 19 Mal 49.000 Euro. Viele kleine Punkte. Wenn man davor steht, sieht man nur lauter nette, diskrete Einzelspenden. Erst wenn man weit weg geht, sieht man... das Imperium.
 
 ---
 
@@ -42,7 +42,7 @@ Es ist wie Pointillismus! Viele kleine Punkte. Wenn man davor steht, sieht man n
 **Ort:** Der Plenarsaal des österreichischen Nationalrats.
 **Zeit:** Eine fiktive, surreale Debatte über Transparenz.
 
-Ein Abgeordneter (August Diehl) hält eine leidenschaftliche Rede über die „Unschuld der Spenderin“. Plötzlich beginnt es von der Decke zu regnen. Aber es ist kein Wasser, sondern goldene Konfetti-Münzen mit Heidis Konterfei.
+Ein Abgeordneter (August Diehl) hält eine leidenschaftliche Rede über die „Unschuld der Spenderin“. Plötzlich beginnt es von der Decke zu regnen. Aber es ist kein Wasser, sondern goldene Konfetti-Münzen mit Heidis Konterfei. Jede Münze trägt die Prägung „49.000“.
 
 **ABGEORDNETER**
 (während er die Münzen auffängt)
@@ -59,7 +59,7 @@ Die anderen Abgeordneten beginnen, die Münzen mit Regenschirmen aufzufangen, di
 Heidi wird von einem investigativen Journalisten (August Diehl) interviewt. Der Journalist wirkt erschöpft, Heidi ist strahlend.
 
 **JOURNALIST**
-Frau Horten, Kritiker sagen, Sie kaufen sich mit Ihren Spenden politischen Einfluss. Einfluss auf Gesetze, die Ihr Vermögen schützen.
+Frau Horten, Kritiker sagen, Sie kaufen sich mit Ihren Spenden politischen Einfluss. 931.000 Euro sind kein Pappenstiel.
 
 **HEIDI**
 (lacht glockenhell)
@@ -74,7 +74,7 @@ Kaufen? Das ist so ein... kaufmännischer Begriff. Ich nenne es „Ermöglichen�
 Jeder Gast trägt eine Maske aus halbtransparentem Plastik. Man sieht die Gesichter, aber sie sind verzerrt.
 
 **ERZÄHLER (Masucci, Off-Stimme)**
-Sie feierten die Offenheit, während sie die Türen schlossen. Sie nannten es „neuen Stil“, während sie die alten Rezepte Helmuts verfeinerten. Heidi saß in der Mitte, die Sonne ihres eigenen Systems. Jeder Punkt auf ihrem Collier entsprach einer kleinen Aufmerksamkeit an eine politische Sektion.
+Sie feierten die Offenheit, während sie die Türen schlossen. Sie nannten es „neuen Stil“, während sie die alten Rezepte Helmuts verfeinerten. Heidi saß in der Mitte, die Sonne ihres eigenen Systems. Jede 49.000-Euro-Tranche auf ihrem Collier entsprach einer kleinen Aufmerksamkeit an eine politische Sektion.
 
 Heidi tanzt mit einem Minister. Sie flüstert ihm etwas ins Ohr. Er nickt heftig, als würde er eine göttliche Eingebung empfangen.
 
@@ -87,7 +87,7 @@ Heidi tanzt mit einem Minister. Sie flüstert ihm etwas ins Ohr. Er nickt heftig
 Die Aktenordner beginnen sich von selbst zu bewegen. Zahlen hüpfen von den Seiten und bilden Muster an den Wänden.
 
 **PRÜFER**
-Es ist ein Labyrinth aus Seide und Gold! Man folgt einer 40.000-Euro-Spende und landet bei einer Reitsport-Veranstaltung in Kärnten. Man folgt dem Reitsport und landet bei einem Kunst-Event in Wien. Und am Ende... am Ende steht immer nur ein Name. Aber der Name ist legal. Er ist so legal, dass es weh tut.
+Es ist ein Labyrinth aus Seide und Gold! Man folgt einer 49.000-Euro-Spende und landet bei einer Reitsport-Veranstaltung in Kärnten. Man folgt dem Reitsport und landet bei einem Kunst-Event in Wien. Und am Ende... am Ende steht immer nur ein Name. Aber der Name ist legal. Er ist so legal, dass es weh tut.
 
 Er wird von einem Berg aus goldenen „Pünktchen“ verschüttet.
 
