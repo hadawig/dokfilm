@@ -35,6 +35,15 @@ features:
   </div>
 </div>
 
+<div style="background: #1a1a1a; padding: 3rem 1.5rem; border-radius: 12px; margin: 3rem 0; color: white; text-align: center; border: 1px solid #333;">
+  <h2 style="color: #d4af37; margin-top: 0;">⚡ LATEST CASE FILE LEAKED ⚡</h2>
+  <p style="margin-bottom: 2rem;">Our forensics team has secured new documents on the connection between Horten donations and Benko real estate.</p>
+  <img src="/leaked-file.svg" alt="Leaked Case File" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(212,175,55,0.2));">
+  <div style="margin-top: 2rem;">
+    <a href="/en/recherche/die-benko-verbindung" class="VPButton brand large">To the Benko Connection Analysis</a>
+  </div>
+</div>
+
 # THE HORTEN MYSTERY
 
 **A fabulous fiction of power, money, and pearls – where the truth is a rumor and the rumors become the truth!**

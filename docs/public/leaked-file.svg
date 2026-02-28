@@ -1,0 +1,38 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Aged Paper Background -->
+  <rect width="800" height="600" fill="#f4f1ea" />
+  <rect width="760" height="560" x="20" y="20" fill="none" stroke="#dcd7c9" stroke-width="2" />
+  
+  <!-- Header -->
+  <text x="50" y="60" font-family="Courier, monospace" font-size="14" fill="#333" font-weight="bold">BUNDESMINISTERIUM FÜR FINANZEN (INTERN)</text>
+  <line x1="50" y1="70" x2="350" y2="70" stroke="#333" stroke-width="1" />
+  
+  <!-- File Info -->
+  <text x="50" y="110" font-family="Courier, monospace" font-size="12" fill="#666">AKTENZEICHEN: #2026-HB-49K-SIGNA</text>
+  <text x="50" y="130" font-family="Courier, monospace" font-size="12" fill="#666">DATUM: 27. FEBRUAR 2026</text>
+  <text x="50" y="150" font-family="Courier, monospace" font-size="12" fill="#666">KLASSIFIZIERUNG: STRENG VERTRAULICH</text>
+  
+  <!-- Title -->
+  <text x="400" y="220" font-family="Courier, monospace" font-size="28" fill="#000" font-weight="bold" text-anchor="middle">FALLAKTE: DAS HORTEN-MYSTERIUM</text>
+  <text x="400" y="250" font-family="Courier, monospace" font-size="18" fill="#444" text-anchor="middle">Betreff: Rekonstruktion der Spendenflüsse &amp; Immobilienwerte</text>
+  
+  <!-- Redacted Content Blocks -->
+  <rect x="50" y="300" width="700" height="20" fill="#000" />
+  <rect x="50" y="330" width="450" height="20" fill="#000" />
+  <text x="510" y="345" font-family="Courier, monospace" font-size="14" fill="#333">...49.000 EUR Tranchen identifiziert...</text>
+  
+  <rect x="50" y="370" width="700" height="20" fill="#000" />
+  <rect x="50" y="400" width="300" height="20" fill="#000" />
+  <text x="360" y="415" font-family="Courier, monospace" font-size="14" fill="#333">...Verbindung zu Signa Prime (Brunner/Benko)...</text>
+  
+  <rect x="50" y="440" width="700" height="20" fill="#000" />
+  
+  <!-- Leaked Stamp -->
+  <g transform="rotate(-15 600 450)">
+    <rect x="500" y="400" width="220" height="80" rx="10" fill="none" stroke="#cc0000" stroke-width="5" opacity="0.8" />
+    <text x="610" y="455" font-family="Arial, sans-serif" font-size="48" fill="#cc0000" font-weight="bold" text-anchor="middle" opacity="0.8">GELEAKT</text>
+  </g>
+  
+  <!-- Footer -->
+  <text x="400" y="570" font-family="Courier, monospace" font-size="10" fill="#999" text-anchor="middle">© 2026 GEMINI-CLI FORENSICS - DOKFILM.PAGES.DEV</text>
+</svg>

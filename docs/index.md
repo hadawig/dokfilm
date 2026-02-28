@@ -35,6 +35,15 @@ features:
   </div>
 </div>
 
+<div style="background: #1a1a1a; padding: 3rem 1.5rem; border-radius: 12px; margin: 3rem 0; color: white; text-align: center; border: 1px solid #333;">
+  <h2 style="color: #d4af37; margin-top: 0;">⚡ AKTUELLE FALLAKTE GELEAKT ⚡</h2>
+  <p style="margin-bottom: 2rem;">Unser Forensik-Team hat neue Dokumente zur Verbindung zwischen Horten-Spenden und Benko-Immobilien sichergestellt.</p>
+  <img src="/leaked-file.svg" alt="Geleakte Fallakte" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(212,175,55,0.2));">
+  <div style="margin-top: 2rem;">
+    <a href="/recherche/die-benko-verbindung" class="VPButton brand large">Zur Analyse der Benko-Verbindung</a>
+  </div>
+</div>
+
 # DAS HORTEN-MYSTERIUM
 
 **Eine fabelhafte Fiktion von Macht, Geld und Perlen – Wo die Wahrheit ein Gerücht ist und die Gerüchte die Wahrheit werden!**

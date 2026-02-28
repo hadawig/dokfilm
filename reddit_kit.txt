@@ -1,0 +1,50 @@
+--- REDDIT MEDIA KIT: r/Austria ---
+
+### 1. DER POST-ENTWURF
+
+**Titel-Vorschläge (wähle einen):**
+A) [Projekt] Das Horten-Mysterium: Wie wir mit KIs (Gemini/Grok) die dunkelsten Ecken der ÖVP-Spenden & Benko-Pleite sezieren.
+B) Von der Arisierung zum Budgetloch: Ein 40-seitiges Drehbuch-Experiment zum „System Horten“.
+C) „Pointillismus des Kapitals“ – Warum 49.000 Euro schöner sind als eine Million (Investigative Mockumentary).
+
+**Body-Text:**
+Servus Leute!
+
+Ich arbeite seit einiger Zeit an einem Projekt, das die Grenzen zwischen investigativer Recherche und politischer Satire sprengt: **„Das Horten-Mysterium“**. 
+
+Zusammen mit einer KI (Gemini CLI) habe ich versucht, den Bogen von der Arisierung der Kaufhäuser Alsberg (1936) über die schillernden ÖVP-Spenden von Heidi Horten bis hin zum aktuellen Signa-Zusammenbruch von René Benko zu spannen.
+
+**Was bisher geschah:**
+- Ein **40-seitiges Drehbuch** mit fiktiver Star-Besetzung (August Diehl, Birgit Minichmayr, Oliver Masucci).
+- Eine tiefe **Recherche-Datenbank**, inkl. Links zum offiziellen Hoeres-Gutachten und der Analyse der 49.000er-Spendenstückelung.
+- Die Einbindung aktueller Prozesse wie **August Wöginger** in Linz und das **4,7% Budgetloch** unter Magnus Brunner.
+
+Wir nennen das Ganze den **„Pointillismus des Geldes“**: Viele kleine, scheinbar harmlose Punkte ergeben erst aus der Distanz das hässliche Bild der Macht.
+
+Die gesamte Plattform ist Open-Source dokumentiert und zweisprachig verfügbar.
+
+**Hier geht’s zum Projekt:** https://dokfilm.pages.dev
+
+Mich würde interessieren: 
+1. Ist die satirische Schärfe (z.B. die Sobotka-Orgel-Szene) für euch „too much“ oder genau richtig?
+2. Welche aktuellen Skandale sollten wir für Teil 4 (Die politische Liebesgeschichte) noch in das „KI-Gedächtnis“ füttern?
+
+Bin gespannt auf euer Feedback! 
+
+---
+
+### 2. FAQ-GUIDE (Falls kritische Kommentare kommen)
+
+**Frage: „Ist das einfach nur linke Hetze?“**
+*Antwort:* „Es ist eine Mockumentary. Wir nutzen reale Fakten (wie das Hoeres-Gutachten oder Rechnungshofberichte) und überspitzten sie satirisch. Wer die Realität für Hetze hält, sollte sich vielleicht die Quellen in unserer Recherche-Sektion ansehen.“
+
+**Frage: „Wer hat das bezahlt?“**
+*Antwort:* „Niemand. Das ist ein reines Hobby- und Technik-Experiment. Die einzige ‚Bezahlung‘ ist die CPU-Zeit meines Rechners beim Generieren der Texte.“
+
+**Frage: „Warum nutzt ihr KI dafür?“**
+*Antwort:* „Weil es spannend ist zu sehen, wie eine KI komplexe politische Zusammenhänge wie die Spendenstückelung analysiert und daraus satirische Dialoge baut. Es ist eine Kollaboration zwischen Mensch und Maschine.“
+
+---
+
+### 3. PRO-TIPP FÜR DEN POSTING-ZEITPUNKT
+Poste am besten **Dienstagvormittag (3. März)**, wenn der Wöginger-Prozess in Linz weitergeht. Das sorgt für maximale Relevanz!
