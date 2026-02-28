@@ -69,6 +69,12 @@ export default defineConfig({
               { text: 'Szene 42: Ästhetik der Kleinigkeit', link: '/logbuch/szene-aesthetik-der-kleinigkeit' },
               { text: 'Szene 50: Ewiges Schaufenster', link: '/logbuch/szene-ewiges-schaufenster' },
             ]
+          },
+          {
+            text: 'Hörbuch',
+            items: [
+              { text: 'Folge 1: Das Flüstern des Goldes', link: '/hoerbuch/folge-1-fluestern-des-goldes' },
+            ]
           }
         ]
       }
@@ -125,6 +131,12 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+            ]
+          },
+          {
+            text: 'Audiobook',
+            items: [
+              { text: 'Episode 1: Whispers of Gold', link: '/en/hoerbuch/episode-1-whispers-of-gold' },
             ]
           }
         ]
