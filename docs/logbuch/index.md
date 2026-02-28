@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [27. Februar 2026: Produktionsstart – Die Stimmen werden lebendig](./2026-02-27-produktionsstart-audio)
 
 - [27. Februar 2026: Neuer Akteur – Walter Rosenkranz übernimmt den Vorsitz](./2026-02-27-rosenkranz-integration)
 - [27. Februar 2026: Neuzugang im Archiv – Die Causa Pilnacek](./2026-02-27-pilnacek-integration)
