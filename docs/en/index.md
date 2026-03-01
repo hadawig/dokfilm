@@ -44,6 +44,27 @@ features:
   </div>
 </div>
 
+<div style="background: #000; padding: 2rem; border-radius: 12px; margin: 3rem 0; border: 2px solid #ff4444; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 0.9rem; z-index: 10;">
+    <span style="display: inline-block; width: 10px; height: 10px; background: #ff4444; border-radius: 50%; margin-right: 5px; animation: blink 1s infinite;"></span> REC: TRANSPARENCY_LIVE_CAM_01
+  </div>
+  <div style="position: absolute; top: 10px; right: 20px; color: #888; font-family: monospace; font-size: 0.8rem;">
+    TIMESTAMP: 2026-02-28
+  </div>
+  
+  <video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; filter: grayscale(0.2) contrast(1.1); max-height: 400px; background: #111;">
+    <source src="/transparenz-live.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <p style="color: #ff4444; font-family: monospace; text-align: center; margin-top: 1rem; font-size: 0.8rem;">
+    "Sunlight is the best disinfectant." – Live insight into the project creation.
+  </p>
+  <div style="text-align: center; margin-top: 10px;">
+    <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank" style="color: #ccc; font-size: 0.7rem; text-decoration: underline;">Watch the full video on YouTube</a>
+  </div>
+</div>
+
 <div style="background: linear-gradient(135deg, #d4af37 0%, #b8860b 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; color: black; text-align: center; box-shadow: 0 10px 30px rgba(212,175,55,0.3);">
   <h3 style="margin-top: 0; font-weight: bold;">💎 SUPPORT THE FORENSICS</h3>
   <p style="font-size: 1.1rem; margin-bottom: 1.5rem;">Help us solve the Horten mystery without ÖVP donations. Get the 40-page premium dossier.</p>
