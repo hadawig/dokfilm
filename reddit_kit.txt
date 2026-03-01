@@ -1,50 +1,39 @@
---- REDDIT MEDIA KIT: r/Austria ---
+--- FINAL REDDIT LAUNCH KIT: r/Austria (D-DAY: 3. MÄRZ) ---
 
-### 1. DER POST-ENTWURF
+### 1. DER POST (Optimiert für Dienstag)
 
-**Titel-Vorschläge (wähle einen):**
-A) [Projekt] Das Horten-Mysterium: Wie wir mit KIs (Gemini/Grok) die dunkelsten Ecken der ÖVP-Spenden & Benko-Pleite sezieren.
-B) Von der Arisierung zum Budgetloch: Ein 40-seitiges Drehbuch-Experiment zum „System Horten“.
-C) „Pointillismus des Kapitals“ – Warum 49.000 Euro schöner sind als eine Million (Investigative Mockumentary).
+**Titel:** [Projekt] Vom NS-Raubkapital zum 15-Mrd-Budgetloch: Ich habe mit KIs das "System Horten-Benko" seziert (Investigative Mockumentary)
 
 **Body-Text:**
 Servus Leute!
 
-Ich arbeite seit einiger Zeit an einem Projekt, das die Grenzen zwischen investigativer Recherche und politischer Satire sprengt: **„Das Horten-Mysterium“**. 
+Passend zum heutigen Prozesstag in Linz (August Wöginger) und der aktuellen Debatte um das Budget-Loch, möchte ich euch mein Projekt vorstellen: **„Das Horten-Mysterium“**.
 
-Zusammen mit einer KI (Gemini CLI) habe ich versucht, den Bogen von der Arisierung der Kaufhäuser Alsberg (1936) über die schillernden ÖVP-Spenden von Heidi Horten bis hin zum aktuellen Signa-Zusammenbruch von René Benko zu spannen.
+Ich habe zusammen mit KIs (Gemini/Grok) den Bogen von der Arisierung der Kaufhäuser (1936) über Heidis 49.000er-Spenden bis hin zum Signa-Zusammenbruch gespannt. Es ist eine Mischung aus knallharter Recherche und tiefschwarzer Satire.
 
-**Was bisher geschah:**
-- Ein **40-seitiges Drehbuch** mit fiktiver Star-Besetzung (August Diehl, Birgit Minichmayr, Oliver Masucci).
-- Eine tiefe **Recherche-Datenbank**, inkl. Links zum offiziellen Hoeres-Gutachten und der Analyse der 49.000er-Spendenstückelung.
-- Die Einbindung aktueller Prozesse wie **August Wöginger** in Linz und das **4,7% Budgetloch** unter Magnus Brunner.
+**Highlights zum Ausprobieren:**
+- 🎹 **Budget-Simulator:** Schafft ihr es, das Defizit unter 3% zu drücken, ohne dass Magnus Brunner interveniert? (https://dokfilm.pages.dev/budget-spiel)
+- 📞 **Tip-Line:** Schickt mir eure wildesten Ideen für Teil 4 des Drehbuchs (https://dokfilm.pages.dev/mitmachen)
+- 🎙️ **Hörproben:** August Diehl als Helmut Horten und Birgit Minichmayr als Heidi (KI-generiert).
 
-Wir nennen das Ganze den **„Pointillismus des Geldes“**: Viele kleine, scheinbar harmlose Punkte ergeben erst aus der Distanz das hässliche Bild der Macht.
+**Warum das Ganze?**
+Wir nennen es den **„Pointillismus des Geldes“**: Viele kleine Punkte (Spenden, Posten, Bewertungen), die erst aus der Distanz das hässliche Bild der Macht ergeben.
 
-Die gesamte Plattform ist Open-Source dokumentiert und zweisprachig verfügbar.
+Das gesamte 40-seitige Drehbuch und die Recherche-Datenbank sind Open-Source.
 
-**Hier geht’s zum Projekt:** https://dokfilm.pages.dev
+**Link zum Projekt:** https://dokfilm.pages.dev
 
-Mich würde interessieren: 
-1. Ist die satirische Schärfe (z.B. die Sobotka-Orgel-Szene) für euch „too much“ oder genau richtig?
-2. Welche aktuellen Skandale sollten wir für Teil 4 (Die politische Liebesgeschichte) noch in das „KI-Gedächtnis“ füttern?
-
-Bin gespannt auf euer Feedback! 
+Mich würde interessieren: Was sind für euch die "kleinen Punkte", die im aktuellen politischen Österreich am meisten stinken?
 
 ---
 
-### 2. FAQ-GUIDE (Falls kritische Kommentare kommen)
-
-**Frage: „Ist das einfach nur linke Hetze?“**
-*Antwort:* „Es ist eine Mockumentary. Wir nutzen reale Fakten (wie das Hoeres-Gutachten oder Rechnungshofberichte) und überspitzten sie satirisch. Wer die Realität für Hetze hält, sollte sich vielleicht die Quellen in unserer Recherche-Sektion ansehen.“
-
-**Frage: „Wer hat das bezahlt?“**
-*Antwort:* „Niemand. Das ist ein reines Hobby- und Technik-Experiment. Die einzige ‚Bezahlung‘ ist die CPU-Zeit meines Rechners beim Generieren der Texte.“
-
-**Frage: „Warum nutzt ihr KI dafür?“**
-*Antwort:* „Weil es spannend ist zu sehen, wie eine KI komplexe politische Zusammenhänge wie die Spendenstückelung analysiert und daraus satirische Dialoge baut. Es ist eine Kollaboration zwischen Mensch und Maschine.“
+### 2. BILD-STRATEGIE (WICHTIG!)
+Lade beim Reddit-Post unbedingt das Bild der **„Geleakten Fallakte“** hoch (docs/public/leaked-file.svg - am besten als Screenshot/PNG speichern). Das sorgt für den "Stopp-Effekt" beim Scrollen.
 
 ---
 
-### 3. PRO-TIPP FÜR DEN POSTING-ZEITPUNKT
-Poste am besten **Dienstagvormittag (3. März)**, wenn der Wöginger-Prozess in Linz weitergeht. Das sorgt für maximale Relevanz!
+### 3. JOURNALISTEN-TEASER (X / TWITTER)
+Text: 
+"Vom NS-Raubkapital zur Signa-Pleite: Das 'Horten-Mysterium' rekonstruiert das System der diskreten Einflussnahme. Inkl. interaktivem Budget-Simulator & KI-Audio-Showcase. #Horten #Benko #OEVPCorruption #Mockumentary @florianklenk @ArminWolf @ZIB2"
+
+Link: https://dokfilm.pages.dev
