@@ -83,6 +83,11 @@ const database = [
     term: 'Arisierung',
     fact: 'Die staatlich organisierte Enteignung jüdischen Eigentums im Nationalsozialismus.',
     satire: 'Der hässliche Pinselstrich unter dem glänzenden Firmenlogo von Horten. Eine Farbe, die man mit keinem Geld der Welt übermalen kann.'
+  },
+  {
+    term: 'COFAG',
+    fact: 'Die COVID-19 Finanzierungsagentur des Bundes, die Milliarden an Corona-Hilfen verteilte, oft unter Kritik mangelnder Transparenz.',
+    satire: 'Die moderne Wunschmaschine für Großinvestoren. Hier lernten Milliarden das Fliegen, während kleine Betriebe im Bürokratie-Nebel feststeckten.'
   }
 ]
 

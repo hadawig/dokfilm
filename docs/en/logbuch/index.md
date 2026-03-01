@@ -4,6 +4,7 @@ Here the daily progress is recorded.
 
 ## Entries
 
+- [February 28, 2026: Update – The COFAG Millions and Benko's Silence](./2026-02-28-cofag-integration)
 - [February 27, 2026: New Actor – Walter Rosenkranz takes the Chair](./2026-02-27-rosenkranz-integration)
 - [February 27, 2026: New Addition to the Archive – The Pilnacek Case](./2026-02-27-pilnacek-integration)
 - [February 27, 2026: René Benko and the Curse of Department Stores](./2026-02-27-benko-verbindung)

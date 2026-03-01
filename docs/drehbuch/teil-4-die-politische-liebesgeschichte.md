@@ -237,7 +237,29 @@ Rosenkranz drückt auf einen Knopf. Über die Lautsprecher im Saal ertönt das R
 
 ---
 
-## Szene 15: Der finale Vorhang des Schweigens
+## Szene 15: Der Beirat im Nebel
+**Ort:** Der Sitzungssaal des COFAG-Untersuchungsausschusses.
+**Zeit:** Mai 2024 (Rückblende).
+
+René Benko (Oliver Masucci) sitzt auf der Zeugenbank. Er wird von zwei Justizwachebeamten begleitet (polizeiliche Vorführung). Walter Rosenkranz (August Diehl) führt den Vorsitz.
+
+**ROSENKRANZ**
+(mit schneidender Stimme)
+Herr Benko, 18,7 Millionen Euro an COFAG-Förderungen. Warum hat das Chalet N in Lech 1,1 Millionen Euro bekommen, während kleine Wirtshäuser um ihr Überleben kämpften?
+
+**BENKO**
+(ruhig, fast gelangweilt)
+Herr Präsident, ich muss mich entschlagen. Laufende Verfahren. Aber eines möchte ich klarstellen: Ich war in all diesen Firmen lediglich... Beirat. Ein freundlicher Gast in meinen eigenen Immobilien. Ich habe keine operativen Entscheidungen getroffen. Ich habe lediglich... visionär beobachtet.
+
+**ROSENKRANZ**
+Visionär beobachtet? Sie haben den Bundeskanzler geduzt und Minister im Jet herumgeflogen!
+
+**BENKO**
+Auch das war rein beobachtend. Man sieht im Flugzeug einfach besser, wo die Lücken im Budget klaffen. Und was die 18 Millionen angeht: Das sind doch nur viele kleine Punkte. Pointillismus, Herr Präsident. Das müssten Sie doch verstehen.
+
+---
+
+## Szene 16: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
