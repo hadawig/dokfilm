@@ -275,7 +275,7 @@ Auch das war rein beobachtend. Man sieht im Flugzeug einfach besser, wo die Lüc
 ---
 
 ## Szene 16: Die Hure für die Reichen
-**Ort:** Eine schickes Penthouse-Büro im Goldenen Quartier, Wien.
+**Ort:** Ein schickes Penthouse-Büro im Goldenen Quartier, Wien.
 **Zeit:** Dezember 2016 (Rückblende).
 
 Thomas Schmid (August Diehl) steht am Fenster und blickt über die Stadt. Hinter ihm sitzt René Benko (Oliver Masucci) an einem massiven Schreibtisch. Er schiebt einen Umschlag (oder ein Tablet mit einem Vertragsentwurf) über den Tisch.

@@ -90,7 +90,7 @@ Die Kamera zeigt die gewaltigen Ausmaße der Jacht. Es ist so still, dass man nu
 **HEIDI**
 Helmut liebte das Meer. Er sagte, Wasser hat kein Gedächtnis. Man kann eine Spur ziehen, und Sekunden später ist sie weg. Das ist die Freiheit des Geldes. Es löscht die Spuren seiner eigenen Entstehung.
 
-A steward serviert Champagner in Kristallgläsern, die so dünn sind, dass sie beim bloßen Hinsehen zu brechen scheinen.
+Ein steward serviert Champagner in Kristallgläsern, die so dünn sind, dass sie beim bloßen Hinsehen zu brechen scheinen.
 
 **HEIDI (Forts.)**
 Wissen Sie, was das Problem mit der Geschichte ist? Sie ist zu laut. Sie staubt. Reichtum hingegen ist klinisch rein. Er riecht nach nichts. Außer nach dem Morgen.
@@ -392,7 +392,7 @@ Auch das war rein beobachtend. Man sieht im Flugzeug einfach besser, wo die Lüc
 Thomas Schmid (August Diehl) steht am Fenster und blickt über die Stadt. Hinter ihm sitzt René Benko (Oliver Masucci) an einem massiven Schreibtisch. Er schiebt einen Umschlag (oder ein Tablet mit einem Vertragsentwurf) über den Tisch.
 
 **BENKO**
-Thomas, du verschwendest dein Talent im Ministerium. 300.000 fix, 300.000 Bonus. Generalbevollmächtigter bei Signa. Das würde dir gut liegen. 
+Thomas, du verschwendest dein talent im Ministerium. 300.000 fix, 300.000 Bonus. Generalbevollmächtigter bei Signa. Das würde dir gut liegen. 
 
 **SCHMID**
 (dreht sich langsam um, ein gequältes Lächeln auf den Lippen)
