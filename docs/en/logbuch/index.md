@@ -4,6 +4,7 @@ Here the daily progress is recorded.
 
 ## Entries
 
+- [February 28, 2026: Update – Gernot Blümel and the Flying Laptop](./2026-02-28-bluemel-laptop-integration)
 - [February 28, 2026: Research Update – The Thomas Schmid Chats & René Benko](./2026-02-28-schmid-chats-recherche)
 - [February 28, 2026: Update – The COFAG Millions and Benko's Silence](./2026-02-28-cofag-integration)
 - [February 27, 2026: New Actor – Walter Rosenkranz takes the Chair](./2026-02-27-rosenkranz-integration)

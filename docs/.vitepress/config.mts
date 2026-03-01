@@ -49,6 +49,7 @@ export default defineConfig({
               { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Kronzeuge)', link: '/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/recherche/gericht-grasser' },
+              { text: 'Gernot Blümel (Laptop)', link: '/recherche/gericht-bluemel-laptop' },
               { text: 'René Benko (Strafverfahren)', link: '/recherche/die-benko-verbindung' },
               { text: 'Christian Pilnacek (U-Ausschuss)', link: '/recherche/der-fall-pilnacek' },
             ]

@@ -285,7 +285,33 @@ Aber Thomas! Du bist keine Hure. Du bist ein Dienstleister der obersten Kategori
 
 ---
 
-## Szene 17: Der finale Vorhang des Schweigens
+## Szene 17: Die Ästhetik der Amnesie
+**Ort:** Blümels moderne Wiener Stadtwohnung. 
+**Zeit:** Ein Morgen im Februar 2021 (Rückblende).
+
+Gernot Blümel (August Diehl in einer Doppelrolle) steht im Pyjama im Flur. Es läutet stürmisch an der Tür. Er schaut durch den Spion. Draußen stehen Männer in Windjacken mit der Aufschrift „WKStA“.
+
+**GERNOT**
+(hektisch flüsternd zu seiner Partnerin)
+Schatz, sie sind da! Die... Kunstsammler von der Staatsanwaltschaft. Nimm den Kleinen. Und nimm den Laptop. 
+
+**PARTNERIN**
+(Oliver Masucci in Frauenkleidung/Perücke)
+Gernot, warum soll der Laptop in den Kinderwagen? Der Kleine hat doch schon sein iPad.
+
+**GERNOT**
+Es ist ein Lernprojekt! Frühkindliche Datenerfassung. Geh spazieren. Ganz unauffällig. Wenn sie fragen: Du weißt von nichts. Ich weiß auch von nichts. Wir sind eine Familie der reinen Gegenwart. Wir haben keine Vergangenheit und definitiv keinen Laptop.
+
+**WKStA-BEAMTE (Off)**
+Öffnen Sie die Tür! Hausdurchsuchung!
+
+**GERNOT**
+(atmet tief durch, setzt sein bestes Lächeln auf und öffnet die Tür)
+Guten Morgen, meine Herren! Kommen Sie doch rein. Suchen Sie etwas Bestimmtes? Ein Klavier vielleicht? Oder ein paar Spendenquittungen? Ich muss Sie allerdings vorwarnen: Mein Gedächtnis hat heute seinen freien Tag.
+
+---
+
+## Szene 18: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
