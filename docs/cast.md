@@ -21,7 +21,7 @@ Masucci bringt die notwendige Wucht und den zynischen Humor für die Rolle des h
 
 ---
 
-## [Udo Samel](https://www.imdb.com/name/nm0759755/) als *August Wöginger*
+## [Udo Samel](https://www.imdb.com/name/nm0759797/) als *August Wöginger*
 Udo Samel verkörpert den ÖVP-Klubobmann als Meister der regionalen Intervention. 
 
 - **Die Rolle:** Der „Bestimmungstäter“. Samel spielt Wöginger als einen Mann, der Macht nicht durch Gewalt, sondern durch Gefälligkeiten ausübt. In seinem Blick liegt die kühle Logik des oberösterreichischen Machterhalts.

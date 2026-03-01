@@ -19,4 +19,11 @@ For our mockumentary, we've secured some of the most prominent faces in German-l
 
 ---
 
+## [Udo Samel](https://www.imdb.com/name/nm0759797/) as *August Wöginger*
+**The Role:** The "Bestimmungstäter" (The Inciter).
+**The Performance:** Udo Samel portrays the ÖVP parliamentary group leader as a master of regional intervention. He plays Wöginger as a man who exercises power not through force, but through favors. In his gaze lies the cool logic of Upper Austrian power preservation.
+**Quote from Set:** *"Wöginger truly believes he is only doing the best for his homeland. That makes the character so dangerous and fascinating at the same time."*
+
+---
+
 *This cast ensures that "The Horten Mystery" is not just a documentary, but a high-carat cinematic event.*
