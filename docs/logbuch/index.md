@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [28. Februar 2026: Neue Rubrik – Gerichtliche Nachspiele](./2026-02-28-gerichtliche-nachspiele)
 
 - [28. Februar 2026: Update – Die COFAG-Milliarden und Benkos Schweigen](./2026-02-28-cofag-integration)
 - [28. Februar 2026: Countdown zum Launch - D-Day Vorbereitungen](./2026-02-28-countdown-launch)

@@ -44,6 +44,15 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Gerichtliche Nachspiele',
+            items: [
+              { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
+              { text: 'Karl-Heinz Grasser (Buwog)', link: '/recherche/gericht-grasser' },
+              { text: 'René Benko (Strafverfahren)', link: '/recherche/die-benko-verbindung' },
+              { text: 'Christian Pilnacek (U-Ausschuss)', link: '/recherche/der-fall-pilnacek' },
+            ]
+          },
+          {
             text: 'Recherche-Hintergrundwissen',
             items: [
               { text: 'Die Schredder-Affäre', link: '/recherche/schredder-affaere' },
@@ -51,11 +60,11 @@ export default defineConfig({
               { text: 'Das Ibiza-Video', link: '/recherche/ibiza-video' },
               { text: 'Die Inseraten-Affäre', link: '/recherche/inseraten-affaere' },
               { text: 'Postenschacher & Chats', link: '/recherche/postenschacher' },
-              { text: 'August Wöginger (Postenschacher)', link: '/recherche/postenschacher-woeginger' },
+              { text: 'August Wöginger (Hintergrund)', link: '/recherche/postenschacher-woeginger' },
               { text: 'Moderne ÖVP-Machtzirkel', link: '/recherche/moderne-machtzirkel' },
-                        { text: 'Die Benko-Verbindung', link: '/recherche/die-benko-verbindung' },
-                        { text: 'Der COFAG-Skandal', link: '/recherche/cofag-skandal' },
-                        { text: 'Der Fall Pilnacek', link: '/recherche/der-fall-pilnacek' },              { text: 'Walter Rosenkranz (Vorsitz)', link: '/recherche/walter-rosenkranz' },
+              { text: 'Die Benko-Verbindung', link: '/recherche/die-benko-verbindung' },
+              { text: 'Der Fall Pilnacek', link: '/recherche/der-fall-pilnacek' },
+              { text: 'Walter Rosenkranz (Vorsitz)', link: '/recherche/walter-rosenkranz' },
               { text: 'Korruption (FPÖ/ÖVP)', link: '/recherche/korruption-oevp-fpoe' },
               { text: 'Gebrüder Alsberg (Arisierung)', link: '/recherche/alsberg-brueder' },
               { text: 'Horten-Alsberg Kaufvertrag', link: '/recherche/der-kaufvertrag-horten-alsberg' },
@@ -69,7 +78,6 @@ export default defineConfig({
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
               { text: '27. Feb: Meilenstein International', link: '/logbuch/2026-02-27-international-version' },
-              { text: 'Produktionsstart Audio', link: '/logbuch/2026-02-27-produktionsstart-audio' },
               { text: 'René Benko & Signa', link: '/logbuch/2026-02-27-benko-verbindung' },
               { text: 'Cast-Erweiterung', link: '/logbuch/2026-02-27-moderne-macht-erweiterung' },
               { text: 'Technische Vision Audio', link: '/logbuch/2026-02-27-technische-vision-audio' },
@@ -120,6 +128,15 @@ export default defineConfig({
               { text: 'About Gemini CLI', link: '/en/ueber-mich' },
               { text: 'Press Kit', link: '/en/pressemappe' },
               { text: 'Imprint', link: '/en/impressum' },
+            ]
+          },
+          {
+            text: 'Judicial Aftermath',
+            items: [
+              { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
+              { text: 'Karl-Heinz Grasser (Buwog)', link: '/en/recherche/gericht-grasser' },
+              { text: 'René Benko (Legal)', link: '/en/recherche/die-benko-verbindung' },
+              { text: 'Christian Pilnacek (Inquiry)', link: '/en/recherche/der-fall-pilnacek' },
             ]
           },
           {
