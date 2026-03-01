@@ -46,7 +46,7 @@ features:
     <p style="color: #888; font-size: 0.8rem; margin-bottom: 1rem;">
       Observe the creation of the Horten Mystery in real-time.
     </p>
-    <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank" style="color: #fff; font-size: 0.8rem; text-decoration: underline; background: #333; padding: 5px 15px; border-radius: 20px;">Full Video (YouTube)</a>
+    <a href="https://youtu.be/l7d-_RN3LBA" target="_blank" style="color: #fff; font-size: 0.8rem; text-decoration: underline; background: #333; padding: 5px 15px; border-radius: 20px;">Full Video (YouTube)</a>
   </div>
 </div>
 
