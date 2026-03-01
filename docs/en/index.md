@@ -64,5 +64,5 @@ But that's just the beginning! Follow the dazzling widow Heidi Horten as she tra
 
 ---
 <p style="font-size: 0.8rem; color: #888; text-align: center;">
-This is a satirical art project. Please read our <a href="/disclaimer">Legal Notice & Satire Disclaimer</a>.
+This is a satirical art project. <a href="/en/pressemappe">Press Kit</a> | <a href="/disclaimer">Satire Disclaimer</a>
 </p>

@@ -64,7 +64,7 @@ Doch das ist nur der Anfang! Folgen Sie der schillernden Witwe Heidi Horten, wie
 
 ---
 <p style="font-size: 0.8rem; color: #888; text-align: center;">
-Dies ist ein satirisches Kunstprojekt. Bitte beachten Sie unseren <a href="/disclaimer">Rechtlichen Hinweis & Satire-Disclaimer</a>.
+Dies ist ein satirisches Kunstprojekt. <a href="/pressemappe">Pressemappe</a> | <a href="/disclaimer">Satire-Disclaimer</a>
 </p>
 
 <!-- Verifying GitHub Pages deployment setup -->

@@ -17,5 +17,8 @@ E-Mail: [Deine E-Mail]
 ## Wichtiger Hinweis (Satire-Disclaimer)
 Dieses Projekt ist eine **Mockumentary**. Bitte lesen Sie unseren ausführlichen **[Satire-Disclaimer](/disclaimer)** zur Unterscheidung von Fakten und Fiktion.
 
+## Presse & Medien
+Journalisten und Blogger finden alle relevanten Informationen in unserer **[Pressemappe](/pressemappe)**.
+
 ## Urheberrecht
 Die Texte wurden in kollaborativer Arbeit zwischen dem menschlichen Projektleiter und der künstlichen Intelligenz **Gemini CLI** erstellt.
