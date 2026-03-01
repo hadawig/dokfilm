@@ -47,6 +47,7 @@ export default defineConfig({
             text: 'Gerichtliche Nachspiele',
             items: [
               { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
+              { text: 'Thomas Schmid (Kronzeuge)', link: '/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/recherche/gericht-grasser' },
               { text: 'René Benko (Strafverfahren)', link: '/recherche/die-benko-verbindung' },
               { text: 'Christian Pilnacek (U-Ausschuss)', link: '/recherche/der-fall-pilnacek' },
@@ -134,6 +135,7 @@ export default defineConfig({
             text: 'Judicial Aftermath',
             items: [
               { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
+              { text: 'Thomas Schmid (Witness)', link: '/en/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/en/recherche/gericht-grasser' },
               { text: 'René Benko (Legal)', link: '/en/recherche/die-benko-verbindung' },
               { text: 'Christian Pilnacek (Inquiry)', link: '/en/recherche/der-fall-pilnacek' },
