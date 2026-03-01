@@ -31,9 +31,9 @@ export default defineConfig({
               { text: 'Das Pointillismus-Orakel', link: '/orakel' },
               { text: 'Budget-Rettungs-Simulator', link: '/budget-spiel' },
               { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
-              { text: 'Die Besetzung (Cast)', link: '/cast' },
-              { text: 'Geheime Medien', link: '/medien' },
-            ]
+                        { text: 'Die Besetzung (Cast)', link: '/cast' },
+                        { text: 'Die Crew (Team)', link: '/team' },
+                        { text: 'Geheime Medien', link: '/medien' },            ]
           },
           {
             text: 'Der Chronist',
@@ -121,6 +121,7 @@ export default defineConfig({
               { text: 'The Pointillism Oracle', link: '/en/orakel' },
               { text: 'Budget Rescue Simulator', link: '/en/budget-spiel' },
               { text: 'The Cast', link: '/en/cast' },
+              { text: 'The Crew', link: '/en/team' },
               { text: 'Secret Media', link: '/en/medien' },
             ]
           },
