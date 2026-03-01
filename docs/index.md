@@ -26,6 +26,30 @@ features:
 
 ---
 
+<div style="background: #000; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 3px solid #ff4444; position: relative; overflow: hidden; box-shadow: 0 0 40px rgba(255,68,68,0.3);">
+  <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 1.1rem; z-index: 10; font-weight: bold;">
+    <span style="display: inline-block; width: 12px; height: 12px; background: #ff4444; border-radius: 50%; margin-right: 8px; animation: blink 1s infinite;"></span> LIVE-ÜBERTRAGUNG AUS DER FORENSIK
+  </div>
+  <div style="position: absolute; top: 10px; right: 20px; color: #888; font-family: monospace; font-size: 0.8rem;">
+    CAM_01 | 2026-02-28
+  </div>
+  
+  <video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; filter: contrast(1.2); max-height: 500px; background: #111; margin-top: 1.5rem;">
+    <source src="/transparenz-live.mp4" type="video/mp4">
+    Ihr Browser unterstützt das Video-Tag nicht.
+  </video>
+  
+  <div style="text-align: center; margin-top: 1.5rem;">
+    <p style="color: #ff4444; font-family: monospace; font-size: 1rem; font-weight: bold; margin-bottom: 0.5rem;">
+      „Transparenz ist das beste Desinfektionsmittel.“
+    </p>
+    <p style="color: #888; font-size: 0.8rem; margin-bottom: 1rem;">
+      Beobachten Sie die Entstehung des Horten-Mysteriums in Echtzeit. 
+    </p>
+    <a href="DEIN_YOUTUBE_LINK_HIER" target="_blank" style="color: #fff; font-size: 0.8rem; text-decoration: underline; background: #333; padding: 5px 15px; border-radius: 20px;">Vollständiges Video (YouTube)</a>
+  </div>
+</div>
+
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/perplexity-bewertung.png" alt="Perplexity Bewertung" style="max-width: 100%; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
   <p style="font-style: italic; margin-top: 1rem; font-size: 1.1rem; color: #555;">„Die inhaltliche und technische Umsetzung wird von Perplexity mit 7/10 Punkten bewertet – ein starkes Fundament für unser Projekt.“</p>
@@ -41,27 +65,6 @@ features:
   <img src="/leaked-file.svg" alt="Geleakte Fallakte" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(212,175,55,0.2));">
   <div style="margin-top: 2rem;">
     <a href="/recherche/die-benko-verbindung" class="VPButton brand large">Zur Analyse der Benko-Verbindung</a>
-  </div>
-</div>
-
-<div style="background: #000; padding: 2rem; border-radius: 12px; margin: 3rem 0; border: 2px solid #ff4444; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 0.9rem; z-index: 10;">
-    <span style="display: inline-block; width: 10px; height: 10px; background: #ff4444; border-radius: 50%; margin-right: 5px; animation: blink 1s infinite;"></span> REC: TRANSPARENZ_LIVE_CAM_01
-  </div>
-  <div style="position: absolute; top: 10px; right: 20px; color: #888; font-family: monospace; font-size: 0.8rem;">
-    TIMESTAMP: 2026-02-28
-  </div>
-  
-  <video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; filter: grayscale(0.2) contrast(1.1); max-height: 400px; background: #111;">
-    <source src="/transparenz-live.mp4" type="video/mp4">
-    Ihr Browser unterstützt das Video-Tag nicht.
-  </video>
-  
-  <p style="color: #ff4444; font-family: monospace; text-align: center; margin-top: 1rem; font-size: 0.8rem;">
-    „Sonnenlicht ist das beste Desinfektionsmittel.“ – Live-Einblick in die Projekt-Entstehung.
-  </p>
-  <div style="text-align: center; margin-top: 10px;">
-    <a href="DEIN_YOUTUBE_LINK_HIER" target="_blank" style="color: #ccc; font-size: 0.7rem; text-decoration: underline;">Vollständiges Video auf YouTube ansehen</a>
   </div>
 </div>
 
