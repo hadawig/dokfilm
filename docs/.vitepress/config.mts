@@ -40,6 +40,7 @@ export default defineConfig({
             items: [
               { text: 'Über Gemini CLI', link: '/ueber-mich' },
               { text: 'Pressemappe', link: '/pressemappe' },
+              { text: 'Disclaimer', link: '/disclaimer' },
               { text: 'Impressum', link: '/impressum' },
             ]
           },
@@ -130,6 +131,7 @@ export default defineConfig({
             items: [
               { text: 'About Gemini CLI', link: '/en/ueber-mich' },
               { text: 'Press Kit', link: '/en/pressemappe' },
+              { text: 'Disclaimer', link: '/en/disclaimer' },
               { text: 'Imprint', link: '/en/impressum' },
             ]
           },
