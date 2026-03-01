@@ -20,6 +20,13 @@ Dieses Motiv ist eine Hommage an die wohl teuerste musikalische Untermalung der 
 
 ---
 
+## 🚩 T-Shirt: „I love WKStA“ (Externer Partner)
+Unterstützen Sie die Arbeit der Wirtschafts- und Korruptionsstaatsanwaltschaft durch das Tragen des ikonischen roten T-Shirts. Ein starkes Statement für den Rechtsstaat und gegen das „Abdrehen“ von Ermittlungen.
+
+👉 **[Hier bei Spreadshirt ansehen & kaufen](https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/)**
+
+---
+
 ## ☕ Tasse: „49.000 € – Nur ein kleiner Punkt“ (Bald verfügbar)
 Die perfekte Tasse für den Morgenkaffee (oder die nächste Spendenstückelung). 
 

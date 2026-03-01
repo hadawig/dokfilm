@@ -50,6 +50,10 @@ features:
   </div>
 </div>
 
+<div style="background: #cc0000; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; color: white; text-align: center; font-weight: bold; box-shadow: 0 5px 15px rgba(204,0,0,0.3);">
+  🚩 SUPPORT THE INVESTIGATORS: <a href="https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/" target="_blank" style="color: white; text-decoration: underline;">Get the red "I love WKStA" T-shirt</a>
+</div>
+
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/perplexity-bewertung.png" alt="Perplexity Evaluation" style="max-width: 100%; border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
   <p style="font-style: italic; margin-top: 1rem; font-size: 1.1rem; color: #555;">"The content and technical implementation is rated 7/10 by Perplexity – a strong foundation for our project."</p>

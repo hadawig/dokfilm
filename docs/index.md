@@ -46,8 +46,12 @@ features:
     <p style="color: #888; font-size: 0.8rem; margin-bottom: 1rem;">
       Beobachten Sie die Entstehung des Horten-Mysteriums in Echtzeit. 
     </p>
-    <a href="DEIN_YOUTUBE_LINK_HIER" target="_blank" style="color: #fff; font-size: 0.8rem; text-decoration: underline; background: #333; padding: 5px 15px; border-radius: 20px;">Vollständiges Video (YouTube)</a>
+    <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank" style="color: #fff; font-size: 0.8rem; text-decoration: underline; background: #333; padding: 5px 15px; border-radius: 20px;">Vollständiges Video (YouTube)</a>
   </div>
+</div>
+
+<div style="background: #cc0000; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; color: white; text-align: center; font-weight: bold; box-shadow: 0 5px 15px rgba(204,0,0,0.3);">
+  🚩 SUPPORT THE INVESTIGATORS: <a href="https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/" target="_blank" style="color: white; text-decoration: underline;">Holen Sie sich das rote „I love WKStA“ T-Shirt</a>
 </div>
 
 <div style="text-align: center; margin: 2rem 0;">

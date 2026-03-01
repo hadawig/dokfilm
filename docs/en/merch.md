@@ -20,5 +20,12 @@ This motif is a tribute to what is probably the most expensive musical accompani
 
 ---
 
+## 🚩 T-Shirt: "I love WKStA" (External Partner)
+Support the work of the Economic and Corruption Prosecutor's Office by wearing the iconic red T-shirt. A strong statement for the rule of law and against the "shutting down" of investigations.
+
+👉 **[View & buy on Spreadshirt](https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/)**
+
+---
+
 ## ☕ Mug: "€49,000 – Just a Small Dot" (Coming Soon)
 The perfect mug for your morning coffee (or your next donation splitting).
