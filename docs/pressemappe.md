@@ -17,7 +17,8 @@
 ## 🎭 Der künstlerische Cast (Fiktiv)
 Wir inszenieren die Geschichte mit den Stimmen und Charakteren von:
 - **Birgit Minichmayr** als Heidi Horten.
-- **August Diehl** als Helmut Horten / August Wöginger.
+- **August Diehl** als Helmut Horten.
+- **Udo Samel** als August Wöginger.
 - **Oliver Masucci** als Chronist / Christian Pilnacek.
 
 ---

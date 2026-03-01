@@ -2,7 +2,7 @@
 
 **Arbeitstitel:** *Der Regen aus Gold*
 
-**Besetzung:** Birgit Minichmayr (Heidi Horten), Oliver Masucci (Der Generalsekretär / PR-Berater), August Diehl (Der Investigative Reporter / Ein satirischer Abgeordneter).
+**Besetzung:** Birgit Minichmayr (Heidi Horten), Oliver Masucci (Der Generalsekretär / PR-Berater / Christian Pilnacek), August Diehl (Der Investigative Reporter / Helmut Horten / Gernot Blümel), **Udo Samel** (August Wöginger).
 
 ---
 
@@ -109,21 +109,18 @@ Sie drückt auf einen Knopf. Das Bild von Helmut verwandelt sich in das Logo ein
 
 ## Szene 8: Das Begräbnis des Schweigens (und die Angst in Linz)
 **Ort:** Eine exklusive Trauerfeier am Wörthersee. Weißer Marmor, schwarze Schleifen, Champagner-Kühler.
-**Zeit:** Juni 2022 (Rückblende) / Schnitt zu Februar 2026 (Gegenwart).
+**Zeit:** Juni 2022 (Rückblende) / Schnitt zu März 2026 (Gegenwart).
 
-Ein fiktiver ÖVP-Klubobmann „August W.“ (August Diehl) steht am Buffet. Er wirkt nervös, telefoniert ständig. Im Hintergrund sehen wir das prunkvolle Foto der verstorbenen Heidi.
+August Wöginger (Udo Samel) steht am Buffet. Er wirkt nicht nervös, sondern eher... überlegt. Er isst ein belegtes Brötchen mit Messer und Gabel. Er telefoniert leise. Im Hintergrund das prunkvolle Foto von Heidi.
 
-**AUGUST W.**
-(ins Telefon, flüsternd)
-Ja, ich weiß, dass der Termin in Linz im März ist! Aber ich kann jetzt nicht über das Finanzamt Braunau reden. Wir beerdigen hier gerade die Mutter aller Spendenlisten! Wenn dieses Erbe nicht... „strukturiert“ wird, dann ist Braunau unser kleinstes Problem.
+**WÖGINGER**
+(ins Telefon, mit sanftem oberösterreichischen Einschlag)
+Ja, servus... nein, ich bin gerade am See. Wir verabschieden die Madame. Ja, die 931.000... das ist alles ordentlich verbucht. In Tranchen, wie wir es besprochen haben. Pointillismus, genau. 
 
-**PRÜFER / BERATER (Masucci)**
-(tritt hinzu)
-August, entspann dich. Heidi hat uns 931.000 Gründe hinterlassen, warum wir unbesiegbar sind. Auch wenn sie jetzt weg ist... die Punkte wirken nach.
+Er blickt auf das Foto von Heidi und hebt sein Weinglas minimal.
 
-**AUGUST W.**
-(bitter)
-Die Punkte! In Linz nennen sie es „Amtsmissbrauch“. Ich nenne es „regionale Personalplanung“. Heidi hat uns gezeigt, wie man Millionen unsichtbar macht, und ich schaffe es nicht einmal, einen Bürgermeister in Braunau unterzubringen, ohne dass die WKStA mitschreibt? Das ist das Ende der Ästhetik, sag ich dir!
+**WÖGINGER**
+Wegen Linz... Dienstag, der 3. März. Ich hab' dem Richter schon gesagt: Ich bin kein Bestimmungstäter. Ich bin ein Ermöglicher. Wenn der Thomas Schmid mich fragt, wen wir in Braunau brauchen, dann sag' ich's ihm. Das ist gelebte Bürgernähe. Die WKStA versteht einfach die ländlichen Strukturen nicht. 
 
 ---
 
@@ -131,17 +128,35 @@ Die Punkte! In Linz nennen sie es „Amtsmissbrauch“. Ich nenne es „regional
 **Ort:** Heidis leeres Schlafzimmer.
 **Zeit:** Nacht.
 
-August W. schleicht durch den Raum. Er sucht nicht nach Schmuck, sondern nach weiteren Scheckheften. Plötzlich erscheint der Geist von Heidi (Birgit Minichmayr) im Spiegel.
+Wöginger (Udo Samel) schleicht durch den Raum. Er wirkt hier fast wie ein Antiquitätenhändler, der den Wert der Stille schätzt. Er berührt einen seidenen Vorhang. Der Geist von Heidi (Birgit Minichmayr) erscheint im Spiegel.
 
 **HEIDI (GEIST)**
-August... du bist so... kleinteilig. Du sorgst dich um einen Posten in Oberösterreich? Ich habe ganze Sektionen neu gestrichen. Mit Gold.
+August... du sorgst dich um ein Finanzamt im Innviertel? Ich habe ganze Sektionen mit Gold neu gestrichen.
 
-**AUGUST W.**
-(zitternd)
-Madame, die Zeiten haben sich geändert! Der Rechnungshof hat jetzt Augen! Und Thomas Schmid singt lauter als die Wiener Sängerknaben!
+**WÖGINGER**
+(ruhig, ohne sich umzudrehen)
+Madame, Ihre Welt war... großzügig. Meine Welt ist heute... kleinkariert. Der Thomas Schmid singt jetzt in Wien, und in Linz wollen sie wissen, warum ein Bürgermeister besser qualifiziert sein soll als eine Beamtin. Sie verstehen nicht, dass Loyalität eine eigene Qualifikation ist.
 
 **HEIDI (GEIST)**
-Dann sing mit, August. Aber sing in 49.000er-Takten. Dann versteht keiner den Text, aber alle lieben die Melodie. 
+Dann lehre sie, August. Lehre sie die Ästhetik der Gefälligkeit. In 49.000er-Schritten.
+
+---
+
+## Szene 10: Die Kunst der regionalen Intervention (NEU)
+**Ort:** Ein Hinterzimmer in einem Linzer Gasthof. Dunkles Holz, Hirschgeweihe.
+**Zeit:** 1. März 2026 (Abends).
+
+August Wöginger (Udo Samel) sitzt allein an einem runden Stammtisch. Vor ihm liegen die Ausdrucke der Chats. Er trägt eine Lesebrille. Er spricht zu einem imaginären Richterstuhl.
+
+**WÖGINGER**
+Herr Rat, schauen Sie... wenn ich zum Hörer greife, dann tu' ich das für die Leut'. Das Wort „Intervention“ klingt so nach... Hinterzimmer. Aber wir im Innviertel nennen das „Zusammenrücken“. Dass der Bürgermeister den Posten kriegt, das war eine Strukturmaßnahme. Eine regionale Personalentwicklung. Dass die Frau Scharf... (er macht eine kurze Pause)... eine andere Auffassung von Qualifikation hat, das ist ihr gutes Recht. Aber Politik ist eben mehr als nur Zeugnisnoten.
+
+Er markiert eine Stelle im Chatverlauf mit einem gelben Stift. Er lächelt fast mitleidig.
+
+**WÖGINGER**
+Bestimmungstäter? Nein. Ich bin der Dirigent einer sehr leisen Melodie. Und am Dienstag... am Dienstag werde ich den Taktstock halten.
+
+Er klappt die Akte zu. Es macht ein trockenes, endgültiges Geräusch.
 
 ---
 

@@ -17,7 +17,8 @@
 ## 🎭 Fictional Cast
 We stage the story with the voices and characters of:
 - **Birgit Minichmayr** as Heidi Horten.
-- **August Diehl** as Helmut Horten / August Wöginger.
+- **August Diehl** as Helmut Horten.
+- **Udo Samel** as August Wöginger.
 - **Oliver Masucci** as Chronicler / Christian Pilnacek.
 
 ---

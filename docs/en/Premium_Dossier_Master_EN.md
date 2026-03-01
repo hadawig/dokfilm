@@ -39,7 +39,7 @@ The relationship with the Austrian People's Party (ÖVP). We dedicate ourselves 
 
 **Working Title:** *From the Glow of Silence*
 
-**Cast:** Birgit Minichmayr (Heidi Horten), August Diehl (The Young Helmut - in flashbacks), Oliver Masucci (The Curator/Chronicler).
+**Cast:** Birgit Minichmayr (Heidi Horten), August Diehl (The Young Helmut - in flashbacks), Udo Samel (August Wöginger), Oliver Masucci (The Curator/Chronicler).
 
 ---
 

@@ -39,7 +39,7 @@ Die Beziehung zur ÖVP. Wir widmen uns dem "Regen aus Gold" – den Spenden und 
 
 **Arbeitstitel:** *Vom Glanz der Stille*
 
-**Besetzung:** Birgit Minichmayr (Heidi Horten), August Diehl (Der junge Helmut - in Rückblenden), Oliver Masucci (Der Kurator/Chronist).
+**Besetzung:** Birgit Minichmayr (Heidi Horten), August Diehl (Der junge Helmut - in Rückblenden), Udo Samel (August Wöginger), Oliver Masucci (Der Kurator/Chronist).
 
 ---
 
