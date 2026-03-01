@@ -608,8 +608,9 @@ It's a mockumentary. We can tell the truth as long as we claim it's invented.
 They look together into the camera. In the background, we see the logo of the website: *The Horten Mystery*.
 
 **FADE OUT.**
-\n---\n# THE RESEARCH ARCHIVE\n
-\n---\n
+
+# THE RESEARCH ARCHIVE
+
 ---
 title: The Tragic Fate of the Alsberg Family – The Human Cost of "Aryanization" and Helmut Horten's Role
 description: An in-depth research on the Jewish entrepreneurial family Alsberg, their department stores, the brutal "Aryanization" by the Nazis, and the individual suffering of its members.
@@ -641,7 +642,7 @@ The personal suffering went far beyond the loss of their life's work. It is a st
 ---
 
 *For our mockumentary, this research forms the moral core of Part 3.*
-\n---\n
+
 # Research: The Christian Pilnacek Case
 
 **The secret recordings and the "shutting down" of investigations.**
@@ -672,7 +673,7 @@ The Pilnacek case is the modern equivalent of the "Archive of Silence" for our p
 ---
 
 *Sources: Protocols of the Pilnacek Inquiry Committee (2026), report of the Kreutner Commission (2024), reporting by Standard, ORF, and Profil.*
-\n---\n
+
 # Research: The Horten-Alsberg Sales Contract (Duisburg 1936)
 
 **The foundation of an empire on the ruins of an existence.**
@@ -719,7 +720,7 @@ While many original documents from the 1930s were lost during the war or during 
 ---
 
 *Source: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten (2022), Helmut Horten Foundation.*
-\n---\n
+
 # Research: The Benko Connection (Horten's Legacy at Signa)
 
 **From Department Store King to Real Estate Speculator: The Circle Closes.**
@@ -755,7 +756,7 @@ At the end of 2023, the Signa empire collapsed. It is the largest corporate bank
 ---
 
 *Sources: Analysis of the Signa insolvency (Handelsblatt, Standard), historical data on Horten AG, court reports 2025.*
-\n---\n
+
 # Research: The Eurofighter Affair (Austria's Billion-Dollar Grave)
 
 **A masterpiece of political aviation – and the opaque procurement processes behind it.**
@@ -782,7 +783,7 @@ The Eurofighter affair represents the "Old Style" of large-scale procurement –
 ---
 
 *Sources: Reports of the various Eurofighter Committees of Inquiry, investigative reporting by Profil and Der Standard.*
-\n---\n
+
 # Research: Helmut Horten – Armament & Forced Labor
 
 **Beyond the department stores – The darker side of the business empire.**
@@ -807,7 +808,7 @@ In Part 2 of our mockumentary, we show that the "pointillism of capital" also in
 ---
 
 *Sources: The Hoeres Report (2022), studies on the economy in National Socialism, and archives on forced labor in the German Reich.*
-\n---\n
+
 # Research: The Ibiza Video (The Catalyst)
 
 **"Genug ist genug" – How a villa in Ibiza changed Austrian politics forever.**
@@ -840,7 +841,7 @@ The Ibiza Video is the "Big Bang" of our narrative. It is the moment when the "P
 ---
 
 *Sources: Reporting by Der Spiegel, Süddeutsche Zeitung, and the final report of the Ibiza Committee of Inquiry.*
-\n---\n
+
 # Research: The Advertisement Affair (Media Corruption)
 
 **When Steuergeld (tax money) buys positive headlines – The "Kurz System" and its methods.**
@@ -867,7 +868,7 @@ The advertisement affair is the modern equivalent of the "market consolidation" 
 ---
 
 *Sources: Investigation files of the WKStA, chat protocols of Thomas Schmid, reporting by the ORF and investigative media.*
-\n---\n
+
 # Research: Corruption of FPÖ and ÖVP (International Perspectives)
 
 **The erosion of trust – How political scandals in Austria are viewed globally.**
@@ -894,7 +895,7 @@ In our film, we use the international view as a corrective. While national actor
 ---
 
 *Sources: Corruption Perceptions Index (Transparency International), GRECO reports on Austria.*
-\n---\n
+
 # Research: The Modern ÖVP Power Circles
 
 **From "New Style" to a Billion-Dollar Deficit: The Continuation of Pointillism.**
@@ -922,7 +923,7 @@ In the modern phase of "The Horten Mystery," we encounter actors who have transl
 ---
 
 *Sources: Statistics Austria reports (2024/2025), WKStA investigation files, analysis of the EU deficit procedure against Austria.*
-\n---\n
+
 # Research: The ÖVP Donation List (Heidi Goëss-Horten)
 
 **"Pointillism of Capital" – How 931,000 Euros became invisible to the Court of Audit.**
@@ -970,7 +971,7 @@ In our film, the donation list serves as a bridge between Helmut Horten's histor
 ---
 
 *Sources: Reports of the Court of Audit (2019), analyses by kurier.at, kontrast.at, and profil.at on party financing.*
-\n---\n
+
 # Research: Patronage & Chats (The Schmid System)
 
 **"Kriegst eh alles, was du willst" – The digital protocols of power.**
@@ -997,7 +998,7 @@ The Schmid chats are the "language of power" in our film. We contrast the polite
 ---
 
 *Sources: Chat protocols published by the WKStA, investigative dossiers of the Ibiza Committee of Inquiry.*
-\n---\n
+
 # Research: The "Postenschacher" Case (August Wöginger)
 
 **The case of the parliamentary group leader: When political intervention meets abuse of office.**
@@ -1041,7 +1042,7 @@ In our mockumentary, we draw parallels between the historical favoring of "frien
 ---
 
 *Sources: Current reporting (Trend, Krone, Kurier, OE24) from February 27, 2026, files of the WKStA.*
-\n---\n
+
 # Research: The Shredder Affair (Reißwolf-Gate)
 
 **When data becomes "unpleasant" – A textbook example of political data hygiene.**
@@ -1068,7 +1069,7 @@ For the mockumentary, we draw parallels between Helmut Horten's "market consolid
 ---
 
 *Sources: Reporting by Profil, Standard, and documentation of the investigations by the WKStA.*
-\n---\n
+
 # Research: Walter Rosenkranz (Chairman of the Pilnacek Committee)
 
 **The new referee in the Archive of Silence.**
@@ -1087,7 +1088,7 @@ Rosenkranz functions as the "uncomfortable master of ceremonies" in our mockumen
 ---
 
 *Sources: Protocols of the National Council (2026), reporting on the committee inquiries (OE24, ORF, heute.at).*
-\n---\n# SECRET MEDIA & DOCUMENTS\n
+
 # Geheime Medien & Dokumente
 
 Hier sammeln wir das (fiktive) Beweismaterial, das unsere Mockumentary stützt. Warnung: Einige dieser Dokumente gelten in bestimmten Kreisen als "nicht existent".

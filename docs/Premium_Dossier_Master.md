@@ -705,8 +705,8 @@ Es ist eine Mockumentary. Wir können die Wahrheit sagen, solange wir behaupten,
 Sie blicken gemeinsam in die Kamera. Im Hintergrund sehen wir das Logo der Webseite: *Das Horten-Mysterium*.
 
 **FADE OUT.**
-\n---\n# DAS RECHERCHE-ARCHIV\n
-\n---\n
+# DAS RECHERCHE-ARCHIV
+
 ---
 title: Das tragische Schicksal der Familie Alsberg – Die menschlichen Kosten der "Arisierung" und die Rolle Helmut Hortens
 description: Eine tiefgehende Recherche über die jüdische Unternehmerfamilie Alsberg, ihre Kaufhäuser, die brutale "Arisierung" durch die Nationalsozialisten und das individuelle Leid ihrer Mitglieder.
@@ -786,7 +786,7 @@ Das Gedenken an die Opfer der Familie Alsberg und all jener, die unter der natio
 Ihre Namen sind zudem in den Datenbanken der Holocaust-Gedenkstätten, wie der **Yad Vashem**-Datenbank der Namen der Shoah-Opfer, verewigt. Lokale Initiativen, wie die Forschungen von Schülern der Königin-Luise-Schule in Köln, tragen aktiv dazu bei, diese Geschichten vor dem Vergessen zu bewahren.
 
 Die Geschichte der Familie Alsberg ist eine eindringliche Erinnerung daran, dass der Reichtum, der durch "Arisierung" erworben wurde, auf Zwang, Leid und Mord gründet. Sie mahnt uns, die Mechanismen solcher Verbrechen zu verstehen, die Rolle der Profiteure kritisch zu hinterfragen und uns aktiv gegen Antisemitismus, Rassismus und jede Form von Diskriminierung zu stellen. Die fortgesetzte Auseinandersetzung mit der Geschichte der Alsbergs ist ein wichtiger Beitrag zur Erinnerungskultur und zur Gestaltung einer verantwortungsvollen Zukunft.
-\n---\n
+
 # Recherche: Der Kaufvertrag Horten-Alsberg (Duisburg 1936)
 
 **Das Fundament eines Imperiums auf den Trümmern einer Existenz.**
@@ -840,7 +840,7 @@ Die im Gutachten beschriebene **„Kühle des Geschäfts“** ist der emotionale
 ---
 
 *Quelle: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten (2022), Helmut Horten Stiftung.*
-\n---\n
+
 ---
 title: "Helmut Horten – Rüstungsprofite und Zwangsarbeit (Johannisthal)"
 description: Eine Untersuchung der Beteiligung Helmut Hortens an der Rüstungsindustrie im Dritten Reich und der Einsatz von Zwangsarbeitern in der Flugzeugwerk Johannisthal GmbH.
@@ -882,7 +882,7 @@ Diese Erkenntnisse sind ein zentraler Baustein für das Motiv der **Marktbereini
 
 ---
 *Quellen: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten, Prof. Dr. Peter Hoeres, 2022.*
-\n---\n
+
 # Recherche: Das Ibiza-Video (Die Mutter aller Enthüllungen)
 
 Obwohl dieses Video primär die FPÖ-Führung (Strache/Gudenus) zu Fall brachte, ist es für unsere Mockumentary der unverzichtbare Prolog zur Schredder-Affäre und zum "System Kurz".
@@ -901,7 +901,7 @@ Das Ibiza-Video öffnete die "Büchse der Pandora". Ohne die Ermittlungen nach I
 ---
 
 *In unserer Mockumentary nutzen wir die 'Ibiza-Logik' als Metapher für die Hinterzimmer-Gespräche der 30er Jahre.*
-\n---\n
+
 # Recherche: Die Schredder-Affäre (Reißwolf-Gate)
 
 Im Kontext unserer Mockumentary beleuchten wir nicht nur die historischen Machenschaften der Ära Horten, sondern auch die moderne Ethik politischer Transparenz. Ein Musterbeispiel für den Umgang mit 'unangenehmen Daten' ist die österreichische Schredder-Affäre von 2019.
@@ -927,7 +927,7 @@ Genau wie die Horten-Spenden in winzige Stücke zerlegt wurden, um sie unsichtba
 ---
 
 *Quelle der Recherche: Investigative Berichte von Standard, Falter und internationalen Medien.*
-\n---\n
+
 # Recherche: Die Eurofighter-Affäre (Das teuerste Spielzeug)
 
 In unserer Mockumentary dient der Eurofighter-Skandal als ultimatives Beispiel für "Gegengeschäfte" und das, was Dr. von Zitzewitz als "kreative Rüstungs-Diplomatie" bezeichnet.
@@ -946,7 +946,7 @@ Während Helmut Horten in den 30ern Kaufhäuser "bereinigte", zeigt die Eurofigh
 ---
 
 *In Teil 3 unserer Mockumentary vergleichen wir die 'Gegengeschäfte' der Eurofighter mit den 'Kaufverträgen' der Alsberg-Häuser.*
-\n---\n
+
 # Recherche: Die Inseraten-Affäre (Gekaufte Meinung)
 
 In unserer Mockumentary untersuchen wir, wie man sich die Gunst der Presse nicht nur verdient, sondern schlichtweg kauft. Die Inseraten-Affäre der Ära Kurz ist hierfür das Lehrstück des 21. Jahrhunderts.
@@ -959,7 +959,7 @@ Helmut Horten wusste schon früh: Wer die Schaufenster kontrolliert, kontrollier
 
 ---
 *Wissenschaftlicher Fokus: Die Instrumentalisierung des Boulevards als politisches Werkzeug.*
-\n---\n
+
 # Recherche: Postenschacher & Die Thomas-Schmid-Chats
 
 "Kriegst eh alles, was du willst." – Dieser Satz aus den Chats von Thomas Schmid ist zum Symbol für eine Politik geworden, die den Staat als Selbstbedienungsladen für Günstlinge betrachtet.
@@ -971,7 +971,7 @@ Ob die Leitung der ÖBAG oder Vorstandsposten in staatsnahen Betrieben: Qualifik
 Wir zeigen in Teil 4, wie die 'jungen Wilden' der Politik versuchen, die Diskretion der alten Horten-Schule zu kopieren, dabei aber kläglich an ihrer eigenen digitalen Spur (Emojis!) scheitern.
 
 ---
-\n---\n
+
 # Recherche: Die Causa „Postenschacher“ (August Wöginger)
 
 **Der Fall des Klubobmanns: Wenn politische Intervention auf Amtsmissbrauch trifft.**
@@ -1015,7 +1015,7 @@ In unserer Mockumentary ziehen wir Parallelen zwischen der historischen Begünst
 ---
 
 *Quellen: Aktuelle Berichterstattung (Trend, Krone, Kurier, OE24) vom 27. Februar 2026, Akten der WKStA.*
-\n---\n
+
 # Recherche: Die modernen Machtzirkel der ÖVP
 
 **Vom „Neuen Stil“ zum Milliarden-Defizit: Die Fortsetzung des Pointillismus.**
@@ -1052,7 +1052,7 @@ In unserer Mockumentary ziehen wir folgende Linien:
 ---
 
 *Quellen: Berichte der Statistik Austria (2024/2025), WKStA-Ermittlungsakten, Analysen zum EU-Defizitverfahren gegen Österreich.*
-\n---\n
+
 # Recherche: Die Benko-Verbindung (Hortens Erbe bei Signa)
 
 **Vom Kaufhauskönig zum Immobilienspekulanten: Der Kreis schließt sich.**
@@ -1097,7 +1097,7 @@ Benko fungiert in unserem Film als der „Zauberlehrling“, der die Techniken v
 ---
 
 *Quellen: Analysen zur Signa-Insolvenz (Handelsblatt, Standard), historische Daten zur Horten AG, Gerichtsberichte 2025.*
-\n---\n
+
 # Recherche: Der Fall Christian Pilnacek
 
 **Die geheimen Tonaufnahmen und das „Abdrehen“ von Ermittlungen.**
@@ -1135,7 +1135,7 @@ In unserer Sektion [Geheime Medien](/medien) finden Sie die (nachgestellten) Tra
 ---
 
 *Quellen: Protokolle des Pilnacek-Untersuchungsausschusses (2026), Bericht der Kreutner-Kommission (2024), Berichterstattung von Standard, ORF und Profil.*
-\n---\n
+
 # Recherche: Walter Rosenkranz (Vorsitz im Pilnacek-Ausschuss)
 
 **Der neue Schiedsrichter im Archiv des Schweigens.**
@@ -1164,7 +1164,7 @@ Rosenkranz fungiert in unserer Mockumentary als der „unbequeme Zeremonienmeist
 ---
 
 *Quellen: Protokolle des Nationalrats (2026), Berichterstattung zu den U-Ausschuss-Befragungen (OE24, ORF, heute.at).*
-\n---\n
+
 # Recherche: Korruption von FPÖ und ÖVP in Regierungsverantwortung (Internationale Perspektiven)
 
 Die politische Landschaft Österreichs wurde in den letzten Jahren von einer Reihe von Korruptionsvorwürfen und Skandalen erschüttert, die auch international Beachtung fanden. Insbesondere die Regierungszeiten, in denen FPÖ und ÖVP maßgeblich beteiligt waren, zogen die Kritik internationaler Organisationen und Medien auf sich.
@@ -1202,7 +1202,7 @@ Der **Ibiza-Skandal (Mai 2019)**, aufgedeckt durch den Spiegel und die Süddeuts
 ---
 
 *Quellen für diese Recherche: Berichte von GRECO (Europarat), Europäischer Kommission, Transparency International, OECD sowie internationale Medienberichte zu den jeweiligen Skandalen.*
-\n---\n# GEHEIME MEDIEN & DOKUMENTE\n
+
 # Geheime Medien & Dokumente
 
 Hier sammeln wir das (fiktive) Beweismaterial, das unsere Mockumentary stützt. Warnung: Einige dieser Dokumente gelten in bestimmten Kreisen als "nicht existent".
