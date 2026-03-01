@@ -259,7 +259,33 @@ Auch das war rein beobachtend. Man sieht im Flugzeug einfach besser, wo die Lüc
 
 ---
 
-## Szene 16: Der finale Vorhang des Schweigens
+## Szene 16: Die Hure für die Reichen
+**Ort:** Eine schickes Penthouse-Büro im Goldenen Quartier, Wien.
+**Zeit:** Dezember 2016 (Rückblende).
+
+Thomas Schmid (August Diehl) steht am Fenster und blickt über die Stadt. Hinter ihm sitzt René Benko (Oliver Masucci) an einem massiven Schreibtisch. Er schiebt einen Umschlag (oder ein Tablet mit einem Vertragsentwurf) über den Tisch.
+
+**BENKO**
+Thomas, du verschwendest dein Talent im Ministerium. 300.000 fix, 300.000 Bonus. Generalbevollmächtigter bei Signa. Das würde dir gut liegen. 
+
+**SCHMID**
+(dreht sich langsam um, ein gequältes Lächeln auf den Lippen)
+René, das ist... ein großzügiges Angebot. Aber ich habe hier noch Aufgaben. Die Steuerprüfungen, die Abstimmungen mit HBK...
+
+**BENKO**
+Eben drum. Du räumst die Hürden aus dem Weg, und wir bauen die Wolkenkratzer. Es ist eine Synergie, Thomas.
+
+**SCHMID**
+(flüsternd, fast zu sich selbst)
+Weißt du, was ich mir neulich in einem Chat geschrieben habe? Dass ich im ÖVP-Kabinett hackle. Dass ich die Hure für die Reichen bin. 
+
+**BENKO**
+(lacht laut auf)
+Aber Thomas! Du bist keine Hure. Du bist ein Dienstleister der obersten Kategorie. Und Dienstleistung auf diesem Niveau... die wird eben exzellent bezahlt. Willkommen im Team.
+
+---
+
+## Szene 17: Der finale Vorhang des Schweigens
 **Ort:** Eine leere Bühne.
 **Zeit:** Jetzt.
 
