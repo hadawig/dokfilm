@@ -50,6 +50,28 @@ features:
   </div>
 </div>
 
+<div style="background: #fdf6e3; border-left: 10px solid #d4af37; padding: 2rem; color: #555; font-family: 'Georgia', serif; margin: 3rem 0; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
+  <h2 style="margin-top: 0; color: #000; font-family: sans-serif;">📝 PROJECT MANAGER'S NOTE</h2>
+  <p>I had the idea, in the course of the AI hype, to "play" a little with <b>Gemini-CLI</b>! At the beginning, there was a little preparation. First, preparing the computer. That was very little work!</p>
+  
+  <p>Since I've been a power Linux user for decades, proudly belong to the open-source community, and always have a perfectly functioning Tux machine in use, a few commands in the console were enough! Imitation is expressly encouraged:</p>
+
+  <pre style="background: #000; color: #00ff00; padding: 15px; border-radius: 5px; font-family: monospace; font-size: 0.9rem; overflow-x: auto;">
+sudo apt update && sudo apt upgrade -y
+sudo apt install npm
+npm install -g @google/gemini-cli
+mkdir gemini && cd gemini
+gemini</pre>
+
+  <p>Case closed. Honestly, I didn't expect much, since people think you need a €10,000 computer with a €5,000 graphics card and half a terabyte of RAM for AI. No chance here in Tyrol! "Mine" has a TDP of just 65W and no dedicated graphics card at all.</p>
+
+  <p>Nevertheless, I designed a quite powerful system. Since I am politically interested and forced to follow the ongoing corruption trials of the "Banana Republic of Austriastan," the idea was born to dedicate myself to an artistic and artificial (<b>AI and I</b>) processing. </p>
+
+  <p>Now – 3 days later – there is a homepage on the web that was built and filled almost independently and error-free by <b>Gemini-CLI</b> under my guidance. A platform that, in my opinion, is quite impressive!</p>
+  
+  <p style="text-align: right; font-weight: bold; margin-top: 2rem;">To be continued!<br>Yours, Volti</p>
+</div>
+
 <div style="background: #cc0000; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; color: white; text-align: center; font-weight: bold; box-shadow: 0 5px 15px rgba(204,0,0,0.3);">
   🚩 SUPPORT THE INVESTIGATORS: <a href="https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/" target="_blank" style="color: white; text-decoration: underline;">Get the red "I love WKStA" T-shirt</a>
 </div>

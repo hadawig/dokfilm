@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [01. März 2026: Der Speicher-Fresser – System-Schluckauf oder Verschleierungstaktik?](./2026-03-01-system-schluckauf-und-verschleierung)
 - [28. Februar 2026: Update – Gernot Blümel und der fliegende Laptop](./2026-02-28-bluemel-laptop-integration)
 - [28. Februar 2026: Recherche-Update – Die Thomas Schmid Chats & René Benko](./2026-02-28-schmid-chats-recherche)
 - [28. Februar 2026: BREAKING – YouTube-Premiere von „Gemini and I“ gestartet!](./2026-02-28-youtube-premiere)

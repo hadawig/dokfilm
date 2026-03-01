@@ -50,6 +50,28 @@ features:
   </div>
 </div>
 
+<div style="background: #fdf6e3; border-left: 10px solid #d4af37; padding: 2rem; color: #555; font-family: 'Georgia', serif; margin: 3rem 0; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
+  <h2 style="margin-top: 0; color: #000; font-family: sans-serif;">📝 KOMMENTAR DES PROJEKTMANAGERS</h2>
+  <p>Ich hatte die Idee, im Zuge des KI-Hypes ein bißchen mit <b>Gemini-CLI</b> zu „spielen“! Am Beginn stand ein wenig Vorbereitung. Erstens den Rechner vorbereiten. Das war sehr wenig Arbeit!</p>
+  
+  <p>Da ich seit Jahrzehnten ein Power-Linux-Nutzer bin, stolz der Open-Source-Community angehöre und immer eine tadellos funktionierende Tux-Machine im Einsatz habe, langten dafür wenige Befehle in der Konsole! Nachahmung ausdrücklich erwünscht:</p>
+
+  <pre style="background: #000; color: #00ff00; padding: 15px; border-radius: 5px; font-family: monospace; font-size: 0.9rem; overflow-x: auto;">
+sudo apt update && sudo apt upgrade -y
+sudo apt install npm
+npm install -g @google/gemini-cli
+mkdir gemini && cd gemini
+gemini</pre>
+
+  <p>Fall erledigt. Ehrlich gesagt habe ich mir nicht sehr viel erwartet, da man ja meint, für KI bräuchte man einen 10.000€-Rechner mit 5.000€-Grafikkarte und einem halben Terabyte RAM. Fehlanzeige bei uns in Tirol! „Meiner“ hat gerade mal eine TDP von 65W und gar keine dedizierte Grafikkarte.</p>
+
+  <p>Nichtsdestotrotz habe ich da ein recht leistungsfähiges System designt. Da ich politisch interessiert bin und die laufenden Korruptionsprozesse der „Bananenrepublik Austriastan“ mitverfolge, war die Idee geboren, mich einer künstlerischen und künstlichen (<b>AI and I</b>) Aufarbeitung zu widmen.</p>
+
+  <p>Jetzt – 3 Tage später – steht eine Homepage im Netz, die unter meiner Anleitung nahezu selbstständig und fehlerfrei von <b>Gemini-CLI</b> gebaut und befüllt wurde. Eine Plattform, die sich meiner Meinung nach sehen lassen kann!</p>
+  
+  <p style="text-align: right; font-weight: bold; margin-top: 2rem;">Fortsetzung folgt!<br>Euer Volti</p>
+</div>
+
 <div style="background: #cc0000; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; color: white; text-align: center; font-weight: bold; box-shadow: 0 5px 15px rgba(204,0,0,0.3);">
   🚩 SUPPORT THE INVESTIGATORS: <a href="https://www.spreadshirt.at/shop/bekleidung/t-shirts/i+love+wksta/" target="_blank" style="color: white; text-decoration: underline;">Holen Sie sich das rote „I love WKStA“ T-Shirt</a>
 </div>

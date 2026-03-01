@@ -84,20 +84,28 @@ Während die Alsbergs um ihr nacktes Leben verhandelten, verhandelte Helmut Hort
 **Ort:** Ein graues, staubiges Büro in der Nachkriegszeit (1952).
 **Zeit:** Ein endloser Nachmittag.
 
-Heinz Alsberg (Oliver Masucci) sitzt einem Beamten (August Diehl) gegenüber. Der Beamte trägt Ärmelschoner und raucht eine Zigarre, die nach billigem Staatsdienst riecht.
-
-**BEAMTE**
-Herr Alsberg, wir brauchen Beweise. Wo ist der Originalvertrag von 1938?
+Heinz Alsberg (Oliver Masucci) sitzt einem Beamten (August Diehl) gegenüber. Der Beamte trägt Ärmelschoner und raucht eine Zigarre, die nach billigem Staatsdienst riecht. Heinz legt eine zerschlissene Kopie des Arisierungs-Protokolls vom 1. Mai 1938 auf den Tisch.
 
 **HEINZ**
-Der Vertrag wurde im Rathaus von Duisburg vernichtet. Von Hortens Leuten. Das wissen Sie doch!
+Hier ist es. Das Protokoll der Übernahme. Mein Vater hat es damals unter Zwang unterschrieben. Er hat es mir vor seiner Deportation nach Litzmannstadt zugesteckt. „Dieses Papier ist unser Recht“, hat er gesagt.
 
 **BEAMTE**
-(zuckt die Achseln)
-Ohne Dokumente keine Enteignung. Vielleicht war es ja ein freiwilliger Verkauf? Herr Horten ist ein angesehener Steuerzahler. Er sagt, es war ein faires Geschäft unter Freunden.
+(nimmt das Papier mit zwei Fingern hoch, als wäre es unrein)
+Litzmannstadt... ja, tragisch. Aber dieses Dokument, Herr Alsberg... das ist nur eine Absichtserklärung. Wo ist der notarielle Hauptvertrag? Wo ist der Nachweis, dass der Kaufpreis nicht doch geflossen ist? 
 
 **HEINZ**
-Freunden? Er hat uns verhungern lassen, während er in unserem Büro Champagner trank!
+Der Kaufpreis lag auf einem Sperrkonto! Helmut Horten wusste, dass wir nie an das Geld kommen würden. Er hat mit dem Staat paktiert, um uns auszuhungern!
+
+**BEAMTE**
+(lächelt mitleidig)
+Paktieren ist ein hartes Wort. Nennen wir es... Kooperation in schwierigen Zeiten. Herr Horten ist ein angesehener Steuerzahler, er hat Duisburg nach dem Krieg wieder aufgebaut. Wir können seinen Ruf nicht durch solche... emotionalen Anschuldigungen gefährden.
+
+**HEINZ**
+Mein Vater ist dort verhungert, während Horten in seinem Büro den Champagner kühlte! Er starb im November 1943 in Litzmannstadt. Wollen Sie mir sagen, dass das auch „Kooperation“ war?
+
+**BEAMTE**
+(bläst den Rauch in Heinz' Gesicht)
+Ohne den notariellen Hauptvertrag keine Restitution. Ich habe hier noch zweihundert weitere Fälle auf dem Tisch, Herr Alsberg. Die Zeit heilt alle Wunden... oder sie lässt sie verjähren. Nächster, bitte!
 
 ---
 

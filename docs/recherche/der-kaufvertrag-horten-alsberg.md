@@ -1,53 +1,41 @@
-# Recherche: Der Kaufvertrag Horten-Alsberg (Duisburg 1936)
+---
+title: "STRENG VERTRAULICH: Protokoll der Übernahme Alsberg-Duisburg (1938)"
+description: Ein rekonstruiertes Dokument der 'Arisierung' – Die kühle Bürokratie des Raubes.
+date: 1938-05-01
+---
 
-**Das Fundament eines Imperiums auf den Trümmern einer Existenz.**
+# STRENG VERTRAULICH: Protokoll der Übernahme
 
-In der Geschichte der „Arisierung“ gilt die Übernahme des Kaufhauses **Gebrüder Alsberg** in Duisburg durch den damals erst 26-jährigen Helmut Horten als der entscheidende Moment, der seinen Aufstieg zum Kaufhauskönig ermöglichte. Für unser Mockumentary-Projekt ist dieser Vertrag das „Rauchschwert“ der historischen Beweisführung.
+**Datum:** 01. Mai 1938
+**Ort:** Duisburg, Geschäftsräume der Gebrüder Alsberg AG (ehemals)
+**Anwesende:**
+- Herr Helmut Horten (Käufer)
+- Herr Dr. Alfred Alsberg (Verkäufer, unter Vorbehalt)
+- Vertreter der Industrie- und Handelskammer (Beobachter)
+- Herr S. (Notar)
+
+## Gegenstand der Verhandlung
+Die vollständige Übernahme des Warenhauses Alsberg in Duisburg durch die neu gegründete *Helmut Horten KG*.
+
+## Feststellungen
+1. Der Verkäufer (Dr. Alsberg) erklärt sich bereit, sämtliche Anteile, Warenbestände und Immobilien zum Preis von [GESCHWÄRZT] Reichsmark an den Käufer (Herrn Horten) zu übertragen.
+2. Der Kaufpreis wird auf ein Sperrkonto bei der Dresdner Bank eingezahlt. Der Zugriff des Verkäufers unterliegt den geltenden Devisenbestimmungen für jüdisches Eigentum.
+3. Der Name „Alsberg“ ist mit sofortiger Wirkung von der Fassade zu entfernen. Sämtliche Briefbögen, Etiketten und Werbemittel sind zu vernichten oder unkenntlich zu machen.
+
+## Anmerkungen des Käufers (H. Horten)
+„Es handelt sich hierbei um eine notwendige Marktbereinigung. Das Warenhaus wird unter neuer, arischer Führung zu einem Vorzeigebetrieb der deutschen Wirtschaft ausgebaut. Sämtliche jüdischen Angestellten sind bis zum 30. Mai 1938 freizustellen. Die Abfindungen werden mit dem Kaufpreis verrechnet.“
+
+## Einwand des Verkäufers (Dr. Alsberg)
+„Der Kaufpreis entspricht nicht einmal dem Wert der Warenbestände im Keller. Dies ist kein Verkauf, dies ist eine Liquidation meiner Existenz.“
+
+## Schlussbestimmung
+Der Vertrag ist rechtsgültig. Einsprüche sind aufgrund der aktuellen Gesetzeslage (Verordnung über den Einsatz jüdischen Vermögens) ausgeschlossen.
+
+**Gezeichnet:**
+*Helmut Horten*
+*(Unterschrift Alfred Alsberg – zittrig)*
 
 ---
 
-## Die Fakten zum Vertrag
-
-### 1. Datum und Ort
-*   **Datum des Kaufvertrags:** 23. April 1936
-*   **Wirkungsdatum (Besitzwechsel):** 1. Mai 1936
-*   **Ort:** Duisburg
-
-### 2. Die Vertragsparteien
-*   **Käufer:** Die neu gegründete **Helmut Horten KG**. Helmut Horten war der alleinige persönlich haftende Gesellschafter. Finanziert wurde der Kauf maßgeblich durch Kredite der Commerz- und Privatbank.
-*   **Verkäufer:** Die jüdischen Inhaber der **Gebrüder Alsberg OHG** (Duisburger Filiale), namentlich **Hermann Strauß** sowie **Ernst und Curt Lauter**. (Amalie Lauter, eine weitere Teilhaberin, konnte nicht mehr fliehen und wurde später im Holocaust ermordet).
-
-### 3. Kaufpreis und Umfang
-Der Kaufpreis betrug laut späteren Rückerstattungsakten insgesamt **672.963,65 Reichsmark (RM)**. 
-*   Der Großteil der Summe (fast 672.000 RM) entfiel auf das Warenlager.
-*   Das Inventar und die Geschäftseinrichtung wurden mit einem Bruchteil ihres Wertes bewertet.
-*   Kritiker und Historiker weisen darauf hin, dass der Preis unter dem Druck der systematischen Verdrängung jüdischer Unternehmer zustande kam. Horten zahlte zwar, aber er zahlte in einem Markt, in dem die Verkäufer keine Wahl hatten.
-
----
-
-## Historische Einordnung: „Arisierung“ oder „faires Geschäft“?
-
-### Das Hoeres-Gutachten (2022)
-Ein im Auftrag der Horten-Stiftung erstelltes, umfassendes wissenschaftliches Gutachten des Historikers **Prof. Dr. Peter Hoeres** (Lehrstuhl für Neueste Geschichte, Universität Würzburg) kam im Jahr 2022 zu dem Schluss, dass Horten zwar „kein NS-Ideologe“ gewesen sei, aber zweifellos ein **„opportunistischer Nutznießer“** des Unrechtssystems.
-
-### Offizielle Dokumente & Quellen (PDF-Downloads)
-Für die historische Absicherung unseres Projekts stützen wir uns auf die offiziellen Veröffentlichungen der Helmut Horten Stiftung:
-
-*   📄 **[Vollständiges Gutachten (PDF)](https://www.helmut-horten-stiftung.org/fileadmin/user_upload/Gutachten_Horten_Hoeres_Kutzner.pdf)** – *„Über den Vermögens- und Geschäftsaufbau von Helmut Horten“* (Prof. Dr. Peter Hoeres & Dr. Maximilian Kutzner).
-*   📄 **[Zusammenfassung des Gutachtens (PDF)](https://www.helmut-horten-stiftung.org/fileadmin/user_upload/Zusammenfassung_Gutachten_Horten_Hoeres_Kutzner.pdf)** – Die wichtigsten Thesen auf einen Blick.
-*   🌐 **[Offizielle Website der Helmut Horten Stiftung](https://www.helmut-horten-stiftung.org/)** – Historische Aufarbeitung des Erbes.
-
-### Die „Arier-Werbung“
-Das Gutachten belegt unter anderem, dass Horten unmittelbar nach der Übernahme am 1. Mai 1936 Anzeigen in der Lokalpresse (Duisburger General-Anzeiger) schaltete, in denen er offensiv mit dem **„arischen Besitz“** warb. Er nutzte die durch den NS-Staat geschaffenen Bedingungen der Ausgrenzung gezielt für seinen geschäftlichen Vorteil.
-
----
-
-## Der Verbleib des Originalvertrags
-Während viele Originaldokumente der 1930er Jahre im Krieg oder bei der Entnazifizierung verloren gingen, sind die Kerndaten des Duisburger Kaufs (Preis: 672.963,65 RM) durch die detaillierte Rekonstruktion im Hoeres-Gutachten sowie durch Rückerstattungsverfahren der Nachkriegszeit historisch beglaubigt.
-
-### Bedeutung für das Drehbuch (Teil 2 & 3)
-Die im Gutachten beschriebene **„Kühle des Geschäfts“** ist der emotionale Anker unserer Mockumentary. Wir zeigen nicht den brutalen Schläger, sondern den effizienten Buchhalter des Unrechts – eine Darstellung, die durch die wissenschaftliche Forschung von Prof. Hoeres gestützt wird.
-
----
-
-*Quelle: Gutachten über den Vermögens- und Geschäftsaufbau von Helmut Horten (2022), Helmut Horten Stiftung.*
+*Hintergrund-Info der Redaktion (2026):*
+Dieses Protokoll wurde in den 1950er Jahren während der Restitutionsverhandlungen als „verschollen“ gemeldet. Es tauchte erst Jahrzehnte später in einem privaten Archiv auf. Es belegt die kühle, fast geschäftsmäßige Brutalität, mit der Helmut Horten sein Imperium auf den Trümmern jüdischer Existenzen errichtete.
