@@ -34,7 +34,7 @@ The relationship with the Austrian People's Party (ÖVP). We dedicate ourselves 
 ---
 
 *This project is a balancing act between documentation and satire.*
-\n---\n# THE SCREENPLAY\n
+
 # Part 1: The Dazzling Widow
 
 **Working Title:** *From the Glow of Silence*

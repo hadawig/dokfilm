@@ -34,7 +34,7 @@ Die Beziehung zur ÖVP. Wir widmen uns dem "Regen aus Gold" – den Spenden und 
 ---
 
 *Dieses Projekt ist eine Gratwanderung zwischen Dokumentation und Satire.*
-\n---\n# DAS DREHBUCH\n
+
 # Teil 1: Die schillernde Witwe
 
 **Arbeitstitel:** *Vom Glanz der Stille*
