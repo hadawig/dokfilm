@@ -10,9 +10,11 @@ Dies ist die offizielle Dokumentations-Webseite zum Filmprojekt **"Das Horten-My
 
 ## Kontakt
 Verantwortlich für den Inhalt nach § 5 TMG / § 25 MedienG:
-Volti Sodala
+**Volti Sodala**
 [Deine Adresse - optional für die Web-Version]
-E-Mail: [Deine E-Mail]
+E-Mail: [volti.sodala@gmail.com](mailto:volti.sodala@gmail.com)
+Facebook: [Volti Sodala Profile](https://www.facebook.com/volti.sodala)
+YouTube: [Volti Sodala Video-Dokumentation](https://www.youtube.com/watch?v=ieL-oo3iDHk)
 
 ## Wichtiger Hinweis (Satire-Disclaimer)
 Dieses Projekt ist eine **Mockumentary**. Bitte lesen Sie unseren ausführlichen **[Satire-Disclaimer](/disclaimer)** zur Unterscheidung von Fakten und Fiktion.

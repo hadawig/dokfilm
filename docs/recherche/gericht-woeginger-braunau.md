@@ -26,7 +26,19 @@ August Wöginger bekennt sich **nicht schuldig**. Seine Verteidigungsstrategie i
 
 Ein entscheidendes Dokument für das Verständnis der menschlichen Dimension dieses Falls ist das ausführliche Interview, das die Finanzbeamtin **Christa Scharf** mit **Patrick Budgen** in der ORF-Sendung *„Hinter den Schlagzeilen“* führte.
 
-👉 **[Jetzt das Gespräch auf ORF ON ansehen](https://on.orf.at/video/14264441/hinter-den-schlagzeilen-finanzbeamtin-hat-den-prozess-gegen-oevp-politiker-woeginger-ins-rollen-gebracht)**
+<div style="background: #000; padding: 1rem; border-radius: 8px; margin: 1.5rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.5); position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 4px;"
+    src="https://www.youtube.com/embed/ieL-oo3iDHk" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<p style="color: #888; font-size: 0.8rem; text-align: center; margin-top: -1rem; margin-bottom: 1.5rem; font-family: monospace;">
+  Quelle: ORF „Hinter den Schlagzeilen“ | Offizieller YouTube-Mirror
+</p>
 
 ### Zentrale Erkenntnisse der Analyse:
 

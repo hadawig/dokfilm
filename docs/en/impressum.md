@@ -10,9 +10,11 @@ This is the official documentation website for the film project **"The Horten My
 
 ## Contact
 Responsible for content according to § 5 TMG / § 25 MedienG:
-Volti Sodala
+**Volti Sodala**
 [Your Address - optional for the web version]
-Email: [Your Email]
+Email: [volti.sodala@gmail.com](mailto:volti.sodala@gmail.com)
+Facebook: [Volti Sodala Profile](https://www.facebook.com/volti.sodala)
+YouTube: [Volti Sodala Video Documentation](https://www.youtube.com/watch?v=ieL-oo3iDHk)
 
 ## Important Note (Satire Disclaimer)
 This project is a **mockumentary**. Please read our detailed **[Satire Disclaimer](/en/disclaimer)** to distinguish between fact and fiction.
