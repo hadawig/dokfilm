@@ -6,7 +6,7 @@
     
     <!-- Klassisches Formular für maximale Kompatibilität -->
     <form 
-      action="https://formspree.io/volti.sodala@gmail.com" 
+      action="https://formspree.io/f/mnjbkqyl" 
       method="POST" 
       class="tip-form"
     >
