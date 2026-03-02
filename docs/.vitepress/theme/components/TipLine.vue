@@ -4,17 +4,22 @@
       <span class="status-dot"></span> SECURE_CONNECTION: ESTABLISHED
     </div>
     
-    <form v-if="!submitted" @submit.prevent="submitForm" class="tip-form">
-      <p class="instr">Übermitteln Sie Ihre Hinweise oder Drehbuch-Ideen an das Forensik-Team.</p>
+    <!-- Klassisches Formular für maximale Kompatibilität -->
+    <form 
+      action="https://formspree.io/f/xvgpgpkw" 
+      method="POST" 
+      class="tip-form"
+    >
+      <p class="instr">Übermitteln Sie Ihre Hinweise direkt an das Forensik-Team.</p>
       
       <div class="input-group">
         <label>CODENAME (OPTIONAL)</label>
-        <input v-model="form.name" type="text" placeholder="z.B. Deep_Throat_2026" />
+        <input name="codename" type="text" placeholder="z.B. Deep_Throat_2026" />
       </div>
       
       <div class="input-group">
         <label>BETREFF</label>
-        <select v-model="form.subject">
+        <select name="subject">
           <option value="Drehbuch-Idee">Drehbuch-Idee</option>
           <option value="Recherche-Hinweis">Recherche-Hinweis</option>
           <option value="Feedback">Allgemeines Feedback</option>
@@ -24,66 +29,23 @@
       
       <div class="input-group">
         <label>NACHRICHT (VERSCHLÜSSELT)</label>
-        <textarea v-model="form.message" rows="5" required placeholder="Schreiben Sie hier..."></textarea>
+        <textarea name="message" rows="5" required placeholder="Schreiben Sie hier..."></textarea>
       </div>
+
+      <!-- Damit die Antwort an dich geht -->
+      <input type="hidden" name="_replyto" value="volti.sodala@gmail.com">
+      <input type="hidden" name="_subject" value="NEUER WHISTLEBLOWER-HINWEIS">
       
-      <button type="submit" :disabled="loading" class="submit-btn">
-        {{ loading ? 'ÜBERMITTLE...' : 'HINWEIS ABSCHICKEN' }}
+      <button type="submit" class="submit-btn">
+        HINWEIS ABSCHICKEN
       </button>
     </form>
 
-    <div v-else class="success-msg">
-      <h3>✓ ÜBERMITTLUNG ERFOLGREICH</h3>
-      <p>Ihre Nachricht wurde in das Archiv des Schweigens aufgenommen. Das Kollektiv dankt.</p>
-      <button @click="submitted = false" class="reset-btn">WEITERE NACHRICHT</button>
+    <div class="footer-note">
+      * Nach dem Absenden werden Sie zur Bestätigung kurz auf die Seite von Formspree weitergeleitet.
     </div>
   </div>
 </template>
-
-<script setup>
-import { ref, reactive } from 'vue'
-
-const submitted = ref(false)
-const loading = ref(false)
-const form = reactive({
-  name: '',
-  subject: 'Drehbuch-Idee',
-  message: ''
-})
-
-const submitForm = async () => {
-  loading.value = true
-  
-  try {
-    const response = await fetch('https://formspree.io/volti.sodala@gmail.com', {
-      method: 'POST',
-      headers: {
-        'Accept': 'application/json',
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        codename: form.name || 'Anonymous',
-        subject: form.subject,
-        message: form.message,
-        _subject: `[Tip-Line] ${form.subject} von ${form.name || 'Anonym'}`
-      })
-    })
-
-    if (response.ok) {
-      submitted.value = true
-      form.message = ''
-      form.name = ''
-    } else {
-      alert('Übermittlungsfehler. Bitte versuchen Sie es später erneut oder nutzen Sie direkt volti.sodala@gmail.com')
-    }
-  } catch (error) {
-    console.error('Submission error:', error)
-    alert('Netzwerkfehler. Sind Sie mit dem gesicherten Netz verbunden?')
-  } finally {
-    loading.value = false
-  }
-}
-</script>
 
 <style scoped>
 .tip-line-container {
@@ -165,27 +127,15 @@ input:focus, textarea:focus {
   transition: all 0.3s;
 }
 
-.submit-btn:hover:not(:disabled) {
+.submit-btn:hover {
   background: #fff;
   box-shadow: 0 0 15px #fff;
 }
 
-.submit-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.success-msg {
-  text-align: center;
-  padding: 40px 0;
-}
-
-.reset-btn {
-  background: transparent;
-  border: 1px solid #00ff00;
-  color: #00ff00;
-  padding: 8px 15px;
+.footer-note {
+  font-size: 0.7rem;
+  color: #666;
   margin-top: 20px;
-  cursor: pointer;
+  text-align: center;
 }
 </style>
