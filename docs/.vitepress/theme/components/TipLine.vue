@@ -52,17 +52,36 @@ const form = reactive({
 })
 
 const submitForm = async () => {
-  loading.ref = true
-  // Wir nutzen hier einen Dummy-Fetch. In der Realität würde hier die Formspree-ID stehen.
-  // Da ich deine E-Mail nicht kenne, loggen wir es erst einmal nur oder du gibst mir eine ID.
-  console.log('Form submitted:', form)
+  loading.value = true
   
-  // Simulierte Verzögerung für Terminal-Feeling
-  setTimeout(() => {
+  try {
+    const response = await fetch('https://formspree.io/f/xvgeogzv', {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        codename: form.name || 'Anonymous',
+        subject: form.subject,
+        message: form.message,
+        _subject: `[Tip-Line] ${form.subject} von ${form.name || 'Anonym'}`
+      })
+    })
+
+    if (response.ok) {
+      submitted.value = true
+      form.message = ''
+      form.name = ''
+    } else {
+      alert('Übermittlungsfehler. Bitte versuchen Sie es später erneut oder nutzen Sie direkt volti.sodala@gmail.com')
+    }
+  } catch (error) {
+    console.error('Submission error:', error)
+    alert('Netzwerkfehler. Sind Sie mit dem gesicherten Netz verbunden?')
+  } finally {
     loading.value = false
-    submitted.value = true
-    form.message = ''
-  }, 1500)
+  }
 }
 </script>
 
