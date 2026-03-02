@@ -1,23 +1,25 @@
 --- FINAL REDDIT LAUNCH KIT: r/Austria (D-DAY: 3. MÄRZ) ---
 
-### 1. DER POST (Optimiert für Dienstag)
+### 1. DER POST (Optimiert für Dienstag, 3. März 2026)
 
 **Titel:** [Projekt] Vom NS-Raubkapital zum 15-Mrd-Budgetloch: Ich habe mit KIs das "System Horten-Benko" seziert (Investigative Mockumentary)
 
 **Body-Text:**
 Servus Leute!
 
-Passend zum heutigen Prozesstag in Linz (August Wöginger) und der aktuellen Debatte um das Budget-Loch, möchte ich euch mein Projekt vorstellen: **„Das Horten-Mysterium“**.
+Passend zum heutigen Start des Wöginger-Prozesses in Braunau/Linz (03.03.) und der aktuellen Debatte um das Budget-Loch, möchte ich euch mein Projekt vorstellen: **„Das Horten-Mysterium“**.
 
-Ich habe zusammen mit KIs (Gemini/Grok) den Bogen von der Arisierung der Kaufhäuser (1936) über Heidis 49.000er-Spenden bis hin zum Signa-Zusammenbruch gespannt. Es ist eine Mischung aus knallharter Recherche und tiefschwarzer Satire.
+Ich habe gestern Abend (02.03.) noch die letzten Details zum Prozess-Vorabend im Logbuch dokumentiert – es geht um Aktenvernichtung, politische Netzwerke und die Frage: Wer schützt hier wen?
+
+**Aktueller Logbuch-Eintrag (Vorabend Wöginger):** https://dokfilm.pages.dev/logbuch/2026-03-02-vorabend-des-woeginger-prozesses
 
 **Highlights zum Ausprobieren:**
 - 🎹 **Budget-Simulator:** Schafft ihr es, das Defizit unter 3% zu drücken, ohne dass Magnus Brunner interveniert? (https://dokfilm.pages.dev/budget-spiel)
-- 📞 **Tip-Line:** Schickt mir eure wildesten Ideen für Teil 4 des Drehbuchs (https://dokfilm.pages.dev/mitmachen)
+- 📞 **Whistleblower Tip-Line:** Schickt mir eure wildesten Ideen für Teil 4 des Drehbuchs (https://dokfilm.pages.dev/mitmachen)
 - 🎙️ **Hörproben:** August Diehl als Helmut Horten und Birgit Minichmayr als Heidi (KI-generiert).
 
 **Warum das Ganze?**
-Wir nennen es den **„Pointillismus des Geldes“**: Viele kleine Punkte (Spenden, Posten, Bewertungen), die erst aus der Distanz das hässliche Bild der Macht ergeben.
+Wir nennen es den **„Pointillismus des Geldes“**: Viele kleine Punkte (Spenden, Posten, Bewertungen), die erst aus der Distanz das hässliche Bild der Macht ergeben. Von der Arisierung der Kaufhäuser (1936) über Heidis 49.000er-Spenden bis hin zum Signa-Zusammenbruch.
 
 Das gesamte 40-seitige Drehbuch und die Recherche-Datenbank sind Open-Source.
 
