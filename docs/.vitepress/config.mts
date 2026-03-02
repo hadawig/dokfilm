@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-const base = process.env.GITHUB_PAGES === 'true' ? '/dokfilm/' : '/'
+// Erkennt automatisch, ob wir auf GitHub Pages (Unterordner /dokfilm/) 
+// oder auf Cloudflare/Vercel/Lokal (Hauptverzeichnis /) hosten.
+const isGitHubPages = process.env.GITHUB_PAGES === 'true' || process.env.GITHUB_ACTIONS === 'true';
+const base = isGitHubPages ? '/dokfilm/' : '/'
 
 export default defineConfig({
   base: base,
