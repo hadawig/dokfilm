@@ -22,6 +22,24 @@ August Wöginger bekennt sich **nicht schuldig**. Seine Verteidigungsstrategie i
 2.  **Keine Weisung:** Er habe keine formale Macht gehabt, eine Entscheidung im Finanzministerium zu erzwingen.
 3.  **Qualifikation:** Die Verteidigung behauptet, der Bürgermeister sei durchaus qualifiziert gewesen.
 
+## Die Perspektive der Betroffenen: Christa Scharf im Gespräch mit Patrick Budgen
+
+Ein entscheidendes Dokument für das Verständnis der menschlichen Dimension dieses Falls ist das ausführliche Interview, das die Finanzbeamtin **Christa Scharf** mit **Patrick Budgen** in der ORF-Sendung *„Hinter den Schlagzeilen“* führte.
+
+👉 **[Jetzt das Gespräch auf ORF ON ansehen](https://on.orf.at/video/14264441/hinter-den-schlagzeilen-finanzbeamtin-hat-den-prozess-gegen-oevp-politiker-woeginger-ins-rollen-gebracht)**
+
+### Zentrale Erkenntnisse der Analyse:
+
+*   **Das "Abmontiert"-Narrativ:** Scharf schildert eindrücklich, wie sie als interimistische Leiterin des Finanzamts Braunau (mit jahrzehntelanger Erfahrung) in der Hearing-Kommission gezielt abgewertet wurde. Während ihre fachliche Qualifikation unbestreitbar war, wurden subjektive Kriterien wie "Auftreten" und "Artikulation" genutzt, um den politisch gewünschten Kandidaten an die Spitze der Reihung zu hieven. Sie beschreibt das Hearing als reine "Alibi-Veranstaltung".
+*   **Die enttäuschte Stammwählerin:** Besonders brisant ist Scharfs Aussage, dass sie selbst über lange Zeit hinweg **ÖVP-Wählerin** war. Ihr Gang an die Öffentlichkeit und zur Justiz ist somit kein politischer Racheakt der Opposition, sondern die Reaktion einer Bürgerin, die den Glauben an die Rechtsstaatlichkeit und Leistungsgerechtigkeit innerhalb "ihrer" Partei verloren hat.
+*   **Widerstand gegen die Diversion:** Scharf erklärt im Gespräch, warum sie sich nicht mit der ursprünglichen Diversion (Geldzahlung Wögingers ohne Schuldeingeständnis) zufrieden gab. Ihre Hartnäckigkeit und der Antrag auf Ablehnung der Richterin wegen Befangenheit führten letztlich dazu, dass das OLG Linz die Diversion aufhob und der Prozess nun vollumfänglich neu aufgerollt wird.
+*   **Motivation:** Auf Budgens Frage nach ihrem Antrieb antwortet sie ruhig und bestimmt: Sie habe "nichts mehr zu verlieren" gehabt. Diese Haltung macht sie zu einer der glaubwürdigsten und für die Verteidigung gefährlichsten Zeuginnen des gesamten Prozesses.
+
+### Forensische Einordnung für das Horten-Mysterium:
+Das Budgen-Gespräch dient uns als emotionales Korrektiv zur trockenen Aktenlage. Es zeigt das Gesicht hinter dem "Postenschacher". Für unsere Mockumentary ist Christa Scharf die Symbolfigur für all jene, die in einem System von "Bürgeranliegen" (Interventionen für Freunde) unter die Räder kommen. Ihr Fall beweist: Ein "Gefallen" für den einen ist oft ein massives Unrecht für den anderen.
+
+*Stand der Analyse: 02. März 2026.*
+
 ## Der Prozessverlauf: Von der Diversion zur Hauptverhandlung
 *   **Herbst 2025:** Der Prozess beginnt mit einer Diversion (Geldzahlung gegen Einstellung). Wöginger gibt eine "Verantwortungsübernahme" ab.
 *   **Wende durch das OLG Linz:** Das Oberlandesgericht hebt die Diversion auf. Begründung: Das öffentliche Interesse an einer vollumfänglichen Aufklärung wiegt schwerer, insbesondere bei einem so hohen politischen Amtsträger.
