@@ -47,12 +47,14 @@ export default defineConfig({
           {
             text: 'Gerichtliche Nachspiele',
             items: [
+              { text: 'Wöginger: Finanzamt Braunau', link: '/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Kronzeuge)', link: '/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/recherche/gericht-grasser' },
               { text: 'Gernot Blümel (Laptop)', link: '/recherche/gericht-bluemel-laptop' },
               { text: 'René Benko (Strafverfahren)', link: '/recherche/die-benko-verbindung' },
-              { text: 'Christian Pilnacek (U-Ausschuss)', link: '/recherche/der-fall-pilnacek' },
+              { text: 'Christian Pilnacek (U-Ausschuss)', link: '/recherche/u-ausschuss-pilnacek-ergebnisse' },
+              { text: 'Der Fall Pilnacek (Hintergrund)', link: '/recherche/der-fall-pilnacek' },
             ]
           },
           {
@@ -80,6 +82,9 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '02. März: Vorabend Wöginger-Prozess', link: '/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
+              { text: '01. März: System-Schluckauf', link: '/logbuch/2026-03-01-system-schluckauf-und-verschleierung' },
+              { text: '28. Feb: YouTube Premiere', link: '/logbuch/2026-02-28-youtube-premiere' },
               { text: '27. Feb: Meilenstein International', link: '/logbuch/2026-02-27-international-version' },
               { text: 'René Benko & Signa', link: '/logbuch/2026-02-27-benko-verbindung' },
               { text: 'Cast-Erweiterung', link: '/logbuch/2026-02-27-moderne-macht-erweiterung' },
@@ -138,11 +143,13 @@ export default defineConfig({
           {
             text: 'Judicial Aftermath',
             items: [
+              { text: 'Wöginger: Braunau Tax Office', link: '/en/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Witness)', link: '/en/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/en/recherche/gericht-grasser' },
               { text: 'René Benko (Legal)', link: '/en/recherche/die-benko-verbindung' },
-              { text: 'Christian Pilnacek (Inquiry)', link: '/en/recherche/der-fall-pilnacek' },
+              { text: 'Christian Pilnacek (Inquiry Results)', link: '/en/recherche/u-ausschuss-pilnacek-ergebnisse' },
+              { text: 'The Pilnacek Case (Background)', link: '/en/recherche/der-fall-pilnacek' },
             ]
           },
           {
@@ -170,6 +177,9 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 02: Eve of Wöginger Trial', link: '/en/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
+              { text: 'March 01: System Hiccup', link: '/en/logbuch/2026-03-01-system-schluckauf-und-verschleierung' },
+              { text: 'Feb 28: YouTube Premiere', link: '/en/logbuch/2026-02-28-youtube-premiere' },
               { text: 'Feb 27: Milestone International', link: '/en/logbuch/2026-02-27-international-version' },
               { text: 'René Benko & Signa', link: '/en/logbuch/2026-02-27-benko-verbindung' },
               { text: 'Expanding the Cast', link: '/en/logbuch/2026-02-27-moderne-macht-erweiterung' },
