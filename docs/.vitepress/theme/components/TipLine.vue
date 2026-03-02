@@ -55,7 +55,7 @@ const submitForm = async () => {
   loading.value = true
   
   try {
-    const response = await fetch('https://formspree.io/f/xvgeogzv', {
+    const response = await fetch('https://formspree.io/volti.sodala@gmail.com', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
