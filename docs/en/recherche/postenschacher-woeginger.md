@@ -35,7 +35,11 @@ Today, the parliamentary group leader himself took the witness stand:
 *   **March 5, 2026:** Testimony of the bypassed competitor, Christa Scharf.
 *   **March 9, 2026:** Expected testimony of star witness **Thomas Schmid**.
 *   **April 21, 2026:** Targeted verdict.
-*   **Statutory Penalty:** If convicted, he faces six months to five years in prison.
+### 4. Civil Resistance & Satire (March 3, 2026)
+In front of the court building in Linz, a protester (Andreas Röbl) causes a stir with a large sign:
+*   **Motto:** "Oh du liaba Augustin" – based on the famous folk song, but aimed at the parliamentary group leader.
+*   **Message:** The protest is directed against the system of political patronage, which is described as the "Austrian disease."
+*   **Symbolism:** For the protester, it is not the politician but the bypassed official Christa Scharf who is the actual hero, as she resisted the overwhelming power of the structures.
 
 
 ---

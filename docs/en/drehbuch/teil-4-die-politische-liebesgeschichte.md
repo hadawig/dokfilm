@@ -202,6 +202,32 @@ Cut back to the courtroom. Wöginger sits quietly on the defendant's bench.
 
 ---
 
+## Scene 10b: The Rhyming Protest (NEW)
+**Location:** In front of the Linz Regional Court. A group of camera teams and onlookers. In the middle stands a lone protester (Andreas Röbl) with a large, hand-painted sign.
+**Time:** March 3, 2026 (Noon).
+
+The sign says in large letters: **"OH DU LIABA AUGUSTIN..."** (Oh you dear Augustin...)
+
+**PROTESTER (Andreas Röbl)**
+(to a reporter holding a microphone)
+Look, it's not about Gustl personally. It's about the disease. The Austrian disease: political patronage. Inside they say "constituent concern," outside we say "system."
+
+He turns his sign over. On the back is a new rhyme, which he reads aloud:
+
+**PROTESTER**
+"A bit forgotten, a bit forgiven,
+Soon the scandal is a tale for wine-sippin'.
+But those with no party book at home to show,
+Will stay in the cold while the insiders glow."
+
+Cut to Wöginger (Udo Samel) looking down at the protester through a first-floor window. He thoughtfully chews on his sandwich.
+
+**WÖGINGER**
+(quietly to himself)
+He can rhyme, the boy. But governing... governing is not a poem. It's prose. Hard, unwashed prose.
+
+---
+
 ## Scene 11: The Budget Hole Ballet
 **Location:** A magnificent hall in Parliament. In the background stands the "Sobotka organ."
 **Time:** January 2025 (flashback).

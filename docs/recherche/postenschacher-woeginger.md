@@ -33,7 +33,11 @@ Am heutigen Tag stand der Klubobmann selbst im Zeugenstand:
 *   **5. März 2026:** Befragung der übergangenen Mitbewerberin Christa Scharf.
 *   **9. März 2026:** Erwartete Aussage von Kronzeuge **Thomas Schmid**.
 *   **21. April 2026:** Angestrebtes Urteil.
-*   **Strafrahmen:** Im Falle einer Verurteilung drohen sechs Monate bis zu fünf Jahre Haft.
+### 4. Ziviler Widerstand & Satire (3. März 2026)
+Vor dem Gerichtsgebäude in Linz sorgt ein Demonstrant (Andreas Röbl) mit einem großen Plakat für Aufsehen:
+*   **Motto:** „Oh du liaba Augustin“ – in Anlehnung an das bekannte Volkslied, aber gemünzt auf den Klubobmann.
+*   **Botschaft:** Der Protest richtet sich gegen das System des Postenschachers, das als „österreichische Krankheit“ bezeichnet wird. 
+*   **Symbolik:** Für den Demonstranten ist nicht der Politiker, sondern die übergangene Beamtin Christa Scharf die eigentliche Heldin, da sie sich gegen die Übermacht der Strukturen wehrte.
 
 ---
 

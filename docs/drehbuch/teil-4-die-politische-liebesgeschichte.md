@@ -142,21 +142,89 @@ Dann lehre sie, August. Lehre sie die Ästhetik der Gefälligkeit. In 49.000er-S
 
 ---
 
-## Szene 10: Die Kunst der regionalen Intervention (NEU)
+## Szene 10: Die Kunst der regionalen Intervention (ERWEITERT)
 **Ort:** Ein Hinterzimmer in einem Linzer Gasthof. Dunkles Holz, Hirschgeweihe.
-**Zeit:** 1. März 2026 (Abends).
+**Zeit:** 3. März 2026 (Morgens, vor Prozessbeginn).
 
 August Wöginger (Udo Samel) sitzt allein an einem runden Stammtisch. Vor ihm liegen die Ausdrucke der Chats. Er trägt eine Lesebrille. Er spricht zu einem imaginären Richterstuhl.
 
 **WÖGINGER**
 Herr Rat, schauen Sie... wenn ich zum Hörer greife, dann tu' ich das für die Leut'. Das Wort „Intervention“ klingt so nach... Hinterzimmer. Aber wir im Innviertel nennen das „Zusammenrücken“. Dass der Bürgermeister den Posten kriegt, das war eine Strukturmaßnahme. Eine regionale Personalentwicklung. Dass die Frau Scharf... (er macht eine kurze Pause)... eine andere Auffassung von Qualifikation hat, das ist ihr gutes Recht. Aber Politik ist eben mehr als nur Zeugnisnoten.
 
-Er markiert eine Stelle im Chatverlauf mit einem gelben Stift. Er lächelt fast mitleidig.
+Er markiert eine Stelle im Chatverlauf mit einem gelben Stift. Er übt einen Satz, den er später im Gerichtssaal sagen wird.
 
 **WÖGINGER**
-Bestimmungstäter? Nein. Ich bin der Dirigent einer sehr leisen Melodie. Und am Dienstag... am Dienstag werde ich den Taktstock halten.
+(mit gespielter Demut)
+„Ich würde es heute nicht mehr tun.“ (Pause, er lächelt dünn) Weil ich heute weiß, dass ihr mir aus einer Bitte um Prüfung einen Strick dreht. Nicht, weil die Bitte falsch war. Sondern weil die Zeitgeister heute keine Bürgeranliegen mehr vertragen.
 
 Er klappt die Akte zu. Es macht ein trockenes, endgültiges Geräusch.
+
+---
+
+## Szene 10a: Das Duell mit dem Algorithmus (NEU)
+**Ort:** Ein steriler, weißer Raum im Justizpalast. In der Mitte steht ein Terminal mit einem leuchtenden Bildschirm: „JUSTITIA-AI v2.0“.
+**Zeit:** Eine surreale Traumsequenz während der Mittagspause des Prozesses am 3. März 2026.
+
+Wöginger (Udo Samel) steht vor dem Terminal. Er wirkt in seinem Trachtenanzug wie ein Fremdkörper in dieser digitalen Welt.
+
+**STIMME AUS DEM TERMINAL (Synthetisch)**
+Angeklagter Wöginger. Datenabgleich abgeschlossen. Trefferrate: 100%. Intervention bei Thomas Schmid bestätigt. Verstoß gegen objektives Auswahlverfahren erkannt.
+
+**WÖGINGER**
+(ruhig)
+Liebe Maschine... du rechnest in Nullen und Einsen. Aber das Leben in Schärding findet dazwischen statt. Das war kein Verstoß. Das war ein „menschliches Update“. Ich habe dem System lediglich mitgeteilt, dass da ein fähiger Mann ist, der die Region kennt. 
+
+**STIMME AUS DEM TERMINAL**
+Qualifikationsmatrix der Mitbewerberin Christa Scharf ist überlegen. Ihr Score: 98. Bürgermeister-Score: 62. Intervention unlogisch.
+
+**WÖGINGER**
+(belehrend)
+Unlogisch? Nein. Weitsichtig! Ein Score sagt nichts darüber aus, ob man beim Heurigen das Vertrauen der Leut' kriegt. Ich habe dem Thomas gesagt: „Schau dir das an.“ Das ist keine Bestimmung zum Amtsmissbrauch. Das ist... eine Empfehlung des Herzens. Eine regionale Optimierung.
+
+**STIMME AUS DEM TERMINAL**
+„Empfehlung des Herzens“ ist kein juristischer Terminus. Korruption erkannt.
+
+**WÖGINGER**
+(tritt näher ans Terminal, flüsternd)
+Weißt du, was dein Fehler ist? Du hast keinen Pointillismus in deinem Code. Du siehst nur das große Bild der Gesetze. Aber ich... ich setze die kleinen Punkte. Ein Telefonat hier, eine SMS da. Und am Ende... am Ende steht ein Bürgermeister im Finanzamt, und alle sind zufrieden. Außer dir. Und der WKStA. Aber ihr seid ja auch keine Menschen.
+
+Wöginger zieht einen USB-Stick aus der Tasche, auf dem „Bürgeranliegen“ steht, und hält ihn drohend vor den Schlitz des Terminals. Das Terminal beginnt rot zu blinken.
+
+**STIMME AUS DEM TERMINAL**
+Systemfehler... Logik-Loop... „Bürgeranliegen“ nicht kompatibel mit Rechtsstaatlichkeit...
+
+Wöginger lächelt zufrieden und wischt mit dem Ärmel seines Sakkos über den Bildschirm.
+
+**WÖGINGER**
+Siehst du? Ein bisschen Staub auf der Linse, und schon stimmt die Optik wieder.
+
+Schnitt zurück in den Gerichtssaal. Wöginger sitzt ruhig auf der Anklagebank.
+
+---
+
+## Szene 10b: Der reimende Widerstand (NEU)
+**Ort:** Vor dem Landesgericht Linz. Eine Gruppe von Kamerateams und Schaulustigen. In der Mitte steht ein einsamer Demonstrant (Andreas Röbl) mit einem großen, handgemalten Schild.
+**Zeit:** 3. März 2026 (Mittags).
+
+Auf dem Schild steht in großen Lettern: **„OH DU LIABA AUGUSTIN...“**
+
+**DEMONSTRANT (Andreas Röbl)**
+(zu einem Reporter, der ihm ein Mikrofon hinhält)
+Schau’n Sie, es geht mir nicht um den Gustl persönlich. Es geht um die Krankheit. Die österreichische Krankheit: Den Postenschacher. Drinnen sagen sie „Bürgeranliegen“, draußen sagen wir „System“. 
+
+Er dreht sein Schild um. Auf der Rückseite steht ein neuer Reim, den er laut vorliest:
+
+**DEMONSTRANT**
+„A bissal vergessn, a bissal verzeihn,
+so wird aus'm Skandal boid a G'schichtal fürn Wein.
+Doch wer ka Parteibuch im Sackerl dahoam,
+der bleibt in der Kälte und frisst nur die Stoan.“
+
+Schnitt zu Wöginger (Udo Samel), der durch ein Fenster im ersten Stock auf den Demonstranten hinabsieht. Er kaut nachdenklich auf seinem belegten Brötchen.
+
+**WÖGINGER**
+(leise zu sich selbst)
+Reimen kann er, der Bua. Aber regieren... regieren ist eben kein Gedicht. Das ist Prosa. Harte, ungewaschene Prosa.
 
 ---
 
