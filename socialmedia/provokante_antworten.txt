@@ -39,6 +39,7 @@ Diese Antworten sind für die Social-Media-Arbeit im Rahmen des Mockumentary-Pro
 
 ---
 **Links für die Antworten:**
-- Website: https://hadawig.github.io/dokfilm
+- Cloudflare: https://dokfilm.pages.dev/
+- GitHub Pages: https://hadawig.github.io/dokfilm
 - YouTube: https://www.youtube.com/@VoltiSodala-p6p
 - Facebook: https://www.facebook.com/profile.php?id=61552407582007

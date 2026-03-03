@@ -37,5 +37,6 @@ Nutze diese Antworten, um auf unser Projekt aufmerksam zu machen:
 
 **Hilf mit, das Licht auf die Schattenseiten der Macht zu werfen.**
 Teile diese Antworten und verlinke auf:
-- [https://hadawig.github.io/dokfilm](https://hadawig.github.io/dokfilm)
+- [https://dokfilm.pages.dev/](https://dokfilm.pages.dev/) (Cloudflare)
+- [https://hadawig.github.io/dokfilm](https://hadawig.github.io/dokfilm) (GitHub)
 - [YouTube-Kanal](https://www.youtube.com/@VoltiSodala-p6p)
