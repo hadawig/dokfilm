@@ -3,6 +3,9 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [03. März 2026: Tages-Recap – Der Wöginger-Prozess am Landesgericht Linz](./2026-03-03-zusammenfassung-woeginger-prozess)
+- [03. März 2026: Der Tag der Abrechnung? Wöginger im Zeugenstand](./2026-03-03-woeginger-im-zeugenstand)
+- [03. März 2026: Digitaler Kollaps – Systemabsturz oder Spurenbeseitigung?](./2026-03-03-digitaler-kollaps-systemabsturz)
 - [01. März 2026: Der Speicher-Fresser – System-Schluckauf oder Verschleierungstaktik?](./2026-03-01-system-schluckauf-und-verschleierung)
 - [28. Februar 2026: Update – Gernot Blümel und der fliegende Laptop](./2026-02-28-bluemel-laptop-integration)
 - [28. Februar 2026: Recherche-Update – Die Thomas Schmid Chats & René Benko](./2026-02-28-schmid-chats-recherche)

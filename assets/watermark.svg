@@ -1,0 +1,19 @@
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hintergrund-Kreis (optional, für Sichtbarkeit auf verschiedenen Videos) -->
+  <circle cx="75" cy="75" r="70" fill="rgba(0,0,0,0.6)" />
+  
+  <!-- Pointillismus-Element (Stilisierter Goldregen/Punkte) -->
+  <circle cx="75" cy="40" r="5" fill="#FFD700" opacity="0.8" />
+  <circle cx="60" cy="50" r="3" fill="#FFD700" opacity="0.6" />
+  <circle cx="90" cy="50" r="4" fill="#FFD700" opacity="0.7" />
+  
+  <!-- Initialen -->
+  <text x="75" y="85" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">DHM</text>
+  
+  <!-- Untertitel -->
+  <text x="75" y="115" font-family="Arial, sans-serif" font-size="12" fill="#FFD700" text-anchor="middle" letter-spacing="1">MOCKUMENTARY</text>
+  
+  <!-- Rand für Pointillismus-Effekt -->
+  <circle cx="30" cy="30" r="2" fill="#FFD700" opacity="0.4" />
+  <circle cx="120" cy="120" r="2" fill="#FFD700" opacity="0.4" />
+</svg>
