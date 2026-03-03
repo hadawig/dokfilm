@@ -210,7 +210,7 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hadawig/dokfilm' },
-      { icon: 'facebook', link: 'https://www.facebook.com/volti.sodala' },
+      { icon: 'facebook', link: 'https://www.facebook.com/profile.php?id=61552407582007' },
       { icon: 'youtube', link: 'https://www.youtube.com/watch?v=ieL-oo3iDHk' }
     ]
   }
