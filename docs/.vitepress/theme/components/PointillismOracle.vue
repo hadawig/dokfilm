@@ -51,9 +51,44 @@ import { ref } from 'vue'
 const searchTerm = ref('')
 const result = ref(null)
 
-const suggestions = ['Spendenstückelung', 'Marktbereinigung', '49.000', 'Sobotka-Orgel', 'Benko']
+const suggestions = ['Bürgeranliegen', 'Harte Prosa', 'Christa Scharf', '98 Punkte', 'Pointillismus des Geldes', 'Chef, bitte anschaun']
 
 const database = [
+  {
+    term: 'Bürgeranliegen',
+    fact: 'Rechtfertigung politischer Interventionen bei Postenbesetzungen als legitime Vertretung regionaler Interessen.',
+    satire: 'Der Zauberspruch, der einen Amtsmissbrauch in einen Akt der Nächstenliebe verwandelt. Wirkt am besten bei Thomas Schmid.'
+  },
+  {
+    term: 'Harte Prosa',
+    fact: 'Bezeichnung der Verteidigungslinie von August Wöginger im Prozess um den Finanzamtsposten Braunau.',
+    satire: 'Ein literarisches Genre, in dem SMS-Verläufe zu heldenhaften Epen der Regionalpolitik umgedichtet werden. Prädikat: Besonders fiktiv.'
+  },
+  {
+    term: 'Christa Scharf',
+    fact: 'Finanzbeamtin, die trotz Bestreihung im Hearing übergangen wurde und erfolgreich gegen die Fehlbesetzung klagte.',
+    satire: 'Die unbestechliche Variable im System. Ein Fehler in der Matrix des Postenschachers, der sich weigert, wegzudiskutieren zu sein.'
+  },
+  {
+    term: '98 Punkte',
+    fact: 'Die im Hearing erreichte Punktzahl von Christa Scharf im Vergleich zu den 62 Punkten des ÖVP-Bürgermeisters.',
+    satire: 'Die Mathematik der Ungerechtigkeit. Hier wird bewiesen, dass in Österreich 62 größer sein kann als 98, wenn die Farbe stimmt.'
+  },
+  {
+    term: 'Pointillismus des Geldes',
+    fact: 'Kernmotiv der Mockumentary: Die Summe kleiner Gefälligkeiten und Spenden ergibt erst aus der Ferne das Bild eines Systems.',
+    satire: 'Die Kunst, so viele kleine Dreckflecken zu machen, bis das Publikum glaubt, es handle sich um ein Meisterwerk der Stabilität.'
+  },
+  {
+    term: 'Chef, bitte anschaun',
+    fact: 'Wortlaut einer SMS von August Wöginger an Thomas Schmid bezüglich der Postenbesetzung in Braunau.',
+    satire: 'Die fünf Wörter, die den Rechtsstaat in eine freundliche Empfehlungsecke verwandeln. Der Klassiker der österreichischen Kurznachrichten-Literatur.'
+  },
+  {
+    term: 'Scharf-Urteil',
+    fact: 'Entscheidung des Bundesverwaltungsgerichts, die feststellte, dass die Postenbesetzung in Braunau sachlich nicht nachvollziehbar war.',
+    satire: 'Ein seltener Moment, in dem die Realität das Drehbuch der Politik korrigiert hat. Der Endgegner des Postenschachers.'
+  },
   {
     term: 'Spendenstückelung',
     fact: 'Systematische Aufteilung großer Parteispenden in Beträge unter der Meldegrenze des Rechnungshofs (früher 50.000 €).',
