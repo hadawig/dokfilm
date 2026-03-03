@@ -14,4 +14,18 @@ Christa Scharf was the technically best-qualified applicant for the leadership o
 
 ---
 
-*Source: ORF documentation "Behind the Headlines," files of the Federal Administrative Court.*
+## Status March 2026: The Civil Servant's Testimony
+
+Christa Scharf is expected on the witness stand at the Linz Regional Court on **Thursday, March 5, 2026**. Her appearance is considered the moral heart of the trial.
+
+### 1. The Voice of Qualification
+While the defendants speak of "constituent concerns," Scharf will explain what it feels like to be bypassed by a party politician (62 points) despite an objective score of 98 points. Her resistance has made the system of political patronage in Austria legally vulnerable.
+
+### 2. The "Hero" in Public Discourse
+Outside the court, she is already being celebrated as the actual hero on protest signs (e.g., by Andreas Röbl). She stands for all those who do not bend.
+
+*   **Mockumentary Context:** In Scene 10b, we use her name as a symbol for the incorruptible truth that shakes Wöginger's "hard prose." In Part 4, she becomes the antagonist to "pointillism" because she refuses to be a small, silent dot in the mosaic.
+
+---
+
+*Source: Current trial reporting (March 2026), ORF documentation "Behind the Headlines," files of the Federal Administrative Court.*

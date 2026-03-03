@@ -27,9 +27,19 @@ Thomas Schmid ist die akustische Brücke in unserem Projekt:
 
 ---
 
-## Status 2026
-Thomas Schmid bleibt die brisanteste Figur in den laufenden U-Ausschüssen und Strafverfahren. Seine Aussagen (insb. im Pilnacek-Ausschuss) sind die Munition für unsere satirische Aufarbeitung in Teil 4 des Drehbuchs.
+## Status März 2026: Der Showdown in Linz
+
+Thomas Schmid steht vor seinem bisher brisantesten Auftritt als Kronzeuge im Prozess gegen August Wöginger am Landesgericht Linz.
+
+### 1. Termin: 9. März 2026
+Am kommenden Montag wird Schmid persönlich in Linz aussagen. Er ist der zentrale Zeuge der WKStA, da er Wöginger als „Bestimmungstäter“ direkt belastet. Er behauptet, Wöginger habe ihn zur Intervention beim Finanzamt Braunau angestiftet.
+
+### 2. Die Strategie der Verteidigung (Stand 3. März 2026)
+Bereits am ersten Tag der Wöginger-Einvernahme haben die Mitangeklagten (insb. der Gewerkschafter Herbert B.) Schmid frontal angegriffen. Seine belastenden Aussagen wurden im Gerichtssaal als **„Lüge“** bezeichnet. 
+
+*   **Das Ziel:** Schmid soll vor seinem Auftritt als unglaubwürdig diskreditiert werden, um seinen Kronzeugenstatus zu gefährden. 
+*   **Mockumentary-Kontext:** In Szene 13 („Der Dirigent der Verfahren“) nutzen wir diese Dynamik. Wir stellen Schmid als einen Tenor dar, dessen Arie die Harmonie der Macht stört und den man deshalb „mundtot“ reimen will.
 
 ---
 
-*Quellen: Einvernahmeprotokolle der WKStA (2022-2024), Chat-Dossiers von ZackZack und Profil.*
+*Quellen: Aktuelle Prozessberichterstattung (03.03.2026), Einvernahmeprotokolle der WKStA (2022-2024).*

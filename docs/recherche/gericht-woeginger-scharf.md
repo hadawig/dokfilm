@@ -14,9 +14,18 @@ Christa Scharf war die fachlich bestqualifizierte Bewerberin für die Leitung de
 
 ---
 
-## Aktueller Stand (Februar 2026)
-In der Hauptverhandlung in Linz geht es nun um die Frage, ob Wöginger bei Thomas Schmid interveniert hat, um „seinen“ Bürgermeister durchzudrücken. Der Fall Scharf zeigt: Das „Abdrehen“ funktioniert nicht mehr, wenn Einzelpersonen den Mut haben, den Rechtsweg bis zum Ende zu gehen.
+## Status März 2026: Die Aussage der Beamtin
+
+Christa Scharf wird am **Donnerstag, den 5. März 2026**, im Zeugenstand am Landesgericht Linz erwartet. Ihr Auftritt gilt als das moralische Herzstück des Prozesses.
+
+### 1. Die Stimme der Qualifikation
+Während die Angeklagten von „Bürgeranliegen“ sprechen, wird Scharf darlegen, wie es sich anfühlt, trotz einer objektiven Bestreihung (98 Punkte) von einem Parteipolitiker (62 Punkte) übergangen zu werden. Ihr Widerstand hat das System des Postenschachers in Österreich rechtlich angreifbar gemacht.
+
+### 2. Die „Heldin“ im öffentlichen Diskurs
+Draußen vor dem Gericht wird sie bereits auf Protestplakaten (z.B. von Andreas Röbl) als die eigentliche Heldin gefeiert. Sie steht für all jene, die sich nicht beugen.
+
+*   **Mockumentary-Kontext:** In Szene 10b nutzen wir ihren Namen als Symbol für die unbestechliche Wahrheit, die Wögingers „harte Prosa“ ins Wanken bringt. In Teil 4 wird sie zur Antagonistin des „Pointillismus“, weil sie sich weigert, ein kleiner, schweigender Punkt im Mosaik zu sein.
 
 ---
 
-*Quelle: ORF-Dokumentation „Hinter den Schlagzeilen“, Akten des Bundesverwaltungsgerichts.*
+*Quelle: Aktuelle Prozessberichterstattung (März 2026), ORF-Dokumentation „Hinter den Schlagzeilen“, Akten des Bundesverwaltungsgerichts.*
