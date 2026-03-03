@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [03. März 2026: BREAKING – Der Augustin geht viral: #16 auf r/Austria!](./2026-03-03-reddit-viral-augustin)
 - [03. März 2026: Tages-Recap – Der Wöginger-Prozess am Landesgericht Linz](./2026-03-03-zusammenfassung-woeginger-prozess)
 - [03. März 2026: Der Tag der Abrechnung? Wöginger im Zeugenstand](./2026-03-03-woeginger-im-zeugenstand)
 - [03. März 2026: Digitaler Kollaps – Systemabsturz oder Spurenbeseitigung?](./2026-03-03-digitaler-kollaps-systemabsturz)
