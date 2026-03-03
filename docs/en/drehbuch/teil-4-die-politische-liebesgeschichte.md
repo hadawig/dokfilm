@@ -177,9 +177,24 @@ Dear machine... you calculate in zeros and ones. But life in Schärding happens 
 **VOICE FROM THE TERMINAL**
 Qualification matrix of competitor Christa Scharf is superior. Her score: 98. Mayor's score: 62. Intervention illogical.
 
+A code fragment flickers on the screen:
+
+```javascript
+function procedureAudit(applicant) {
+  if (applicant.partyAffiliation === 'ÖVP' && applicant.role === 'Mayor') {
+    return "Legitimate Constituent Concern / Structural Measure";
+  } else if (applicant.qualification > 90) {
+    return "Error: Inconvenient disruption of harmony";
+  } else {
+    return "Abuse of Office (WKStA Alert!)";
+  }
+}
+```
+
 **WÖGINGER**
 (lecturing)
-Illogical? No. Far-sighted! A score says nothing about whether you get the trust of the people at the wine tavern. I told Thomas: "Look at this." That is not incitement to abuse of office. That is... a recommendation from the heart. A regional optimization.
+See? Your code is almost right, dear machine. But you forgot the variable "friendship." Illogical? No. Far-sighted!
+ A score says nothing about whether you get the trust of the people at the wine tavern. I told Thomas: "Look at this." That is not incitement to abuse of office. That is... a recommendation from the heart. A regional optimization.
 
 **VOICE FROM THE TERMINAL**
 "Recommendation from the heart" is not a legal term. Corruption detected.

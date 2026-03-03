@@ -175,11 +175,26 @@ Angeklagter Wöginger. Datenabgleich abgeschlossen. Trefferrate: 100%. Intervent
 Liebe Maschine... du rechnest in Nullen und Einsen. Aber das Leben in Schärding findet dazwischen statt. Das war kein Verstoß. Das war ein „menschliches Update“. Ich habe dem System lediglich mitgeteilt, dass da ein fähiger Mann ist, der die Region kennt. 
 
 **STIMME AUS DEM TERMINAL**
-Qualifikationsmatrix der Mitbewerberin Christa Scharf ist überlegen. Ihr Score: 98. Bürgermeister-Score: 62. Intervention unlogisch.
+Qualifikationsmatrix der Mitbewerberin Christa Scharf ist überlegen. Ihr Score: 98. Bürgermeister-Score: 62. Intervention unlogisch. 
+
+Auf dem Bildschirm erscheint flackernd ein Code-Fragment:
+
+```javascript
+function verfahrenspruefung(bewerber) {
+  if (bewerber.parteibuch === 'ÖVP' && bewerber.funktion === 'Bürgermeister') {
+    return "Legitimes Bürgeranliegen / Strukturmaßnahme";
+  } else if (bewerber.qualifikation > 90) {
+    return "Fehler: Unangenehme Störung der Harmonie";
+  } else {
+    return "Amtsmissbrauch (WKStA-Alarm!)";
+  }
+}
+```
 
 **WÖGINGER**
 (belehrend)
-Unlogisch? Nein. Weitsichtig! Ein Score sagt nichts darüber aus, ob man beim Heurigen das Vertrauen der Leut' kriegt. Ich habe dem Thomas gesagt: „Schau dir das an.“ Das ist keine Bestimmung zum Amtsmissbrauch. Das ist... eine Empfehlung des Herzens. Eine regionale Optimierung.
+Siehst du? Dein Code ist fast richtig, liebe Maschine. Aber du hast die Variable „Freundschaft“ vergessen. Unlogisch? Nein. Weitsichtig! 
+ Ein Score sagt nichts darüber aus, ob man beim Heurigen das Vertrauen der Leut' kriegt. Ich habe dem Thomas gesagt: „Schau dir das an.“ Das ist keine Bestimmung zum Amtsmissbrauch. Das ist... eine Empfehlung des Herzens. Eine regionale Optimierung.
 
 **STIMME AUS DEM TERMINAL**
 „Empfehlung des Herzens“ ist kein juristischer Terminus. Korruption erkannt.
