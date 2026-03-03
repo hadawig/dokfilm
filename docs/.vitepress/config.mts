@@ -36,7 +36,8 @@ export default defineConfig({
               { text: 'Whistleblower Tip-Line', link: '/mitmachen' },
                         { text: 'Die Besetzung (Cast)', link: '/cast' },
                         { text: 'Die Crew (Team)', link: '/team' },
-                        { text: 'Geheime Medien', link: '/medien' },            ]
+                        { text: 'Geheime Medien', link: '/medien' },
+                        { text: 'Social Media Cheat-Sheet', link: '/recherche/social-media-cheat-sheet' },            ]
           },
           {
             text: 'Der Chronist',
