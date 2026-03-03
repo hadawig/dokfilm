@@ -85,6 +85,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '03. März: Wöginger im Zeugenstand', link: '/logbuch/2026-03-03-woeginger-im-zeugenstand' },
               { text: '02. März: Vorabend Wöginger-Prozess', link: '/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
               { text: '01. März: System-Schluckauf', link: '/logbuch/2026-03-01-system-schluckauf-und-verschleierung' },
               { text: '28. Feb: YouTube Premiere', link: '/logbuch/2026-02-28-youtube-premiere' },
@@ -180,6 +181,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 03: Wöginger Testifies', link: '/en/logbuch/2026-03-03-woeginger-im-zeugenstand' },
               { text: 'March 02: Eve of Wöginger Trial', link: '/en/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
               { text: 'March 01: System Hiccup', link: '/en/logbuch/2026-03-01-system-schluckauf-und-verschleierung' },
               { text: 'Feb 28: YouTube Premiere', link: '/en/logbuch/2026-02-28-youtube-premiere' },

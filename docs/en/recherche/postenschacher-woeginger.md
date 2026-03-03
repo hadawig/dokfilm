@@ -17,17 +17,26 @@ The Economic and Corruption Prosecutor's Office (WKStA) accuses August Wöginger
 
 ## Current Status of the Court Hearing (February 2026)
 
+## Current Status of the Court Hearing (March 2026)
+
 After an originally planned diversion (payment of a fine without admission of guilt) was overturned by the Linz Higher Regional Court, the main trial is now underway.
 
-### 1. Testimonies of Co-Defendants (Feb 26/27, 2026)
-In the last two days, the two co-accused finance officials were questioned separately:
-*   **The Commission Chairman (Siegfried M.):** Pleads "not guilty" and emphasizes the correctness of the hearing.
-*   **The Personnel Representative (Herbert B.):** Admitted that Thomas Schmid asked him to support the mayor ("that it should be the mayor"), but denies manipulating the evaluation.
+### 1. Testimonies of Co-Defendants (February 2026)
+The two co-accused finance officials were questioned separately:
+*   **The Commission Chairman (Siegfried M.):** Pleads "not guilty."
+*   **The Personnel Representative (Herbert B.):** Admitted that Thomas Schmid asked him to support the mayor but denies manipulations. He described Schmid's statements on March 3rd as a "lie."
 
-### 2. The Next Step: Wöginger Testifies
-*   **March 3, 2026:** August Wöginger is summoned for personal examination.
+### 2. Testimony of August Wöginger (March 3, 2026)
+Today, the parliamentary group leader himself took the witness stand:
+*   **Plea:** "Not guilty." Wöginger emphasized that the first diversion was not an admission of guilt, but an attempt to end the proceedings quickly to protect his family.
+*   **Key Statement:** "I would not do it today." He expressed regret over forwarding the application ("I am sorry for what my request for review triggered") but denies any incitement to abuse of office. He maintained it was merely a "constituent concern."
+
+### 3. The Next Steps
+*   **March 5, 2026:** Testimony of the bypassed competitor, Christa Scharf.
+*   **March 9, 2026:** Expected testimony of star witness **Thomas Schmid**.
+*   **April 21, 2026:** Targeted verdict.
 *   **Statutory Penalty:** If convicted, he faces six months to five years in prison.
-*   **Political Consequences:** Wöginger has already announced that he will not resign as parliamentary group leader even in the event of a first-instance conviction.
+
 
 ---
 

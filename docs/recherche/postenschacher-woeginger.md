@@ -15,19 +15,25 @@ Die Wirtschafts- und Korruptionsstaatsanwaltschaft (WKStA) wirft August Wöginge
 
 ---
 
-## Aktueller Stand der Gerichtsverhandlung (Februar 2026)
+## Aktueller Stand der Gerichtsverhandlung (März 2026)
 
 Nachdem eine ursprünglich geplante Diversion (Zahlung einer Geldbuße ohne Schuldeingeständnis) durch das Oberlandesgericht Linz aufgehoben wurde, läuft nun die Hauptverhandlung.
 
-### 1. Einvernahmen der Mitangeklagten (26./27. Februar 2026)
-In den letzten zwei Tagen wurden die zwei mitangeklagten Finanzbeamten getrennt befragt:
-*   **Der Kommissionsvorsitzende (Siegfried M.):** Bekennt sich „nicht schuldig“ und betont die Korrektheit des Hearings.
-*   **Der Personalvertreter (Herbert B.):** Gab zu, dass Thomas Schmid ihn gebeten habe, den Bürgermeister zu unterstützen („dass es der Bürgermeister werden soll“), bestreitet aber, die Bewertung manipuliert zu haben.
+### 1. Einvernahmen der Mitangeklagten (Februar 2026)
+Die zwei mitangeklagten Finanzbeamten wurden getrennt befragt:
+*   **Der Kommissionsvorsitzende (Siegfried M.):** Bekennt sich „nicht schuldig“.
+*   **Der Personalvertreter (Herbert B.):** Gab zu, dass Thomas Schmid ihn gebeten habe, den Bürgermeister zu unterstützen, bestreitet aber Manipulationen. Er bezeichnete Schmids Aussagen am 3. März als „Lüge“.
 
-### 2. Der nächste Termin: Wöginger sagt aus
-*   **3. März 2026:** August Wöginger ist zur persönlichen Einvernahme geladen. 
+### 2. Einvernahme August Wöginger (3. März 2026)
+Am heutigen Tag stand der Klubobmann selbst im Zeugenstand:
+*   **Plädoyer:** „Nicht schuldig“. Wöginger betonte, die erste Diversion sei kein Schuldeingeständnis gewesen, sondern ein Versuch, das Verfahren zum Schutz seiner Familie schnell zu beenden.
+*   **Zentrale Aussage:** „Ich würde es heute nicht mehr tun.“ Er räumte Reue über die Weiterleitung der Bewerbung ein („Es tut mir leid, was meine Bitte um Prüfung ausgelöst hat“), bestreitet aber jede Anstiftung zum Amtsmissbrauch. Es habe sich lediglich um ein „Bürgeranliegen“ gehandelt.
+
+### 3. Der weitere Fahrplan
+*   **5. März 2026:** Befragung der übergangenen Mitbewerberin Christa Scharf.
+*   **9. März 2026:** Erwartete Aussage von Kronzeuge **Thomas Schmid**.
+*   **21. April 2026:** Angestrebtes Urteil.
 *   **Strafrahmen:** Im Falle einer Verurteilung drohen sechs Monate bis zu fünf Jahre Haft.
-*   **Politische Folgen:** Wöginger hat bereits angekündigt, auch bei einem Schuldspruch erster Instanz nicht als Klubobmann zurückzutreten.
 
 ---
 
