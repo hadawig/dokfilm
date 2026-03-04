@@ -424,4 +424,44 @@ Es ist eine Mockumentary. Wir können die Wahrheit sagen, solange wir behaupten,
 
 Sie blicken gemeinsam in die Kamera. Im Hintergrund sehen wir das Logo der Webseite: *Das Horten-Mysterium*.
 
+---
+
+## Szene 55: Das Duell – Harte Prosa vs. Harte Fakten (NEU)
+**Ort:** Split-Screen-Installation. 
+*   **LINKS:** Ein dunkles Hinterzimmer in einem Linzer Gasthof. Rauchig, schweres Holz. August Wöginger (Udo Samel) sitzt vor einem Berg Akten.
+*   **RECHTS:** Ein heller, lichtdurchfluteter Musiksaal (Mamlinger Musiksommer). Christa Scharf (Birgit Minichmayr in einer Doppelrolle) sitzt an einer Zither. Sie stimmt die Saiten mit chirurgischer Präzision.
+
+**WÖGINGER (Links)**
+(blättert in einem Chat-Protokoll)
+Herr Rat, Sie müssen das verstehen. Ein Klubobmann ist wie ein Dirigent der Region. Wenn mich die Leut' anrufen, dann schau' ich drauf, dass die Musi spielt. „Chef, bitte anschaun“ – das ist kein Befehl zum Rechtsbruch. Das ist... eine Partitur der Bürgernähe. Harte Prosa, ja. Aber ehrlich.
+
+**SCHARF (Rechts)**
+(schlägt eine Saite an, der Ton ist rein und klar)
+Eine Zither verzeiht keinen falschen Griff. Wenn die Spannung nicht stimmt, bricht die Harmonie. In Braunau stimmte die Spannung nicht. 98 Punkte gegen 62. Das ist kein Interpretationsspielraum, Herr Wöginger. Das ist eine Dissonanz, die das ganze Stück ruiniert.
+
+**WÖGINGER (Links)**
+(lacht kurz auf, trinkt einen Schluck Wein)
+Punkte... Zahlen... das sind doch nur Nuancen im Pointillismus der Politik. 62 Punkte von einem fähigen Bürgermeister wiegen in der Realität schwerer als 98 Punkte von einer... Theoretikerin. Wir brauchen Leut', die das System kennen, nicht nur die Paragrafen.
+
+**SCHARF (Rechts)**
+(spielt eine schnelle, komplexe Tonfolge)
+Ich kenne das System. Ich habe es interimistisch geführt. Ich habe die Bilanzen gelesen, während Sie noch die Inserate stückelten. 98 Punkte sind kein Zufall. Es ist das Ergebnis von 30 Jahren Integrität. Ein „Bürgeranliegen“ ist in meiner Welt nur ein anderes Wort für: „Ich möchte die Regeln für meine Freunde außer Kraft setzen.“
+
+**WÖGINGER (Links)**
+(beugt sich vor, sein Gesicht wird ernst)
+Integrität ist ein schönes Wort für das Sonntagsgebet. Aber am Montag müssen Posten besetzt werden. Und wenn ich sage: „Chef, schau dir das an“, dann meine ich: „Schau dir den Menschen an, nicht das Zeugnis.“
+
+**SCHARF (Rechts)**
+(stoppt die Saiten abrupt mit der flachen Hand. Stille.)
+Genau das ist das Problem. Sie sehen den „Menschen“ – wenn er das richtige Parteibuch hat. Ich sehe den Rechtsstaat. Und der Rechtsstaat hat keine Freunde. Er hat nur Qualifikationen. 
+
+**WÖGINGER (Links)**
+(zuckt die Achseln)
+Sie werden am Donnerstag aussagen, Frau Scharf. Sie werden von Gerechtigkeit sprechen. Ich werde von Regionalpolitik sprechen. Die Menschen werden entscheiden, wessen Prosa sie lieber hören.
+
+**SCHARF (Rechts)**
+(blickt direkt in die Kamera)
+Die Menschen haben bereits entschieden. 15.000 Menschen auf Reddit haben den „lieben Augustin“ gehört. Und sie wissen: Wenn die Musi aufhört zu spielen, bleibt nur noch die nackte Wahrheit. Und die Wahrheit hat genau 98 Punkte. 
+
 **FADE OUT.**
+
