@@ -6,6 +6,25 @@ Willkommen im digitalen Beweismittel-Archiv des Horten-Mysteriums. Diese Sektion
 
 ---
 
+## 📽️ Aktuelle Video-Beweise: Die "Harte Prosa" live
+Exklusive Einblicke in die Verteidigungsstrategien der Macht.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; border-radius: 8px; border: 1px solid #d4af37; margin: 2rem 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/0VVZHZEpPGE" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+**Beweismittel #03:** August Wöginger rechtfertigt sich vor dem Landesgericht Linz. Er beteuert, nichts Unrechtes getan zu haben. Wir nennen es: Die Ästhetik der Ausrede.
+
+---
+
 ## ⚡ Aktuelle Leaks & Grafiken
 Nutzen Sie dieses Material zur Aufklärung in sozialen Netzwerken.
 

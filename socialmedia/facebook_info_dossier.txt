@@ -1,0 +1,50 @@
+# Facebook Info-Dossier: Das Horten-Mysterium
+Projekt: Mockumentary "Das Horten-Mysterium"
+Stand: 03. März 2026
+
+Diese Texte können direkt in die entsprechenden Felder auf deiner Facebook-Seite kopiert werden.
+
+---
+
+## 📝 1. Steckbrief (Kurz-Bio)
+**Feld:** "Bio" / "Kurze Beschreibung" (Max. 255 Zeichen)
+> Eine filmische Dekonstruktion der Macht. Zwischen historischen Schatten (Arisierung) und moderner Korruption (Pointillismus des Geldes). Mit August Diehl, Oliver Masucci & Birgit Minichmayr. 🎬 https://dokfilm.pages.dev
+
+---
+
+## 📖 2. Ausführliche Beschreibung (Info-Bereich)
+**Feld:** "Beschreibung" / "Über uns"
+> Willkommen im Archiv des Schweigens.
+>
+> „Das Horten-Mysterium“ ist eine vierteilige Mockumentary, die tief in die Verstrickungen von Macht, Geld und Politik in Österreich eintaucht. Wir untersuchen den Weg von Helmut Hortens „Marktbereinigungen“ während der NS-Zeit bis hin zum modernen „Pointillismus des Geldes“ in der aktuellen Politik.
+>
+> 🎨 **Warum Pointillismus?**
+> Weil Korruption in Österreich selten durch den einen „großen Raub“ passiert. Es sind tausend kleine Gefallen, SMS-Nachrichten und Spenden unter der Meldegrenze, die erst aus der Ferne das Bild eines Systems ergeben. Wir machen diese Punkte sichtbar.
+>
+> ⚖️ **Aktueller Fokus:**
+> Wir begleiten den Wöginger-Prozess in Linz und dokumentieren den Mut von Menschen wie Christa Scharf, die sich gegen das System des Postenschachers wehren.
+>
+> Erleben Sie eine Reise zwischen Fakten und Fiktion, dokumentiert von einer KI-gestützten Rechercheeinheit (Gemini CLI) und zum Leben erweckt durch ein hochkarätiges Ensemble.
+>
+> **Links:**
+> 🌐 Webseite: https://dokfilm.pages.dev/
+> 📺 YouTube: https://www.youtube.com/@VoltiSodala-p6p
+> 🐙 GitHub: https://hadawig.github.io/dokfilm
+
+---
+
+## 📂 3. Kategorien & Details
+*   **Kategorie:** Dokumentarfilm / Medien- & Nachrichtenunternehmen / Kunst
+*   **Webseite:** https://dokfilm.pages.dev/
+*   **Interessen:** Investigativer Journalismus, Zeitgeschichte, Satire, Pointillismus.
+
+---
+
+## 📬 4. Kontakt-Hinweis (Tip-Line)
+**Feld:** "Impressum" oder zusätzliche Infos
+> Haben Sie Hinweise zum "Horten-Mysterium" oder zum "Pointillismus des Geldes"? Nutzen Sie unsere verschlüsselte Tip-Line auf der Webseite: https://dokfilm.pages.dev/mitmachen
+
+---
+
+## 🏷️ 5. Vorgeschlagene Hashtags
+#HortenMysterium #Mockumentary #Pointillismus #WögingerProzess #PolitikÖsterreich #ChristaScharf #AugustDiehl #Investigativ #MachtUndGeld
