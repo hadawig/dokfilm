@@ -86,7 +86,9 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
-              { text: '03. März: Der digitale Kollaps (Systemabsturz)', link: '/logbuch/2026-03-03-digitaler-kollaps-systemabsturz' },
+              { text: '03. März: BREAKING - Reddit Viral-Erfolg', link: '/logbuch/2026-03-03-reddit-viral-augustin' },
+              { text: '03. März: Recap - Wöginger-Prozess', link: '/logbuch/2026-03-03-zusammenfassung-woeginger-prozess' },
+              { text: '03. März: Der digitale Kollaps', link: '/logbuch/2026-03-03-digitaler-kollaps-systemabsturz' },
               { text: '03. März: Wöginger im Zeugenstand', link: '/logbuch/2026-03-03-woeginger-im-zeugenstand' },
               { text: '02. März: Vorabend Wöginger-Prozess', link: '/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
               { text: '01. März: System-Schluckauf', link: '/logbuch/2026-03-01-system-schluckauf-und-verschleierung' },
@@ -183,6 +185,8 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 03: BREAKING - Reddit Viral Success', link: '/en/logbuch/2026-03-03-reddit-viral-augustin' },
+              { text: 'March 03: Recap - Wöginger Trial', link: '/en/logbuch/2026-03-03-zusammenfassung-woeginger-prozess' },
               { text: 'March 03: Digital Collapse (System Crash)', link: '/en/logbuch/2026-03-03-digitaler-kollaps-systemabsturz' },
               { text: 'March 03: Wöginger Testifies', link: '/en/logbuch/2026-03-03-woeginger-im-zeugenstand' },
               { text: 'March 02: Eve of Wöginger Trial', link: '/en/logbuch/2026-03-02-vorabend-des-woeginger-prozesses' },
