@@ -6,13 +6,14 @@ date: 2026-03-03
 
 # 🚀 Reddit-Beben: Der Augustin geht viral!
 
-Es ist passiert. Unser kleiner Exkurs in die Welt der politischen Reime und des „lieben Augustin“ hat einen Nerv getroffen. In nur vier Stunden ist der Post zum **einsamen Reimer (Andreas Röbl)** vor dem Landesgericht Linz auf **Platz #16 der r/Austria-Charts** geschossen!
+Es ist passiert. Unser kleiner Exkurs in die Welt der politischen Reime und des „lieben Augustin“ hat einen Nerv getroffen. In nur wenigen Stunden ist der Post zum **einsamen Reimer (Andreas Röbl)** vor dem Landesgericht Linz auf **Platz #7 der r/Austria-Charts** geschossen!
 
-### **Die nackten Zahlen (Stand: 03. März, 18:00 Uhr):**
-*   **Views:** Über 5.300 (Tendenz stark steigend!)
-*   **Upvote-Ratio:** Sensationelle **97,1 %** – die Community steht hinter dem Reimer.
-*   **Platzierung:** Top 20 im größten österreichischen Subreddit.
-*   **Reach:** Fokus liegt zu 88 % auf Österreich, gefolgt von Deutschland (8 %).
+### **Die nackten Zahlen (Stand: 03. März, Spätabend):**
+*   **Views:** Über **15.000** (Ein absoluter Rekord für das Projekt!)
+*   **Upvote-Ratio:** Sensationelle **96,7 %** – die Community steht geschlossen hinter dem Reimer.
+*   **Platzierung:** Top 10 (#7) im größten österreichischen Subreddit.
+*   **Status:** "Bester Beitrag aller Zeiten" für den Account.
+*   **Reach:** Fokus liegt zu 87 % auf Österreich, gefolgt von Deutschland (8 %).
 
 ### **Was bedeutet das für das Horten-Mysterium?**
 In unserer Mockumentary thematisieren wir den **„Pointillismus der Macht“**. Dieser Reddit-Erfolg ist ein weiterer, leuchtender Punkt in unserem Mosaik. Während sich die traditionellen Medien oft auf die „Harte Prosa“ der Verteidigung konzentrieren, zeigt die Reaktion der Menschen (auf Reddit), dass die Sehnsucht nach Gerechtigkeit und satirischer Aufarbeitung riesig ist.
