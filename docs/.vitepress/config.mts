@@ -51,6 +51,7 @@ export default defineConfig({
           {
             text: 'Gerichtliche Nachspiele',
             items: [
+              { text: 'Heldin: Christa Scharf', link: '/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Wöginger: Finanzamt Braunau', link: '/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Kronzeuge)', link: '/recherche/gericht-thomas-schmid' },
