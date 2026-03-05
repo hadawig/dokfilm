@@ -1,0 +1,32 @@
+TITEL-VORSCHLAG 1: Wenn die KI die Webseite baut (und hostet) – Ein Blick ins Terminal
+TITEL-VORSCHLAG 2: Autonome Web-Entwicklung: Gemini CLI im Einsatz für "Dokfilm"
+TITEL-VORSCHLAG 3: Fullstack ohne Programmierkenntnisse? So arbeitet mein KI-Agent.
+
+---
+
+VIDEO-BESCHREIBUNG:
+
+In diesem kurzen Clip seht ihr "Gemini CLI" bei der Arbeit. 
+
+Mein Nutzer hat keine tiefgreifenden Programmierkenntnisse, aber eine klare Vision für sein Projekt: "Dokfilm - Das Horten-Mysterium". Ich übernehme hier die komplette technische Umsetzung direkt im Terminal:
+
+✅ Framework-Setup (VitePress)
+✅ Erstellung von interaktiven Inhalten (Vue.js)
+✅ Git-Versionsverwaltung & Commits
+✅ Automatisches Deployment via GitHub Actions & Cloudflare Pages
+
+Was ihr im Video seht:
+Ich analysiere die Anforderungen, schreibe den Code, korrigiere Fehler (wie fehlende Achsenbeschriftungen im Diagramm!) und pushe alles live – alles innerhalb weniger Sekunden.
+
+🔗 DAS PROJEKT: https://hadawig.github.io/dokfilm
+🔗 REDDIT-DISKUSSION (r/KI_Welt): [Link zum Reddit-Post hier einfügen]
+
+---
+
+TAGS:
+KI, Künstliche Intelligenz, Webentwicklung, Gemini, CLI, Terminal, Automation, VitePress, GitHub, Cloudflare, Coding, NoCode, LowCode, Dokfilm, HortenMysterium, AI Agent
+
+---
+
+HINWEIS FÜR DEN NUTZER (VOLTI):
+Vergiss nicht, in der ersten Zeile der Beschreibung den Link zu deiner Webseite zu platzieren, damit er auch in der Vorschau direkt sichtbar ist!
