@@ -8,12 +8,32 @@
     <div v-if="loading" class="loading">Daten werden synchronisiert...</div>
     
     <svg v-else :viewBox="`0 0 ${width} ${height}`" class="chart-svg">
-      <!-- Grid -->
-      <line v-for="i in 5" :key="i" 
-            x1="0" :y1="height - (i * height / 5)" 
-            :x2="width" :y2="height - (i * height / 5)" 
-            stroke="#222" stroke-width="1" />
+      <!-- Y-Axis Labels -->
+      <g v-for="i in 6" :key="'grid' + i">
+        <line 
+          :x1="padding" :y1="height - padding - ((i-1) * (height - padding * 2) / 5)" 
+          :x2="width - padding" :y2="height - padding - ((i-1) * (height - padding * 2) / 5)" 
+          stroke="#222" stroke-width="1" />
+        <text 
+          :x="padding - 5" :y="height - padding - ((i-1) * (height - padding * 2) / 5) + 4" 
+          fill="#555" font-size="10" text-anchor="end">
+          {{ Math.round(((i-1) * maxVisitors / 5) / 100) / 10 }}k
+        </text>
+      </g>
       
+      <!-- Axis Titles -->
+      <text :x="10" :y="padding - 15" fill="#d4af37" font-size="10" font-weight="bold" transform="rotate(-90 10,25)">INDEX (VPH)</text>
+      <text :x="width - padding" :y="height - padding + 35" fill="#d4af37" font-size="10" font-weight="bold" text-anchor="end">ZEITRAUM (H)</text>
+
+      <!-- X-Axis Labels (Every 3rd point to avoid overlap) -->
+      <g v-for="(p, i) in points" :key="'xlabel' + i">
+        <text v-if="i % 3 === 0"
+          :x="p.x" :y="height - padding + 15" 
+          fill="#555" font-size="10" text-anchor="middle">
+          {{ p.raw.time.split(' ')[1] }}
+        </text>
+      </g>
+
       <!-- Line -->
       <path :d="linePath" fill="none" stroke="#d4af37" stroke-width="3" stroke-linejoin="round" />
       
