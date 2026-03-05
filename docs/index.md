@@ -33,8 +33,8 @@ features:
     Die unbestechliche Beamtin vs. das System des Postenschachers.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/logbuch/2026-03-05-showdown-christa-scharf" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Live-Logbuch lesen</a>
-    <a href="/recherche/heldinnen-lebenslauf-christa-scharf" class="VPButton alt large">Zum Heldinnen-Lebenslauf</a>
+    <a href="logbuch/2026-03-05-showdown-christa-scharf" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Live-Logbuch lesen</a>
+    <a href="recherche/heldinnen-lebenslauf-christa-scharf" class="VPButton alt large">Zum Heldinnen-Lebenslauf</a>
   </div>
 </div>
 
