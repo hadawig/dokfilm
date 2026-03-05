@@ -1,0 +1,29 @@
+### AUDIO-TEASER: "DER 36-PUNKTE-ABGRUND" (60 SEKUNDEN)
+
+**Vorbereitung:** Nutze die ElevenLabs-Modelle für August Diehl (Narrator) und Birgit Minichmayr (Christa Scharf).
+
+---
+
+**0:00 - 0:10 | NARRATOR (August Diehl)**
+(Tonfall: Tief, ruhig, fast ehrfürchtig vor der Absurdität)
+"Ein Finanzamt ist kein Taschenrechner. Das ist der Satz des Tages am Landesgericht Linz. Es geht um 36 Punkte Unterschied. Eine Weltreise zwischen Kompetenz und... Gefälligkeit."
+
+**0:10 - 0:25 | CHRISTA SCHARF (Birgit Minichmayr)**
+(Tonfall: Scharf, präzise, mit unterdrückter Wut)
+"Neunundachtzig Punkte gegen zweiundsechzig. Das ist kein Interpretationsspielraum, das ist eine Dissonanz! Ich habe die Bilanzen gelesen, während andere noch die Inserate gestückelt haben. Zeugnisnoten sind für das System offenbar nur... Vorschläge."
+
+**0:25 - 0:40 | NARRATOR (August Diehl)**
+(Tonfall: Jetzt etwas zynischer, fast flüsternd)
+"Die Verteidigung nennt es 'Regionale Personalentwicklung'. Der Bürgermeister nennt es 'Gespür für die Leut'. Wir im Horten-Mysterium nennen es: Pointillismus. Viele kleine Gefallen, die in der Summe den Rechtsstaat unsichtbar machen."
+
+**0:40 - 0:55 | CHRISTA SCHARF (Birgit Minichmayr)**
+(Tonfall: Direkt, blickt quasi durch das Mikrofon)
+"Gespür für die Leut' ist kein juristischer Terminus. Es ist das Codewort für: 'Ich möchte die Regeln für meine Freunde außer Kraft setzen.' Die Wahrheit hat genau 98 Punkte. Und sie wird am Donnerstag aussagen."
+
+**0:55 - 1:00 | NARRATOR (August Diehl)**
+"Teil 4: Die politische Liebesgeschichte. Jetzt im Logbuch. Das Horten-Mysterium."
+
+---
+**SETTINGS FÜR KI:**
+- **August Diehl:** Stability: 45%, Clarity: 80%, Style Exaggeration: 10%.
+- **Birgit Minichmayr:** Stability: 35% (für mehr Emotion), Clarity: 85%, Style Exaggeration: 25% (für die Schärfe).

@@ -67,6 +67,9 @@ features:
     <h3 style="color: #d4af37; margin: 0; font-family: monospace;">📈 VIRALITÄTS-INDEX (LIVE)</h3>
     <a href="/statistik" style="color: #888; font-size: 0.8rem; text-decoration: underline;">Details & Analyse</a>
   </div>
+  <div style="text-align: center; margin-bottom: 1.5rem;">
+    <VisitorCounter />
+  </div>
   <VisitorChart />
   <p style="color: #666; font-size: 0.7rem; text-align: center; margin-top: 1rem; font-family: monospace;">
     STÜNDLICHE AKTUALISIERUNG DURCH DIE GEMINI-RECHERCHEEINHEIT. AKTUELLER TREND: ▲ STARK STEIGEND

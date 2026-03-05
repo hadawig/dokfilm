@@ -43,16 +43,30 @@ Der Nachmittag in Saal 114 bot den erwarteten, harten Kontrast. Michael L., der 
 **Die Highlights der Einvernahme:**
 *   **Die 36-Punkte-Lücke:** Auf die Frage des Richters, wie er sich den massiven Punktabstand zu Dr. Scharf erkläre, antwortete L.: *„Man muss das Ganze sehen. Ein Finanzamt ist kein Taschenrechner. Da geht’s um das Gespür für die Leut'.“*
 *   **Das „Bürgeranliegen“:** L. bestätigte indirekt, dass er sich bei Wöginger „informiert“ habe, ob seine Bewerbung „eh passt“. Er nannte es ein *„ganz normales Gespräch unter Gemeindebürgern“*.
-*   **Die Stimmung im Saal:** Als Dr. Scharf den Saal verließ, gab es vereinzelt Applaus von den Zuschauerrängen – ein seltener Vorgang bei einer Zeugeneinvernahme.
 
-### **Analyse für die Mockumentary:**
-Diese Konfrontation ist pures Gold für **Teil 4**. Wir haben heute gesehen, wie die Sprache der **Harten Prosa** (Wöginger/L.) versucht, die **mathematische Realität** (Scharf) zu übertönen. 
+### **Visualisierung: Der 36-Punkte-Abgrund**
+Um die Absurdität dieses Moments zu verdeutlichen, haben wir für die Mockumentary eine Infografik erstellt, die den Kontrast zwischen Qualifikation und „Gespür“ visualisiert:
+
+![Der 36-Punkte-Abgrund: 98 vs 62](/assets/infografik_98_62.svg)
+
+*Grafik: Der Pointillismus der Qualifikation. Links die sterile Präzision (Scharf), rechts der verschwommene „Bürgermeister-Faktor“ (Michael L.).*
+
+---
+
+### **Analyse für die Mockumentary: „Harte Prosa“ vs. „Harte Fakten“**
+Diese Konfrontation ist pures Gold für **Teil 4: Die politische Liebesgeschichte**. Wir haben heute gesehen, wie die Sprache der **Harten Prosa** (Wöginger/L.) versucht, die **mathematische Realität** (Scharf) zu übertönen. 
 
 In der filmischen Umsetzung werden wir diesen Moment als **„Pointillismus der Verantwortung“** inszenieren: Viele kleine Gefallen (Punkte), die am Ende ein Bild der Ungerechtigkeit ergeben.
 
+**Exklusiv-Vorschau (Audio-Teaser):**
+Hören Sie hier den ersten Entwurf der Szene 10c („Der 36-Punkte-Abgrund“) mit den Stimmen von August Diehl und Birgit Minichmayr. 
+> *"Ein Finanzamt ist kein Taschenrechner? Nein, es ist die Bühne für ein abgekartetes Spiel."*
+
+---
+
 **Morgen, Freitag (06.03.):**
-*   Zusammenfassung der Zeugenaussagen für r/Austria.
-*   Finaler Schnitt des Teasers für Teil 4.
+*   **Reddit-Offensive:** Zusammenfassung der Zeugenaussagen für r/Austria mit der neuen Infografik.
+*   **Video-Release:** Finaler Schnitt des Teasers für Teil 4 inklusive der „Taschenrechner“-Szene.
 
 👉 [Zum detaillierten Prozess-Update im Archiv](/recherche/gericht-woeginger-scharf)
 👉 [Das Pointillismus-Orakel befragen](/orakel)
