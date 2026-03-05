@@ -4,15 +4,15 @@
       <div class="dots-animation">
         <span v-for="n in 5" :key="n" class="dot"></span>
       </div>
-      <h2>DAS POINTILLISMUS-ORAKEL</h2>
-      <p>Entschlüsseln Sie die Begriffe der Macht.</p>
+      <h2>{{ ui.title }}</h2>
+      <p>{{ ui.subtitle }}</p>
     </div>
 
     <div class="search-box">
       <input 
         v-model="searchTerm" 
         @input="search" 
-        placeholder="Begriff eingeben (z.B. Spenden, Benko, Orgel...)"
+        :placeholder="ui.placeholder"
         class="oracle-input"
       />
     </div>
@@ -22,19 +22,19 @@
         <h3 class="term">{{ result.term }}</h3>
         
         <div class="definition-block">
-          <label>HISTORISCHE FAKTEN:</label>
+          <label>{{ ui.labelFact }}:</label>
           <p>{{ result.fact }}</p>
         </div>
 
         <div class="definition-block satirical">
-          <label>SATIRISCHE INTERPRETATION:</label>
+          <label>{{ ui.labelSatire }}:</label>
           <p><i>„{{ result.satire }}“</i></p>
         </div>
       </div>
     </div>
 
     <div v-else-if="searchTerm && !result" class="no-result">
-      <p>Begriff nicht im Archiv des Schweigens gefunden. Versuchen Sie es mit: Spenden, Arisierung, Benko, 49.000...</p>
+      <p>{{ ui.noResult }}</p>
     </div>
 
     <div class="suggestions" v-if="!searchTerm">
@@ -46,14 +46,31 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
+import { useData } from 'vitepress'
+
+const { lang } = useData()
 
 const searchTerm = ref('')
 const result = ref(null)
 
-const suggestions = ['Bürgeranliegen', 'Harte Prosa', 'Christa Scharf', '98 Punkte', 'Taschenrechner', 'Gespür', '36 Punkte']
+const isEn = computed(() => lang.value.startsWith('en'))
 
-const database = [
+const ui = computed(() => ({
+  title: isEn.value ? 'THE POINTILLISM ORACLE' : 'DAS POINTILLISMUS-ORAKEL',
+  subtitle: isEn.value ? 'Decode the terms of power.' : 'Entschlüsseln Sie die Begriffe der Macht.',
+  placeholder: isEn.value ? 'Enter term (e.g. Donations, Benko, Organ...)' : 'Begriff eingeben (z.B. Spenden, Benko, Orgel...)',
+  labelFact: isEn.value ? 'HISTORICAL FACTS' : 'HISTORISCHE FAKTEN',
+  labelSatire: isEn.value ? 'SATIRICAL INTERPRETATION' : 'SATIRISCHE INTERPRETATION',
+  noResult: isEn.value ? 'Term not found in the Archive of Silence. Try: Donations, Aryanization, Benko, 49,000...' : 'Begriff nicht im Archiv des Schweigens gefunden. Versuchen Sie es mit: Spenden, Arisierung, Benko, 49.000...',
+}))
+
+const suggestions = computed(() => isEn.value 
+  ? ['Citizen Concerns', 'Hard Prose', 'Christa Scharf', '98 Points', 'Calculator', 'Instinct', '36 Points']
+  : ['Bürgeranliegen', 'Harte Prosa', 'Christa Scharf', '98 Punkte', 'Taschenrechner', 'Gespür', '36 Punkte']
+)
+
+const database_de = [
   {
     term: 'Taschenrechner',
     fact: 'Aussage des ÖVP-Bürgermeisters im Wöginger-Prozess (05.03.2026): „Ein Finanzamt ist kein Taschenrechner.“',
@@ -146,12 +163,107 @@ const database = [
   }
 ]
 
+const database_en = [
+  {
+    term: 'Calculator',
+    fact: 'Statement by the ÖVP mayor in the Wöginger trial (05.03.2026): "A tax office is not a calculator."',
+    satire: 'The official declaration of mathematical surrender. If the result doesn\'t match the party color, the calculator is simply redefined as a "constituent concern."'
+  },
+  {
+    term: 'Instinct',
+    fact: 'Criterion used by the defense in the trial ("instinct for the people") to justify the professional inferiority of the favored candidate.',
+    satire: 'The secret ingredient in the Austrian patronage stew. Replaces 36 missing hearing points and any form of objective qualification in an emergency.'
+  },
+  {
+    term: '36 Points',
+    fact: 'The difference between the best-rated candidate (98 points) and the candidate finally appointed (62 points) in the Braunau hearing.',
+    satire: 'The Mariana Trench of Austrian bureaucracy. An abyss so deep that entire state governments and several bags of party memberships can be sunk in it.'
+  },
+  {
+    term: 'Zither Player',
+    fact: 'Allusion to Christa Scharf\'s cultural engagement in the "Mamlinger Musiksommer," used in the trial as a metaphor for precision and integrity.',
+    satire: 'The symbol of the incorruptible melody. While politics wallows in dissonance, she plays the score of the rule of law – until the last string of intervention breaks.'
+  },
+  {
+    term: 'Citizen Concerns',
+    fact: 'Justification for political interventions in appointments as legitimate representation of regional interests.',
+    satire: 'The magic spell that transforms an abuse of office into an act of charity. Works best with Thomas Schmid.'
+  },
+  {
+    term: 'Hard Prose',
+    fact: 'Name of August Wöginger\'s line of defense in the trial regarding the Braunau tax office post.',
+    satire: 'A literary genre in which SMS logs are rewritten into heroic epics of regional politics. Rating: Particularly fictional.'
+  },
+  {
+    term: 'Christa Scharf',
+    fact: 'Finance official who was bypassed in the hearing despite being the best-rated and successfully sued against the mis-appointment.',
+    satire: 'The incorruptible variable in the system. A bug in the matrix of patronage that refuses to be talked away.'
+  },
+  {
+    term: '98 Points',
+    fact: 'The score reached by Christa Scharf in the hearing compared to the 62 points of the ÖVP mayor.',
+    satire: 'The mathematics of injustice. Here it is proven that in Austria 62 can be greater than 98 if the color is right.'
+  },
+  {
+    term: 'Pointillism of Money',
+    fact: 'Core motif of the mockumentary: The sum of small favors and donations only reveals the picture of a system from a distance.',
+    satire: 'The art of making so many small dirt spots until the audience believes it is a masterpiece of stability.'
+  },
+  {
+    term: 'Chef, please take a look',
+    fact: 'Wording of an SMS from August Wöginger to Thomas Schmid regarding the appointment in Braunau.',
+    satire: 'The five words that transform the rule of law into a friendly recommendation corner. The classic of Austrian short message literature.'
+  },
+  {
+    term: 'Scharf Verdict',
+    fact: 'Decision of the Federal Administrative Court stating that the appointment in Braunau was not objectively comprehensible.',
+    satire: 'A rare moment in which reality corrected the script of politics. The final boss of political patronage.'
+  },
+  {
+    term: 'Donation Splitting',
+    fact: 'Systematic division of large party donations into amounts below the reporting threshold of the Court of Audit (formerly €50,000).',
+    satire: 'Financial pointillism. The art of turning a rain of gold into such fine mist that the authorities cannot find umbrellas.'
+  },
+  {
+    term: 'Market Clearing',
+    fact: 'Historical euphemism for the displacement and expropriation of Jewish entrepreneurs (Aryanization) during the Nazi era.',
+    satire: 'Helmut Horten\'s favorite choreography. A ruthless spring cleaning of history where only the cash registers ring.'
+  },
+  {
+    term: '49,000',
+    fact: 'The amount in Euros that Heidi Horten donated multiple times to the ÖVP to stay just below the publication obligation.',
+    satire: 'The magic number of silence. The mathematical limit beyond which money stops being news and starts being an aesthetic.'
+  },
+  {
+    term: 'Sobotka Organ',
+    fact: 'A grand piano rented for around 3,000 Euros per month in the Austrian Parliament, initiated by Wolfgang Sobotka.',
+    satire: 'The instrument on which the budget deficit is played in a minor key. Every key costs a small inquiry, every chord an advertisement affair.'
+  },
+  {
+    term: 'Benko',
+    fact: 'René Benko, founder of the Signa Holding, whose insolvency in 2023 marked the largest bankruptcy in Austrian history.',
+    satire: 'The sorcerer\'s apprentice of pointillism. He tried to build skyscrapers out of soap bubbles and was surprised that it got wet when they popped.'
+  },
+  {
+    term: 'Aryanization',
+    fact: 'The state-organized expropriation of Jewish property under National Socialism.',
+    satire: 'The ugly brushstroke under the shiny Horten company logo. A color that cannot be painted over with all the money in the world.'
+  },
+  {
+    term: 'COFAG',
+    fact: 'The COVID-19 Federal Financing Agency, which distributed billions in Corona aid, often under criticism of lacking transparency.',
+    satire: 'The modern wish machine for major investors. Here, billions learned to fly while small businesses got stuck in the bureaucratic fog.'
+  }
+]
+
+const database = computed(() => isEn.value ? database_en : database_de)
+
 const search = () => {
   if (!searchTerm.value) {
     result.value = null
     return
   }
-  const found = database.find(item => 
+  const found = database.value.find(item => 
     item.term.toLowerCase().includes(searchTerm.value.toLowerCase())
   )
   result.value = found || null
