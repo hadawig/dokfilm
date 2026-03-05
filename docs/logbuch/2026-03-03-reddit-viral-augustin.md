@@ -27,3 +27,5 @@ Dass der „Augustin“ genau jetzt zündet, ist kein Zufall. Es bereitet den Bo
 
 ---
 *Berichterstattung vom 03. März 2026. Danke an die r/Austria-Community für den massiven Support!*
+
+👉 [Reddit-Thread ansehen (Archiviert)](/reddit-viral-augustin.html)
