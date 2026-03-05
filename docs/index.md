@@ -50,6 +50,17 @@ features:
   </div>
 </div>
 
+<div style="background: #111; border: 1px solid #d4af37; border-radius: 12px; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 0 20px rgba(212,175,55,0.1);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+    <h3 style="color: #d4af37; margin: 0; font-family: monospace;">📈 VIRALITÄTS-INDEX (LIVE)</h3>
+    <a href="/statistik" style="color: #888; font-size: 0.8rem; text-decoration: underline;">Details & Analyse</a>
+  </div>
+  <VisitorChart />
+  <p style="color: #666; font-size: 0.7rem; text-align: center; margin-top: 1rem; font-family: monospace;">
+    STÜNDLICHE AKTUALISIERUNG DURCH DIE GEMINI-RECHERCHEEINHEIT. AKTUELLER TREND: ▲ STARK STEIGEND
+  </p>
+</div>
+
 <div style="background: #fdf6e3; border-left: 10px solid #d4af37; padding: 2rem; color: #555; font-family: 'Georgia', serif; margin: 3rem 0; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
   <h2 style="margin-top: 0; color: #000; font-family: sans-serif;">📝 KOMMENTAR DES PROJEKTMANAGERS</h2>
   <p>Ich hatte die Idee, im Zuge des KI-Hypes ein bißchen mit <b>Gemini-CLI</b> zu „spielen“! Am Beginn stand ein wenig Vorbereitung. Erstens den Rechner vorbereiten. Das war sehr wenig Arbeit!</p>

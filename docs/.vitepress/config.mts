@@ -18,6 +18,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
+          { text: 'INDEX (Live)', link: '/statistik' },
           { text: 'Konzept', link: '/konzept' },
           { text: 'Orakel', link: '/orakel' },
           { text: 'Tip-Line', link: '/mitmachen' },
@@ -37,6 +38,7 @@ export default defineConfig({
                         { text: 'Die Besetzung (Cast)', link: '/cast' },
                         { text: 'Die Crew (Team)', link: '/team' },
                         { text: 'Geheime Medien', link: '/medien' },
+                        { text: 'Projekt-Statistik (Live-Chart)', link: '/statistik' },
                         { text: 'Social Media Cheat-Sheet', link: '/recherche/social-media-cheat-sheet' },            ]
           },
           {
@@ -87,6 +89,8 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '05. März: Showdown - Christa Scharf', link: '/logbuch/2026-03-05-showdown-christa-scharf' },
+              { text: '03. März: Viral - Wöginger-Clip (27k)', link: '/logbuch/2026-03-03-video-viral-woeginger' },
               { text: '03. März: BREAKING - Reddit Viral-Erfolg', link: '/logbuch/2026-03-03-reddit-viral-augustin' },
               { text: '03. März: Recap - Wöginger-Prozess', link: '/logbuch/2026-03-03-zusammenfassung-woeginger-prozess' },
               { text: '03. März: Der digitale Kollaps', link: '/logbuch/2026-03-03-digitaler-kollaps-systemabsturz' },
@@ -138,6 +142,7 @@ export default defineConfig({
               { text: 'The Cast', link: '/en/cast' },
               { text: 'The Crew', link: '/en/team' },
               { text: 'Secret Media', link: '/en/medien' },
+              { text: 'Project Statistics (Live)', link: '/statistik' },
             ]
           },
           {
@@ -186,6 +191,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 05: Showdown - Christa Scharf', link: '/en/logbuch/2026-03-05-showdown-christa-scharf' },
               { text: 'March 03: BREAKING - Reddit Viral Success', link: '/en/logbuch/2026-03-03-reddit-viral-augustin' },
               { text: 'March 03: Recap - Wöginger Trial', link: '/en/logbuch/2026-03-03-zusammenfassung-woeginger-prozess' },
               { text: 'March 03: Digital Collapse (System Crash)', link: '/en/logbuch/2026-03-03-digitaler-kollaps-systemabsturz' },
