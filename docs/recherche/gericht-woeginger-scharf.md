@@ -14,17 +14,25 @@ Christa Scharf war die fachlich bestqualifizierte Bewerberin für die Leitung de
 
 ---
 
-## Status März 2026: Die Aussage der Beamtin
+## Status 05. März 2026: Der Tag der Wahrheit in Linz
 
-Christa Scharf wird am **Donnerstag, den 5. März 2026**, im Zeugenstand am Landesgericht Linz erwartet. Ihr Auftritt gilt als das moralische Herzstück des Prozesses.
+Am heutigen Donnerstag, den 05. März 2026, fand am Landesgericht Linz die zentrale Zeugeneinvernahme von **Dr. Christa Scharf** statt. Die Stimmung im Gerichtssaal war laut Prozessbeobachtern (ORF, Kurier) extrem angespannt.
 
-### 1. Die Stimme der Qualifikation
-Während die Angeklagten von „Bürgeranliegen“ sprechen, wird Scharf darlegen, wie es sich anfühlt, trotz einer objektiven Bestreihung (98 Punkte) von einem Parteipolitiker (62 Punkte) übergangen zu werden. Ihr Widerstand hat das System des Postenschachers in Österreich rechtlich angreifbar gemacht.
+### Die Aussage der Beamtin (Vormittag)
+Christa Scharf trat als erste Zeugin des Tages auf. Ihre Kernaussagen markieren einen Meilenstein für die juristische Aufarbeitung politischer Interventionen:
+*   **Motiv:** Sie betonte, dass es ihr nicht um das Geld geht (die 5.000 Euro Entschädigung seien nebensächlich), sondern um das **„Zurechtrücken“ der Geschichte**. Sie will zeigen, dass Qualifikation systematisch politischer Loyalität geopfert wurde.
+*   **Der Konter:** Die Verteidigung versuchte, ihre hervorragende Hearing-Leistung (98 Punkte) mit der Behauptung zu schwächen, sie habe ein „Blackout“ gehabt oder sei nervös gewesen. Scharf trat dem entschlossen entgegen und bezeichnete dies als Ablenkungsmanöver von der tatsächlichen Intervention.
+*   **Enttäuschung über das System:** Sie kritisierte offen die anfänglich angebotene Diversion für die Angeklagten, was ihr Ansehen als unbestechliche Kämpferin für den Rechtsstaat weiter festigte.
 
-### 2. Die „Heldin“ im öffentlichen Diskurs
-Draußen vor dem Gericht wird sie bereits auf Protestplakaten (z.B. von Andreas Röbl) als die eigentliche Heldin gefeiert. Sie steht für all jene, die sich nicht beugen.
+### Ausblick: Der Nachmittag
+Für den weiteren Verlauf des Tages sind folgende Einvernahmen geplant:
+1.  **Michael L.:** Der begünstigte ÖVP-Bürgermeister (der "62-Punkte-Kandidat") wird im Zeugenstand erwartet.
+2.  **Verhandlungsdauer:** Der Richter hat den Prozesstag bis ca. 20:00 Uhr angesetzt, um die Beweisaufnahme voranzutreiben. Ein Urteil wird für den **21. April 2026** erwartet.
 
-*   **Mockumentary-Kontext:** In Szene 10b nutzen wir ihren Namen als Symbol für die unbestechliche Wahrheit, die Wögingers „harte Prosa“ ins Wanken bringt. In Teil 4 wird sie zur Antagonistin des „Pointillismus“, weil sie sich weigert, ein kleiner, schweigender Punkt im Mosaik zu sein.
+---
+
+*Mockumentary-Einschub:* Diese Dynamik zwischen der kühlen Faktenlage von Scharf und den Ausflüchten der Verteidigung ("Nervosität") dient uns in **Teil 4** als zentrales visuelles Element. Wir inszenieren dies als Kampf zwischen scharfem Fokus (Scharf) und verschwommenem Pointillismus (System Wöginger).*
+
 
 ---
 

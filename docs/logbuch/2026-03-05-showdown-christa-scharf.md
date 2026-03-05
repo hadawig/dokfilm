@@ -26,8 +26,19 @@ Wir werden den heutigen Tag forensisch begleiten. Jeder Satz, der heute in Linz 
 
 **Bleiben Sie dran. Das Schweigen wird heute gebrochen.**
 
-👉 [Zum Heldinnen-Lebenslauf von Christa Scharf](/recherche/heldinnen-lebenslauf-christa-scharf)
+### 🛑 UPDATE: 13:45 Uhr – Die Aussage der Beamtin
+Der Vormittag am Landesgericht Linz war von einer beeindruckenden Ruhe und Präzision geprägt. Dr. Christa Scharf hat ihre Zeugenaussage beendet. Ihre wichtigste Botschaft des Tages:
+
+> *„Es geht mir nicht um die Entschädigung. Es geht um das **Zurechtrücken** dieser Geschichte.“* 
+
+Während die Verteidigung versuchte, ihre Leistung im Hearing kleinzureden (Stichwort „Nervosität“), blieb Scharf bei den harten Fakten ihrer Qualifikation. 
+
+**Was jetzt passiert:**
+*   Am Nachmittag wird der ÖVP-Bürgermeister Michael L. (der „62-Punkte-Kandidat“) vernommen.
+*   Die Verhandlung ist bis 20:00 Uhr angesetzt – wir dokumentieren weiter!
+
+👉 [Zum detaillierten Prozess-Update im Archiv](/recherche/gericht-woeginger-scharf)
 👉 [Das Pointillismus-Orakel befragen](/orakel)
 
 ---
-*Berichterstattung vom 05. März 2026, 06:45 Uhr. Der Prozess läuft.*
+*Berichterstattung vom 05. März 2026, 13:45 Uhr. Der Prozess läuft.*
