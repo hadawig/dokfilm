@@ -47,7 +47,7 @@ Der Nachmittag in Saal 114 bot den erwarteten, harten Kontrast. Michael L., der 
 ### **Visualisierung: Der 36-Punkte-Abgrund**
 Um die Absurdität dieses Moments zu verdeutlichen, haben wir für die Mockumentary eine Infografik erstellt, die den Kontrast zwischen Qualifikation und „Gespür“ visualisiert:
 
-![Der 36-Punkte-Abgrund: 98 vs 62](/assets/infografik_98_62.svg)
+![Der 36-Punkte-Abgrund: 98 vs 62](/infografik_98_62.svg)
 
 *Grafik: Der Pointillismus der Qualifikation. Links die sterile Präzision (Scharf), rechts der verschwommene „Bürgermeister-Faktor“ (Michael L.).*
 
