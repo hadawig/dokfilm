@@ -51,9 +51,29 @@ import { ref } from 'vue'
 const searchTerm = ref('')
 const result = ref(null)
 
-const suggestions = ['Bürgeranliegen', 'Harte Prosa', 'Christa Scharf', '98 Punkte', 'Pointillismus des Geldes', 'Chef, bitte anschaun']
+const suggestions = ['Bürgeranliegen', 'Harte Prosa', 'Christa Scharf', '98 Punkte', 'Taschenrechner', 'Gespür', '36 Punkte']
 
 const database = [
+  {
+    term: 'Taschenrechner',
+    fact: 'Aussage des ÖVP-Bürgermeisters im Wöginger-Prozess (05.03.2026): „Ein Finanzamt ist kein Taschenrechner.“',
+    satire: 'Die offizielle mathematische Kapitulationserklärung. Wenn das Ergebnis nicht zur Parteifarbe passt, wird der Taschenrechner kurzerhand zum „Bürgeranliegen“ umdefiniert.'
+  },
+  {
+    term: 'Gespür',
+    fact: 'Von der Verteidigung im Prozess genutztes Kriterium („Gespür für die Leut’“), um die fachliche Unterlegenheit des Wunschkandidaten zu rechtfertigen.',
+    satire: 'Die Geheimzutat im österreichischen Postenschacher-Gulasch. Ersetzt im Notfall 36 fehlende Hearing-Punkte und jede Form von objektiver Qualifikation.'
+  },
+  {
+    term: '36 Punkte',
+    fact: 'Die Differenz zwischen der Bestbewerteten (98 Punkte) und dem schließlich bestellten Kandidaten (62 Punkte) im Hearing Braunau.',
+    satire: 'Der Marianengraben der österreichischen Bürokratie. Ein Abgrund, so tief, dass man darin ganze Landesregierungen und mehrere Säcke voll Parteibücher versenken kann.'
+  },
+  {
+    term: 'Zitherspielerin',
+    fact: 'Anspielung auf Christa Scharfs kulturelles Engagement im „Mamlinger Musiksommer“, im Prozess als Metapher für Präzision und Integrität genutzt.',
+    satire: 'Das Symbol der unbestechlichen Melodie. Während die Politik in Dissonanzen schwelgt, spielt sie die Partitur des Rechtsstaats – bis die letzte Saite der Intervention reißt.'
+  },
   {
     term: 'Bürgeranliegen',
     fact: 'Rechtfertigung politischer Interventionen bei Postenbesetzungen als legitime Vertretung regionaler Interessen.',
