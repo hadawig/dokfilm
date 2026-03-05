@@ -157,6 +157,7 @@ export default defineConfig({
           {
             text: 'Judicial Aftermath',
             items: [
+              { text: 'Heroine: Christa Scharf', link: '/en/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Wöginger: Braunau Tax Office', link: '/en/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Witness)', link: '/en/recherche/gericht-thomas-schmid' },

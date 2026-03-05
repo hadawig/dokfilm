@@ -26,6 +26,18 @@ features:
 
 ---
 
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">⚖️ LATEST SHOWDOWN: MARCH 05, 2026</h2>
+  <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
+    Today in the witness box at the Linz Regional Court: <b>Dr. Christa Scharf</b>.<br>
+    The incorruptible official vs. the system of political patronage.
+  </p>
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+    <a href="logbuch/2026-03-05-showdown-christa-scharf" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Live Logbook</a>
+    <a href="recherche/heldinnen-lebenslauf-christa-scharf" class="VPButton alt large">To the Heroine Resume</a>
+  </div>
+</div>
+
 <div style="background: #000; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 3px solid #ff4444; position: relative; overflow: hidden; box-shadow: 0 0 40px rgba(255,68,68,0.3);">
   <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 1.1rem; z-index: 10; font-weight: bold;">
     <span style="display: inline-block; width: 12px; height: 12px; background: #ff4444; border-radius: 50%; margin-right: 8px; animation: blink 1s infinite;"></span> LIVE FEED FROM FORENSICS
