@@ -59,7 +59,22 @@ Diese Konfrontation ist pures Gold für **Teil 4: Die politische Liebesgeschicht
 In der filmischen Umsetzung werden wir diesen Moment als **„Pointillismus der Verantwortung“** inszenieren: Viele kleine Gefallen (Punkte), die am Ende ein Bild der Ungerechtigkeit ergeben.
 
 **Exklusiv-Vorschau (Audio-Teaser):**
-Hören Sie hier den ersten Entwurf der Szene 10c („Der 36-Punkte-Abgrund“) mit den Stimmen von August Diehl und Birgit Minichmayr. 
+Hören Sie hier den ersten Entwurf der Szene 10c („Der 36-Punkte-Abgrund“) mit den KI-gestützten Stimmen von August Diehl und Birgit Minichmayr. 
+
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #d4af37; margin: 20px 0;">
+  <p style="color: #d4af37; margin-top: 0;"><b>🎙️ August Diehl (Erzähler)</b></p>
+  <audio controls style="width: 100%;">
+    <source src="/diehl-erzaehler-36.mp3" type="audio/mpeg">
+    Ihr Browser unterstützt das Audio-Element nicht.
+  </audio>
+  
+  <p style="color: #d4af37; margin-top: 20px;"><b>🎙️ Birgit Minichmayr (Christa Scharf)</b></p>
+  <audio controls style="width: 100%;">
+    <source src="/scharf-36-punkte.mp3" type="audio/mpeg">
+    Ihr Browser unterstützt das Audio-Element nicht.
+  </audio>
+</div>
+
 > *"Ein Finanzamt ist kein Taschenrechner? Nein, es ist die Bühne für ein abgekartetes Spiel."*
 
 ---
