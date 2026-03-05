@@ -243,6 +243,38 @@ Reimen kann er, der Bua. Aber regieren... regieren ist eben kein Gedicht. Das is
 
 ---
 
+## Szene 10c: Der 36-Punkte-Abgrund (NEU)
+**Ort:** Gerichtssaal 114, Landesgericht Linz. Kühle, sachliche Atmosphäre.
+**Zeit:** 5. März 2026 (Nachmittag).
+
+Michael L. (Udo Samel in einer Doppelrolle), der 62-Punkte-Bürgermeister, sitzt im Zeugenstand. Er wirkt nicht wie ein Angeklagter, sondern wie ein Mann, der glaubt, er tue das Richtige. Ihm gegenüber, in der ersten Reihe der Zuschauer, sitzt Christa Scharf (Birgit Minichmayr). Sie fixiert ihn mit einem Blick, der keine Fehler verzeiht.
+
+**RICHTER (Off)**
+Herr L., erklären Sie uns diesen Punktabstand. 98 zu 62. Das ist kein kleiner Unterschied. Das ist eine ganze Welt.
+
+**MICHAEL L.**
+(rückt seine Krawatte zurecht)
+Herr Rat, man muss das Ganze sehen. Ein Finanzamt ist kein Taschenrechner. Da geht’s um das Gespür für die Leut'. In Braunau kennen wir uns. Da geht es um Vertrauen. Ein Score von 98 sagt mir nur, dass jemand gut auswendig lernen kann. Aber ein Bürgermeister von 62... der weiß, wo der Schuh drückt.
+
+**SCHARF**
+(flüstert hörbar für die erste Reihe)
+62 Punkte sind kein Gespür. Es ist die Kapitulation der Kompetenz vor der Loyalität.
+
+**MICHAEL L.**
+(ignoriert sie, spricht zum Richter)
+Ich habe mich beim August informiert, ob meine Bewerbung „eh passt“. Ein ganz normales Gespräch unter Gemeindebürgern. Er hat gesagt: „Chef, schau dir das an.“ Das ist doch keine kriminelle Intervention. Das ist... regionale Personalentwicklung! Wir rücken zusammen, wenn’s brennt.
+
+**RICHTER (Off)**
+Es brannte aber nicht, Herr L. Es gab eine exzellent qualifizierte Leiterin. Warum musste man da „zusammenrücken“?
+
+**MICHAEL L.**
+(mit einem Anflug von Arroganz)
+Weil Exzellenz allein kein Finanzamt führt. Man braucht jemanden, der die Sprache der Region spricht. Nicht die Sprache der Paragrafen. 
+
+Schnitt auf Christa Scharf. Sie macht sich eine Notiz in einem kleinen schwarzen Buch. Wir sehen die Seite: **98 - 62 = 36 Punkte Abgrund.**
+
+---
+
 ## Szene 11: Das Budgetloch-Ballett
 **Ort:** Ein prunkvoller Saal im Parlament. Im Hintergrund steht die „Sobotka-Orgel“.
 **Zeit:** Januar 2025 (Rückblende).

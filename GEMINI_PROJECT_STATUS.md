@@ -1,23 +1,21 @@
 # Projekt-Status: Das Horten-Mysterium
-**Stand:** 03. März 2026 (Spätabend)
+**Stand:** 05. März 2026 (Spätabend)
 
-## 🏆 Major Achievement: Der "Augustin"-Durchbruch
-*   **Reddit-Viralität:** Der Post zum "einsamen Reimer" erreichte Platz **#7 auf r/Austria** mit über **15.000 Aufrufen** in 24 Stunden.
-*   **Community-Feedback:** 96,7 % Upvote-Rate bestätigt die satirische Strategie des Projekts.
-*   **Social Trust:** Zweiter Post (Wöginger-Recap) wurde nach anfänglicher Filtersperre manuell von Moderatoren freigeschaltet (3,5k Aufrufe).
+## ⚖️ Showdown in Linz: Christa Scharf im Zeugenstand
+*   **Logbuch-Update:** Die Aussage von Dr. Christa Scharf und die skurrilen Rechtfertigungen des 62-Punkte-Bürgermeisters Michael L. ("Ein Finanzamt ist kein Taschenrechner") sind im Live-Logbuch dokumentiert.
+*   **Moralisches Herzstück:** Die kühle Präzision von Scharf bildet nun das emotionale Gegengewicht zum "System Wöginger".
 
-## 🛠️ Letzte Technische Updates
-*   **Webseite:** Neue Sektion "Aktuelle Video-Beweise" mit Wöginger-Justification Video (YouTube Shorts) eingebunden.
-*   **Pointillismus-Orakel:** Befüllt mit neuen Begriffen (Bürgeranliegen, Harte Prosa, 98 Punkte).
-*   **Links:** Facebook- und YouTube-Kanal-Links auf die neuen Profile aktualisiert.
+## 🛠️ Technische & Content-Updates
+*   **Social Media:** Neue Strategie für r/Austria ("98 vs. 62 - Der Abgrund") entwickelt. Fokus auf die mathematische Absurdität der Intervention.
+*   **Drehbuch (Teil 4):** Neue Szene 10c ("Der 36-Punkte-Abgrund") integriert, die das Gerichtssaaduell dramatisiert.
 
-## 🎭 In Arbeit (Teil 4: Die politische Liebesgeschichte)
-*   Ausbau der Szene "Scharf vs. Wöginger" (Vorbereitung auf Donnerstag, 05.03.).
-*   Integration des "Pointillismus des Geldes" als zentrales Motiv der SMS-Korrespondenz.
+## 🎭 In Arbeit (Vorbereitung auf Freitag, 06.03.)
+*   Finaler Launch der Reddit-Kampagne.
+*   Erstellung der Infografik "98 vs. 62" (Visualisierung des Pointillismus).
+*   Abgleich der neuen Szenen mit der KI-Audio-Generierung (August Diehl / Birgit Minichmayr).
 
-## 📅 Nächste Schritte (Mittwoch, 04.03.)
-*   Strategische Vorbereitung auf die Zeugenaussage von Christa Scharf (Donnerstag).
-*   "98 vs. 62" Kampagne auf Reddit/Facebook (Fokus auf die mathematische Ungerechtigkeit).
-*   Community-Management auf Reddit zur weiteren Stärkung des Accounts.
+## 📅 Nächste Schritte
+*   Monitoring der Reddit-Reaktionen auf den "Scharf-Showdown".
+*   Überarbeitung der Schlussszene in Teil 4 (Verschmelzung von Horten-Raubkapital und aktuellem Postenschacher).
 
-**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert.
+**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert. Update 18:45 Uhr online.

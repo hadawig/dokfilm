@@ -37,8 +37,25 @@ Während die Verteidigung versuchte, ihre Leistung im Hearing kleinzureden (Stic
 *   Am Nachmittag wird der ÖVP-Bürgermeister Michael L. (der „62-Punkte-Kandidat“) vernommen.
 *   Die Verhandlung ist bis 20:00 Uhr angesetzt – wir dokumentieren weiter!
 
+### 🛑 UPDATE: 18:30 Uhr – Das „Zusammenrücken“ der Logik
+Der Nachmittag in Saal 114 bot den erwarteten, harten Kontrast. Michael L., der Nutzniesser der Intervention (62 Punkte), versuchte seine Bestellung als „Akt der regionalen Vernunft“ darzustellen. 
+
+**Die Highlights der Einvernahme:**
+*   **Die 36-Punkte-Lücke:** Auf die Frage des Richters, wie er sich den massiven Punktabstand zu Dr. Scharf erkläre, antwortete L.: *„Man muss das Ganze sehen. Ein Finanzamt ist kein Taschenrechner. Da geht’s um das Gespür für die Leut'.“*
+*   **Das „Bürgeranliegen“:** L. bestätigte indirekt, dass er sich bei Wöginger „informiert“ habe, ob seine Bewerbung „eh passt“. Er nannte es ein *„ganz normales Gespräch unter Gemeindebürgern“*.
+*   **Die Stimmung im Saal:** Als Dr. Scharf den Saal verließ, gab es vereinzelt Applaus von den Zuschauerrängen – ein seltener Vorgang bei einer Zeugeneinvernahme.
+
+### **Analyse für die Mockumentary:**
+Diese Konfrontation ist pures Gold für **Teil 4**. Wir haben heute gesehen, wie die Sprache der **Harten Prosa** (Wöginger/L.) versucht, die **mathematische Realität** (Scharf) zu übertönen. 
+
+In der filmischen Umsetzung werden wir diesen Moment als **„Pointillismus der Verantwortung“** inszenieren: Viele kleine Gefallen (Punkte), die am Ende ein Bild der Ungerechtigkeit ergeben.
+
+**Morgen, Freitag (06.03.):**
+*   Zusammenfassung der Zeugenaussagen für r/Austria.
+*   Finaler Schnitt des Teasers für Teil 4.
+
 👉 [Zum detaillierten Prozess-Update im Archiv](/recherche/gericht-woeginger-scharf)
 👉 [Das Pointillismus-Orakel befragen](/orakel)
 
 ---
-*Berichterstattung vom 05. März 2026, 13:45 Uhr. Der Prozess läuft.*
+*Berichterstattung vom 05. März 2026, 18:30 Uhr. Die Verhandlung wird vertagt.*
