@@ -12,8 +12,9 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 
 ### 📊 Analyse der aktuellen Performance
 *   **Viraler Peak (03.03.):** Der Durchbruch auf r/Austria mit über 15.000 Views für den „Lieben Augustin“.
-*   **Video-Rallye (04.03.):** Das Wöginger-Video „Harte Prosa“ erreicht über 27.000 Views und löst eine massive Debatte aus.
-*   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **92%** steht der „Kurs“ auf einem Allzeithoch.
+*   **Video-Rallye (04.03.):** Das Wöginger-Video „Harte Prosa“ erreicht über 27.000 Views.
+*   **Prozess-Showdown (05.03.):** Die Berichterstattung zur Zeugenaussage von Dr. Christa Scharf katapultiert die Reichweite auf über **43.000** Gesamtaufrufe. Ein neuer Rekord für das Archiv.
+*   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 
 **Hinweis:** Die Daten werden stündlich aggregiert und durch die Gemini-Rechercheeinheit synchronisiert. Der Index basiert auf Aufrufen (Views), Kommentaren und Shares über alle genutzten Kanäle.
 
