@@ -90,6 +90,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '10. März: Schmid belastet Wöginger', link: '/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: '05. März: Showdown - Christa Scharf', link: '/logbuch/2026-03-05-showdown-christa-scharf' },
               { text: '03. März: Viral - Wöginger-Clip (27k)', link: '/logbuch/2026-03-03-video-viral-woeginger' },
               { text: '03. März: BREAKING - Reddit Viral-Erfolg', link: '/logbuch/2026-03-03-reddit-viral-augustin' },
@@ -145,6 +146,7 @@ export default defineConfig({
               { text: 'The Crew', link: '/en/team' },
               { text: 'Secret Media', link: '/en/medien' },
               { text: 'Project Statistics (Live)', link: '/statistik' },
+              { text: 'Social Media Cheat-Sheet', link: '/en/recherche/social-media-cheat-sheet' },
             ]
           },
           {
@@ -184,6 +186,7 @@ export default defineConfig({
               { text: 'Walter Rosenkranz (Chair)', link: '/en/recherche/walter-rosenkranz' },
               { text: 'Corruption (FPÖ/ÖVP)', link: '/en/recherche/korruption-oevp-fpoe' },
               { text: 'Alsberg Brothers (Aryanization)', link: '/en/recherche/alsberg-brueder' },
+              { text: 'Alsberg Family Fate', link: '/en/recherche/familie-alsberg-schicksal' },
               { text: 'Horten-Alsberg Contract', link: '/en/recherche/der-kaufvertrag-horten-alsberg' },
               { text: 'Horten: Armament & Forced Labor', link: '/en/recherche/helmut-horten-ruestung-zwangsarbeit' },
               { text: 'Part 4: ÖVP & Donations', link: '/en/oevp-spenden' },
@@ -194,6 +197,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 10: Schmid Incriminates Wöginger', link: '/en/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: 'March 05: Showdown - Christa Scharf', link: '/en/logbuch/2026-03-05-showdown-christa-scharf' },
               { text: 'March 03: BREAKING - Reddit Viral Success', link: '/en/logbuch/2026-03-03-reddit-viral-augustin' },
               { text: 'March 03: Recap - Wöginger Trial', link: '/en/logbuch/2026-03-03-zusammenfassung-woeginger-prozess' },

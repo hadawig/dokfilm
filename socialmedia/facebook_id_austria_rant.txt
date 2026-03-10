@@ -1,0 +1,7 @@
+Willkommen im 'Digitalen Amt' – oder wie ich es nenne: Die staatlich geprüfte Endlosschleife. 🤡
+
+Da wird uns die 'ID-Austria' als das Nonplusultra der Modernisierung verkauft, und was bekommt man? Einen 'Internal Server Error 500', sobald man nur schief hinschaut. Erst heißt es 'Bitte schließen Sie die Aktivierung im Browser ab', nur um im Browser direkt mit 'invalid_request: UserLoggedOut' begrüßt zu werden.
+
+Sicherheit geht vor, klar – aber wenn die einzige 'Sicherheitsfunktion', die zuverlässig funktioniert, der automatische Rauswurf des rechtmäßigen Nutzers ist, dann ist das kein Fortschritt, sondern digitale Arbeitsverweigerung.
+
+Haben wir eigentlich schon die Milliarden für die COFAG-Beratung in die IT-Infrastruktur gesteckt, oder war das Geld wieder mal nur für die 'Harte Prosa' der Beraterverträge da? Hauptsache, die Zither spielt im Hintergrund, während das System abschmiert. 🇦🇹💻🔥 #IDAustria #DigitalerKollaps #AmtsschimmelDigital #HortenMysterium
