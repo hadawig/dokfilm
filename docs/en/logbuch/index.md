@@ -3,6 +3,7 @@
 Here the daily progress is recorded.
 
 ## Entries
+- [March 10, 2026: Schmid Incriminates Wöginger – The 'Hard Prose' Crumbles](./2026-03-10-schmid-incriminates-woeginger)
 - [March 05, 2026: The Day of Truth – Christa Scharf in the Witness Stand](./2026-03-05-showdown-christa-scharf)
 - [March 03, 2026: Viral Update – Wöginger Clip Explodes: 27,000 Views!](./2026-03-03-video-viral-woeginger)
 - [March 03, 2026: BREAKING – The Augustin goes viral: #16 on r/Austria!](./2026-03-03-reddit-viral-augustin)
