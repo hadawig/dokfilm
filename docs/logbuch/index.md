@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [10. März 2026: Schmid belastet Wöginger – Die „Harte Prosa“ zerfällt](./2026-03-10-schmid-belastet-woeginger)
 - [05. März 2026: Der Tag der Wahrheit – Christa Scharf im Zeugenstand](./2026-03-05-showdown-christa-scharf)
 - [03. März 2026: Viral-Update – Wöginger-Clip explodiert: 27.000 Views!](./2026-03-03-video-viral-woeginger)
 - [03. März 2026: BREAKING – Der Augustin geht viral: #16 auf r/Austria!](./2026-03-03-reddit-viral-augustin)
