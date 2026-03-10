@@ -37,8 +37,8 @@ Wir haben heute exklusives Material für die finale Montage von Teil 4 gesammelt
 
 **„Ein Finanzamt ist kein Taschenrechner? Vielleicht. Aber Gerechtigkeit ist eine exakte Wissenschaft.“**
 
-👉 [Die Schmid-Chats im Detail analysieren](/recherche/schmid-chats-archiv)
-👉 [Zum aktuellen Stand der 'Marktbereinigung'](/logbuch/2026-03-01-system-schluckauf)
+👉 [Die Schmid-Chats im Detail analysieren](/recherche/thomas-schmid-chats-details)
+👉 [Zum aktuellen Stand der 'Marktbereinigung'](/logbuch/2026-03-01-system-schluckauf-und-verschleierung)
 
 ---
 *Berichterstattung vom 10. März 2026, 14:49 Uhr. Die Mockumentary schreibt sich fast von selbst.*

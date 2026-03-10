@@ -37,7 +37,7 @@ Today we collected exclusive material for the final montage of Part 4. The juxta
 
 **„A tax office is not a calculator? Maybe. But justice is an exact science.“**
 
-👉 [Analyze the Schmid chats in detail](/en/recherche/schmid-chats-archiv)
+👉 [Analyze the Schmid chats in detail](/en/recherche/thomas-schmid-chats-details)
 👉 [To the current status of the 'Market Correction'](/en/logbuch/2026-03-01-system-schluckauf-und-verschleierung)
 
 ---
