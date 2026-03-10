@@ -30,6 +30,7 @@ export default defineConfig({
             text: 'Das Projekt',
             items: [
               { text: 'Idee & Konzept', link: '/konzept' },
+              { text: 'Der Entwurf des Drehbuches', link: '/drehbuch/' },
               { text: 'Pointillismus des Kapitals', link: '/pointillismus' },
               { text: 'Unterstützen & Dossier', link: '/unterstuetzen' },
               { text: 'Das Pointillismus-Orakel', link: '/orakel' },
@@ -134,6 +135,7 @@ export default defineConfig({
             text: 'The Project',
             items: [
               { text: 'Idea & Concept', link: '/en/konzept' },
+              { text: 'Screenplay Draft', link: '/en/drehbuch/' },
               { text: 'Pointillism of Capital', link: '/en/pointillismus' },
               { text: 'Support & Dossier', link: '/en/unterstuetzen' },
               { text: 'Whistleblower Tip-Line', link: '/en/mitmachen' },
