@@ -90,6 +90,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '12. März: Viral-Explosion r/Austria (30k)', link: '/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: '10. März: Schmid belastet Wöginger', link: '/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: '05. März: Showdown - Christa Scharf', link: '/logbuch/2026-03-05-showdown-christa-scharf' },
               { text: '03. März: Viral - Wöginger-Clip (27k)', link: '/logbuch/2026-03-03-video-viral-woeginger' },
@@ -197,6 +198,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 12: Viral Explosion r/Austria (30k)', link: '/en/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: 'March 10: Schmid Incriminates Wöginger', link: '/en/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: 'March 05: Showdown - Christa Scharf', link: '/en/logbuch/2026-03-05-showdown-christa-scharf' },
               { text: 'March 03: BREAKING - Reddit Viral Success', link: '/en/logbuch/2026-03-03-reddit-viral-augustin' },
