@@ -25,13 +25,20 @@
       <text :x="10" :y="padding - 15" fill="#d4af37" font-size="10" font-weight="bold" transform="rotate(-90 10,25)">INDEX (VPH)</text>
       <text :x="width - padding" :y="height - padding + 35" fill="#d4af37" font-size="10" font-weight="bold" text-anchor="end">ZEITRAUM (H)</text>
 
-      <!-- X-Axis Labels (Every 3rd point to avoid overlap) -->
+      <!-- X-Axis Labels (Date and Time) -->
       <g v-for="(p, i) in points" :key="'xlabel' + i">
-        <text v-if="i % 3 === 0"
-          :x="p.x" :y="height - padding + 15" 
-          fill="#555" font-size="10" text-anchor="middle">
-          {{ p.raw.time.split(' ')[1] }}
-        </text>
+        <template v-if="i % 4 === 0 || i === points.length - 1">
+          <text 
+            :x="p.x" :y="height - padding + 15" 
+            fill="#d4af37" font-size="9" text-anchor="middle" font-weight="bold">
+            {{ p.raw.time.split(' ')[0] }}
+          </text>
+          <text 
+            :x="p.x" :y="height - padding + 27" 
+            fill="#555" font-size="8" text-anchor="middle">
+            {{ p.raw.time.split(' ')[1] }}
+          </text>
+        </template>
       </g>
 
       <!-- Line -->
