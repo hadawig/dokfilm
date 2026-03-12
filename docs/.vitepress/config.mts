@@ -55,6 +55,7 @@ export default defineConfig({
             text: 'Gerichtliche Nachspiele',
             items: [
               { text: 'Heldin: Christa Scharf', link: '/recherche/heldinnen-lebenslauf-christa-scharf' },
+              { text: 'Mattura: Das Pilnacek-Tape', link: '/recherche/christian-mattura-pilnacek-tape' },
               { text: 'Wöginger: Finanzamt Braunau', link: '/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Kronzeuge)', link: '/recherche/gericht-thomas-schmid' },
@@ -90,6 +91,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '12. März: Mattura vs. Hanger (Match)', link: '/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: '12. März: Viral-Explosion r/Austria (30k)', link: '/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: '10. März: Schmid belastet Wöginger', link: '/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: '05. März: Showdown - Christa Scharf', link: '/logbuch/2026-03-05-showdown-christa-scharf' },
@@ -163,6 +165,7 @@ export default defineConfig({
             text: 'Judicial Aftermath',
             items: [
               { text: 'Heroine: Christa Scharf', link: '/en/recherche/heldinnen-lebenslauf-christa-scharf' },
+              { text: 'Mattura: The Pilnacek Tape', link: '/en/recherche/christian-mattura-pilnacek-tape' },
               { text: 'Wöginger: Braunau Tax Office', link: '/en/recherche/gericht-woeginger-braunau' },
               { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Witness)', link: '/en/recherche/gericht-thomas-schmid' },
@@ -198,6 +201,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 12: Mattura vs. Hanger (Match)', link: '/en/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: 'March 12: Viral Explosion r/Austria (30k)', link: '/en/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: 'March 10: Schmid Incriminates Wöginger', link: '/en/logbuch/2026-03-10-schmid-belastet-woeginger' },
               { text: 'March 05: Showdown - Christa Scharf', link: '/en/logbuch/2026-03-05-showdown-christa-scharf' },

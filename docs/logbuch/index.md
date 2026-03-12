@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [12. März 2026: Mattura vs. Hanger – Der Zeuge, der zurückbiss (Match)](./2026-03-12-mattura-u-ausschuss-match)
 - [12. März 2026: Viral-Explosion auf r/Austria – 30.000 Zeugen der „Harten Prosa“](./2026-03-12-viral-erfolg-oevp-propaganda)
 - [10. März 2026: Schmid belastet Wöginger – Die „Harte Prosa“ zerfällt](./2026-03-10-schmid-belastet-woeginger)
 - [05. März 2026: Der Tag der Wahrheit – Christa Scharf im Zeugenstand](./2026-03-05-showdown-christa-scharf)
