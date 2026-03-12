@@ -26,14 +26,15 @@ let timer = null
 onMounted(async () => {
   // Versuche den aktuellsten Stand aus der JSON zu laden
   try {
-    const res = await fetch('/dokfilm/data/visitor-stats.json')
+    const basePath = window.location.pathname.startsWith('/dokfilm/') ? '/dokfilm' : ''
+    const res = await fetch(`${basePath}/data/visitor-stats.json`)
     const stats = await res.json()
     if (stats.length > 0) {
       baseValue.value = stats[stats.length - 1].visitors
       displayValue.value = baseValue.value
     }
   } catch (e) {
-    console.error("Counter sync failed, using fallback")
+    console.error("Counter sync failed, using fallback value 91200")
   }
 
   // Simuliere Echtzeit-Zuwachs (ca. 1-3 Besucher alle paar Sekunden)

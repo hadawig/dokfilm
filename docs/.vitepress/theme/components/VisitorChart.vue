@@ -82,17 +82,23 @@ const stats = ref([])
 
 onMounted(async () => {
   try {
-    const res = await fetch('/dokfilm/data/visitor-stats.json')
+    // Dynamischer Pfad je nach Deployment (GitHub vs. Cloudflare)
+    const basePath = window.location.pathname.startsWith('/dokfilm/') ? '/dokfilm' : ''
+    const res = await fetch(`${basePath}/data/visitor-stats.json`)
     stats.value = await res.json()
-    loading.ref = false
+    loading.value = false
   } catch (e) {
-    // Fallback falls Datei noch nicht live
+    console.error("Chart sync failed, using fallback")
+    // Aktueller Stand als Fallback
     stats.value = [
-      { "time": "03.03. 12:00", "visitors": 1 },
-      { "time": "03.03. 14:00", "visitors": 1820 },
-      { "time": "03.03. 18:00", "visitors": 6709 },
-      { "time": "03.03. 20:00", "visitors": 9961 },
-      { "time": "05.03. 06:00", "visitors": 1135 }
+      { "time": "03.03. 12:00", "visitors": 120 },
+      { "time": "04.03. 12:00", "visitors": 15800 },
+      { "time": "05.03. 21:00", "visitors": 43560 },
+      { "time": "10.03. 15:00", "visitors": 58400 },
+      { "time": "12.03. 15:00", "visitors": 68500 },
+      { "time": "12.03. 18:00", "visitors": 75200 },
+      { "time": "12.03. 21:00", "visitors": 82400 },
+      { "time": "12.03. 22:00", "visitors": 91200 }
     ]
     loading.value = false
   }
