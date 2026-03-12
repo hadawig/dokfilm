@@ -19,8 +19,8 @@ const props = defineProps({
   mini: { type: Boolean, default: false }
 })
 
-const baseValue = ref(43560) // Aktueller Stand laut letztem Update
-const displayValue = ref(43560)
+const baseValue = ref(91200) // Aktueller Stand laut letztem Update
+const displayValue = ref(91200)
 let timer = null
 
 onMounted(async () => {

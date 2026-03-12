@@ -27,16 +27,17 @@ features:
 ---
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">⚖️ AKTUELLER SHOWDOWN: 05. MÄRZ 2026</h2>
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 AKTUELLER MEILENSTEIN: 12. MÄRZ 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Heute im Zeugenstand am Landesgericht Linz: <b>Dr. Christa Scharf</b>.<br>
-    Die unbestechliche Beamtin vs. das System des Postenschachers.
+    Viral-Explosion auf r/Austria: Über <b>30.000 Zeugen</b> der „Harten Prosa“.<br>
+    Die digitale Öffentlichkeit übernimmt die Forensik.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="logbuch/2026-03-05-showdown-christa-scharf" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Live-Logbuch lesen</a>
-    <a href="recherche/heldinnen-lebenslauf-christa-scharf" class="VPButton alt large">Zum Heldinnen-Lebenslauf</a>
+    <a href="logbuch/2026-03-12-viral-erfolg-oevp-propaganda" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Logbuch-Eintrag lesen</a>
+    <a href="statistik" class="VPButton alt large">Zum Viralitäts-Index</a>
   </div>
 </div>
+
 
 <div style="background: #000; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 3px solid #ff4444; position: relative; overflow: hidden; box-shadow: 0 0 40px rgba(255,68,68,0.3);">
   <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 1.1rem; z-index: 10; font-weight: bold;">
