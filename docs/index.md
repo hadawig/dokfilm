@@ -27,14 +27,14 @@ features:
 ---
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 AKTUELLER MEILENSTEIN: 12. MÄRZ 2026</h2>
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🎉 REKORD-MEILENSTEIN: 14. MÄRZ 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Viral-Explosion auf r/Austria: Über <b>30.000 Zeugen</b> der „Harten Prosa“.<br>
-    Die digitale Öffentlichkeit übernimmt die Forensik.
+    Die 100k-Mauer ist gefallen! Über <b>112.000 Zeugen</b> pro Stunde.<br>
+    Exklusiv: Der „Gustl-Soundtrack“ ist jetzt geleakt!
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="logbuch/2026-03-12-viral-erfolg-oevp-propaganda" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Logbuch-Eintrag lesen</a>
-    <a href="statistik" class="VPButton alt large">Zum Viralitäts-Index</a>
+    <a href="logbuch/2026-03-14-wienerlied-akifair" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Zum geleakten Wienerlied</a>
+    <a href="statistik" class="VPButton alt large">Live-Index ansehen</a>
   </div>
 </div>
 

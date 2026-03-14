@@ -91,6 +91,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '14. März: Gustl beim AKIfair (Song)', link: '/logbuch/2026-03-14-wienerlied-akifair' },
               { text: '12. März: Mattura vs. Hanger (Match)', link: '/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: '12. März: Viral-Explosion r/Austria (30k)', link: '/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: '10. März: Schmid belastet Wöginger', link: '/logbuch/2026-03-10-schmid-belastet-woeginger' },
@@ -201,6 +202,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 14: Gustl at AKIfair (Song)', link: '/en/logbuch/2026-03-14-wienerlied-akifair' },
               { text: 'March 12: Mattura vs. Hanger (Match)', link: '/en/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: 'March 12: Viral Explosion r/Austria (30k)', link: '/en/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
               { text: 'March 10: Schmid Incriminates Wöginger', link: '/en/logbuch/2026-03-10-schmid-belastet-woeginger' },

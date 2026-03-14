@@ -91,7 +91,7 @@ Dieses Lied begleitet die fiktive Szene, in der August Wöginger beim Arbeitsmar
   <p><i>... (vollständiger Text im Logbuch verfügbar)</i></p>
 </div>
 
-👉 **[Den vollständigen Liedtext im Logbuch lesen](/logbuch/2026-03-12-mattura-u-ausschuss-match)**
+👉 **[Den vollständigen Liedtext im Logbuch lesen](/logbuch/2026-03-14-wienerlied-akifair)**
 
 ---
 
