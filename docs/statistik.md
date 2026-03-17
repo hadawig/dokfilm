@@ -19,6 +19,7 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **Nacht-Rallye (12.03.):** Die Diskussionen auf Reddit halten die Aufmerksamkeit hoch. Um 22:00 Uhr durchbrechen wir die **90.000er-Marke** (aktueller Index: 91.200).
 * **100k-Mauer (13.03.):** Um 20:00 Uhr durchbrechen wir erstmals die magische Grenze von **100.000** stündlichen Aufrufen. Das Projekt ist nun ein nationales Phänomen.
 * **Wochenend-Hype (14.03.):** Trotz Wochenende steigt das Interesse weiter. Um 17:00 Uhr erreicht der Index ein neues Allzeit-Hoch von **112.300**.
+* **Gegenangriff-Peak (17.03.):** Die Stellungnahme von August Wöginger im Prozess löst eine neue Welle der Aufmerksamkeit aus. Der Index durchbricht am Abend die **150.000er-Marke** (aktuell: 152.400).
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 

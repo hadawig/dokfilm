@@ -3,6 +3,7 @@
 Here the daily progress is recorded.
 
 ## Entries
+- [March 17, 2026: Wöginger Strikes Back – Schmid's Testimony Labeled 'Fiction'](./2026-03-17-woeginger-gegenangriff)
 - [March 14, 2026: The 'Wienerlied' of Gustl at AKIfair (Soundtrack)](./2026-03-14-wienerlied-akifair)
 - [March 12, 2026: Mattura vs. Hanger – The Witness Who Bit Back (Match)](./2026-03-12-mattura-u-ausschuss-match)
 - [March 12, 2026: Viral Explosion on r/Austria – 30,000 Witnesses of 'Hard Prose'](./2026-03-12-viral-erfolg-oevp-propaganda)

@@ -91,6 +91,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '17. März: Wögingers Gegenangriff', link: '/logbuch/2026-03-17-woeginger-gegenangriff' },
               { text: '14. März: Gustl beim AKIfair (Song)', link: '/logbuch/2026-03-14-wienerlied-akifair' },
               { text: '12. März: Mattura vs. Hanger (Match)', link: '/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: '12. März: Viral-Explosion r/Austria (30k)', link: '/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },
@@ -202,6 +203,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 17: Wöginger Strikes Back', link: '/en/logbuch/2026-03-17-woeginger-gegenangriff' },
               { text: 'March 14: Gustl at AKIfair (Song)', link: '/en/logbuch/2026-03-14-wienerlied-akifair' },
               { text: 'March 12: Mattura vs. Hanger (Match)', link: '/en/logbuch/2026-03-12-mattura-u-ausschuss-match' },
               { text: 'March 12: Viral Explosion r/Austria (30k)', link: '/en/logbuch/2026-03-12-viral-erfolg-oevp-propaganda' },

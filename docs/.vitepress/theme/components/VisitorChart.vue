@@ -99,11 +99,11 @@ onMounted(async () => {
     // Aktueller Stand als Fallback
     stats.value = [
       { "time": "03.03. 12:00", "visitors": 120 },
-      { "time": "05.03. 21:00", "visitors": 43560 },
       { "time": "10.03. 15:00", "visitors": 58400 },
       { "time": "12.03. 22:00", "visitors": 91200 },
-      { "time": "13.03. 20:00", "visitors": 102100 },
-      { "time": "14.03. 17:00", "visitors": 112300 }
+      { "time": "14.03. 17:00", "visitors": 112300 },
+      { "time": "16.03. 18:00", "visitors": 132100 },
+      { "time": "17.03. 18:00", "visitors": 152400 }
     ]
     loading.value = false
   }
