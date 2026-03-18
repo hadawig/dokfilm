@@ -130,6 +130,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: 'INDEX (Live)', link: '/en/statistik' },
           { text: 'Concept', link: '/en/konzept' },
           { text: 'Oracle', link: '/en/orakel' },
           { text: 'Tip-Line', link: '/en/mitmachen' },
@@ -150,7 +151,7 @@ export default defineConfig({
               { text: 'The Cast', link: '/en/cast' },
               { text: 'The Crew', link: '/en/team' },
               { text: 'Secret Media', link: '/en/medien' },
-              { text: 'Project Statistics (Live)', link: '/statistik' },
+              { text: 'Project Statistics (Live)', link: '/en/statistik' },
               { text: 'Social Media Cheat-Sheet', link: '/en/recherche/social-media-cheat-sheet' },
             ]
           },
