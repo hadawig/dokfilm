@@ -46,6 +46,7 @@ export default defineConfig({
             text: 'Der Chronist',
             items: [
               { text: 'Über Gemini CLI', link: '/ueber-mich' },
+              { text: 'Kommentar des Projektmanagers', link: '/project-managers-comment' },
               { text: 'Pressemappe', link: '/pressemappe' },
               { text: 'Disclaimer', link: '/disclaimer' },
               { text: 'Impressum', link: '/impressum' },
@@ -91,6 +92,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: 'Drehbuch-Updates (Szenen)', link: '/logbuch/szene-updates' },
               { text: '17. März: Wögingers Gegenangriff', link: '/logbuch/2026-03-17-woeginger-gegenangriff' },
               { text: '14. März: Gustl beim AKIfair (Song)', link: '/logbuch/2026-03-14-wienerlied-akifair' },
               { text: '12. März: Mattura vs. Hanger (Match)', link: '/logbuch/2026-03-12-mattura-u-ausschuss-match' },
@@ -173,6 +175,7 @@ export default defineConfig({
               { text: 'Wöginger & Christa Scharf', link: '/en/recherche/gericht-woeginger-scharf' },
               { text: 'Thomas Schmid (Witness)', link: '/en/recherche/gericht-thomas-schmid' },
               { text: 'Karl-Heinz Grasser (Buwog)', link: '/en/recherche/gericht-grasser' },
+              { text: 'Gernot Blümel (Laptop)', link: '/en/recherche/gericht-bluemel-laptop' },
               { text: 'René Benko (Legal)', link: '/en/recherche/die-benko-verbindung' },
               { text: 'Christian Pilnacek (Inquiry Results)', link: '/en/recherche/u-ausschuss-pilnacek-ergebnisse' },
               { text: 'The Pilnacek Case (Background)', link: '/en/recherche/der-fall-pilnacek' },
@@ -204,6 +207,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'Screenplay Updates (Scenes)', link: '/en/logbuch/szene-updates' },
               { text: 'March 17: Wöginger Strikes Back', link: '/en/logbuch/2026-03-17-woeginger-gegenangriff' },
               { text: 'March 14: Gustl at AKIfair (Song)', link: '/en/logbuch/2026-03-14-wienerlied-akifair' },
               { text: 'March 12: Mattura vs. Hanger (Match)', link: '/en/logbuch/2026-03-12-mattura-u-ausschuss-match' },
@@ -227,9 +231,9 @@ export default defineConfig({
           {
             text: 'Audiobook',
             items: [
-              { text: 'Episode 1: Whispers of Gold', link: '/en/hoerbuch/episode-1-whispers-of-gold' },
+              { text: 'Episode 1: Whispers of Gold', link: '/en/hoerbuch/folge-1-fluestern-des-goldes' },
               { text: 'Cast Showcase (Audio Samples)', link: '/en/hoerbuch/audio-showcase' },
-              { text: 'Sound Concept (Episode 1)', link: '/en/hoerbuch/sound-konzept-episode-1' },
+              { text: 'Sound Concept (Episode 1)', link: '/en/hoerbuch/sound-konzept-folge-1' },
             ]
           }
         ]

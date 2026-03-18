@@ -27,14 +27,14 @@ features:
 ---
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">⚖️ LATEST SHOWDOWN: MARCH 05, 2026</h2>
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">⚡ VIRAL RECORD: MARCH 17, 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Today in the witness box at the Linz Regional Court: <b>Dr. Christa Scharf</b>.<br>
-    The incorruptible official vs. the system of political patronage.
+    The 150k mark has been cracked! Over <b>152,000 witnesses</b> per hour.<br>
+    Showdown in Linz: Wöginger denies exercising pressure.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="logbuch/2026-03-05-showdown-christa-scharf" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Live Logbook</a>
-    <a href="recherche/heldinnen-lebenslauf-christa-scharf" class="VPButton alt large">To the Heroine Resume</a>
+    <a href="/en/logbuch/2026-03-17-woeginger-gegenangriff" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Trial Update</a>
+    <a href="/en/statistik" class="VPButton alt large">View Live Index</a>
   </div>
 </div>
 
@@ -126,5 +126,5 @@ But that's just the beginning! Follow the dazzling widow Heidi Horten as she tra
 
 ---
 <p style="font-size: 0.8rem; color: #888; text-align: center;">
-This is a satirical art project. <a href="/en/pressemappe">Press Kit</a> | <a href="/disclaimer">Satire Disclaimer</a>
+This is a satirical art project. <a href="/en/pressemappe">Press Kit</a> | <a href="/en/disclaimer">Satire Disclaimer</a>
 </p>

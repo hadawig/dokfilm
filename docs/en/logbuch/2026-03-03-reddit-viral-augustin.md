@@ -20,5 +20,5 @@ The Reddit community loves the combination of high culture (August Diehl's voice
 > *"I can't unhear this now. Every time Wöginger speaks on TV, I will hear the zither in the background. Pure gold."*
 
 ---
-👉 [View the Reddit Thread (Archived)](/reddit-viral-augustin.html)
+👉 [View the Reddit Thread (Archived)](/en/logbuch/2026-03-03-reddit-viral-augustin)
 👉 [Explore the "Aesthetic of Small Things" in the Screenplay](/en/logbuch/szene-aesthetik-der-kleinigkeit)

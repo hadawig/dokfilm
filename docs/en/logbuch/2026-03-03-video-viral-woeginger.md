@@ -20,5 +20,5 @@ The contrast between the theatrical reading (AI-August Diehl) and the dry facts 
 This reach is crucial for the launch of **Part 4: The Political Love Story**. We are reaching exactly the audience that is tired of the usual excuses.
 
 ---
-👉 [Watch the viral clip here (YouTube)](/video-viral-woeginger)
+👉 [Watch the viral clip here (YouTube)](/en/logbuch/2026-03-03-video-viral-woeginger)
 👉 [Back to the Logbook Index](./)

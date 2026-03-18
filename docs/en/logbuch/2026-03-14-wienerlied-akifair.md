@@ -71,7 +71,7 @@ so endet de Macht in da Bürokratie.
 ---
 
 👉 [Back to the Forensic Dashboard](/en/medien)
-👉 [To the current Virality Index](/statistik)
+👉 [To the current Virality Index](/en/statistik)
 
 ---
 *Published March 14, 2026. An artistic exploration of reality.*

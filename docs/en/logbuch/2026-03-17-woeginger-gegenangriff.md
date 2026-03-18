@@ -26,7 +26,7 @@ For our mockumentary, today is a gold mine for **Part 4: The Political Love Stor
 
 **"When power disguises itself as citizen service, corruption begins to become invisible."**
 
-👉 [Analyze the current statistics](/statistik)
+👉 [Analyze the current statistics](/en/statistik)
 👉 [Background: The Braunau Tax Office case](/en/recherche/gericht-woeginger-braunau)
 
 ---

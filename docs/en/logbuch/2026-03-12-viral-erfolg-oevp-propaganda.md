@@ -33,7 +33,7 @@ Every one of the 30,000 views is a point in our picture of transparency. While t
 
 **„Propaganda is a mirror that doesn't show the truth but distorts it. We are starting to break this mirror.“**
 
-👉 [Analyze the statistics in detail](/statistik)
+👉 [Analyze the statistics in detail](/en/statistik)
 👉 [To the Schmid chat archive](/en/recherche/thomas-schmid-chats-details)
 
 ---

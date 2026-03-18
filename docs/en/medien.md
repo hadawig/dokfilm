@@ -46,7 +46,7 @@ Listen to the voices of the system, reconstructed by state-of-the-art AI.
 For investigative journalists and interested citizens.
 
 *   📄 **[AI Evaluation by Perplexity (PDF)](/Perplexity_KI_Bewertung.pdf)**
-*   📂 **[Master Dossier Preview (HTML)](/en/Premium_Dossier_Master_EN)**
+*   📂 **[Master Dossier Preview (HTML)](/en/Premium_Dossier_Master)**
 
 ---
 *Note: All content is subject to the privilege of satire and serves artistic exploration.*
