@@ -26,6 +26,11 @@ features:
 
 ---
 
+<div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
+  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">LIVE TICKER</span>
+  <marquee scrollamount="5">+++ 17.03. 18:02: Wöginger labels Schmid testimony as "Fiction" +++ Trial in Linz: Applicants describe feeling of being "unwanted" +++ Virality Index breaks 150,000 mark +++ Next verdict expected for April 21 +++</marquee>
+</div>
+
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
   <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">⚡ VIRAL RECORD: MARCH 17, 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">

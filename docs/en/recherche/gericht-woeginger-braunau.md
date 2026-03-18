@@ -49,7 +49,19 @@ A decisive document for understanding the human dimension of this case is the ex
 ## Trial History: From Diversion to Main Hearing
 *   **Autumn 2025:** The trial begins with a diversion (fine in exchange for closing the case). Wöginger issues a "statement of responsibility."
 *   **Turnaround by OLG Linz:** The Higher Regional Court overturns the diversion. Reasoning: The public interest in full clarification carries more weight, especially for such a high-ranking political official.
-*   **March 2026:** The trial is restarted. Following Wöginger's testimony on March 3rd, the highly anticipated appearance of star witness Thomas Schmid will follow on March 9th.
+* **March 2026:** The trial is restarted. Following Wöginger's testimony on March 3rd, the highly anticipated appearance of star witness Thomas Schmid followed on March 9th.
+
+### ⚖️ Current Status: March 2026 (Trial Day 8)
+
+The trial at the Linz Regional Court reached a new dynamic in March 2026:
+
+*   **March 17, 2026:** August Wöginger goes on the offensive. In a personal statement, he described the testimony of Thomas Schmid as **"pure fiction."** He denies ever giving Schmid an "order" or exercising pressure. His central argument: The forwarding of position requests was part of normal work at **"citizen surgeries"** (Bürgersprechtage).
+*   **March 10, 2026:** Thomas Schmid previously incriminated Wöginger heavily, describing a system of interventions in which Wöginger massivly pushed for the appointment.
+*   **Testimonies of Passed-over Applicants:** Several female competitors testified that they felt **"unwanted"** from the very beginning of the process. The hearing was perceived as a mere formality, as the decision had already been made politically long ago.
+
+---
+**Expected Verdict:** April 21, 2026.
+
 
 ## Forensic Classification for the Horten Mystery
 The Wöginger case is a prime example of the **"Pointillism of Power."** It shows how small favors at the regional level (Braunau tax office) are part of a larger mosaic where loyalty outweighs qualification. In our mockumentary, we link this to the question: if a tax office head is already "made" via chat, what kind of influence is at play with million-dollar donations?

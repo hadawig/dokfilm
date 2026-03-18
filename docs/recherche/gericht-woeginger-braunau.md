@@ -55,7 +55,19 @@ Das Budgen-Gespräch dient uns als emotionales Korrektiv zur trockenen Aktenlage
 ## Der Prozessverlauf: Von der Diversion zur Hauptverhandlung
 *   **Herbst 2025:** Der Prozess beginnt mit einer Diversion (Geldzahlung gegen Einstellung). Wöginger gibt eine "Verantwortungsübernahme" ab.
 *   **Wende durch das OLG Linz:** Das Oberlandesgericht hebt die Diversion auf. Begründung: Das öffentliche Interesse an einer vollumfänglichen Aufklärung wiegt schwerer, insbesondere bei einem so hohen politischen Amtsträger.
-*   **März 2026:** Der Prozess wird neu aufgerollt. Nach der Einvernahme Wögingers am 3. März folgt am 9. März der mit Spannung erwartete Auftritt von Kronzeuge Thomas Schmid.
+* **März 2026:** Der Prozess wird neu aufgerollt. Nach der Einvernahme Wögingers am 3. März folgte am 9. März der Auftritt von Kronzeuge Thomas Schmid.
+
+### ⚖️ Aktueller Stand: März 2026 (Tag 8 der Verhandlung)
+
+Der Prozess am Landesgericht Linz hat im März 2026 eine neue Dynamik erreicht:
+
+*   **17. März 2026:** August Wöginger geht in die Offensive. In einer persönlichen Stellungnahme bezeichnete er die Aussagen von Thomas Schmid als **„reine Fiktion“**. Er bestreitet, Schmid jemals einen „Befehl“ erteilt oder Druck ausgeübt zu haben. Sein zentrales Argument: Die Weiterleitung von Postenwünschen sei Teil der normalen Arbeit bei **„Bürgersprechtagen“**.
+*   **10. März 2026:** Thomas Schmid belastete Wöginger zuvor schwer und schilderte ein System von Interventionen, bei dem Wöginger massiv auf die Besetzung gedrängt habe.
+*   **Zeugenaussagen übergangener Bewerber:** Mehrere Mitbewerberinnen sagten aus, dass sie sich im Verfahren von Anfang an **„unerwünscht“** gefühlt hätten. Das Hearing wurde als reine Formsache wahrgenommen, da die Entscheidung politisch längst gefallen war.
+
+---
+**Voraussichtliches Urteil:** 21. April 2026.
+
 
 ## Forensische Einordnung für das Horten-Mysterium
 Der Fall Wöginger ist ein Paradebeispiel für den **"Pointillismus der Macht"**. Er zeigt, wie kleine Gefälligkeiten auf regionaler Ebene (Finanzamt Braunau) Teil eines großen Mosaiks sind, in dem Loyalität schwerer wiegt als Qualifikation. In unserer Mockumentary verknüpfen wir dies mit der Frage: Wenn schon ein Finanzamtsleiter per Chat "gemacht" wird, wie sieht dann die Einflussnahme bei Millionenspenden aus?
