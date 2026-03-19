@@ -45,6 +45,7 @@ Nutzen Sie dieses Material zur Aufklärung in sozialen Netzwerken.
 Helfen Sie aktiv bei der Aufarbeitung des Systems.
 
 *   🎹 **[Budget-Rettungs-Simulator](/budget-spiel):** Versuchen Sie, das 15-Milliarden-Loch zu stopfen. (Spoiler: Unmöglich.)
+*   📊 **[US Debt Clock (Live)](/deptclock/):** Globales Schulden-Monitoring in Echtzeit.
 *   🔮 **[Das Pointillismus-Orakel](/orakel):** Entschlüsseln Sie die Sprache der Macht.
 *   📞 **[Whistleblower Tip-Line](/mitmachen):** Senden Sie uns anonyme Hinweise für Teil 4 des Drehbuchs.
 

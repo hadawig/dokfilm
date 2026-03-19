@@ -26,6 +26,7 @@ Use this material for enlightenment on social networks.
 Actively participate in the processing of the system.
 
 *   🎹 **[Budget Rescue Simulator](/en/budget-spiel):** Try to plug the 15-billion hole. (Spoiler: Impossible.)
+*   📊 **[US Debt Clock (Live)](/deptclock/):** Real-time global debt monitoring.
 *   🔮 **[The Pointillism Oracle](/en/orakel):** Decode the language of power.
 *   📞 **[Whistleblower Tip-Line](/en/mitmachen):** Send us anonymous tips for Part 4 of the screenplay.
 
