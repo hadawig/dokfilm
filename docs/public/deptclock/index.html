@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live US Debt Clock - Das Horten-Mysterium Forensik</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: #000;
+            font-family: sans-serif;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .header {
+            background: #1a1a1a;
+            color: #d4af37;
+            padding: 15px;
+            text-align: center;
+            border-bottom: 2px solid #d4af37;
+        }
+        iframe {
+            flex-grow: 1;
+            width: 100%;
+            border: none;
+        }
+        .footer {
+            background: #1a1a1a;
+            color: #888;
+            padding: 10px;
+            text-align: center;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 US DEBT CLOCK: LIVE MONITORING</h1>
+            <p>Echtzeit-Daten für unsere forensische Analyse</p>
+        </div>
+        <iframe src="https://www.usdebtclock.org/" title="US Debt Clock Live"></iframe>
+        <div class="footer">
+            Teil des Projekts "Das Horten-Mysterium" | <a href="/" style="color: #d4af37;">Zurück zur Homepage</a>
+        </div>
+    </div>
+</body>
+</html>
