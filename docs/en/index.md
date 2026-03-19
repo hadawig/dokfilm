@@ -28,7 +28,7 @@ features:
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
   <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">LIVE TICKER</span>
-  <marquee scrollamount="5">+++ 18.03. 23:05: Scandal over "Examining Out" in the Wöginger trial becomes public +++ Applicants report absurd trick questions during hearing +++ Virality Index reaches new all-time high of 172,400 +++ Next verdict expected for April 21 +++</marquee>
+  <marquee scrollamount="5">+++ BREAKING NEWS: Tomahawk strike on Iranian school reported - Serious allegations of war crimes +++ US President triggers global economic crisis through escalation - Markets in free fall +++ US Debt Clock racing uncontrollably +++ Virality Index reaches record high of 172,400 +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
