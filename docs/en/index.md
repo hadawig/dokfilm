@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Docfilm"
-  text: "Behind the scenes of a Mockumentary"
-  tagline: "The creation documented with Gemini CLI"
+  text: "The Horten Mystery & Global Forensics"
+  tagline: "From regional patronage to global economic meltdown. Documented with Gemini CLI."
   actions:
     - theme: brand
       text: To the Logbook

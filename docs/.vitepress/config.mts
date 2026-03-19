@@ -7,14 +7,16 @@ const base = isGitHubPages ? '/dokfilm/' : '/'
 
 export default defineConfig({
   base: base,
-  title: "Dokfilm Projekt",
-  description: "Dokumentation der Entstehung meiner Mockumentary",
+  title: "Dokfilm: The Horten Mystery & Global Forensics",
+  description: "Investigating the pointillism of power: From regional corruption to global economic collapse and the US Debt Clock.",
   ignoreDeadLinks: true,
 
   locales: {
     root: {
       label: 'Deutsch',
       lang: 'de',
+      title: "Dokfilm: Das Horten-Mysterium & Globale Forensik",
+      description: "Eine forensische Analyse von Macht und Geld: Von regionalem Postenschacher bis zum globalen Wirtschaftskollaps.",
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
@@ -131,6 +133,8 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       link: '/en/',
+      title: "Docfilm: The Horten Mystery & Global Forensics",
+      description: "Forensic analysis of power and money: From regional patronage to global economic meltdown and war crimes documentation.",
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },

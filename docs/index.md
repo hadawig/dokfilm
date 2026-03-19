@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Dokfilm"
-  text: "Hinter den Kulissen einer Mockumentary"
-  tagline: "Die Entstehung dokumentiert mit Gemini CLI"
+  text: "Das Horten-Mysterium & Globale Forensik"
+  tagline: "Vom regionalen Postenschacher zum globalen Wirtschaftskollaps. Dokumentiert mit Gemini CLI."
   actions:
     - theme: brand
       text: Zum Logbuch
