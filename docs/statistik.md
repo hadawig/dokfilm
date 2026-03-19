@@ -20,6 +20,7 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **100k-Mauer (13.03.):** Um 20:00 Uhr durchbrechen wir erstmals die magische Grenze von **100.000** stündlichen Aufrufen. Das Projekt ist nun ein nationales Phänomen.
 * **Wochenend-Hype (14.03.):** Trotz Wochenende steigt das Interesse weiter. Um 17:00 Uhr erreicht der Index ein neues Allzeit-Hoch von **112.300**.
 * **Gegenangriff-Peak (17.03.):** Die Stellungnahme von August Wöginger im Prozess löst eine neue Welle der Aufmerksamkeit aus. Der Index durchbricht am Abend die **150.000er-Marke** (aktuell: 152.400).
+* **Sabotage-Hype (18.03.):** Berichte über das „Hinausprüfen“ von Mitbewerbern gehen viral. Der Index erreicht um 23:00 Uhr ein neues Allzeit-Hoch von **172.400**.
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 

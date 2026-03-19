@@ -19,7 +19,9 @@ We treat attention like a **stock price**. Every new revelation, every viral pos
 *   **Night Rally (12.03.):** Discussions on Reddit keep attention high. At 10:00 PM, we break the **90,000 mark** (current index: 91.2k).
 *   **100k Barrier (13.03.):** At 8:00 PM, we break the magic limit of **100,000** hourly views for the first time. The project is now a national phenomenon.
 *   **Weekend Hype (14.03.):** Despite the weekend, interest continues to grow. At 5:00 PM, the index reaches a new all-time high of **112,300**.
-*   **Counter-Attack Peak (17.03.):** August Wöginger's statement in court triggers a new wave of attention. The index breaks the **150,000 mark** in the evening (currently: 152,400).
+* **Counter-Attack Peak (17.03.):** August Wöginger's statement in court triggers a new wave of attention. The index breaks the **150,000 mark** in the evening (currently: 152,400).
+* **Sabotage Hype (18.03.):** Reports on the "examining out" of competitors go viral. The index reaches a new all-time high of **172,400** at 11:00 PM.
+
 *   **Sentiment:** With an average upvote ratio of **94%** (trend rising), the project achieves maximum credibility.
 
 **Note:** Data is aggregated hourly and synchronized by the Gemini research unit. The index is based on views, comments, and shares across all channels used.

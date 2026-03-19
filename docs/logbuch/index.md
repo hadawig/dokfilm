@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [18. März 2026: Skandal um das „Hinausprüfen“ – Details aus Linz](./2026-03-18-hinauspruefen-skandal)
 - [17. März 2026: Wöginger schlägt zurück – Schmid-Aussage als „Fiktion“ bezeichnet](./2026-03-17-woeginger-gegenangriff)
 - [14. März 2026: Das Wienerlied vom Gustl beim AKIfair (Soundtrack)](./2026-03-14-wienerlied-akifair)
 - [12. März 2026: Mattura vs. Hanger – Der Zeuge, der zurückbiss (Match)](./2026-03-12-mattura-u-ausschuss-match)
