@@ -27,20 +27,29 @@ features:
 ---
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
-  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">LIVE TICKER</span>
-  <marquee scrollamount="5">+++ BREAKING NEWS: Tomahawk strike on Iranian school reported - Serious allegations of war crimes +++ US President triggers global economic crisis through escalation - Markets in free fall +++ US Debt Clock racing uncontrollably +++ Virality Index reaches record high of 172,400 +++</marquee>
+  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">CENSORSHIP ALERT</span>
+  <marquee scrollamount="5">+++ REDDIT DELETES REPORT: Truth too dangerous? +++ Rank #9 on r/collapse was removed +++ We will not be silenced +++ NEW FORENSICS: Christine Buchner Dossier published +++</marquee>
 </div>
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.2); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEW VIRAL RECORD: MARCH 18, 2026</h2>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 THE SUPPRESSED SUCCESS: MARCH 19, 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Over <b>172,400 witnesses</b> per hour! The index is exploding.<br>
-    Scandal in Linz: Were applicants deliberately "examined out"?
+    Our report reached <b>Rank #9 worldwide on r/collapse</b> before it was "removed".<br>
+    The US debt clock keeps ticking. We publish everything.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-03-18-hinauspruefen-skandal" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Scandal Details</a>
+    <a href="/en/logbuch/2026-03-21-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">To the Censored Report</a>
     <a href="/en/statistik" class="VPButton alt large">View Live Index</a>
   </div>
+</div>
+
+<div style="background: #fff; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 1px solid #ddd; box-shadow: 0 5px 15px rgba(0,0,0,0.1); text-align: center;">
+  <h3 style="color: #2c3e50; margin-top: 0;">🌸 NEW FILE: CHRISTINE BUCHNER</h3>
+  <p style="color: #555; margin-bottom: 1.5rem;">
+    Exclusive portrait of the master florist and visionary of "New Floristry".<br>
+    A key figure for the aesthetics of the "Horten Mystery".
+  </p>
+  <a href="/Buchner_Christine_Portraet.pdf" download class="VPButton brand medium" style="background: #27ae60; border-color: #27ae60;">📄 PDF Download (Portrait)</a>
 </div>
 
 <div style="background: #000; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 3px solid #ff4444; position: relative; overflow: hidden; box-shadow: 0 0 40px rgba(255,68,68,0.3);">
