@@ -94,6 +94,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '21. März: Globaler Durchbruch (r/collapse)', link: '/logbuch/2026-03-21-globaler-durchbruch' },
               { text: '18. März: Die Welt am Abgrund', link: '/logbuch/2026-03-18-welt-am-abgrund' },
               { text: '18. März: Der Skandal des „Hinausprüfens“', link: '/logbuch/2026-03-18-hinauspruefen-skandal' },
               { text: 'Drehbuch-Updates (Szenen)', link: '/logbuch/szene-updates' },
@@ -213,6 +214,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 21: Global Breakthrough (r/collapse)', link: '/en/logbuch/2026-03-21-globaler-durchbruch' },
               { text: 'March 18: World at the Abyss', link: '/en/logbuch/2026-03-18-welt-am-abgrund' },
               { text: 'March 18: The "Examining Out" Scandal', link: '/en/logbuch/2026-03-18-hinauspruefen-skandal' },
               { text: 'Screenplay Updates (Scenes)', link: '/en/logbuch/szene-updates' },

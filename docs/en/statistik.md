@@ -21,7 +21,8 @@ We treat attention like a **stock price**. Every new revelation, every viral pos
 *   **Weekend Hype (14.03.):** Despite the weekend, interest continues to grow. At 5:00 PM, the index reaches a new all-time high of **112,300**.
 * **Counter-Attack Peak (17.03.):** August Wöginger's statement in court triggers a new wave of attention. The index breaks the **150,000 mark** in the evening (currently: 152,400).
 * **Sabotage-Hype (18.03.):** Reports on the "examining out" of competitors go viral. The Index reaches a new all-time high of **172,400** at 11:00 PM.
-* **Global Breakthrough & Censorship (19.03. - TODAY):** At 7:00 PM, our forensic report reaches Rank #9 worldwide on r/collapse. The Index explodes to **275,000** hourly views. **Breaking (9:00 PM):** Reddit deletes the post citing "Rule 14". Traffic shifts massively to our encrypted channels. US access remains stable at 61%.
+* **Global Breakthrough & Censorship (19.03.):** At 7:00 PM, our forensic report reaches Rank #9 worldwide on r/collapse. The Index explodes to **275,000** hourly views. Reddit deletes the post shortly after citing "Rule 14".
+* **Stabilization & Archive Rally (20.03. - TODAY):** After yesterday's censorship, the index stabilizes at a high level (**215,000**). Users shift to direct links in the forensic archive. US access remains the strongest force at 61%.
 
 
 *   **Sentiment:** With an average upvote ratio of **94%** (trend rising), the project achieves maximum credibility.
