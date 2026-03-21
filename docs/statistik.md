@@ -22,7 +22,8 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **Gegenangriff-Peak (17.03.):** Die Stellungnahme von August Wöginger im Prozess löst eine neue Welle der Aufmerksamkeit aus. Der Index durchbricht am Abend die **150.000er-Marke** (aktuell: 152.400).
 * **Sabotage-Hype (18.03.):** Berichte über das „Hinausprüfen“ von Mitbewerbern gehen viral. Der Index erreicht um 23:00 Uhr ein neues Allzeit-Hoch von **172.400**.
 * **Globaler Durchbruch & Zensur (19.03.):** Um 19:00 Uhr erreicht unser forensischer Bericht Platz 9 weltweit auf r/collapse. Der Index explodiert auf **275.000** stündliche Aufrufe. Reddit löscht den Beitrag kurz darauf wegen "Rule 14".
-* **Stabilisierung & Archiv-Rallye (20.03. - HEUTE):** Nach der gestrigen Zensur stabilisiert sich der Index auf hohem Niveau (**215.000**). Die Nutzer weichen auf die Direktlinks im Forensik-Archiv aus. Die US-Zugriffe bleiben mit 61% die stärkste Kraft.
+* **Stabilisierung & Archiv-Rallye (20.03.):** Nach der Zensur stabilisiert sich der Index auf hohem Niveau (**215.000**). Die Nutzer weichen auf Direktlinks aus.
+* **Wochenend-Explosion (21.03. - HEUTE):** Samstagnachmittag (15:30 Uhr). Die internationale Berichterstattung über die Reddit-Zensur führt zu einer neuen Welle. Der Index erreicht erneut den Rekord von **276.500** stündlichen Aufrufen.
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 

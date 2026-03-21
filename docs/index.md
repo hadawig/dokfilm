@@ -27,19 +27,19 @@ features:
 ---
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
-  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">NACHRICHTENLAGE: 20. MÄRZ 2026</span>
-  <marquee scrollamount="5">+++ UPDATE: Zensur-Welle nach gestrigem Reddit-Erfolg hält an +++ Platz 9 auf r/collapse bleibt gelöscht - Forensik jetzt im Archiv einsehbar +++ Globaler Viralitäts-Index stabilisiert sich auf hohem Niveau +++ NEU: Das Dossier Christine Buchner veröffentlicht +++</marquee>
+  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">EILMELDUNG: 21. MÄRZ 2026</span>
+  <marquee scrollamount="5">+++ WOCHENEND-EXPLOSION: US-Zugriffe nach Reddit-Zensur auf Allzeit-Hoch +++ Über 276.000 Zeugen pro Stunde +++ Archiv-Links gehen viral +++ NEU: Forensik-Dossier Christine Buchner jetzt verfügbar +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 RÜCKBLICK AUF DIE ZENSUR: 19. MÄRZ 2026</h2>
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 GLOBALER DURCHBRUCH: 21. MÄRZ 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Gestern erreichte unser Bericht Platz 9 auf r/collapse, bevor er innerhalb von Minuten "entfernt" wurde.<br>
-    Heute, am <b>20. März</b>, blicken wir auf die Daten hinter der Zensur.
+    Trotz Zensurversuchen: Heute am <b>Samstag</b> erreicht der Viralitäts-Index erneut die Marke von <b>276.500</b>.<br>
+    Die US-Schuldenuhr wird zum globalen Mahnmal.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="logbuch/2026-03-19-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Zum gestrigen Bericht</a>
-    <a href="statistik" class="VPButton alt large">Viralitäts-Index (Live)</a>
+    <a href="logbuch/2026-03-19-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Chronik der Zensur lesen</a>
+    <a href="statistik" class="VPButton alt large">Live-Index ansehen</a>
   </div>
 </div>
 

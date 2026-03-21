@@ -27,19 +27,19 @@ features:
 ---
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
-  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">NEWS STATUS: MARCH 20, 2026</span>
-  <marquee scrollamount="5">+++ UPDATE: Censorship wave continues after yesterday's Reddit success +++ Rank #9 on r/collapse remains deleted - Forensics now available in archive +++ Global Virality Index stabilizes at high level +++ NEW: Christine Buchner Dossier published +++</marquee>
+  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING: MARCH 21, 2026</span>
+  <marquee scrollamount="5">+++ WEEKEND EXPLOSION: US access at all-time high after Reddit censorship +++ Over 276,000 witnesses per hour +++ Archive links go viral +++ NEW: Christine Buchner Forensic Dossier now available +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 RETROSPECTIVE ON CENSORSHIP: MARCH 19, 2026</h2>
+  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 GLOBAL BREAKTHROUGH: MARCH 21, 2026</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Yesterday, our report reached Rank #9 on r/collapse before it was "removed" within minutes.<br>
-    Today, on <b>March 20</b>, we look at the data behind the censorship.
+    Despite censorship attempts: Today, <b>Saturday</b>, the Virality Index again reaches <b>276,500</b>.<br>
+    The US Debt Clock becomes a global memorial.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-03-19-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">To Yesterday's Report</a>
-    <a href="/en/statistik" class="VPButton alt large">Virality Index (Live)</a>
+    <a href="/en/logbuch/2026-03-19-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Chronology of Censorship</a>
+    <a href="/en/statistik" class="VPButton alt large">View Live Index</a>
   </div>
 </div>
 
