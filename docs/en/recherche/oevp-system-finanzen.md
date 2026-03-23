@@ -9,9 +9,9 @@ Here we document how much tax money the current group of "system maintainers" re
 | Name | Function | Monthly Gross (approx.) | Focus / Controversies |
 | :--- | :--- | :--- | :--- |
 | **Johanna Mikl-Leitner** | Governor Lower Austria | **21,660 €** | Advertisement millions, ORF-NÖ influence |
+| **Karoline Edtstadler** | Governor Salzburg | **19,800 €** | Moved from Federal Govt (2025), strategic coolness |
 | **Thomas Stelzer** | Governor Upper Austria | **19,800 €** | Raises his salary by 3.3% in 2026 |
 | **Gerhard Karner** | Minister of Interior | **19,072 €** | Hard line, Dollfuss Museum past |
-| **Karoline Edtstadler** | Minister of Constitution | **19,072 €** | Strategic coolness, Inquiry focus |
 | **Wolfgang Sobotka** | MP / NR-President a.D. | **10,351 €** | Interventions, Alois-Mock-Institute |
 
 ## Strategic Parallels to Wöginger & Hattmannsdorfer

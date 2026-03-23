@@ -9,9 +9,9 @@ Hier dokumentieren wir, wie viel Steuergeld die amtierende Riege der „Systemer
 | Name | Funktion | Monatliches Brutto (ca.) | Fokus / Kontroversen |
 | :--- | :--- | :--- | :--- |
 | **Johanna Mikl-Leitner** | Landeshauptfrau NÖ | **21.660 €** | Inseraten-Millionen, ORF-NÖ-Einflussnahme |
+| **Karoline Edtstadler** | Landeshauptfrau Salzburg | **19.800 €** | Wechsel vom Bund (2025), strategische Kühle |
 | **Thomas Stelzer** | Landeshauptmann OÖ | **19.800 €** | Erhöht sich 2026 das Gehalt um 3,3% |
 | **Gerhard Karner** | Innenminister | **19.072 €** | Harte Linie, Dollfuß-Museum-Vergangenheit |
-| **Karoline Edtstadler** | Verfassungsministerin | **19.072 €** | Strategische Kühle, U-Ausschuss-Fokus |
 | **Wolfgang Sobotka** | Abgeordneter / NR-Präs. a.D. | **10.351 €** | Interventionen, Alois-Mock-Institut |
 
 ## Strategische Parallelen zu Wöginger & Hattmannsdorfer
