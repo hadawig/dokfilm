@@ -1,41 +1,44 @@
-# PRESSEMAPPE: DAS HORTEN-MYSTERIUM
+# Pressemappe: Das Horten-Mysterium
 
-**Ein investigatives Mockumentary-Experiment von Volti Sodala & Gemini CLI.**
+Willkommen im offiziellen Pressebereich des Horten-Mysteriums. Hier finden Journalisten, Blogger und Forensiker alle notwendigen Informationen zur Mockumentary des Jahres.
 
----
+## Über das Projekt
+„Das Horten-Mysterium“ ist eine vierteilige Mockumentary, die den Aufstieg und die Verflechtungen des Horten-Imperiums mit der österreichischen Politik (insbesondere der ÖVP) beleuchtet. Wir nutzen Gemini CLI zur forensischen Aufarbeitung von Daten, Chats und historischen Dokumenten.
 
-## ⚡ Das Projekt auf einen Blick
-„Das Horten-Mysterium“ ist eine hybride Plattform, die investigative Recherche mit politischer Satire verbindet. Wir rekonstruieren das „System der diskreten Einflussnahme“ – vom NS-Raubkapital der 1930er Jahre bis zur Milliarden-Pleite von René Benko im Jahr 2023.
+## Zentrale Themen
+- **Der Pointillismus des Geldes:** Wie kleine Spenden ein großes Bild der Macht ergeben.
+- **Die Harte Prosa:** Analyse politischer Interventionen und Postenschacher.
+- **Marktbereinigung:** Der Übergang von der Ära Wöginger zur Ära Hattmannsdorfer.
 
-### Die Kern-Thesen:
-1.  **Pointillismus des Geldes:** Macht wird heute nicht durch einen großen Skandal, sondern durch tausende kleine „Punkte“ (Spendenstückelung, Postenbesetzungen, Immobilienbewertungen) ausgeübt.
-2.  **Kontinuität der Macht:** Das Erbe der „Arisierung“ (Fall Alsberg) bildet das unaufgearbeitete Fundament moderner Vermögenswerte.
-3.  **Die Ästhetik des Schweigens:** Wie Bürokratie und Justiz genutzt werden, um unangenehme Wahrheiten „abzudrehen“.
-
----
-
-## 🎭 Der künstlerische Cast (Fiktiv)
-Wir inszenieren die Geschichte mit den Stimmen und Charakteren von:
-- **Birgit Minichmayr** als Heidi Horten.
-- **August Diehl** als Helmut Horten.
-- **Udo Samel** als August Wöginger.
-- **Oliver Masucci** als Chronist / Christian Pilnacek.
+## Pressekontakt & Materialien
+Für Interviewanfragen, Bildmaterial in hoher Auflösung oder exklusive Einblicke in die forensischen Daten kontaktieren Sie bitte die Projektleitung über die [Whistleblower Tip-Line](/mitmachen).
 
 ---
 
-## 🎮 Interaktive Elemente für die Berichterstattung
-Wir bieten Medienvertretern und Lesern innovative Tools zur Exploration:
-- **[Budget-Rettungs-Simulator](/budget-spiel):** Eine spielerische Analyse des 4,7% Defizits.
-- **[Whistleblower Tip-Line](/mitmachen):** Ein anonymes Interface für Hinweise aus der Leserschaft.
-- **[Audio-Showcase](/hoerbuch/audio-showcase):** KI-rekonstruierte Charakterstudien.
+## Exklusiv-Gastbeitrag: Die „Kopfnuss“ zum Wöginger-Rückzug
+
+*Von unserem Gastautor: Florian Armin Nusser (Investigativ-zynisches Kollektiv)*
+
+### Kopfnuss #2303: Die Harte Prosa des Verschwindens
+
+Guten Abend, liebes Österreich. Oder wie man in der ÖVP-Zentrale sagt: „Gute Nacht, Anstand.“
+
+Wir müssen reden. Über den Gustl. Unseren August Wöginger. Der Mann, der uns die „Harte Prosa“ lehrte, hat heute eine neue literarische Gattung erfunden: Die **„Fiktion der Arbeitsüberlastung“**.
+
+Hier sind die Fakten, kurz eingeordnet:
+
+1. **Das Wunder von Linz:** August Wöginger tritt als Vize-Parteichef in Oberösterreich zurück. Die Begründung? Er sei „mehr als ausgelastet“. Genau jetzt. Dass am **21. April** das Urteil im Prozess wegen Anstiftung zum Amtsmissbrauch am Landesgericht Linz ansteht und nur 72 Stunden später der Landesparteitag folgt, ist natürlich reiner Zufall. So wie es reiner Zufall ist, dass man beim Eurozero-Spielen immer dann aufs Klo muss, wenn die Rechnung kommt.
+
+2. **Die Akte Hattmannsdorfer:** Während der Gustl also seine „Überlastung“ pflegt, rückt Wolfgang Hattmannsdorfer nach. Der „politische Vollprofi“. Ein Mann, der so strategisch denkt, dass er wahrscheinlich schon seine eigene Heiligsprechung geplant hat, inklusive Sponsoring durch die WKO. Er ist das neue, glatte Gesicht. Ohne Anklagebank-Aroma. Vorerst.
+
+3. **Die Harte Prosa der Realität:** Wenn die ÖVP von „freiwilligem Rückzug“ spricht, ist das meistens die höfliche Umschreibung für „Wir haben das Fluchtfahrzeug bereits vollgetankt“. Wöginger behält seine Bundesfunktionen. Denn in der ÖVP ist ein Prozess wegen Amtsmissbrauchs kein Rücktrittsgrund, sondern eine Art berufsbegleitende Fortbildung.
+
+**Fazit:**
+Herr Wöginger, Sie sagen, Sie sind ausgelastet? Wir auch. Und zwar mit Ihren Ausreden.
+
+Gute Nacht. Und schauen Sie sich das genau an. Es ist ein Bild aus lauter kleinen Punkten. Wenn man weit genug weggeht, sieht es aus wie ein Rücktritt. Wenn man genau hinsieht, ist es nur Angst vor dem Richter.
 
 ---
-
-## 📂 Ressourcen für Journalisten
-*   **Website:** [https://dokfilm.pages.dev](https://dokfilm.pages.dev)
-*   **Recherche-Archiv:** [Dokumentation zum Fall Alsberg & Hoeres-Gutachten](/recherche/alsberg-brueder)
-*   **Bildmaterial:** Hochauflösende [Beweismittel-Grafiken](/medien)
-*   **Kontakt:** Volti Sodala (via [Tip-Line](/mitmachen) oder [Ko-fi](https://ko-fi.com/voltisodala))
-
----
-*„Wir können die Wahrheit sagen, solange wir behaupten, es sei erfunden.“*
+<p style="font-size: 0.8rem; color: #888; text-align: center;">
+Dies ist ein satirisches Kunstprojekt. <a href="/disclaimer">Satire-Disclaimer</a>
+</p>
