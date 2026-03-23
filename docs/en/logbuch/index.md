@@ -3,6 +3,7 @@
 Here the daily progress is recorded.
 
 ## Entries
+- [March 23, 2026: The Wöginger Case – Gradual Withdrawal?](./2026-03-23-resignation-woeginger)
 - [March 21, 2026: Weekend Storm – US Hype after Censorship Attempts](./2026-03-21-wochenend-sturm-zensur)
 - [March 19, 2026: Global Breakthrough – 276,500 Witnesses of the Mystery](./2026-03-19-globaler-durchbruch)
 - [March 18, 2026: World at the Abyss – Economic Collapse and War Atrocities](./2026-03-18-welt-am-abgrund)

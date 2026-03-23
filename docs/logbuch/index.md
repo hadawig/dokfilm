@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [23. März 2026: Der Fall Wöginger – Rückzug auf Raten?](./2026-03-23-ruecktritt-woeginger)
 - [21. März 2026: Wochenend-Sturm – US-Hype nach Zensurversuchen](./2026-03-21-wochenend-sturm-zensur)
 - [19. März 2026: Globaler Durchbruch – 276.500 Zeugen des Mysteriums](./2026-03-19-globaler-durchbruch)
 - [18. März 2026: Die Welt am Abgrund – Wirtschaftskollaps und Kriegsgreuel](./2026-03-18-welt-am-abgrund)

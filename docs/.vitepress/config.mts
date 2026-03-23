@@ -96,6 +96,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '23. März: Wöginger-Rückzug (OÖ)', link: '/logbuch/2026-03-23-ruecktritt-woeginger' },
               { text: '21. März: Wochenend-Sturm (Zensur)', link: '/logbuch/2026-03-21-wochenend-sturm-zensur' },
               { text: '19. März: Globaler Durchbruch (r/collapse)', link: '/logbuch/2026-03-19-globaler-durchbruch' },
               { text: '18. März: Die Welt am Abgrund', link: '/logbuch/2026-03-18-welt-am-abgrund' },
@@ -218,6 +219,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 23: Wöginger Resignation (OÖ)', link: '/en/logbuch/2026-03-23-resignation-woeginger' },
               { text: 'March 21: Weekend Storm (Censorship)', link: '/en/logbuch/2026-03-21-wochenend-sturm-zensur' },
               { text: 'March 19: Global Breakthrough (r/collapse)', link: '/en/logbuch/2026-03-19-globaler-durchbruch' },
               { text: 'March 18: World at the Abyss', link: '/en/logbuch/2026-03-18-welt-am-abgrund' },
