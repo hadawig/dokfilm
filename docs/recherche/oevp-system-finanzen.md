@@ -12,14 +12,15 @@ Hier dokumentieren wir, wie viel Steuergeld die amtierende Riege der „Systemer
 | **Karoline Edtstadler** | Landeshauptfrau Salzburg | **19.800 €** | Wechsel vom Bund (2025), strategische Kühle |
 | **Thomas Stelzer** | Landeshauptmann OÖ | **19.800 €** | Erhöht sich 2026 das Gehalt um 3,3% |
 | **Gerhard Karner** | Innenminister | **19.072 €** | Dollfuß-Museum-Vergangenheit, Abschiebungen nach Syrien/Afghanistan |
-| **Wolfgang Sobotka** | Abgeordneter / NR-Präs. a.D. | **10.351 €** | Interventionen, Alois-Mock-Institut |
+| **Wolfgang Sobotka** | NR-Präs. a.D. / ÖVP-Akademie | **Pension + X** | Mock-Institut, Novomatic-Verflechtung, „Goldenes Klavier“ |
 
-## Tieferer Einblick: Gerhard Karner und die „Härte“
+## Tieferer Einblick: Wolfgang Sobotka – Architekt der Macht
 
-Besonders hervorzuheben ist Innenminister Karner, dessen Politik oft an der Grenze zwischen Rechtsstaatlichkeit und ideologischer Traditionswahrung wandelt:
+Wolfgang Sobotka ist die Symbolfigur für das System der „Harten Prosa“ im österreichischen Parlamentarismus. Auch nach seinem Rückzug aus der ersten Reihe (Oktober 2024) bleibt sein Einfluss spürbar:
 
-1. **Das Erbe von Texingtal (Dollfuß-Museum):** Als ehemaliger Bürgermeister von Texingtal stand Karner massiv in der Kritik für ein Museum in seinem Geburtsort, das den austrofaschistischen Kanzler Engelbert Dollfuß unkritisch darstellte. Erst nach massivem öffentlichem Druck und Historiker-Kritik wurde ein Umgestaltungsprozess eingeleitet.
-2. **Die Syrien-/Afghanistan-Rallye:** Unter Karner hat Österreich 2025/26 begonnen, Abschiebungen nach Afghanistan (via Istanbul) und Syrien durchzuführen. Kritiker sehen darin einen Tabubruch und werfen ihm vor, mit dubiosen Kanälen zu kooperieren, um die „Harte Prosa“ in der Migrationspolitik operativ umzusetzen.
+1. **Das Alois-Mock-Institut & Novomatic:** Als Präsident dieses Think-Tanks stand Sobotka im Zentrum von Vorwürfen über verdeckte Parteifinanzierung durch den Glücksspielkonzern Novomatic. Inserate und Sponsoring flossen reichlich, während Sobotka im Ibiza-U-Ausschuss den Vorsitz führte – eine klassische Konstellation der „Harten Prosa“.
+2. **Das „Goldene Klavier“:** Ein für 3.000 € monatlich gemieteter vergoldeter Bösendorfer-Flügel im Parlament wurde zum Symbol für die Abgehobenheit der Ära Sobotka während der Teuerungskrise. Es steht als Denkmal für die „Ästhetik der Kleinigkeit“ – auf Kosten der Steuerzahler.
+3. **Der Rückzug ins Hinterzimmer (2025/26):** Seit seinem Ausscheiden aus dem Nationalrat fungiert Sobotka als Präsident der Politischen Akademie der ÖVP. Hier sichert er die ideologische und strategische Kontinuität des Systems ab, finanziert durch Parteiförderungen und eine stattliche Politikerpension.
 
 
 ## Strategische Parallelen zu Wöginger & Hattmannsdorfer

@@ -12,14 +12,15 @@ Here we document how much tax money the current group of "system maintainers" re
 | **Karoline Edtstadler** | Governor Salzburg | **19,800 €** | Moved from Federal Govt (2025), strategic coolness |
 | **Thomas Stelzer** | Governor Upper Austria | **19,800 €** | Raises his salary by 3.3% in 2026 |
 | **Gerhard Karner** | Minister of Interior | **19,072 €** | Dollfuß Museum past, deportations to Syria/Afghanistan |
-| **Wolfgang Sobotka** | MP / NR-President a.D. | **10,351 €** | Interventions, Alois-Mock-Institute |
+| **Wolfgang Sobotka** | MP (a.D.) / ÖVP Academy | **Pension + X** | Mock Institute, Novomatic connection, "Golden Piano" |
 
-## Deeper Insight: Gerhard Karner and the "Hardness"
+## Deeper Insight: Wolfgang Sobotka – Architect of Power
 
-Minister of the Interior Karner is particularly noteworthy, as his policies often balance between the rule of law and ideological preservation:
+Wolfgang Sobotka is the symbolic figure for the system of "Hard Prose" in Austrian parliamentarism. Even after his withdrawal from the front row (October 2024), his influence remains palpable:
 
-1. **The Legacy of Texingtal (Dollfuß Museum):** As former mayor of Texingtal, Karner faced massive criticism for a museum in his birthplace that portrayed the Austrofascist Chancellor Engelbert Dollfuß uncritically. It was only after immense public pressure and criticism from historians that a redesign process was initiated.
-2. **The Syria/Afghanistan Rally:** Under Karner, Austria began deportations to Afghanistan (via Istanbul) and Syria in 2025/26. Critics see this as a breach of taboo and accuse him of cooperating with dubious channels to implement the "Hard Prose" in migration policy operatively.
+1. **The Alois Mock Institute & Novomatic:** As president of this think tank, Sobotka was at the center of allegations of covert party funding by the gambling giant Novomatic. Advertisements and sponsorships flowed abundantly while Sobotka chaired the Ibiza inquiry committee – a classic constellation of "Hard Prose."
+2. **The "Golden Piano":** A gilded Bösendorfer grand piano ("Secession") rented for 3,000 € per month in the parliament became a symbol of the aloofness of the Sobotka era during the inflation crisis. It stands as a monument to the "aesthetic of small things" – at the expense of the taxpayers.
+3. **The Move to the Backroom (2025/26):** Since his departure from the National Council, Sobotka has served as president of the Political Academy of the ÖVP. Here, he secures the ideological and strategic continuity of the system, financed by party funding and a handsome politician's pension.
 
 
 ## Strategic Parallels to Wöginger & Hattmannsdorfer
