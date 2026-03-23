@@ -11,8 +11,16 @@ Here we document how much tax money the current group of "system maintainers" re
 | **Johanna Mikl-Leitner** | Governor Lower Austria | **21,660 €** | Advertisement millions, ORF-NÖ influence |
 | **Karoline Edtstadler** | Governor Salzburg | **19,800 €** | Moved from Federal Govt (2025), strategic coolness |
 | **Thomas Stelzer** | Governor Upper Austria | **19,800 €** | Raises his salary by 3.3% in 2026 |
-| **Gerhard Karner** | Minister of Interior | **19,072 €** | Hard line, Dollfuss Museum past |
+| **Gerhard Karner** | Minister of Interior | **19,072 €** | Dollfuß Museum past, deportations to Syria/Afghanistan |
 | **Wolfgang Sobotka** | MP / NR-President a.D. | **10,351 €** | Interventions, Alois-Mock-Institute |
+
+## Deeper Insight: Gerhard Karner and the "Hardness"
+
+Minister of the Interior Karner is particularly noteworthy, as his policies often balance between the rule of law and ideological preservation:
+
+1. **The Legacy of Texingtal (Dollfuß Museum):** As former mayor of Texingtal, Karner faced massive criticism for a museum in his birthplace that portrayed the Austrofascist Chancellor Engelbert Dollfuß uncritically. It was only after immense public pressure and criticism from historians that a redesign process was initiated.
+2. **The Syria/Afghanistan Rally:** Under Karner, Austria began deportations to Afghanistan (via Istanbul) and Syria in 2025/26. Critics see this as a breach of taboo and accuse him of cooperating with dubious channels to implement the "Hard Prose" in migration policy operatively.
+
 
 ## Strategic Parallels to Wöginger & Hattmannsdorfer
 

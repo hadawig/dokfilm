@@ -11,8 +11,16 @@ Hier dokumentieren wir, wie viel Steuergeld die amtierende Riege der „Systemer
 | **Johanna Mikl-Leitner** | Landeshauptfrau NÖ | **21.660 €** | Inseraten-Millionen, ORF-NÖ-Einflussnahme |
 | **Karoline Edtstadler** | Landeshauptfrau Salzburg | **19.800 €** | Wechsel vom Bund (2025), strategische Kühle |
 | **Thomas Stelzer** | Landeshauptmann OÖ | **19.800 €** | Erhöht sich 2026 das Gehalt um 3,3% |
-| **Gerhard Karner** | Innenminister | **19.072 €** | Harte Linie, Dollfuß-Museum-Vergangenheit |
+| **Gerhard Karner** | Innenminister | **19.072 €** | Dollfuß-Museum-Vergangenheit, Abschiebungen nach Syrien/Afghanistan |
 | **Wolfgang Sobotka** | Abgeordneter / NR-Präs. a.D. | **10.351 €** | Interventionen, Alois-Mock-Institut |
+
+## Tieferer Einblick: Gerhard Karner und die „Härte“
+
+Besonders hervorzuheben ist Innenminister Karner, dessen Politik oft an der Grenze zwischen Rechtsstaatlichkeit und ideologischer Traditionswahrung wandelt:
+
+1. **Das Erbe von Texingtal (Dollfuß-Museum):** Als ehemaliger Bürgermeister von Texingtal stand Karner massiv in der Kritik für ein Museum in seinem Geburtsort, das den austrofaschistischen Kanzler Engelbert Dollfuß unkritisch darstellte. Erst nach massivem öffentlichem Druck und Historiker-Kritik wurde ein Umgestaltungsprozess eingeleitet.
+2. **Die Syrien-/Afghanistan-Rallye:** Unter Karner hat Österreich 2025/26 begonnen, Abschiebungen nach Afghanistan (via Istanbul) und Syrien durchzuführen. Kritiker sehen darin einen Tabubruch und werfen ihm vor, mit dubiosen Kanälen zu kooperieren, um die „Harte Prosa“ in der Migrationspolitik operativ umzusetzen.
+
 
 ## Strategische Parallelen zu Wöginger & Hattmannsdorfer
 
