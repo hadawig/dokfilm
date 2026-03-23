@@ -42,6 +42,7 @@ export default defineConfig({
                         { text: 'Die Crew (Team)', link: '/team' },
                         { text: 'Geheime Medien', link: '/medien' },
                         { text: 'Projekt-Statistik (Live-Chart)', link: '/statistik' },
+                        { text: 'Satirische Forensik', link: '/medien-satire' },
                         { text: 'Social Media Cheat-Sheet', link: '/recherche/social-media-cheat-sheet' },            ]
           },
           {
@@ -167,6 +168,7 @@ export default defineConfig({
               { text: 'The Crew', link: '/en/team' },
               { text: 'Secret Media', link: '/en/medien' },
               { text: 'Project Statistics (Live)', link: '/en/statistik' },
+              { text: 'Satirical Forensics', link: '/en/medien-satire' },
               { text: 'Social Media Cheat-Sheet', link: '/en/recherche/social-media-cheat-sheet' },
             ]
           },
