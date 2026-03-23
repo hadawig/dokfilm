@@ -3,6 +3,8 @@
 Here the daily progress is recorded.
 
 ## Entries
+- [March 21, 2026: Weekend Storm – US Hype after Censorship Attempts](./2026-03-21-wochenend-sturm-zensur)
+- [March 19, 2026: Global Breakthrough – 276,500 Witnesses of the Mystery](./2026-03-19-globaler-durchbruch)
 - [March 18, 2026: World at the Abyss – Economic Collapse and War Atrocities](./2026-03-18-welt-am-abgrund)
 - [March 18, 2026: The 'Examining Out' Scandal – Details from Linz](./2026-03-18-hinauspruefen-skandal)
 - [March 17, 2026: Wöginger Strikes Back – Schmid's Testimony Labeled 'Fiction'](./2026-03-17-woeginger-gegenangriff)
@@ -16,6 +18,7 @@ Here the daily progress is recorded.
 - [March 03, 2026: Daily Recap – The Wöginger Trial at Linz Regional Court](./2026-03-03-zusammenfassung-woeginger-prozess)
 - [March 03, 2026: The Day of Reckoning? Wöginger in the Witness Stand](./2026-03-03-woeginger-im-zeugenstand)
 - [March 03, 2026: Digital Collapse – System Crash or Evidence Tampering?](./2026-03-03-digitaler-kollaps-systemabsturz)
+- [March 02, 2026: Eve of Wöginger Trial – Calm before the Storm?](./2026-03-02-vorabend-des-woeginger-prozesses)
 - [March 01, 2026: The Memory Hog – System Hiccup or Obfuscation Tactic?](./2026-03-01-system-schluckauf-und-verschleierung)
 - [February 28, 2026: Update – Gernot Blümel and the Flying Laptop](./2026-02-28-bluemel-laptop-integration)
 - [February 28, 2026: Research Update – The Thomas Schmid Chats & René Benko](./2026-02-28-schmid-chats-recherche)

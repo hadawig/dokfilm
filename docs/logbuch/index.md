@@ -3,6 +3,8 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [21. März 2026: Wochenend-Sturm – US-Hype nach Zensurversuchen](./2026-03-21-wochenend-sturm-zensur)
+- [19. März 2026: Globaler Durchbruch – 276.500 Zeugen des Mysteriums](./2026-03-19-globaler-durchbruch)
 - [18. März 2026: Die Welt am Abgrund – Wirtschaftskollaps und Kriegsgreuel](./2026-03-18-welt-am-abgrund)
 - [18. März 2026: Skandal um das „Hinausprüfen“ – Details aus Linz](./2026-03-18-hinauspruefen-skandal)
 - [17. März 2026: Wöginger schlägt zurück – Schmid-Aussage als „Fiktion“ bezeichnet](./2026-03-17-woeginger-gegenangriff)
@@ -16,6 +18,7 @@ Hier werden die täglichen Fortschritte festgehalten.
 - [03. März 2026: Tages-Recap – Der Wöginger-Prozess am Landesgericht Linz](./2026-03-03-zusammenfassung-woeginger-prozess)
 - [03. März 2026: Der Tag der Abrechnung? Wöginger im Zeugenstand](./2026-03-03-woeginger-im-zeugenstand)
 - [03. März 2026: Digitaler Kollaps – Systemabsturz oder Spurenbeseitigung?](./2026-03-03-digitaler-kollaps-systemabsturz)
+- [02. März 2026: Am Vorabend des Wöginger-Prozesses – Ruhe vor dem Sturm?](./2026-03-02-vorabend-des-woeginger-prozesses)
 - [01. März 2026: Der Speicher-Fresser – System-Schluckauf oder Verschleierungstaktik?](./2026-03-01-system-schluckauf-und-verschleierung)
 - [28. Februar 2026: Update – Gernot Blümel und der fliegende Laptop](./2026-02-28-bluemel-laptop-integration)
 - [28. Februar 2026: Recherche-Update – Die Thomas Schmid Chats & René Benko](./2026-02-28-schmid-chats-recherche)
