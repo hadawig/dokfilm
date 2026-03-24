@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [24. März 2026: Die Rochade der Macht – OÖ geht auf Distanz](./2026-03-24-die-rochade-der-macht)
 - [23. März 2026: Satirische Forensik – Märchen von der Patientenmilliarde](./2026-03-23-maerchen-patientenmilliarde)
 - [23. März 2026: Der Fall Wöginger – Rückzug auf Raten?](./2026-03-23-ruecktritt-woeginger)
 - [21. März 2026: Wochenend-Sturm – US-Hype nach Zensurversuchen](./2026-03-21-wochenend-sturm-zensur)
