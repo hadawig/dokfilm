@@ -3,8 +3,8 @@
 Here the daily progress is recorded.
 
 ## Entries
-- [March 24, 2026: Trial Update Evening – Grapevine and "Black Cell Member"](./2026-03-24-trial-update-evening)
-- [March 24, 2026: The Power Castling – Upper Austria Keeps Its Distance](./2026-03-24-the-power-castling)
+- [March 24, 2026: Trial Update Evening – Grapevine and "Black Cell Member"](2026-03-24-trial-update-evening)
+- [March 24, 2026: The Power Castling – Upper Austria Keeps Its Distance](2026-03-24-the-power-castling)
 - [March 23, 2026: Satirical Forensics – The Fairy Tale of the Patient Billion](./2026-03-23-fairy-tale-patient-billion)
 - [March 23, 2026: The Wöginger Case – Gradual Withdrawal?](./2026-03-23-resignation-woeginger)
 - [March 21, 2026: Weekend Storm – US Hype after Censorship Attempts](./2026-03-21-wochenend-sturm-zensur)

@@ -99,6 +99,8 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '24. März: Prozess-Update Abend', link: '/logbuch/2026-03-24-prozess-update-abend' },
+              { text: '24. März: Rochade der Macht (OÖ)', link: '/logbuch/2026-03-24-die-rochade-der-macht' },
               { text: '23. März: Wöginger-Rückzug (OÖ)', link: '/logbuch/2026-03-23-ruecktritt-woeginger' },
               { text: '21. März: Wochenend-Sturm (Zensur)', link: '/logbuch/2026-03-21-wochenend-sturm-zensur' },
               { text: '19. März: Globaler Durchbruch (r/collapse)', link: '/logbuch/2026-03-19-globaler-durchbruch' },
@@ -225,6 +227,8 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 24: Trial Update Evening', link: '/en/logbuch/2026-03-24-trial-update-evening' },
+              { text: 'March 24: Power Castling (OÖ)', link: '/en/logbuch/2026-03-24-the-power-castling' },
               { text: 'March 23: Wöginger Resignation (OÖ)', link: '/en/logbuch/2026-03-23-resignation-woeginger' },
               { text: 'March 21: Weekend Storm (Censorship)', link: '/en/logbuch/2026-03-21-wochenend-sturm-zensur' },
               { text: 'March 19: Global Breakthrough (r/collapse)', link: '/en/logbuch/2026-03-19-globaler-durchbruch' },
