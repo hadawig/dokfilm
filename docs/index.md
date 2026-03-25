@@ -28,7 +28,7 @@ features:
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
   <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">EILMELDUNG: 21. MÄRZ 2026</span>
-  <marquee scrollamount="5">+++ WOCHENEND-EXPLOSION: US-Zugriffe nach Reddit-Zensur auf Allzeit-Hoch +++ Über 276.000 Zeugen pro Stunde +++ Archiv-Links gehen viral +++ NEU: Forensik-Dossier Christine Buchner jetzt verfügbar +++</marquee>
+  <marquee scrollamount="5">+++ WOCHENEND-EXPLOSION: US-Zugriffe nach Reddit-Zensur auf Allzeit-Hoch +++ Über 276.000 Zeugen pro Stunde +++ Archiv-Links gehen viral +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
@@ -42,16 +42,6 @@ features:
     <a href="statistik" class="VPButton alt large">Live-Index ansehen</a>
   </div>
 </div>
-
-<div style="background: #fff; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 1px solid #ddd; box-shadow: 0 5px 15px rgba(0,0,0,0.1); text-align: center;">
-  <h3 style="color: #2c3e50; margin-top: 0;">🌸 NEUE AKTE: CHRISTINE BUCHNER</h3>
-  <p style="color: #555; margin-bottom: 1.5rem;">
-    Exklusives Porträt der Meisterfloristin und Visionärin der "Neuen Floristik".<br>
-    Eine Schlüsselfigur für die Ästhetik des "Horten-Mysteriums".
-  </p>
-  <a href="/Buchner_Christine_Portraet.pdf" download class="VPButton brand medium" style="background: #27ae60; border-color: #27ae60;">📄 PDF Download (Porträt)</a>
-</div>
-
 
 <div style="background: #000; padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 3px solid #ff4444; position: relative; overflow: hidden; box-shadow: 0 0 40px rgba(255,68,68,0.3);">
   <div style="position: absolute; top: 10px; left: 20px; color: #ff4444; font-family: monospace; font-size: 1.1rem; z-index: 10; font-weight: bold;">
