@@ -23,7 +23,9 @@ We treat attention like a **stock price**. Every new revelation, every viral pos
 * **Sabotage-Hype (18.03.):** Reports on the "examining out" of competitors go viral. The Index reaches a new all-time high of **172,400** at 11:00 PM.
 * **Global Breakthrough & Censorship (19.03.):** At 7:00 PM, our forensic report reaches Rank #9 worldwide on r/collapse. The Index explodes to **275,000** hourly views. Reddit deletes the post shortly after citing "Rule 14".
 * **Stabilization & Archive Rally (20.03.):** After the censorship, the index stabilizes at a high level (**215,000**). Users shift to direct links.
-* **Weekend Explosion (21.03. - TODAY):** Saturday afternoon (3:30 PM). International reporting on the Reddit censorship leads to a new wave. The Index again reaches the record of **276,500** hourly views.
+* **Weekend Explosion (21.03.):** Saturday afternoon (3:30 PM). International reporting on the Reddit censorship leads to a new wave. The Index again reaches the record of **276,500** hourly views.
+* **Wöginger Resignation (23.03.):** Monday noon. The breaking news of August Wöginger's withdrawal as Upper Austrian party deputy shakes the political landscape. The Index breaks the **300,000 mark** for the first time (currently: 312,400).
+* **Trial Showdown & Ticker Ban (24.03. - TODAY):** Tuesday evening. The absurd live ticker ban in the Wöginger trial and the discussions about the "black cell member" catapult interest to unprecedented heights. The Index reaches an all-time high of **418,600** hourly views.
 
 
 *   **Sentiment:** With an average upvote ratio of **94%** (trend rising), the project achieves maximum credibility.

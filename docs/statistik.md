@@ -23,7 +23,9 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **Sabotage-Hype (18.03.):** Berichte über das „Hinausprüfen“ von Mitbewerbern gehen viral. Der Index erreicht um 23:00 Uhr ein neues Allzeit-Hoch von **172.400**.
 * **Globaler Durchbruch & Zensur (19.03.):** Um 19:00 Uhr erreicht unser forensischer Bericht Platz 9 weltweit auf r/collapse. Der Index explodiert auf **275.000** stündliche Aufrufe. Reddit löscht den Beitrag kurz darauf wegen "Rule 14".
 * **Stabilisierung & Archiv-Rallye (20.03.):** Nach der Zensur stabilisiert sich der Index auf hohem Niveau (**215.000**). Die Nutzer weichen auf Direktlinks aus.
-* **Wochenend-Explosion (21.03. - HEUTE):** Samstagnachmittag (15:30 Uhr). Die internationale Berichterstattung über die Reddit-Zensur führt zu einer neuen Welle. Der Index erreicht erneut den Rekord von **276.500** stündlichen Aufrufen.
+* **Wochenend-Explosion (21.03.):** Samstagnachmittag (15:30 Uhr). Die internationale Berichterstattung über die Reddit-Zensur führt zu einer neuen Welle. Der Index erreicht erneut den Rekord von **276.500** stündlichen Aufrufen.
+* **Wöginger-Rücktritt (23.03.):** Montagmittag. Die Eilmeldung über den Rückzug von August Wöginger als OÖ-Parteivize erschüttert die politische Landschaft. Der Index durchbricht erstmals die **300.000er-Marke** (aktuell: 312.400).
+* **Prozess-Showdown & Ticker-Verbot (24.03. - HEUTE):** Dienstagabend. Das absurde Live-Ticker-Verbot im Wöginger-Prozess und die Diskussionen über die "schwarze Zellin" katapultieren das Interesse in ungeahnte Höhen. Der Index erreicht ein Allzeit-Hoch von **418.600** stündlichen Aufrufen.
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 
