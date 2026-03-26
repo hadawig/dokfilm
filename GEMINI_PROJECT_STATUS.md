@@ -1,21 +1,25 @@
 # Projekt-Status: Das Horten-Mysterium
-**Stand:** 05. März 2026 (Spätabend)
+**Stand:** 26. März 2026
+
+## ⚖️ Neue Front: Der Autobahn-Deal (Wolf & Schelling)
+*   **Anklage erhoben:** Die WKStA hat Siegfried Wolf und Hans Jörg Schelling angeklagt. Es geht um eine illegale Steuerermäßigung von 630.000 Euro, die an einer Autobahnraststation eingefädelt wurde.
+*   **System-Check:** Dieser Fall wird als prominentes Beispiel für den "Pointillismus des Geldes" in das Logbuch und die Recherche-Datenbank aufgenommen. Er verdeutlicht die informellen Netzwerke rund um Thomas Schmid.
 
 ## ⚖️ Showdown in Linz: Christa Scharf im Zeugenstand
-*   **Logbuch-Update:** Die Aussage von Dr. Christa Scharf und die skurrilen Rechtfertigungen des 62-Punkte-Bürgermeisters Michael L. ("Ein Finanzamt ist kein Taschenrechner") sind im Live-Logbuch dokumentiert.
-*   **Moralisches Herzstück:** Die kühle Präzision von Scharf bildet nun das emotionale Gegengewicht zum "System Wöginger".
+*   **Rückblick:** Die Aussage von Dr. Christa Scharf und die skurrilen Rechtfertigungen im Wöginger-Prozess ("Ein Finanzamt ist kein Taschenrechner") sind fest in die Dokumentation integriert.
+*   **Moralisches Herzstück:** Die kühle Präzision von Scharf bildet das emotionale Gegengewicht zum "System Wöginger".
 
 ## 🛠️ Technische & Content-Updates
-*   **Social Media:** Neue Strategie für r/Austria ("98 vs. 62 - Der Abgrund") entwickelt. Fokus auf die mathematische Absurdität der Intervention.
-*   **Drehbuch (Teil 4):** Neue Szene 10c ("Der 36-Punkte-Abgrund") integriert, die das Gerichtssaaduell dramatisiert.
+*   **Social Media:** Neuer Beitrag zum "Autobahn-Deal" für Facebook/Reddit erstellt (`socialmedia/facebook_wolf_schelling.txt`).
+*   **Logbuch:** Detaillierte Analyse der Anklage gegen Wolf/Schelling hinzugefügt (`docs/logbuch/2026-03-26-wolf-schelling-anklage.md`).
+*   **Drehbuch (Teil 4):** Vorbereitung zur Integration des Wolf-Schelling-Strangs als "aktuelles Beispiel für die Fortführung der Horten-Logik".
 
-## 🎭 In Arbeit (Vorbereitung auf Freitag, 06.03.)
-*   Finaler Launch der Reddit-Kampagne.
-*   Erstellung der Infografik "98 vs. 62" (Visualisierung des Pointillismus).
-*   Abgleich der neuen Szenen mit der KI-Audio-Generierung (August Diehl / Birgit Minichmayr).
+## 🎭 In Arbeit
+*   Anpassung der Visualisierungen für den "Pointillismus des Geldes", um den Autobahn-Deal grafisch darzustellen.
+*   Abgleich der neuen Szenen mit der KI-Audio-Generierung.
 
 ## 📅 Nächste Schritte
-*   Monitoring der Reddit-Reaktionen auf den "Scharf-Showdown".
-*   Überarbeitung der Schlussszene in Teil 4 (Verschmelzung von Horten-Raubkapital und aktuellem Postenschacher).
+*   Monitoring der Medienberichterstattung zum Prozessauftakt Wolf/Schelling.
+*   Finalisierung der "Gerichtlichen Nachspiele" Rubrik auf der Website.
 
-**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert. Update 18:45 Uhr online.
+**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert. Update 11:30 Uhr online.
