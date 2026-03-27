@@ -24,6 +24,8 @@ Parallel zur Debatte um das Tickerverbot wurden im Mittagsjournal die Kernvorwü
 Das Tickerverbot ist ein weiteres Puzzlestück in der Erzählung über das **„System der Intransparenz“**. Während wir im Film den „Pointillismus des Geldes“ (die sichtbaren Spuren) verfolgen, zeigt das Tickerverbot den Versuch, die Sichtbarkeit des juristischen Prozesses in Echtzeit zu unterbinden.
 
 **Status-Update (27.03.2026):**
-Das Verbot wurde bereits wieder aufgehoben, da die kritischen Zeugen einvernommen wurden. Der mediale Schaden und die Debatte über die Justiz-Transparenz bleiben jedoch bestehen.
+Das Verbot wurde am Vormittag des 27. März 2026 durch Richterin Melanie Halbig wieder aufgehoben. 
+*   **Begründung:** Die heute geladenen Zeugen verfügen laut Gericht überwiegend über „mittelbare Wahrnehmungen“ (z. B. Finanzamt-interner Flurfunk), wodurch eine gegenseitige Beeinflussung durch Ticker-Inhalte nicht mehr gegeben sei.
+*   **Fazit für die Recherche:** Das Ticker-Intermezzo hat gezeigt, wie fragil die Transparenz in Prozessen gegen Spitzenpolitiker sein kann. Der mediale und rechtliche Widerstand gegen das Verbot war ausschlaggebend für die rasche Korrektur. Das Urteil gegen August Wöginger wird nun für den **4. Mai 2026** erwartet.
 
 *Dokumentiert für das Projekt „HortenMysterium“.*

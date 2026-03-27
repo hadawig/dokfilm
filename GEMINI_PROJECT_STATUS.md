@@ -1,13 +1,14 @@
 # Projekt-Status: Das Horten-Mysterium
-**Stand:** 26. März 2026
+**Stand:** 27. März 2026
+
+## ⚖️ Ticker-Gate im Wöginger-Prozess (UPDATE)
+*   **Transparenz-Sieg:** Das am Dienstag verhängte Live-Ticker-Verbot wurde heute (27.03.) durch Richterin Melanie Halbig wieder aufgehoben. Die Begründung („Flurfunk“-Zeugen) wird im Projekt als Beleg für die Absurdität der Informationsbremse gewertet.
+*   **Urlaubstermin fixiert:** Das Urteil gegen August Wöginger wird für den **4. Mai 2026** erwartet.
+*   **Status:** Logbuch-Eintrag (`docs/logbuch/2026-03-27-tickerverbot-aufgehoben.md`) und Recherche-Dossier aktualisiert.
 
 ## ⚖️ Neue Front: Der Autobahn-Deal (Wolf & Schelling)
 *   **Anklage erhoben:** Die WKStA hat Siegfried Wolf und Hans Jörg Schelling angeklagt. Es geht um eine illegale Steuerermäßigung von 630.000 Euro, die an einer Autobahnraststation eingefädelt wurde.
 *   **System-Check:** Dieser Fall wird als prominentes Beispiel für den "Pointillismus des Geldes" in das Logbuch und die Recherche-Datenbank aufgenommen. Er verdeutlicht die informellen Netzwerke rund um Thomas Schmid.
-
-## ⚖️ Ticker-Gate im Wöginger-Prozess
-*   **Transparenz-Debatte:** Das Gericht verbot zeitweise Live-Ticker aus dem Saal. Die Debatte um Pressefreiheit und Zeugenbeeinflussung wurde im Ö1 Mittagsjournal intensiv analysiert.
-*   **Status:** Recherche-Dossier erstellt (`docs/recherche/2026-03-26-tickerverbot-woeginger.md`). Das Verbot wurde mittlerweile wieder aufgehoben.
 
 ## ⚖️ Showdown in Linz: Christa Scharf im Zeugenstand
 *   **Rückblick:** Die Aussage von Dr. Christa Scharf und die skurrilen Rechtfertigungen im Wöginger-Prozess ("Ein Finanzamt ist kein Taschenrechner") sind fest in die Dokumentation integriert.

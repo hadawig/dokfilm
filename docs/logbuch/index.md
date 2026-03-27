@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [27. März 2026: Triumph des Echtzeit-Sonnenlichts – Ticker-Verbot gekippt!](2026-03-27-tickerverbot-aufgehoben)
 - [26. März 2026: Anklage gegen Wolf und Schelling – Der Autobahn-Deal](2026-03-26-wolf-schelling-anklage)
 - [26. März 2026: Ticker-Gate – Das Verbot im Wöginger-Prozess](../recherche/2026-03-26-tickerverbot-woeginger)
 - [24. März 2026: Prozess-Update Abend – Flurfunk und "Schwarze Zellin"](2026-03-24-prozess-update-abend)
