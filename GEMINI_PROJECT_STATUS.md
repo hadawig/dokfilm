@@ -5,6 +5,10 @@
 *   **Anklage erhoben:** Die WKStA hat Siegfried Wolf und Hans Jörg Schelling angeklagt. Es geht um eine illegale Steuerermäßigung von 630.000 Euro, die an einer Autobahnraststation eingefädelt wurde.
 *   **System-Check:** Dieser Fall wird als prominentes Beispiel für den "Pointillismus des Geldes" in das Logbuch und die Recherche-Datenbank aufgenommen. Er verdeutlicht die informellen Netzwerke rund um Thomas Schmid.
 
+## ⚖️ Ticker-Gate im Wöginger-Prozess
+*   **Transparenz-Debatte:** Das Gericht verbot zeitweise Live-Ticker aus dem Saal. Die Debatte um Pressefreiheit und Zeugenbeeinflussung wurde im Ö1 Mittagsjournal intensiv analysiert.
+*   **Status:** Recherche-Dossier erstellt (`docs/recherche/2026-03-26-tickerverbot-woeginger.md`). Das Verbot wurde mittlerweile wieder aufgehoben.
+
 ## ⚖️ Showdown in Linz: Christa Scharf im Zeugenstand
 *   **Rückblick:** Die Aussage von Dr. Christa Scharf und die skurrilen Rechtfertigungen im Wöginger-Prozess ("Ein Finanzamt ist kein Taschenrechner") sind fest in die Dokumentation integriert.
 *   **Moralisches Herzstück:** Die kühle Präzision von Scharf bildet das emotionale Gegengewicht zum "System Wöginger".
