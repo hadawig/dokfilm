@@ -3,6 +3,8 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [26. März 2026: Anklage gegen Wolf und Schelling – Der Autobahn-Deal](2026-03-26-wolf-schelling-anklage)
+- [26. März 2026: Ticker-Gate – Das Verbot im Wöginger-Prozess](../recherche/2026-03-26-tickerverbot-woeginger)
 - [24. März 2026: Prozess-Update Abend – Flurfunk und "Schwarze Zellin"](2026-03-24-prozess-update-abend)
 - [24. März 2026: Die Rochade der Macht – OÖ geht auf Distanz](2026-03-24-die-rochade-der-macht)
 - [23. März 2026: Satirische Forensik – Märchen von der Patientenmilliarde](2026-03-23-maerchen-patientenmilliarde)

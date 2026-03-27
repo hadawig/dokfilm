@@ -58,6 +58,8 @@ export default defineConfig({
           {
             text: 'Gerichtliche Nachspiele',
             items: [
+              { text: 'NEU: Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
+              { text: 'NEU: Anklage Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'Heldin: Christa Scharf', link: '/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Mattura: Das Pilnacek-Tape', link: '/recherche/christian-mattura-pilnacek-tape' },
               { text: 'Wöginger: Finanzamt Braunau', link: '/recherche/gericht-woeginger-braunau' },
