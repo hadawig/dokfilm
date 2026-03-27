@@ -191,9 +191,9 @@ export default defineConfig({
           {
             text: 'Judicial Aftermath',
             items: [
-              { text: 'NEW: Transparency Victory (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
-              { text: 'Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
-              { text: 'NEW: Indictment Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
+              { text: 'NEW: Transparency Victory (Ticker)', link: '/en/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: 'Ticker-Gate (Wöginger)', link: '/en/recherche/2026-03-26-tickerverbot-woeginger' },
+              { text: 'NEW: Indictment Wolf & Schelling', link: '/en/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'Heroine: Christa Scharf', link: '/en/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Mattura: The Pilnacek Tape', link: '/en/recherche/christian-mattura-pilnacek-tape' },
               { text: 'Wöginger: Braunau Tax Office', link: '/en/recherche/gericht-woeginger-braunau' },
@@ -235,9 +235,9 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
-              { text: 'March 27: Transparency Victory (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
-              { text: 'March 26: Indictment Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
-              { text: 'March 26: Ticker-Gate (Research)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
+              { text: 'March 27: Transparency Victory (Ticker)', link: '/en/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: 'March 26: Indictment Wolf & Schelling', link: '/en/logbuch/2026-03-26-wolf-schelling-anklage' },
+              { text: 'March 26: Ticker-Gate (Research)', link: '/en/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: 'March 24: Trial Update Evening', link: '/en/logbuch/2026-03-24-prozess-update-abend' },
               { text: 'March 24: Power Castling (OÖ)', link: '/en/logbuch/2026-03-24-die-rochade-der-macht' },
               { text: 'March 23: Wöginger Resignation (OÖ)', link: '/en/logbuch/2026-03-23-ruecktritt-woeginger' },

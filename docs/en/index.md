@@ -27,8 +27,8 @@ features:
 ---
 
 <div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
-  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING: MARCH 21, 2026</span>
-  <marquee scrollamount="5">+++ WEEKEND EXPLOSION: US access at all-time high after Reddit censorship +++ Over 276,000 witnesses per hour +++ Archive links go viral +++</marquee>
+  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING: MARCH 27, 2026</span>
+  <marquee scrollamount="5">+++ WÖGINGER TRIAL: Ticker ban overturned after massive protest +++ Triumph of transparency in the courtroom +++ Verdict expected on May 4, 2026 +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
