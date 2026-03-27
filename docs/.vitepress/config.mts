@@ -58,7 +58,8 @@ export default defineConfig({
           {
             text: 'Gerichtliche Nachspiele',
             items: [
-              { text: 'NEU: Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
+              { text: 'NEU: Sieg der Transparenz (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: 'Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: 'NEU: Anklage Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'Heldin: Christa Scharf', link: '/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Mattura: Das Pilnacek-Tape', link: '/recherche/christian-mattura-pilnacek-tape' },
@@ -101,7 +102,9 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
-              { text: '24. März: Prozess-Update Abend', link: '/logbuch/2026-03-24-prozess-update-abend' },
+              { text: '27. März: Sieg der Transparenz (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: '26. März: Anklage Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
+              { text: '26. März: Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: '24. März: Rochade der Macht (OÖ)', link: '/logbuch/2026-03-24-die-rochade-der-macht' },
               { text: '23. März: Wöginger-Rückzug (OÖ)', link: '/logbuch/2026-03-23-ruecktritt-woeginger' },
               { text: '21. März: Wochenend-Sturm (Zensur)', link: '/logbuch/2026-03-21-wochenend-sturm-zensur' },
@@ -188,6 +191,9 @@ export default defineConfig({
           {
             text: 'Judicial Aftermath',
             items: [
+              { text: 'NEW: Transparency Victory (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: 'Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
+              { text: 'NEW: Indictment Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'Heroine: Christa Scharf', link: '/en/recherche/heldinnen-lebenslauf-christa-scharf' },
               { text: 'Mattura: The Pilnacek Tape', link: '/en/recherche/christian-mattura-pilnacek-tape' },
               { text: 'Wöginger: Braunau Tax Office', link: '/en/recherche/gericht-woeginger-braunau' },
@@ -229,6 +235,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'March 27: Transparency Victory (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
               { text: 'March 26: Indictment Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'March 26: Ticker-Gate (Research)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: 'March 24: Trial Update Evening', link: '/en/logbuch/2026-03-24-prozess-update-abend' },
