@@ -25,7 +25,9 @@ We treat attention like a **stock price**. Every new revelation, every viral pos
 *   **Stabilization & Archive Rally (Mar 20):** After the censorship, the index stabilizes at a high level (**215,000**). Users switch to direct links.
 *   **Weekend Explosion (Mar 21):** Saturday afternoon (3:30 PM). International reporting on the Reddit censorship leads to a new wave. The index again reaches the record of **276,500** hourly views.
 *   **Wöginger Resignation (Mar 23):** Monday noon. The breaking news about August Wöginger's withdrawal as deputy party leader in Upper Austria shakes the political landscape. The index breaks the **300,000 mark** for the first time (currently: 312,400).
-*   **Trial Showdown & Ticker Ban (Mar 24 - TODAY):** Tuesday evening. The absurd live ticker ban in the Wöginger trial and discussions about the "black cell" catapult interest into unimagined heights. The index reaches an all-time high of **418,600** hourly views.
+* **Trial Showdown & Ticker Ban (Mar 24):** Tuesday evening. The absurd live ticker ban in the Wöginger trial and discussions about the "black cell" catapult interest into unimagined heights. The index reaches an all-time high of **418,600** hourly views.
+* **Easter Rally & Final Preparations (Apr 07 - TODAY):** Just before the Easter weekend, the project reaches a new record. International attention for the forensic analysis of the Horten Aryanization causes another massive surge. The index breaks the **500,000 mark** (currently: 524,300).
+
 
 *   **Sentiment:** With an average upvote ratio of **94%** (trend increasing), the project achieves maximum credibility.
 

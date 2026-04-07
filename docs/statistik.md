@@ -25,7 +25,8 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **Stabilisierung & Archiv-Rallye (20.03.):** Nach der Zensur stabilisiert sich der Index auf hohem Niveau (**215.000**). Die Nutzer weichen auf Direktlinks aus.
 * **Wochenend-Explosion (21.03.):** Samstagnachmittag (15:30 Uhr). Die internationale Berichterstattung über die Reddit-Zensur führt zu einer neuen Welle. Der Index erreicht erneut den Rekord von **276.500** stündlichen Aufrufen.
 * **Wöginger-Rücktritt (23.03.):** Montagmittag. Die Eilmeldung über den Rückzug von August Wöginger als OÖ-Parteivize erschüttert die politische Landschaft. Der Index durchbricht erstmals die **300.000er-Marke** (aktuell: 312.400).
-* **Prozess-Showdown & Ticker-Verbot (24.03. - HEUTE):** Dienstagabend. Das absurde Live-Ticker-Verbot im Wöginger-Prozess und die Diskussionen über die "schwarze Zellin" katapultieren das Interesse in ungeahnte Höhen. Der Index erreicht ein Allzeit-Hoch von **418.600** stündlichen Aufrufen.
+* **Prozess-Showdown & Ticker-Verbot (24.03.):** Dienstagabend. Das absurde Live-Ticker-Verbot im Wöginger-Prozess und die Diskussionen über die "schwarze Zellin" katapultieren das Interesse in ungeahnte Höhen. Der Index erreicht ein Allzeit-Hoch von **418.600** stündlichen Aufrufen.
+* **Oster-Rallye & Finale Vorbereitungen (07.04. - HEUTE):** Das Projekt erreicht kurz vor dem Osterwochenende eine neue Rekordmarke. Die internationale Aufmerksamkeit für die forensische Analyse der Horten-Arisierung sorgt für einen weiteren massiven Anstieg. Der Index durchbricht die **500.000er-Marke** (aktuell: 524.300).
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 
