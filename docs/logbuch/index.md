@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [07. April 2026: Das digitale Schweigen – Die 11-Sekunden-Lücke und das Laptop-Mysterium](2026-04-07-pilnacek-laptop-manipulation)
 - [27. März 2026: Triumph des Echtzeit-Sonnenlichts – Ticker-Verbot gekippt!](2026-03-27-tickerverbot-aufgehoben)
 - [26. März 2026: Anklage gegen Wolf und Schelling – Der Autobahn-Deal](2026-03-26-wolf-schelling-anklage)
 - [26. März 2026: Ticker-Gate – Das Verbot im Wöginger-Prozess](../recherche/2026-03-26-tickerverbot-woeginger)
