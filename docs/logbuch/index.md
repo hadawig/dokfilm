@@ -3,8 +3,8 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
-- [07. April 2026: Die Klagsmaschine – Michael Rami und die Juristerei der Einschüchterung](2026-04-07-michael-rami-klagsmaschine)
-- [07. April 2026: Schlacht der Gutachten – Statistik gegen Korruptionsvorwurf (Eva Dichand)](2026-04-07-schlacht-der-gutachten-dichand)
+- [07. April 2026: Die Klagsmaschine – Michael Rami und die Juristerei der Einschüchterung](2026-04-07-michael-rami-lawsuit-machine)
+- [07. April 2026: Schlacht der Gutachten – Statistik gegen Korruptionsvorwurf (Eva Dichand)](2026-04-07-scientific-washing-dichand)
 - [07. April 2026: Das digitale Schweigen – Die 11-Sekunden-Lücke und das Laptop-Mysterium](2026-04-07-pilnacek-laptop-manipulation)
 - [27. März 2026: Triumph des Echtzeit-Sonnenlichts – Ticker-Verbot gekippt!](2026-03-27-tickerverbot-aufgehoben)
 - [26. März 2026: Anklage gegen Wolf und Schelling – Der Autobahn-Deal](2026-03-26-wolf-schelling-anklage)
