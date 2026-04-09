@@ -102,6 +102,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
+              { text: '07. April: Die Klagsmaschine (Michael Rami)', link: '/logbuch/2026-04-07-michael-rami-klagsmaschine' },
               { text: '07. April: Schlacht der Gutachten (Dichand)', link: '/logbuch/2026-04-07-schlacht-der-gutachten-dichand' },
               { text: '07. April: Das digitale Schweigen (Pilnacek)', link: '/logbuch/2026-04-07-pilnacek-laptop-manipulation' },
               { text: '27. März: Sieg der Transparenz (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
@@ -237,6 +238,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'April 07: The Lawsuit Machine (Michael Rami)', link: '/en/logbuch/2026-04-07-michael-rami-lawsuit-machine' },
               { text: 'April 07: Battle of the Experts (Dichand)', link: '/en/logbuch/2026-04-07-scientific-washing-dichand' },
               { text: 'April 07: The Digital Silence (Pilnacek)', link: '/en/logbuch/2026-04-07-pilnacek-laptop-manipulation' },
               { text: 'March 27: Transparency Victory (Ticker)', link: '/en/logbuch/2026-03-27-tickerverbot-aufgehoben' },

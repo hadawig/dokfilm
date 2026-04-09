@@ -3,6 +3,7 @@
 Here the daily progress is recorded.
 
 ## Entries
+- [April 07, 2026: The Lawsuit Machine – Michael Rami and the Jurisprudence of Intimidation](2026-04-07-michael-rami-lawsuit-machine)
 - [April 07, 2026: Battle of the Experts – Statistics against Corruption Charge (Eva Dichand)](2026-04-07-scientific-washing-dichand)
 - [April 07, 2026: The Digital Silence – The 11-Second Gap and the Laptop Mystery](2026-04-07-pilnacek-laptop-manipulation)
 - [March 27, 2026: Triumph of Real-Time Sunlight – Ticker Ban Overturned!](2026-03-27-tickerverbot-aufgehoben)
