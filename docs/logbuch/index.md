@@ -3,7 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
-- [07. April 2026: Die Hydra der Macht – Die Zangenbewegung gegen den Kronzeugen](2026-04-07-hydra-der-macht-zangenbewegung)
+- [07. April 2026: Die Hydra der Macht – Die Zangenbewegung gegen den Kronzeugen](2026-04-07-hydra-of-power-pincer-movement)
 - [07. April 2026: Die Klagsmaschine – Michael Rami und die Juristerei der Einschüchterung](2026-04-07-michael-rami-lawsuit-machine)
 - [07. April 2026: Schlacht der Gutachten – Statistik gegen Korruptionsvorwurf (Eva Dichand)](2026-04-07-scientific-washing-dichand)
 - [07. April 2026: Das digitale Schweigen – Die 11-Sekunden-Lücke und das Laptop-Mysterium](2026-04-07-pilnacek-laptop-manipulation)
