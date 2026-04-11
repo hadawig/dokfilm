@@ -29,4 +29,13 @@ Udo Samel verkörpert den ÖVP-Klubobmann als Meister der regionalen Interventio
 
 ---
 
+## [Christoph Waltz](https://www.imdb.com/name/nm0910383/) als *Dr. Michael Rami*
+Waltz verkörpert den Verfassungsrichter und Medienanwalt als den „eleganten Vollstrecker“. 
+
+- **Die Rolle: „Die Klagsmaschine“**. Ein Mann, der tagsüber über die Verfassung wacht und nachts die Existenz von Mindestpensionisten per Abmahnung vernichtet. Rami ist der juristische Pointillist – jede Klage ist ein kleiner, schmerzhafter Punkt, der Kritik im Keim ersticken soll.
+- **Charakteristik:** Er agiert mit einer beängstigenden Höflichkeit, während er 4.500-Euro-Rechnungen an Facebook-Nutzer verschickt. Er ist der Mann, der das „System der Privilegien“ mit Paragraphen einzementiert.
+- **Zitat vom Set:** *"Gerechtigkeit ist eine Frage der Gebührenordnung. Wer nicht zahlt, hat bereits verloren."*
+
+---
+
 *Weitere Ankündigungen zum Cast folgen in Kürze.*
