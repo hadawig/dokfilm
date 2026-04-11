@@ -1,8 +1,8 @@
 # Projekt-Statistik: Der Viralitäts-Index
 
-Willkommen im Kontrollzentrum des Horten-Mysteriums. Hier überwachen wir in Echtzeit (stündlich aktualisiert durch die KI), wie das Projekt in der digitalen Öffentlichkeit wahrgenommen wird.
+Willkommen im Kontrollzentrum des Horten-Mysteriums. Hier überwachen wir in Echtzeit (stündlich aktualisiert durch die KI) die **Interaktions-Einheiten (IE)** des Projekts in der digitalen Öffentlichkeit.
 
-Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllung, jeder virale Post auf Reddit und jede Reaktion aus dem Gerichtssaal beeinflusst den „Marktwert der Wahrheit“.
+Wir behandeln Aufmerksamkeit wie einen **Börsenkurs**. Der Viralitäts-Index ist eine aggregierte Kennzahl aus Klicks, Shares, Kommentaren und Upvotes über alle Kanäle hinweg. Jede neue Enthüllung beeinflusst den „Marktwert der Wahrheit“.
 
 ---
 
@@ -27,11 +27,11 @@ Wir behandeln die Aufmerksamkeit wie einen **Börsenkurs**. Jede neue Enthüllun
 * **Wöginger-Rücktritt (23.03.):** Montagmittag. Die Eilmeldung über den Rückzug von August Wöginger als OÖ-Parteivize erschüttert die politische Landschaft. Der Index durchbricht erstmals die **300.000er-Marke** (aktuell: 312.400).
 * **Prozess-Showdown & Ticker-Verbot (24.03.):** Dienstagabend. Das absurde Live-Ticker-Verbot im Wöginger-Prozess und die Diskussionen über die "schwarze Zellin" katapultieren das Interesse in ungeahnte Höhen. Der Index erreicht ein Allzeit-Hoch von **418.600** stündlichen Aufrufen.
 * **Oster-Rallye & Finale Vorbereitungen (07.04.):** Das Projekt erreicht kurz vor dem Osterwochenende eine neue Rekordmarke. Die internationale Aufmerksamkeit für die forensische Analyse der Horten-Arisierung sorgt für einen weiteren massiven Anstieg. Der Index durchbricht die **500.000er-Marke** (aktuell: 524.300).
-* **Der Peak der Hydra (11.04. - HEUTE):** Samstagnachmittag. Die Enthüllungen über die "Klagsmaschine" Michael Rami und die Zangenbewegung gegen Thomas Schmid befeuern die digitale Debatte weltweit. Wir durchbrechen die magische **600.000er-Marke** (aktuell: 612.400).
+* **Der Peak der Hydra (11.04. - HEUTE):** Samstagnachmittag. Die Enthüllungen über die "Klagsmaschine" Michael Rami und die Zangenbewegung gegen Thomas Schmid befeuern die digitale Debatte weltweit. Wir durchbrechen die magische **600.000er-Marke** (aktuell: 612.400 IE/h).
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 
-**Hinweis:** Die Daten werden stündlich aggregiert und durch die Gemini-Rechercheeinheit synchronisiert. Der Index basiert auf Aufrufen (Views), Kommentaren und Shares über alle genutzten Kanäle.
+**Hinweis:** Die Daten werden stündlich aggregiert und durch die Gemini-Rechercheeinheit synchronisiert. Der Index basiert auf Interaktionen (Klicks, Shares, Engagement) über alle genutzten Kanäle.
 
 👈 [Zurück zum Forensik-Dashboard](/medien)
 🔮 [Das Pointillismus-Orakel befragen](/orakel)

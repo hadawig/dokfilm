@@ -1,8 +1,8 @@
 <template>
   <div class="chart-container">
     <div class="chart-header">
-      <h3>📈 PROJEKT-MARKTPRÄSENZ (INDEX)</h3>
-      <p>Stündliche Besucheraufrufe (Viralitäts-Index)</p>
+      <h3>📈 PROJEKT-REICHWEITE (INDEX)</h3>
+      <p>Stündliche Interaktions-Einheiten (Viralitäts-Index)</p>
     </div>
     
     <div v-if="loading" class="loading">Daten werden synchronisiert...</div>
@@ -22,7 +22,7 @@
       </g>
       
       <!-- Axis Titles -->
-      <text :x="10" :y="padding - 15" fill="#d4af37" font-size="10" font-weight="bold" transform="rotate(-90 10,25)">INDEX (VPH)</text>
+      <text :x="10" :y="padding - 15" fill="#d4af37" font-size="10" font-weight="bold" transform="rotate(-90 10,25)">INDEX (IE/H)</text>
       <text :x="width - padding" :y="height - padding + 35" fill="#d4af37" font-size="10" font-weight="bold" text-anchor="end">ZEITRAUM (H)</text>
 
       <!-- X-Axis Labels (Date and Time) -->
@@ -59,20 +59,20 @@
       <circle v-for="(p, i) in points" :key="i" 
               :cx="p.x" :cy="p.y" r="4" 
               fill="#d4af37" class="data-point">
-        <title>{{ p.raw.time }}: {{ p.raw.visitors }} Besucher</title>
+        <title>{{ p.raw.time }}: {{ p.raw.visitors }} Interaktions-Einheiten</title>
       </circle>
     </svg>
 
     <div class="chart-footer">
       <div class="stat">
         <label>MAXIMUM</label>
-        <span>{{ maxVisitors }} VPH*</span>
+        <span>{{ maxVisitors }} IE/H*</span>
       </div>
       <div class="stat">
         <label>TREND</label>
         <span class="trend-up">▲ POSITIV</span>
       </div>
-      <p class="small">*Visitors Per Hour (Aggregierte Daten von Reddit/Web)</p>
+      <p class="small">*Interaktions-Einheiten pro Stunde (Aggregierte Daten aus Klicks, Shares & Engagement)</p>
     </div>
   </div>
 </template>

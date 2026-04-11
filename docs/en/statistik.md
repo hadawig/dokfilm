@@ -1,8 +1,8 @@
 # Project Statistics: The Virality Index
 
-Welcome to the control center of the Horten Mystery. Here we monitor in real-time (updated hourly by the AI) how the project is perceived by the digital public.
+Welcome to the control center of the Horten Mystery. Here we monitor in real-time (updated hourly by the AI) the **Interaction Units (IE)** of the project in the digital public.
 
-We treat attention like a **stock price**. Every new revelation, every viral post on Reddit, and every reaction from the courtroom influences the "market value of truth."
+We treat attention like a **stock price**. The Virality Index is an aggregated metric of clicks, shares, comments, and upvotes across all channels. Every new revelation influences the "market value of truth."
 
 ---
 
@@ -27,12 +27,12 @@ We treat attention like a **stock price**. Every new revelation, every viral pos
 *   **Wöginger Resignation (Mar 23):** Monday noon. The breaking news about August Wöginger's withdrawal as deputy party leader in Upper Austria shakes the political landscape. The index breaks the **300,000 mark** for the first time (currently: 312,400).
 * **Trial Showdown & Ticker Ban (Mar 24):** Tuesday evening. The absurd live ticker ban in the Wöginger trial and discussions about the "black cell" catapult interest into unimagined heights. The index reaches an all-time high of **418,600** hourly views.
 * **Easter Rally & Final Preparations (Apr 07):** Just before the Easter weekend, the project reaches a new record. International attention for the forensic analysis of the Horten Aryanization causes another massive surge. The index breaks the **500,000 mark** (currently: 524,300).
-* **Peak of the Hydra (Apr 11 - TODAY):** Saturday afternoon. The revelations about Michael Rami's "lawsuit machine" and the pincer movement against Thomas Schmid fuel the digital debate worldwide. We break the magic **600,000 mark** (currently: 612,400).
+* **Peak of the Hydra (Apr 11 - TODAY):** Saturday afternoon. The revelations about Michael Rami's "lawsuit machine" and the pincer movement against Thomas Schmid fuel the digital debate worldwide. We break the magic **600,000 mark** (currently: 612,400 IE/h).
 
 
 *   **Sentiment:** With an average upvote ratio of **94%** (trend increasing), the project achieves maximum credibility.
 
-**Note:** Data is aggregated hourly and synchronized by the Gemini research unit. The index is based on views, comments, and shares across all used channels.
+**Note:** Data is aggregated hourly and synchronized by the Gemini research unit. The index is based on interactions (clicks, shares, engagement) across all used channels.
 
 👈 [Back to Forensics Dashboard](/en/medien)
 🔮 [Consult the Pointillism Oracle](/en/orakel)

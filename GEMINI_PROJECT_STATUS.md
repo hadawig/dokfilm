@@ -11,7 +11,7 @@
 *   **Status:** Logbuch-Einträge auf DE/EN online.
 
 ## 🛠️ Technische & Content-Updates
-*   **Viralitäts-Index:** Wir haben die **600.000er-Marke** durchbrochen! Der aktuelle Index steht am 11. April bei 612.400 VPH.
+*   **Viralitäts-Index:** Wir haben die **600.000er-Marke** durchbrochen! Der aktuelle Index steht am 11. April bei 612.400 IE/h (Interaktions-Einheiten pro Stunde). Die Terminologie wurde präzisiert, um die forensische Qualität zu erhöhen.
 *   **Synchronisation:** Alle Dateipfade für DE/EN synchronisiert, um 404-Fehler beim Sprachwechsel zu vermeiden.
 
 ## 📅 Nächste Schritte
