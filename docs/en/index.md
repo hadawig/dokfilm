@@ -38,7 +38,7 @@ features:
     The Hydra has lost heads – the rule of law has won.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-04-16-persmanhof-victory" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">To the Logbook Entry</a>
+    <a href="/en/logbuch/2026-04-16-persmanhof-urteil" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">To the Logbook Entry</a>
     <a href="/en/statistik" class="VPButton alt large">View Live Statistics</a>
   </div>
 </div>

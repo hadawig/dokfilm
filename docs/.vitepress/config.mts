@@ -105,7 +105,7 @@ export default defineConfig({
             text: 'Logbuch',
             items: [
               { text: 'Alle Einträge', link: '/logbuch/' },
-              { text: 'NEU: 16. April: Sieg am Peršmanhof', link: '/logbuch/2026-04-16-persmanhof-victory' },
+              { text: 'NEU: 16. April: Sieg am Peršmanhof', link: '/logbuch/2026-04-16-persmanhof-urteil' },
               { text: '07. April: Die Hydra der Macht (Zangenbewegung)', link: '/logbuch/2026-04-07-hydra-of-power-pincer-movement' },
               { text: '07. April: Die Klagsmaschine (Michael Rami)', link: '/logbuch/2026-04-07-michael-rami-lawsuit-machine' },
               { text: '07. April: Schlacht der Gutachten (Dichand)', link: '/logbuch/2026-04-07-scientific-washing-dichand' },
@@ -246,7 +246,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
-              { text: 'NEW: April 16: Victory at Peršmanhof', link: '/en/logbuch/2026-04-16-persmanhof-victory' },
+              { text: 'NEW: April 16: Victory at Peršmanhof', link: '/en/logbuch/2026-04-16-persmanhof-urteil' },
               { text: 'April 07: The Hydra of Power (Pincer Movement)', link: '/en/logbuch/2026-04-07-hydra-of-power-pincer-movement' },
               { text: 'April 07: The Lawsuit Machine (Michael Rami)', link: '/en/logbuch/2026-04-07-michael-rami-lawsuit-machine' },
               { text: 'April 07: Battle of the Experts (Dichand)', link: '/en/logbuch/2026-04-07-scientific-washing-dichand' },
