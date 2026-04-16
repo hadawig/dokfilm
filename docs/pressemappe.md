@@ -8,7 +8,15 @@ Willkommen im offiziellen Pressebereich des Horten-Mysteriums. Hier finden Journ
 ## Zentrale Themen
 - **Der Pointillismus des Geldes:** Wie kleine Spenden ein großes Bild der Macht ergeben.
 - **Die Harte Prosa:** Analyse politischer Interventionen und Postenschacher.
+- **Fallstudie Peršmanhof:** Die Dokumentation von „strukturellem Antislowenismus“ und staatlicher Willkür als historisches Echo.
 - **Marktbereinigung:** Der Übergang von der Ära Wöginger zur Ära Hattmannsdorfer.
+
+## Aktuelle Schwerpunkte der Recherche
+### Die Hydra am Peršmanhof
+In Zusammenarbeit mit Betroffenen und Rechtsexperten dokumentiert „Das Horten-Mysterium“ die rechtswidrige Kriminalisierung von Gedenkkultur. 
+- **Der Befund:** Das Landesverwaltungsgericht Kärnten bestätigte am 16. April 2026 die Rechtswidrigkeit massiver Polizeieinsätze an der Gedenkstätte Peršmanhof. 
+- **Struktureller Antislowenismus:** Wir beleuchten die Kontinuität der Repression gegen die slowenische Volksgruppe – von den SS-Massakern 1945 bis zur heutigen bürokratischen und polizeilichen Schikane unter dem Deckmantel von Naturschutzgesetzen.
+- **Systemischer Kontrast:** Während Interventionen im Finanzamt (Fall Wöginger) als „Bürgernähe“ verharmlost werden, wird zivilgesellschaftliches Gedenken mit Hubschraubern und Staatsschutz-Einsätzen beantwortet.
 
 ## Pressekontakt & Materialien
 Für Interviewanfragen, Bildmaterial in hoher Auflösung oder exklusive Einblicke in die forensischen Daten kontaktieren Sie bitte die Projektleitung über die [Whistleblower Tip-Line](/mitmachen).

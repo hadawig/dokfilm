@@ -497,3 +497,61 @@ Die Menschen haben bereits entschieden. 15.000 Menschen auf Reddit haben den „
 
 **FADE OUT.**
 
+---
+
+## Szene 60: Das Echo vom Peršmanhof (NEU)
+**Ort:** Ein geteilter Raum – Eine Hälfte Museum (Peršmanhof), eine Hälfte modernes Büro (Innenministerium).
+**Zeit:** Juli 2025 (Rückblende) / April 2026 (Gegenwart).
+
+Auf der Museumsseite sehen wir Kinderfotos der Familie Sadovnik an der Wand. Plötzlich erzittern die Rahmen. Das Geräusch eines Hubschraubers schwillt an. Staub fällt von der Decke.
+
+**STIMME AUS DEM FUNKGERÄT (Büro-Seite)**
+Hier SIG 1. Wir sind vor Ort. Verdacht auf Naturschutzverletzung bestätigt. Zelte im Wald gesichtet. Beginnen mit Identitätsfeststellung.
+
+Ein Beamter in voller Montur tritt auf die Museumsseite. Er wirkt wie ein Fremdkörper zwischen den Gedenktafeln. Er leuchtet einem Jugendlichen mit einer Taschenlampe ins Gesicht.
+
+**BEAMTER**
+Ausweis! Wir prüfen hier das Campinggesetz.
+
+**JUGENDLICHER**
+Wir gedenken hier den Kindern, die von der SS ermordet wurden.
+
+**BEAMTER**
+(unbeeindruckt)
+Interessiert mich nicht. Hier wird nicht gezeltet. Wer hat das befohlen?
+
+Schnitt auf die Büro-Seite. Der stellvertretende LSE-Leiter (Oliver Masucci) sitzt am Telefon. Er lächelt.
+
+**LSE-LEITER**
+Das ist ein „Bürgeranliegen“, verstehen Sie? Die Bevölkerung will keine... Extremisten im Wald. Wir nutzen das Campinggesetz als chirurgisches Instrument. Pointillismus, meine Herren. Viele kleine Identitätsfeststellungen ergeben ein großes Bild der Kontrolle.
+
+Schnitt zu April 2026. Eine Richterin (Birgit Minichmayr) liest das Urteil.
+
+**RICHTERIN**
+...war rechtswidrig. Es gab keine Gefahr. Es gab nur die Ignoranz gegenüber der Geschichte und die Hybris der Macht. Die Hydra hat hier ihre Köpfe gezeigt, aber das Recht hat sie heute gekürzt.
+
+Wöginger (Udo Samel) tritt ins Bild, er steht zwischen beiden Welten. Er kaut an seinem Brötchen.
+
+**WÖGINGER**
+(schulterzuckend)
+Rechtswidrig... das ist auch so ein hartes Wort. Wir wollten doch nur... Ordnung. Ein bisschen Ordnung im Wald. Wie im Finanzamt. Alles eine Frage der regionalen Abstimmung.
+
+**FADE OUT.**
+
+
+---
+
+## Szene 18: Der finale Vorhang des Schweigens
+**Ort:** Eine leere Bühne.
+**Zeit:** Jetzt.
+
+Die drei Schauspieler (Diehl, Masucci, Minichmayr) treten aus ihren Rollen. Sie legen ihre Kostüme ab.
+
+**AUGUST DIEHL**
+Ist es wahr?
+**OLIVER MASUCCI**
+Es ist besser als wahr. Es ist dokumentiert.
+**BIRGIT MINICHMAYR**
+Es ist eine Mockumentary. Wir können die Wahrheit sagen, solange wir behaupten, es sei erfunden.
+
+Sie blicken gemeinsam in die Kamera. Im Hintergrund sehen wir das Logo der Webseite: *Das Horten-Mysterium*.

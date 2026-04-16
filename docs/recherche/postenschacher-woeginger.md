@@ -50,4 +50,16 @@ In unserer Mockumentary ziehen wir Parallelen zwischen der historischen Begünst
 
 ---
 
-*Quellen: Aktuelle Berichterstattung (Trend, Krone, Kurier, OE24) vom 27. Februar 2026, Akten der WKStA.*
+---
+
+## Die Anzeige von Sebastian Kurz (April 2026)
+
+Im April 2026 hat Sebastian Kurz (vertreten durch Anwalt Werner Suppan) eine Anzeige wegen Falschaussage gegen Thomas Schmid eingebracht. 
+
+*   **Der Vorwurf:** Schmid habe im Prozess rund um August Wöginger (Finanzamt Braunau/Freistadt) vor dem Landesgericht Linz gelogen.
+*   **Strategisches Ziel:** Die Glaubwürdigkeit des Kronzeugen Schmid soll systematisch untergraben werden. 
+*   **Verbindung zur Inseraten-Causa:** Diese Anzeige ist Teil einer breit angelegten Zangenbewegung der ÖVP-nahen Verteidigungsteams. Während Michael Rami in der Inseraten-Causa auf statistische „Säuberung“ (WU-Studie) setzt, nutzt Suppan im Postenschacher-Fall die strafrechtliche Keule. 
+
+In der Mockumentary nutzen wir dies als Beispiel für die **„Juristische Hydra“**: Schlägt man einen Kopf ab (oder taucht ein Belastungszeuge auf), wachsen zwei neue Klagen nach, um die Wahrheit im Keim zu ersticken.
+
+*Stand der Recherche: 07. April 2026.*

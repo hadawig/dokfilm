@@ -1,12 +1,12 @@
 ---
 title: "Pilnacek-Untersuchungsausschuss: Die 11 Sekunden und die Coaching-Affäre"
 description: "Analyse der neuesten Erkenntnisse im U-Ausschuss zur Klärung politischer Einflussnahme auf die Ermittlungen nach dem Tod von Christian Pilnacek."
-date: 2026-03-02
+date: 2026-04-07
 ---
 
-# Pilnacek-Untersuchungsausschuss: Die 11 Sekunden und die Coaching-Affäre
+# Pilnacek-Untersuchungsausschuss: Die 11 Sekunden und die Laptop-Manipulation
 
-Im März 2026 rückt die Suche nach der Wahrheit im Fall Christian Pilnacek in eine kritische Phase. Der parlamentarische Untersuchungsausschuss befasst sich mit der Frage, ob das Innenministerium (BMI) oder politische Akteure (insbesondere der ÖVP) die Ermittlungen nach dem Tod des ehemaligen Sektionschefs im Oktober 2023 beeinflusst oder vorschnell abgeschlossen haben.
+Im April 2026 rückt die Suche nach der Wahrheit im Fall Christian Pilnacek in eine kritische Phase. Der parlamentarische Untersuchungsausschuss befasst sich mit der Frage, ob das Innenministerium (BMI) oder politische Akteure (insbesondere der ÖVP) die Ermittlungen nach dem Tod des ehemaligen Sektionschefs im Oktober 2023 beeinflusst oder vorschnell abgeschlossen haben.
 
 ## Die "11 Sekunden": Ein digitales Rätsel
 Ein zentraler Fokus der aktuellen Beweisaufnahme liegt auf den digitalen Spuren Pilnaceks.
@@ -30,4 +30,4 @@ Befragungen von Ersthelfern haben Unstimmigkeiten bei der Spurensicherung am Fun
 ## Einordnung für die Mockumentary
 In unserem Projekt symbolisiert der Pilnacek-Fall das **"Verschwinden der Wahrheit"**. Er steht für eine Ära, in der Akten geschreddert, Laptops verschoben und Ermittlungen durch "Coaching" kanalisiert werden. Pilnacek war der Hüter der Gesetze, der am Ende selbst zum Mysterium wurde – das ultimative Beispiel für die Erosion der Transparenz.
 
-*Stand der Recherche: 02. März 2026. Befragungen laufen bis Juli 2026.*
+*Stand der Recherche: 07. April 2026. Befragungen laufen bis Juli 2026.*
