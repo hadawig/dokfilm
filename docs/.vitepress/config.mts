@@ -241,6 +241,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
+              { text: 'NEW: April 16: Victory at Peršmanhof', link: '/en/logbuch/2026-04-16-persmanhof-victory' },
               { text: 'April 07: The Hydra of Power (Pincer Movement)', link: '/en/logbuch/2026-04-07-hydra-of-power-pincer-movement' },
               { text: 'April 07: The Lawsuit Machine (Michael Rami)', link: '/en/logbuch/2026-04-07-michael-rami-lawsuit-machine' },
               { text: 'April 07: Battle of the Experts (Dichand)', link: '/en/logbuch/2026-04-07-scientific-washing-dichand' },
