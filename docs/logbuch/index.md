@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [16. April 2026: Sieg am Peršmanhof – Rechtsstaats-Klatsche für den Staatsschutz](2026-04-16-persmanhof-urteil)
 - [07. April 2026: Die Hydra der Macht – Die Zangenbewegung gegen den Kronzeugen](2026-04-07-hydra-of-power-pincer-movement)
 - [07. April 2026: Die Klagsmaschine – Michael Rami und die Juristerei der Einschüchterung](2026-04-07-michael-rami-lawsuit-machine)
 - [07. April 2026: Schlacht der Gutachten – Statistik gegen Korruptionsvorwurf (Eva Dichand)](2026-04-07-scientific-washing-dichand)
