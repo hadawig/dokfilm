@@ -8,7 +8,15 @@ Welcome to the official press area of the Horten Mystery. Here, journalists, blo
 ## Key Themes
 - **The Pointillism of Money:** How small donations result in a large picture of power.
 - **Hard Prose:** Analysis of political interventions and patronage.
+- **Case Study Peršmanhof:** The documentation of "structural anti-Slovenianism" and state arbitrariness as a historical echo.
 - **Market Consolidation:** The transition from the Wöginger era to the Hattmannsdorfer era.
+
+## Current Research Focus
+### The Hydra at Peršmanhof
+In collaboration with those affected and legal experts, "The Horten Mystery" documents the unlawful criminalization of commemorative culture.
+- **The Finding:** The Carinthian Administrative Court confirmed on April 16, 2026, the unlawfulness of massive police operations at the Peršmanhof memorial site.
+- **Structural Anti-Slovenianism:** We shed light on the continuity of repression against the Slovenian ethnic group – from the SS massacres in 1945 to today's bureaucratic and police harassment under the guise of nature conservation laws.
+- **Systemic Contrast:** While interventions in the tax office (Wöginger case) are downplayed as "citizen proximity," civil society commemoration is met with helicopters and state security operations.
 
 ## Press Contact & Materials
 For interview requests, high-resolution imagery, or exclusive insights into forensic data, please contact the project management via the [Whistleblower Tip-Line](/en/mitmachen).

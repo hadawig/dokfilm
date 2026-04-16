@@ -38,8 +38,8 @@ features:
     Die Hydra hat Köpfe verloren – der Rechtsstaat hat gewonnen.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="logbuch/2026-04-16-persmanhof-victory" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">Zum Logbuch-Eintrag</a>
-    <a href="statistik" class="VPButton alt large">Live-Statistik ansehen</a>
+    <a href="/logbuch/2026-04-16-persmanhof-victory" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">Zum Logbuch-Eintrag</a>
+    <a href="/statistik" class="VPButton alt large">Live-Statistik ansehen</a>
   </div>
 </div>
 

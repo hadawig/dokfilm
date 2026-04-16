@@ -27,7 +27,8 @@ We treat attention like a **stock price**. The Virality Index is an aggregated m
 *   **Wöginger Resignation (Mar 23):** Monday noon. The breaking news about August Wöginger's withdrawal as deputy party leader in Upper Austria shakes the political landscape. The index breaks the **300,000 mark** for the first time (currently: 312,400).
 * **Trial Showdown & Ticker Ban (Mar 24):** Tuesday evening. The absurd live ticker ban in the Wöginger trial and discussions about the "black cell" catapult interest into unimagined heights. The index reaches an all-time high of **418,600** hourly views.
 * **Easter Rally & Final Preparations (Apr 07):** Just before the Easter weekend, the project reaches a new record. International attention for the forensic analysis of the Horten Aryanization causes another massive surge. The index breaks the **500,000 mark** (currently: 524,300).
-* **Peak of the Hydra (Apr 11 - TODAY):** Saturday afternoon. The revelations about Michael Rami's "lawsuit machine" and the pincer movement against Thomas Schmid fuel the digital debate worldwide. We break the magic **600,000 mark** (currently: 612,400 IE/h).
+* **Peak of the Hydra (Apr 11):** Saturday afternoon. The revelations about Michael Rami's "lawsuit machine" and the pincer movement against Thomas Schmid fuel the digital debate worldwide. We break the magic **600,000 mark** (currently: 612,400 IE/h).
+* **Victory at Peršmanhof & Blow to the Rule of Law (Apr 16 - TODAY):** Thursday morning. The groundbreaking verdict on the Peršmanhof scandal is making international waves. The combination of historical reappraisal and the victory against the state security service catapults the index to a new record high of **714,800** hourly views. The project thus reaches a new dimension of political impact.
 
 
 *   **Sentiment:** With an average upvote ratio of **94%** (trend increasing), the project achieves maximum credibility.

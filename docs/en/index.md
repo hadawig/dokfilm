@@ -26,20 +26,20 @@ features:
 
 ---
 
-<div style="background: #ff4444; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(255,68,68,0.4);">
-  <span style="background: white; color: #ff4444; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING: MARCH 27, 2026</span>
-  <marquee scrollamount="5">+++ WÖGINGER TRIAL: Ticker ban overturned after massive protest +++ Triumph of transparency in the courtroom +++ Verdict expected on May 4, 2026 +++</marquee>
+<div style="background: #00aa00; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(0,170,0,0.4);">
+  <span style="background: white; color: #00aa00; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">VICTORY FOR JUSTICE: APRIL 16, 2026</span>
+  <marquee scrollamount="5">+++ PERŠMANHOF VERDICT: Identity checks at memorial site were UNLAWFUL +++ Blow to state security +++ A victory against the hydra of arbitrariness +++</marquee>
 </div>
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #d4af37; box-shadow: 0 10px 30px rgba(212,175,55,0.3); text-align: center;">
-  <h2 style="color: #d4af37; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🌍 GLOBAL BREAKTHROUGH: MARCH 21, 2026</h2>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #00aa00; box-shadow: 0 10px 30px rgba(0,170,0,0.3); text-align: center;">
+  <h2 style="color: #00aa00; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEW RECORD: 714,800 IE/h</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Despite censorship attempts: Today, <b>Saturday</b>, the Virality Index again reaches <b>276,500</b>.<br>
-    The US Debt Clock becomes a global memorial.
+    The victory at Peršmanhof catapults our project into new spheres.<br>
+    The Hydra has lost heads – the rule of law has won.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-03-19-globaler-durchbruch" class="VPButton brand large" style="background: #d4af37; color: black !important; border: none;">Read Chronology of Censorship</a>
-    <a href="/en/statistik" class="VPButton alt large">View Live Index</a>
+    <a href="/en/logbuch/2026-04-16-persmanhof-victory" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">To the Logbook Entry</a>
+    <a href="/en/statistik" class="VPButton alt large">View Live Statistics</a>
   </div>
 </div>
 

@@ -10,7 +10,7 @@ Here the daily progress is recorded.
 - [April 07, 2026: The Digital Silence – The 11-Second Gap and the Laptop Mystery](2026-04-07-pilnacek-laptop-manipulation)
 - [March 27, 2026: Triumph of Real-Time Sunlight – Ticker Ban Overturned!](2026-03-27-tickerverbot-aufgehoben)
 - [March 26, 2026: Indictment against Wolf and Schelling: The Highway Deal](2026-03-26-wolf-schelling-anklage)
-- [March 26, 2026: Ticker-Gate – The Ban in the Wöginger Trial](../../recherche/2026-03-26-tickerverbot-woeginger)
+- [March 26, 2026: Ticker-Gate – The Ban in the Wöginger Trial](../recherche/2026-03-26-tickerverbot-woeginger)
 - [March 24, 2026: Trial Update Evening – Grapevine and "Black Cell Member"](2026-03-24-prozess-update-abend)
 - [March 24, 2026: The Power Castling – Upper Austria Keeps Its Distance](2026-03-24-die-rochade-der-macht)
 - [March 23, 2026: Satirical Forensics – The Fairy Tale of the Patient Billion](2026-03-23-maerchen-patientenmilliarde)

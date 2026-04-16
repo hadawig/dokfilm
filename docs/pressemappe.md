@@ -48,5 +48,5 @@ Gute Nacht. Und schauen Sie sich das genau an. Es ist ein Bild aus lauter kleine
 
 ---
 <p style="font-size: 0.8rem; color: #888; text-align: center;">
-Dies ist ein satirisches Kunstprojekt. <a href="/disclaimer">Satire-Disclaimer</a>
+Dies ist ein satirisches Kunstprojekt. <a href="disclaimer">Satire-Disclaimer</a>
 </p>
