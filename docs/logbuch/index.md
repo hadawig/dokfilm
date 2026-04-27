@@ -3,6 +3,7 @@
 Hier werden die täglichen Fortschritte festgehalten.
 
 ## Einträge
+- [27. April 2026: Die unheilige Allianz – Klenk gewinnt mit "Gegner-Anwalt" Rami](2026-04-27-klenk-rami-allianz)
 - [16. April 2026: Sieg am Peršmanhof – Rechtsstaats-Klatsche für den Staatsschutz](2026-04-16-persmanhof-urteil)
 - [07. April 2026: Die Hydra der Macht – Die Zangenbewegung gegen den Kronzeugen](2026-04-07-hydra-of-power-pincer-movement)
 - [07. April 2026: Die Klagsmaschine – Michael Rami und die Juristerei der Einschüchterung](2026-04-07-michael-rami-lawsuit-machine)

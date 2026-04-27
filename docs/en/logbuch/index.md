@@ -3,7 +3,7 @@
 Here the daily progress is recorded.
 
 ## Entries
-- [April 27, 2026: The Unholy Alliance – Klenk Wins with 'Opponent Lawyer' Rami](2026-04-27-klenk-rami-alliance)
+- [April 27, 2026: The Unholy Alliance – Klenk Wins with 'Opponent Lawyer' Rami](2026-04-27-klenk-rami-allianz)
 - [April 16, 2026: Victory at Peršmanhof – A Blow to State Security](2026-04-16-persmanhof-urteil)
 - [April 07, 2026: The Hydra of Power – The Pincer Movement against the Crown Witness](2026-04-07-hydra-of-power-pincer-movement)
 - [April 07, 2026: The Lawsuit Machine – Michael Rami and the Jurisprudence of Intimidation](2026-04-07-michael-rami-lawsuit-machine)

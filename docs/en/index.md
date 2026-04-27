@@ -38,7 +38,7 @@ features:
     causes interest to explode worldwide. Tension rises before the Wöginger verdict.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-04-27-klenk-rami-alliance" class="VPButton brand large" style="background: #cc0000; color: white !important; border: none;">To the Logbook Entry</a>
+    <a href="/en/logbuch/2026-04-27-klenk-rami-allianz" class="VPButton brand large" style="background: #cc0000; color: white !important; border: none;">To the Logbook Entry</a>
     <a href="/en/statistik" class="VPButton alt large">View Live Statistics</a>
   </div>
 </div>

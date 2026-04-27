@@ -247,7 +247,7 @@ export default defineConfig({
             text: 'Logbook',
             items: [
               { text: 'All Entries', link: '/en/logbuch/' },
-              { text: 'NEW: April 27: The Unholy Alliance (Klenk/Rami)', link: '/en/logbuch/2026-04-27-klenk-rami-alliance' },
+              { text: 'NEW: April 27: The Unholy Alliance (Klenk/Rami)', link: '/en/logbuch/2026-04-27-klenk-rami-allianz' },
               { text: 'April 16: Victory at Peršmanhof', link: '/en/logbuch/2026-04-16-persmanhof-urteil' },
               { text: 'April 07: The Hydra of Power (Pincer Movement)', link: '/en/logbuch/2026-04-07-hydra-of-power-pincer-movement' },
               { text: 'April 07: The Lawsuit Machine (Michael Rami)', link: '/en/logbuch/2026-04-07-michael-rami-lawsuit-machine' },
