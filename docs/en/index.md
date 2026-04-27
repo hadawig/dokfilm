@@ -26,19 +26,19 @@ features:
 
 ---
 
-<div style="background: #00aa00; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(0,170,0,0.4);">
-  <span style="background: white; color: #00aa00; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">VICTORY FOR JUSTICE: APRIL 16, 2026</span>
-  <marquee scrollamount="5">+++ PERŠMANHOF VERDICT: Identity checks at memorial site were UNLAWFUL +++ Blow to state security +++ A victory against the hydra of arbitrariness +++</marquee>
+<div style="background: #cc0000; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(204,0,0,0.4);">
+  <span style="background: white; color: #cc0000; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING NEWS: APRIL 27, 2026</span>
+  <marquee scrollamount="5">+++ THE UNHOLY ALLIANCE: Klenk wins with "Opponent Lawyer" Rami before the Higher Regional Court +++ Precedent for the term "Right-wing Extremist" +++ Wöginger Trial: Verdict expected for May 4th +++ Schmid status in massive jeopardy +++</marquee>
 </div>
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #00aa00; box-shadow: 0 10px 30px rgba(0,170,0,0.3); text-align: center;">
-  <h2 style="color: #00aa00; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEW RECORD: 714,800 IE/h</h2>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #cc0000; box-shadow: 0 10px 30px rgba(204,0,0,0.3); text-align: center;">
+  <h2 style="color: #ff4444; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEW RECORD: 825,400 IE/h</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    The victory at Peršmanhof catapults our project into new spheres.<br>
-    The Hydra has lost heads – the rule of law has won.
+    The news of Klenk's victory via "Opponent Lawyer" Rami<br>
+    causes interest to explode worldwide. Tension rises before the Wöginger verdict.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/en/logbuch/2026-04-16-persmanhof-urteil" class="VPButton brand large" style="background: #00aa00; color: white !important; border: none;">To the Logbook Entry</a>
+    <a href="/en/logbuch/2026-04-27-klenk-rami-alliance" class="VPButton brand large" style="background: #cc0000; color: white !important; border: none;">To the Logbook Entry</a>
     <a href="/en/statistik" class="VPButton alt large">View Live Statistics</a>
   </div>
 </div>
