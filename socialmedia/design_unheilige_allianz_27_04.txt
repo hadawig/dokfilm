@@ -1,0 +1,16 @@
+GRAFIK-PROMPT / DESIGN-KONZEPT: „Die unheilige Allianz“
+
+Look: Polit-Thriller, Forensik-Ästhetik, Pointillismus.
+
+Prompt für KI-Generierung:
+"A cinematic, forensic-style split screen. On the left, a silhouette of a journalist with glasses in blue tones. On the right, a silhouette of a lawyer in a suit in orange tones. In the center, a large glowing red ampersand symbol made of digital dots. Dark background with subtle legal symbols. Aesthetic: Pointillism, high contrast, political thriller, dark forensic look."
+
+Farben:
+- Klenk: Kühles Blau (#0000FF)
+- Rami: Giftiges Orange (#FF8C00)
+- Verbindungselement: Warn-Rot (#FF0000)
+
+Text-Overlays:
+- OLG-SIEG: RECHTSEXTREM BLEIBT RECHTSEXTREM
+- DIE UNHEILIGE ALLIANZ
+- PROJEKT: HORTEN-MYSTERIUM | FALLAKTE 27-04
