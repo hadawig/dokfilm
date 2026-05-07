@@ -29,7 +29,10 @@ Wir behandeln Aufmerksamkeit wie einen **Börsenkurs**. Der Viralitäts-Index is
 * **Oster-Rallye & Finale Vorbereitungen (07.04.):** Das Projekt erreicht kurz vor dem Osterwochenende eine neue Rekordmarke. Die internationale Aufmerksamkeit für die forensische Analyse der Horten-Arisierung sorgt für einen weiteren massiven Anstieg. Der Index durchbricht die **500.000er-Marke** (aktuell: 524.300).
 * **Der Peak der Hydra (11.04.):** Samstagnachmittag. Die Enthüllungen über die "Klagsmaschine" Michael Rami und die Zangenbewegung gegen Thomas Schmid befeuern die digitale Debatte weltweit. Wir durchbrechen die magische **600.000er-Marke** (aktuell: 612.400 IE/h).
 * **Sieg am Peršmanhof & Rechtsstaats-Klatsche (16.04.):** Das bahnbrechende Urteil zum Peršmanhof-Skandal schlägt international Wellen. Der Index erreicht ein Rekordhoch von **714.800** stündlichen Aufrufen.
-* **Die unheilige Allianz & Wöginger-Finale (27.04. - HEUTE):** Montagabend. Die Nachricht vom Sieg Klenks durch den "Gegner-Anwalt" Rami und der Countdown zum Wöginger-Urteil (4. Mai) lassen den Index auf **825.400** IE/h explodieren. Die mediale Spannung erreicht ihren Siedepunkt.
+* **Die unheilige Allianz & Wöginger-Finale (27.04. - 04.05.):** Montagabend. Die Nachricht vom Sieg Klenks durch den "Gegner-Anwalt" Rami und der Countdown zum Wöginger-Urteil (4. Mai) lassen den Index auf **825.400** IE/h explodieren.
+* **Wöginger-Schuldspruch (04.05. - 06.05.):** Montagabend. Der Schuldspruch gegen August Wöginger hält den Index auf einem Rekordhoch. Die Interaktionsrate auf Reddit erreicht neue Spitzenwerte. 
+* **Nachbeben & Rücktrittsdebatte (07.05. - HEUTE):** Donnerstagabend. Die anhaltende Debatte über das Urteil und die politische Zukunft Wögingers treiben den Index auf ein neues Allzeit-Hoch von **856.200** IE/h. Das Projekt erreicht eine neue Dimension der öffentlichen Wahrnehmung.
+ Die mediale Spannung erreicht ihren Siedepunkt.
 
 *   **Sentiment:** Mit einer Upvote-Ratio von durchschnittlich **94%** (Trend steigend) erreicht das Projekt maximale Glaubwürdigkeit.
 

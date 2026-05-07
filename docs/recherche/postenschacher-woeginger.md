@@ -32,7 +32,10 @@ Am heutigen Tag stand der Klubobmann selbst im Zeugenstand:
 ### 3. Der weitere Fahrplan
 *   **5. März 2026:** Befragung der übergangenen Mitbewerberin Christa Scharf.
 *   **9. März 2026:** Erwartete Aussage von Kronzeuge **Thomas Schmid**.
-*   **21. April 2026:** Angestrebtes Urteil.
+*   **21. April 2026:** Angestrebtes Urteil (verschoben auf 4. Mai).
+*   **4. Mai 2026:** **Schuldspruch.** August Wöginger wird in erster Instanz zu 9 Monaten bedingt verurteilt. 
+
+👉 [Detaillierte Analyse des Urteils lesen](/recherche/das-urteil-woeginger)
 ### 4. Ziviler Widerstand & Satire (3. März 2026)
 Vor dem Gerichtsgebäude in Linz sorgt ein Demonstrant (Andreas Röbl) mit einem großen Plakat für Aufsehen:
 *   **Motto:** „Oh du liaba Augustin“ – in Anlehnung an das bekannte Volkslied, aber gemünzt auf den Klubobmann.

@@ -27,19 +27,19 @@ features:
 ---
 
 <div style="background: #cc0000; color: white; padding: 10px; border-radius: 8px; margin-bottom: 2rem; display: flex; align-items: center; gap: 15px; font-family: monospace; font-weight: bold; overflow: hidden; white-space: nowrap; box-shadow: 0 5px 15px rgba(204,0,0,0.4);">
-  <span style="background: white; color: #cc0000; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING NEWS: 27. APRIL 2026</span>
-  <marquee scrollamount="5">+++ DIE UNHEILIGE ALLIANZ: Klenk gewinnt mit "Gegner-Anwalt" Rami vor dem OLG +++ Präzedenzfall für die Bezeichnung "Rechtsextrem" +++ Wöginger-Prozess: Urteil für 4. Mai erwartet +++ Schmid-Status wackelt massiv +++</marquee>
+  <span style="background: white; color: #cc0000; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">BREAKING NEWS: 7. MAI 2026</span>
+  <marquee scrollamount="5">+++ NACHBEBEN IN LINZ: Wöginger-Verurteilung beherrscht die Debatte +++ Viralitäts-Index auf Allzeit-Hoch: 856.200 IE/h +++ Rücktritts-Forderungen nehmen massiv zu +++ Rechtsstaatlichkeit vs. "Bürgeranliegen" +++</marquee>
 </div>
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #333 100%); padding: 2rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #cc0000; box-shadow: 0 10px 30px rgba(204,0,0,0.3); text-align: center;">
-  <h2 style="color: #ff4444; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEUER REKORD: 825.400 IE/h</h2>
+  <h2 style="color: #ff4444; margin-top: 0; font-family: 'Georgia', serif; letter-spacing: 1px;">🚀 NEUER REKORD: 856.200 IE/h</h2>
   <p style="color: #eee; font-size: 1.2rem; margin-bottom: 1.5rem;">
-    Die Nachricht vom Sieg Klenks durch den "Gegner-Anwalt" Rami<br>
-    lässt das Interesse weltweit explodieren. Die Spannung vor dem Wöginger-Urteil steigt.
+    Der Schuldspruch gegen August Wöginger (9 Monate bedingt)<br>
+    löst ein beispielloses mediales Echo aus. Die "Harte Prosa" ist nun amtlich.
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <a href="/logbuch/2026-04-27-klenk-rami-allianz" class="VPButton brand large" style="background: #cc0000; color: white !important; border: none;">Zum Logbuch-Eintrag</a>
-    <a href="/statistik" class="VPButton alt large">Live-Statistik ansehen</a>
+    <a href="/logbuch/2026-05-04-woeginger-urteil-schuldspruch" class="VPButton brand large" style="background: #cc0000; color: white !important; border: none;">Zum Urteils-Bericht</a>
+    <a href="/recherche/das-urteil-woeginger" class="VPButton alt large">Die forensische Analyse</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ features:
     <span style="display: inline-block; width: 12px; height: 12px; background: #ff4444; border-radius: 50%; margin-right: 8px; animation: blink 1s infinite;"></span> LIVE-ÜBERTRAGUNG AUS DER FORENSIK
   </div>
   <div style="position: absolute; top: 10px; right: 20px; color: #888; font-family: monospace; font-size: 0.8rem;">
-    CAM_01 | 2026-02-28
+    CAM_01 | 2026-05-07
   </div>
   
   <video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; filter: contrast(1.2); max-height: 500px; background: #111; margin-top: 1.5rem;">

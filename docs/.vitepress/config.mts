@@ -58,6 +58,8 @@ export default defineConfig({
           {
             text: 'Gerichtliche Nachspiele',
             items: [
+              { text: 'DAS URTEIL: Wöginger', link: '/recherche/das-urteil-woeginger' },
+              { text: 'NEU: Schuldspruch Wöginger (Blog)', link: '/logbuch/2026-05-04-woeginger-urteil-schuldspruch' },
               { text: 'NEU: Sieg der Transparenz (Ticker)', link: '/logbuch/2026-03-27-tickerverbot-aufgehoben' },
               { text: 'Ticker-Gate (Wöginger)', link: '/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: 'NEU: Anklage Wolf & Schelling', link: '/logbuch/2026-03-26-wolf-schelling-anklage' },
@@ -201,7 +203,8 @@ export default defineConfig({
           {
             text: 'Judicial Aftermath',
             items: [
-              { text: 'NEW: Transparency Victory (Ticker)', link: '/en/logbuch/2026-03-27-tickerverbot-aufgehoben' },
+              { text: 'NEW: Wöginger Conviction', link: '/en/logbuch/2026-05-04-woeginger-urteil-schuldspruch' },
+              { text: 'Transparency Victory (Ticker)', link: '/en/logbuch/2026-03-27-tickerverbot-aufgehoben' },
               { text: 'Ticker-Gate (Wöginger)', link: '/en/recherche/2026-03-26-tickerverbot-woeginger' },
               { text: 'NEW: Indictment Wolf & Schelling', link: '/en/logbuch/2026-03-26-wolf-schelling-anklage' },
               { text: 'NEW: Violence at Peršmanhof', link: '/en/recherche/persmanhof-kontinuitaet' },
@@ -304,4 +307,6 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@VoltiSodala-p6p' }
     ]
   }
+})
+
 })

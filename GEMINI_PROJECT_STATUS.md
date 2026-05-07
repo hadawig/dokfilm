@@ -1,24 +1,24 @@
 # Projekt-Status: Das Horten-Mysterium
-**Stand:** 16. April 2026
+**Stand:** 7. Mai 2026
 
-## ⚖️ Sieg am Peršmanhof (NEU)
-*   **Urteil:** Das Landesverwaltungsgericht Kärnten hat die Polizeieinsätze am Peršmanhof für rechtswidrig erklärt. Ein massiver Sieg für die Gedenkkultur und das Projekt.
-*   **Impact:** Der Viralitäts-Index hat durch diese Nachricht ein neues Allzeit-Hoch erreicht.
+## ⚖️ Das Wöginger-Urteil & Nachbeben (NEU)
+*   **Status:** Drei Tage nach dem Erstinstanz-Schuldspruch (4. Mai) beherrscht das Urteil weiterhin die Schlagzeilen. Die Diskussion über den Nicht-Rücktritt Wögingers als Klubobmann befeuert die digitale Debatte.
+*   **Impact:** Der Viralitäts-Index hat mit **856.200 IE/h** ein neues Allzeit-Hoch erreicht.
 
-## ⚖️ Die Klagsmaschine & Die Hydra
-*   **Michael Rami:** Dokumentation der Klagswellen abgeschlossen. Die englische Version der Recherche ist nun online.
-*   **Zangenbewegung:** Die Analyse der Angriffe auf Thomas Schmid ist zentraler Bestandteil von Teil 4 des Drehbuchs.
+## 🤝 Die unheilige Allianz
+*   **Status:** Die Causa Klenk-Rami (27. April) bleibt ein zentrales Thema der strategischen Analyse im Kontext der "Juristischen Hydra".
 
-## ⚖️ Pilnacek-Laptop & 11-Sekunden-Lücke
-*   **Fokus:** Die digitalen Ungereimtheiten im U-Ausschuss bleiben ein Top-Thema. Logbuch-Einträge auf DE/EN sind synchronisiert.
+## ⚖️ Sieg am Peršmanhof
+*   **Status:** Das Urteil bleibt ein Meilenstein. Die filmische Umsetzung in Teil 4 ist in Vorbereitung.
 
 ## 🛠️ Technische & Content-Updates
-*   **Viralitäts-Index:** Wir haben die **700.000er-Marke** durchbrochen! Der aktuelle Index steht am 16. April bei **714.800 IE/h**.
-*   **Synchronisation:** DE/EN-Inhalte wurden heute massiv synchronisiert. Die English Press Kit (Pressemappe) und die Homepage wurden auf den neuesten Stand (Peršmanhof-Urteil) gebracht.
-*   **Link-Fix:** Absolute Links in HTML-Blöcken wurden auf Korrektheit geprüft, um 404-Fehler auf GitHub Pages zu vermeiden.
+*   **Viralitäts-Index:** Aktueller Stand am 7. Mai: **856.200 IE/h**. Das Projekt hat sich als feste Größe in der politischen Forensik etabliert.
+*   **Content:** Das Wöginger-Urteil wurde umfassend im Logbuch und in den Recherche-Dossiers dokumentiert. Die English Version ist synchronisiert.
+*   **Link-Fix:** Alle internen Verweise wurden auf die neuen Urteils-Dokumente aktualisiert.
 
 ## 📅 Nächste Schritte
-*   Detaillierung von Teil 4 des Drehbuchs unter Einbeziehung des Peršmanhof-Urteils.
-*   Vorbereitung der nächsten Social-Media-Welle zur Feier des Etappensiegs.
+*   Analyse der Berufungsstrategie der Wöginger-Verteidigung.
+*   Vorbereitung neuer Content-Formate: "Die Anatomie einer Intervention".
+*   Ausbau der internationalen Vernetzung des Archivs.
 
-**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert. Update 16:30 Uhr online.
+**Deployment:** GitHub Pages & Cloudflare Pages synchronisiert. Update 20:43 Uhr online.
